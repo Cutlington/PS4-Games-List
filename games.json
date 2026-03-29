@@ -1,0 +1,22 @@
+[
+  {
+    "id": "god-of-war",
+    "title": "God of War",
+    "size": "38.2 GB",
+    "cover": "covers/god-of-war.jpg",
+    "description": "Kratos and Atreus journey through the realms of Norse mythology.",
+    "year": 2018,
+    "genre": "Action / Adventure",
+    "developer": "Santa Monica Studio"
+  },
+  {
+    "id": "horizon-zero-dawn",
+    "title": "Horizon Zero Dawn",
+    "size": "45.1 GB",
+    "cover": "covers/horizon-zero-dawn.jpg",
+    "description": "Aloy explores a world overrun by mysterious mechanical creatures.",
+    "year": 2017,
+    "genre": "Action RPG",
+    "developer": "Guerrilla Games"
+  }
+]
