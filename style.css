@@ -63,7 +63,6 @@ h1 {
 }
 
 /* Game Title */
-/* Ensure plain text and links inside the title are white across all states */
 .game p {
     margin-top: 10px;
     font-size: 18px;
@@ -139,4 +138,23 @@ ul li {
 .grid .game * {
     color: #ffffff !important;
     -webkit-text-fill-color: #ffffff !important;
+}
+
+/* DLC Badge Under Game Tiles */
+.dlc-badge {
+    margin-top: 6px;
+    font-size: 14px;
+    opacity: 0.9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 6px;
+    color: #9cf !important;
+    -webkit-text-fill-color: #9cf !important;
+}
+
+.dlc-icon {
+    font-size: 16px;
+    line-height: 1;
+    display: inline-block;
 }
