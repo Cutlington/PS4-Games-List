@@ -7,6 +7,7 @@
     "cover": "covers/3d-mini-golf.jpg",
     "year": 2017,
     "genre": "Sports",
+    "dlc": "N/A",
     "description": "3D MiniGolf is a Sports game, developed by Z-Software and published by Merge Games, which was released in 2017."
   },
   {
@@ -17,6 +18,7 @@
     "cover": "covers/adventure-capitalist.jpg",
     "year": 2016,
     "genre": "Simulation",
+	"dlc": "N/A",
     "description": "Have you always dreamed of owning your own business? Being the master of your own destiny? Forming your own multi-national conglomerate to create a world-wide, monopolistic economy? Then AdVenture Capitalist is the game for YOU!"
   },
   {
@@ -27,6 +29,7 @@
     "cover": "covers/the-colonists.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -37,6 +40,7 @@
     "cover": "covers/the-escapists-2.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -47,6 +51,7 @@
     "cover": "covers/the-escapists-the-walking-dead.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -57,6 +62,7 @@
     "cover": "covers/the-flame-in-the-flood.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -67,6 +73,7 @@
     "cover": "covers/the-forest.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -77,6 +84,7 @@
     "cover": "covers/the-good-life.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -87,6 +95,7 @@
     "cover": "covers/the-house-of-the-dead-2-remake.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -97,6 +106,7 @@
     "cover": "covers/the-simpsons-hit-and-run.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -107,6 +117,7 @@
     "cover": "covers/the-smurfs-2-the-prisoner-of-the-green-stone.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -117,6 +128,7 @@
     "cover": "covers/the-smurfs-mission-vileaf.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -127,6 +139,7 @@
     "cover": "covers/the-smurfs-village-party.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -137,6 +150,7 @@
     "cover": "covers/the-stanley-parable-ultra-deluxe.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -147,6 +161,7 @@
     "cover": "covers/the-wild-eight.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -157,6 +172,7 @@
     "cover": "covers/theme-park-simulator.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -167,6 +183,7 @@
     "cover": "covers/thief-simulator.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -177,6 +194,7 @@
     "cover": "covers/think-of-the-children.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -187,6 +205,7 @@
     "cover": "covers/time-loader.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -197,6 +216,7 @@
     "cover": "covers/teenage-mutant-ninja-turtles-mutants-unleashed.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -207,6 +227,7 @@
     "cover": "covers/teenage-mutant-ninja-turtles-splintered-fate.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -217,6 +238,7 @@
     "cover": "covers/teenage-mutant-ninja-turtles-arcade-wrath-of-the-mutants.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -227,6 +249,7 @@
     "cover": "covers/tony-hawk's-american-wasteland.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -237,6 +260,7 @@
     "cover": "covers/tony-hawk's-pro-skate.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -247,6 +271,7 @@
     "cover": "covers/tony-hawk's-pro-skater-1-+-2.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -257,6 +282,7 @@
     "cover": "covers/tony-hawk's-pro-skater-3.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -267,6 +293,7 @@
     "cover": "covers/tony-hawk's-pro-skater-4.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -277,6 +304,7 @@
     "cover": "covers/tony-hawk's-pro-skater-5.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -287,6 +315,7 @@
     "cover": "covers/tony-hawk's-project-8.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -297,6 +326,7 @@
     "cover": "covers/tony-hawk's-underground.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -307,6 +337,7 @@
     "cover": "covers/tony-hawk's-underground-2.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -317,6 +348,7 @@
     "cover": "covers/tony-hawk's-pro-skater-3-+-4.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -327,6 +359,7 @@
     "cover": "covers/trailmakers.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -337,6 +370,7 @@
     "cover": "covers/trash-sailors.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -347,6 +381,7 @@
     "cover": "covers/trident's-tale.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -357,6 +392,7 @@
     "cover": "covers/trivial-pursuit-live!.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -367,6 +403,7 @@
     "cover": "covers/trivial-pursuit-live!-2.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -377,6 +414,7 @@
     "cover": "covers/tropico-6.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -387,6 +425,7 @@
     "cover": "covers/ultimate-runner.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -397,6 +436,7 @@
     "cover": "covers/uno.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -407,6 +447,7 @@
     "cover": "covers/untitled-goose-game.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -417,6 +458,7 @@
     "cover": "covers/vr-ping-pong.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -427,6 +469,7 @@
     "cover": "covers/vr-ping-pong-pro.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -437,6 +480,7 @@
     "cover": "covers/wheel-of-fortune.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -447,6 +491,7 @@
     "cover": "covers/who-wants-to-be-a-millionaire.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -457,6 +502,7 @@
     "cover": "covers/worms-armageddon-anniversary-edition.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -467,6 +513,7 @@
     "cover": "covers/wreckfest.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -477,6 +524,7 @@
     "cover": "covers/wwe-2k25.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -487,6 +535,7 @@
     "cover": "covers/yatzi.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   },
   {
@@ -497,6 +546,7 @@
     "cover": "covers/youtubers-life.jpg",
     "year": "TO BE ADDED",
     "genre": "TO BE ADDED",
+	"dlc": "N/A",
     "description": "TO BE ADDED"
   }
 ]
