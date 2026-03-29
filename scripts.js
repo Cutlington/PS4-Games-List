@@ -32,6 +32,12 @@ fetch('https://raw.githubusercontent.com/Cutlington/PS4-Games-List/main/games.js
           <img src="${game.cover}" alt="${game.title}">
           <p>${game.title}</p>
           <small>${game.size}</small>
+
+          ${game.dlc && game.dlc.length > 0 ? `
+            <div class="dlc-badge">
+                <span class="dlc-icon">🧩</span> ${game.dlc.length} DLC
+            </div>
+          ` : ""}
         </a>
       `;
 
@@ -69,8 +75,14 @@ if (window.location.pathname.endsWith('game.html')) {
         <ul>
           <li><strong>Release Year:</strong> ${game.year}</li>
           <li><strong>Genre:</strong> ${game.genre}</li>
-          <li><strong>Developer:</strong> ${game.developer}</li>
         </ul>
+
+        ${game.dlc && game.dlc.length > 0 ? `
+          <h3>DLC</h3>
+          <ul>
+            ${game.dlc.map(d => `<li>${d.name} — ${d.size}</li>`).join("")}
+          </ul>
+        ` : ""}
 
         <a class="back-link" href="index.html">← Back to Library</a>
       `;
