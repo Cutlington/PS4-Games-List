@@ -63,10 +63,23 @@ h1 {
 }
 
 /* Game Title */
+/* Ensure plain text and links inside the title are white across all states */
 .game p {
     margin-top: 10px;
     font-size: 18px;
     font-weight: 400;
+    color: #ffffff;
+}
+
+/* If titles are links, force them white too */
+.game p a,
+.game a,
+.game a:link,
+.game a:visited,
+.game a:hover,
+.game a:active {
+    color: #ffffff !important;
+    text-decoration: none;
 }
 
 /* Game Size */
