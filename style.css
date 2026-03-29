@@ -1,0 +1,111 @@
+/* PS4 Animated Wave Background */
+body {
+    margin: 0;
+    font-family: 'SST', sans-serif;
+    background: #003087;
+    color: #fff;
+    overflow-x: hidden;
+}
+
+.ps4-waves {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 200%;
+    height: 100%;
+    background: url('ps4-waves.svg');
+    background-size: cover;
+    animation: waveMove 18s linear infinite;
+    opacity: 0.25;
+    z-index: -1;
+}
+
+@keyframes waveMove {
+    from { transform: translateX(0); }
+    to { transform: translateX(-50%); }
+}
+
+/* Page Title */
+h1 {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 42px;
+    letter-spacing: 2px;
+    font-weight: 300;
+}
+
+/* Game Grid */
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 25px;
+    padding: 40px;
+    max-width: 1400px;
+    margin: auto;
+}
+
+/* Game Tile */
+.game {
+    text-align: center;
+    transition: transform 0.2s ease, filter 0.2s ease;
+}
+
+.game:hover {
+    transform: scale(1.1);
+    filter: brightness(1.2);
+}
+
+/* Cover Art */
+.game img {
+    width: 100%;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.4);
+}
+
+/* Game Title */
+.game p {
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+/* Game Size */
+.game small {
+    opacity: 0.8;
+    font-size: 14px;
+}
+
+/* Game Info Page */
+.container {
+    max-width: 900px;
+    margin: auto;
+    padding: 40px;
+}
+
+.cover-large {
+    width: 300px;
+    border-radius: 12px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.5);
+}
+
+.back-link {
+    display: inline-block;
+    margin-top: 20px;
+    color: #fff;
+    opacity: 0.8;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.back-link:hover {
+    opacity: 1;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+ul li {
+    margin-bottom: 6px;
+}
