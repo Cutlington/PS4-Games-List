@@ -134,3 +134,9 @@ ul li {
   color: #ffffff !important;
   text-decoration: none !important;
 }
+
+/* Force ALL game title text to white */
+.grid .game * {
+    color: #ffffff !important;
+    -webkit-text-fill-color: #ffffff !important;
+}
