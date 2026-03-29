@@ -6,7 +6,7 @@
     "cover": "covers/3D-mini-golf.jpg",
     "description": "3D MiniGolf is a Sports game, developed by Z-Software and published by Merge Games, which was released in 2017.",
     "year": 2017,
-    "genre": "Sports",
+    "genre": "Sports"
   },
   {
     "id": "CUSA06312",
@@ -15,6 +15,6 @@
     "cover": "covers/adventure-capitalist.jpg",
     "description": "Have you always dreamed of owning your own business? Being the master of your own destiny? Forming your own multi-national conglomerate to create a world-wide, monopolistic economy? Then AdVenture Capitalist is the game for YOU!",
     "year": 2016,
-    "genre": "Simulation",
+    "genre": "Simulation"
   }
 ]
