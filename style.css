@@ -122,3 +122,15 @@ ul {
 ul li {
     margin-bottom: 6px;
 }
+
+/* Force game title text and links to white across all states */
+.grid .game p,
+.grid .game p a,
+.grid .game a,
+.grid .game a:link,
+.grid .game a:visited,
+.grid .game a:hover,
+.grid .game a:active {
+  color: #ffffff !important;
+  text-decoration: none !important;
+}
