@@ -17,7 +17,7 @@ document.addEventListener('click', e => {
 });
 
 // --- Index page: load game grid ---
-fetch('games.json')
+fetch('https://raw.githubusercontent.com/Cutlington/PS4-Games-List/main/games.json')
   .then(response => response.json())
   .then(games => {
     const grid = document.getElementById('gameGrid');
@@ -37,14 +37,15 @@ fetch('games.json')
 
       grid.appendChild(div);
     });
-  });
+  })
+  .catch(err => console.error("JSON Load Error (index):", err));
 
 // --- Game page: load single game ---
 if (window.location.pathname.endsWith('game.html')) {
   const params = new URLSearchParams(window.location.search);
   const id = params.get('id');
 
-  fetch('games.json')
+  fetch('https://raw.githubusercontent.com/Cutlington/PS4-Games-List/main/games.json')
     .then(response => response.json())
     .then(games => {
       const game = games.find(g => g.id === id);
@@ -73,5 +74,6 @@ if (window.location.pathname.endsWith('game.html')) {
 
         <a class="back-link" href="index.html">← Back to Library</a>
       `;
-    });
+    })
+    .catch(err => console.error("JSON Load Error (game page):", err));
 }
