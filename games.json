@@ -1,552 +1,3970 @@
 [
   {
-    "id": "3d-mini-golf",
-    "title": "3D Mini Golf v1.00",
+    "id": "CUSA09170",
+    "title": "3D Mini Golf",
     "version": "1.00",
     "size": "392.76 MB",
     "cover": "covers/3d-mini-golf.jpg",
-    "year": 2017,
+    "year": "N/A",
     "genre": "Sports",
-    "dlc": "N/A",
-    "description": "3D MiniGolf is a Sports game, developed by Z-Software and published by Merge Games, which was released in 2017."
+    "description": "3D Mini Golf brings classic miniature golf courses to life with 3D environments and casual sports gameplay.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "adventure-capitalist",
-    "title": "AdVenture Capitalist v1.00",
-    "version": "1.00",
+    "id": "CUSA06312",
+    "title": "AdVenture Capitalist",
+    "version": "1.02",
     "size": "80.15 MB",
     "cover": "covers/adventure-capitalist.jpg",
-    "year": 2016,
+    "year": "N/A",
     "genre": "Simulation",
-	"dlc": "N/A",
-    "description": "Have you always dreamed of owning your own business? Being the master of your own destiny? Forming your own multi-national conglomerate to create a world-wide, monopolistic economy? Then AdVenture Capitalist is the game for YOU!"
+    "description": "AdVenture Capitalist is an incremental business simulation game where you grow a corporate empire through automated investments.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "the-colonists",
-    "title": "The Colonists v1.03",
+    "id": "CUSA12276",
+    "title": "American Ninja Warrior - Challenge",
+    "version": "1.01",
+    "size": "1.25 GB",
+    "cover": "covers/american-ninja-warrior-challenge.jpg",
+    "year": "N/A",
+    "genre": "Sports",
+    "description": "American Ninja Warrior: Challenge brings the TV obstacle course competition to life with timed runs and skill-based challenges.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA25919",
+    "title": "Angry Alligator",
+    "version": "1.01",
+    "size": "884.54 MB",
+    "cover": "covers/angry-alligator.jpg",
+    "year": "N/A",
+    "genre": "Adventure",
+    "description": "Angry Alligator is an open-world adventure where you grow from a small reptile into a massive predator by exploring and eating everything in sight.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA31975",
+    "title": "Arkanoid - Eternal Battle",
+    "version": "1.02",
+    "size": "349.31 MB",
+    "cover": "covers/arkanoid-eternal-battle.jpg",
+    "year": "N/A",
+    "genre": "Arcade",
+    "description": "Arkanoid: Eternal Battle modernizes the classic brick‑breaker formula with new modes, competitive play, and updated visuals.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA27386",
+    "title": "Arcade Paradise",
+    "version": "1.11",
+    "size": "3.05 GB",
+    "cover": "covers/arcade-paradise.jpg",
+    "year": "N/A",
+    "genre": "Simulation",
+    "description": "Arcade Paradise blends business management with retro arcade gameplay as you transform a laundromat into a thriving arcade empire.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA16473",
+    "title": "ASTRONEER",
+    "version": "1.64",
+    "size": "1.65 GB",
+    "cover": "covers/astroneer.jpg",
+    "year": "N/A",
+    "genre": "Adventure",
+    "description": "ASTRONEER is a space exploration and crafting game where you reshape planets, gather resources, and build bases across stylized alien worlds.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA42503",
+    "title": "Atomfall",
+    "version": "1.22",
+    "size": "31.32 GB",
+    "cover": "covers/atomfall.jpg",
+    "year": "N/A",
+    "genre": "Action",
+    "description": "Atomfall is an action‑adventure game set in a quarantined British countryside after a mysterious nuclear disaster.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA09535",
+    "title": "ATV Drift and Tricks",
+    "version": "1.03",
+    "size": "5.89 GB",
+    "cover": "covers/atv-drift-and-tricks.jpg",
+    "year": "N/A",
+    "genre": "Racing",
+    "description": "ATV Drift and Tricks is an off‑road racing game focused on stunts, drifts, and arcade‑style quad‑bike action.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA30313",
+    "title": "Autobahn Police Simulator 3",
+    "version": "1.12",
+    "size": "3.5 GB",
+    "cover": "covers/autobahn-police-simulator-3.jpg",
+    "year": "N/A",
+    "genre": "Simulation",
+    "description": "Autobahn Police Simulator 3 puts you in the role of a German highway patrol officer handling traffic stops, accidents, and patrol duties.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA01189",
+    "title": "BOMBERMAN PARTY EDITION",
+    "version": "1.01",
+    "size": "333.32 MB",
+    "cover": "covers/bomberman-party-edition.jpg",
+    "year": "N/A",
+    "genre": "Arcade",
+    "description": "Bomberman Party Edition brings classic grid‑based bomb battles with updated visuals and multiplayer action.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA01926",
+    "title": "Boggle",
+    "version": "1.02",
+    "size": "201 MB",
+    "cover": "covers/boggle.jpg",
+    "year": "N/A",
+    "genre": "Puzzle",
+    "description": "Boggle is a fast‑paced word‑finding puzzle game where players search for connected letters to form words before time runs out.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA08065",
+    "title": "Bloons TD 5",
+    "version": "1.01",
+    "size": "219.28 MB",
+    "cover": "covers/bloons-td-5.jpg",
+    "year": "N/A",
+    "genre": "Strategy",
+    "description": "Bloons TD 5 is a tower defense game where you deploy monkey towers and abilities to stop waves of incoming balloons.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA57692",
+    "title": "Block Cascade",
+    "version": "1.02",
+    "size": "178.19 MB",
+    "cover": "covers/block-cascade.jpg",
+    "year": "N/A",
+    "genre": "Puzzle",
+    "description": "Block Cascade is a color‑matching puzzle game where players clear falling blocks by creating chain reactions and combos.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA05525",
+    "title": "Big Buck Arcade",
+    "version": "1.01",
+    "size": "3.77 GB",
+    "cover": "covers/big-buck-arcade.jpg",
+    "year": "N/A",
+    "genre": "Shooter",
+    "description": "Big Buck Arcade brings the classic hunting arcade experience to console with fast‑paced shooting challenges and wildlife targets.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA15604",
+    "title": "Bee Simulator",
+    "version": "1.02",
+    "size": "7.92 GB",
+    "cover": "covers/bee-simulator.jpg",
+    "year": "N/A",
+    "genre": "Adventure",
+    "description": "Bee Simulator lets you experience life as a honeybee, exploring the world, collecting pollen, and protecting your hive.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA04286",
+    "title": "Battleship",
+    "version": "1.02",
+    "size": "1.25 GB",
+    "cover": "covers/battleship.jpg",
+    "year": "N/A",
+    "genre": "Strategy",
+    "description": "Battleship adapts the classic naval strategy board game into a digital format with tactical combat and fleet management.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA03760",
+    "title": "Bridge Constructor",
+    "version": "1.06",
+    "size": "154.08 MB",
+    "cover": "covers/bridge-constructor.jpg",
+    "year": "N/A",
+    "genre": "Simulation",
+    "description": "Bridge Constructor challenges players to design and build functional bridges using physics‑based engineering mechanics.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA03889",
+    "title": "Brick Breaker",
+    "version": "1.01",
+    "size": "249.56 MB",
+    "cover": "covers/brick-breaker.jpg",
+    "year": "N/A",
+    "genre": "Arcade",
+    "description": "Brick Breaker is a modern take on the classic paddle‑and‑ball arcade game where you destroy blocks across themed levels.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA14587",
+    "title": "Catan VR (PSVR)",
+    "version": "1.06",
+    "size": "247.86 MB",
+    "cover": "covers/catan-vr.jpg",
+    "year": "N/A",
+    "genre": "Strategy",
+    "description": "Catan VR brings the iconic board game into virtual reality, letting players trade, build, and settle the island of Catan in immersive 3D.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA33367",
+    "title": "Chef Life A Restaurant Simulator",
+    "version": "1.08",
+    "size": "1.93 GB",
+    "cover": "covers/chef-life-a-restaurant-simulator.jpg",
+    "year": "N/A",
+    "genre": "Simulation",
+    "description": "Chef Life: A Restaurant Simulator puts you in charge of running a restaurant, from preparing dishes to managing staff and designing menus.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA47953",
+    "title": "Climber Sky Is The Limit",
+    "version": "1.03",
+    "size": "1.09 GB",
+    "cover": "covers/climber-sky-is-the-limit.jpg",
+    "year": "N/A",
+    "genre": "Adventure",
+    "description": "Climber: Sky Is The Limit challenges players to scale dangerous mountains while managing stamina, equipment, and survival risks.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA06489",
+    "title": "Clustertruck",
+    "version": "1.02",
+    "size": "237.96 MB",
+    "cover": "covers/clustertruck.jpg",
+    "year": "N/A",
+    "genre": "Platformer",
+    "description": "Clustertruck is a chaotic platformer where you leap across speeding trucks while avoiding obstacles in fast‑paced levels.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA12801",
+    "title": "Creed Rise To Glory (PSVR)",
+    "version": "1.11",
+    "size": "4.43 GB",
+    "cover": "covers/creed-rise-to-glory.jpg",
+    "year": "N/A",
+    "genre": "Sports",
+    "description": "Creed: Rise to Glory is a VR boxing experience where you train, fight, and rise through the ranks as Adonis Creed in cinematic bouts.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA07399",
+    "title": "Crash Bandicoot N Sane Trilogy",
+    "version": "1.07",
+    "size": "23.21 GB",
+    "cover": "covers/crash-bandicoot-n-sane-trilogy.jpg",
+    "year": "N/A",
+    "genre": "Platformer",
+    "description": "Crash Bandicoot N. Sane Trilogy remasters the first three Crash games with updated visuals, improved controls, and classic platforming action.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "SLUS20159",
+    "title": "Dave Mirra Freestyle BMX 2 (PS2)",
+    "version": "1.00",
+    "size": "506.92 MB",
+    "cover": "covers/dave-mirra-freestyle-bmx-2.jpg",
+    "year": "N/A",
+    "genre": "Sports",
+    "description": "Dave Mirra Freestyle BMX 2 is a classic PS2 extreme sports title featuring trick‑based BMX gameplay across multiple environments.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA45599",
+    "title": "DAVE THE DIVER",
+    "version": "1.26",
+    "size": "3.33 GB",
+    "cover": "covers/dave-the-diver.jpg",
+    "year": "N/A",
+    "genre": "Adventure",
+    "description": "DAVE THE DIVER blends deep‑sea exploration, fishing, and restaurant management in a quirky adventure with RPG elements.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA34716",
+    "title": "Disney Dreamlight Valley",
+    "version": "21.00",
+    "size": "18.75 GB",
+    "cover": "covers/disney-dreamlight-valley.jpg",
+    "year": "N/A",
+    "genre": "Simulation",
+    "description": "Disney Dreamlight Valley is a life‑sim adventure where you restore a magical village while befriending iconic Disney and Pixar characters.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA44429",
+    "title": "DOG The Dog Takes The Hindmost",
+    "version": "1.02",
+    "size": "377.62 MB",
+    "cover": "covers/dog-the-dog-takes-the-hindmost.jpg",
+    "year": "N/A",
+    "genre": "Action",
+    "description": "DOG: The Dog Takes The Hindmost is a quirky action game featuring chaotic challenges and humorous dog‑themed gameplay.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA35761",
+    "title": "DREDGE",
+    "version": "1.08",
+    "size": "869.66 MB",
+    "cover": "covers/dredge.jpg",
+    "year": "N/A",
+    "genre": "Adventure",
+    "description": "DREDGE is a fishing adventure with a dark twist, where you explore mysterious waters, upgrade your boat, and uncover unsettling secrets.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA15128",
+    "title": "Dysmantle",
+    "version": "1.08",
+    "size": "2.31 GB",
+    "cover": "covers/dysmantle.jpg",
+    "year": "N/A",
+    "genre": "Action",
+    "description": "Dysmantle is an open‑world action RPG where you break objects, craft gear, fight monsters, and survive on a mysterious island.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA14204",
+    "title": "EA SPORTS UFC 4",
+    "version": "1.00",
+    "size": "24.7 GB",
+    "cover": "covers/ea-sports-ufc-4.jpg",
+    "year": "N/A",
+    "genre": "Sports",
+    "description": "EA SPORTS UFC 4 refines mixed martial arts gameplay with new clinch mechanics, career progression, and realistic fighter animations.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA37933",
+    "title": "EA Sports NHL 24",
+    "version": "1.60",
+    "size": "40.74 GB",
+    "cover": "covers/ea-sports-nhl-24.jpg",
+    "year": "N/A",
+    "genre": "Sports",
+    "description": "NHL 24 delivers fast‑paced hockey action with improved physics, new passing systems, and enhanced presentation on the ice.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA52342",
+    "title": "EA SPORTS FC 26",
+    "version": "1.05",
+    "size": "65 GB",
+    "cover": "covers/ea-sports-fc-26.jpg",
+    "year": "N/A",
+    "genre": "Sports",
+    "description": "EA SPORTS FC 26 continues the football franchise with updated rosters, refined gameplay, and expanded modes for players to master.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA46399",
+    "title": "EA SPORTS FC 25",
+    "version": "1.22",
+    "size": "5.75 GB",
+    "cover": "covers/ea-sports-fc-25.jpg",
+    "year": "N/A",
+    "genre": "Sports",
+    "description": "EA SPORTS FC 25 brings football action with updated mechanics, team management features, and competitive online play.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA05874",
+    "title": "EVE Gunjack (PSVR)",
+    "version": "1.02",
+    "size": "813.24 MB",
+    "cover": "covers/eve-gunjack.jpg",
+    "year": "N/A",
+    "genre": "Shooter",
+    "description": "EVE Gunjack is an arcade‑style VR space shooter set in the EVE universe, featuring turret‑based combat and immersive visuals.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA41203",
+    "title": "Egg Runner",
+    "version": "1.00",
+    "size": "109.18 MB",
+    "cover": "covers/egg-runner.jpg",
+    "year": "N/A",
+    "genre": "Arcade",
+    "description": "Egg Runner is a lighthearted arcade game where you guide a fragile egg through obstacle‑filled levels without breaking it.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA42499",
+    "title": "DreamWorks All Star Kart Racing",
+    "version": "1.01",
+    "size": "5.96 GB",
+    "cover": "covers/dreamworks-all-star-kart-racing.jpg",
+    "year": "N/A",
+    "genre": "Racing",
+    "description": "DreamWorks All‑Star Kart Racing features iconic animated characters competing in colorful kart races across themed tracks.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA44233",
+    "title": "Expeditions - A Mudrunner Game",
+    "version": "1.06",
+    "size": "12.37 GB",
+    "cover": "covers/expeditions-a-mudrunner-game.jpg",
+    "year": "N/A",
+    "genre": "Simulation",
+    "description": "Expeditions: A MudRunner Game focuses on off‑road exploration, scientific missions, and realistic vehicle traversal challenges.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA17876",
+    "title": "Family Fued",
+    "version": "1.02",
+    "size": "1.64 GB",
+    "cover": "covers/family-fued.jpg",
+    "year": "N/A",
+    "genre": "Party",
+    "description": "Family Feud brings the classic game show to console with survey questions, multiplayer modes, and fast‑paced trivia rounds.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA32089",
+    "title": "Firefighting Simulator The Squad",
+    "version": "1.10",
+    "size": "5.08 GB",
+    "cover": "covers/firefighting-simulator-the-squad.jpg",
+    "year": "N/A",
+    "genre": "Simulation",
+    "description": "Firefighting Simulator: The Squad puts you in command of a team of firefighters as you respond to emergencies and battle intense blazes.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA15690",
+    "title": "Frostpunk",
+    "version": "1.05",
+    "size": "6.05 GB",
+    "cover": "covers/frostpunk.jpg",
+    "year": "N/A",
+    "genre": "Strategy",
+    "description": "Frostpunk is a city‑building survival strategy game where you manage the last city on Earth and make difficult moral decisions to keep society alive.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA16485",
+    "title": "Garfield Kart Furious Racing",
+    "version": "1.01",
+    "size": "1.92 GB",
+    "cover": "covers/garfield-kart-furious-racing.jpg",
+    "year": "N/A",
+    "genre": "Racing",
+    "description": "Garfield Kart: Furious Racing is a family‑friendly kart racer featuring Garfield and friends competing across colorful tracks with power‑ups and boosts.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA27030",
+    "title": "Ghostbusters - Spirits Unleashed Ecto Edition",
+    "version": "1.23",
+    "size": "14.87 GB",
+    "cover": "covers/ghostbusters-spirits-unleashed-ecto-edition.jpg",
+    "year": "N/A",
+    "genre": "Action",
+    "description": "Ghostbusters: Spirits Unleashed is a 4v1 asymmetrical action game where players either hunt ghosts or haunt locations as a spectral threat.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA50520",
+    "title": "Girlfriend from Hell",
+    "version": "1.01",
+    "size": "216.33 MB",
+    "cover": "covers/girlfriend-from-hell.jpg",
+    "year": "N/A",
+    "genre": "Adventure",
+    "description": "Girlfriend from Hell is a quirky narrative adventure featuring supernatural twists, humor, and relationship‑driven storytelling.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA06712",
+    "title": "Goat Simulator - The Bundle",
+    "version": "1.00",
+    "size": "1.05 GB",
+    "cover": "covers/goat-simulator-the-bundle.jpg",
+    "year": "N/A",
+    "genre": "Simulation",
+    "description": "Goat Simulator: The Bundle includes the original chaotic goat‑based sandbox along with expansions full of absurd physics and comedic mayhem.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA46679",
+    "title": "Goat Simulator 3",
+    "version": "1.10",
+    "size": "6.82 GB",
+    "cover": "covers/goat-simulator-3.jpg",
+    "year": "N/A",
+    "genre": "Simulation",
+    "description": "Goat Simulator 3 expands the chaotic sandbox formula with new areas, multiplayer modes, and even more ridiculous goat‑powered antics.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA26347",
+    "title": "Green Hell",
+    "version": "1.14",
+    "size": "2.12 GB",
+    "cover": "covers/green-hell.jpg",
+    "year": "N/A",
+    "genre": "Survival",
+    "description": "Green Hell is a realistic survival game set in the Amazon rainforest, where you must craft tools, hunt, and manage your health to stay alive.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA42556",
+    "title": "Grounded",
+    "version": "1.14",
+    "size": "5.19 GB",
+    "cover": "covers/grounded.jpg",
+    "year": "N/A",
+    "genre": "Survival",
+    "description": "Grounded shrinks players to the size of insects in a backyard survival adventure filled with crafting, exploration, and giant bugs.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA11675",
+    "title": "Guts & Glory",
+    "version": "1.01",
+    "size": "2.6 GB",
+    "cover": "covers/guts-and-glory.jpg",
+    "year": "N/A",
+    "genre": "Action",
+    "description": "Guts and Glory is a physics‑driven stunt game where players navigate dangerous obstacle courses with hilarious and chaotic results.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA03312",
+    "title": "Hasbro Family Fun Pack",
+    "version": "1.00",
+    "size": "3.37 GB",
+    "cover": "covers/hasbro-family-fun-pack.jpg",
+    "year": "N/A",
+    "genre": "Party",
+    "description": "Hasbro Family Fun Pack brings together classic board games like Monopoly, Scrabble, and more in a digital party‑game collection.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA06098",
+    "title": "Hasbro Family Fun Pack Conquest Edition",
+    "version": "1.00",
+    "size": "4.03 GB",
+    "cover": "covers/hasbro-family-fun-pack-conquest-edition.jpg",
+    "year": "N/A",
+    "genre": "Party",
+    "description": "Hasbro Family Fun Pack: Conquest Edition expands the classic board‑game experience with additional modes and enhanced multiplayer options.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA12378",
+    "title": "Hungry Shark World",
+    "version": "1.01",
+    "size": "1.2 GB",
+    "cover": "covers/hungry-shark-world.jpg",
+    "year": "N/A",
+    "genre": "Action",
+    "description": "Hungry Shark World lets you control a growing shark as you eat your way through oceans, unlock new species, and survive dangerous waters.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA00245",
+    "title": "Hustle Kings",
+    "version": "1.17",
+    "size": "1.02 GB",
+    "cover": "covers/hustle-kings.jpg",
+    "year": "N/A",
+    "genre": "Sports",
+    "description": "Hustle Kings is a realistic pool simulation game featuring trick shots, tournaments, and online multiplayer billiards competition.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA03047",
+    "title": "I Am Bread",
+    "version": "1.03",
+    "size": "834.01 MB",
+    "cover": "covers/i-am-bread.jpg",
+    "year": "N/A",
+    "genre": "Simulation",
+    "description": "I Am Bread is a physics‑based adventure where you guide a slice of bread through bizarre environments on a quest to become toast.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA07396",
+    "title": "I Expect You To Die (PSVR)",
+    "version": "1.01",
+    "size": "432.34 MB",
+    "cover": "covers/i-expect-you-to-die.jpg",
+    "year": "N/A",
+    "genre": "Puzzle",
+    "description": "I Expect You To Die is a VR escape‑room puzzle game where you solve spy‑themed challenges using clever interactions and environmental clues.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA27601",
+    "title": "I Expect You To Die 2 (PSVR)",
+    "version": "1.02",
+    "size": "825.88 MB",
+    "cover": "covers/i-expect-you-to-die-2.jpg",
+    "year": "N/A",
+    "genre": "Puzzle",
+    "description": "I Expect You To Die 2 continues the VR spy‑puzzle experience with new missions, gadgets, and immersive escape‑room scenarios.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA16742",
+    "title": "It Takes Two",
+    "version": "1.03",
+    "size": "36.86 GB",
+    "cover": "covers/it-takes-two.jpg",
+    "year": "N/A",
+    "genre": "Adventure",
+    "description": "It Takes Two is a co‑op adventure where two players work together through imaginative worlds filled with puzzles, action, and emotional storytelling.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA14396",
+    "title": "Jewel Fever 2",
+    "version": "1.00",
+    "size": "115.54 MB",
+    "cover": "covers/jewel-fever-2.jpg",
+    "year": "N/A",
+    "genre": "Puzzle",
+    "description": "Jewel Fever 2 is a match‑3 puzzle game where players swap gems to create combos, clear boards, and chase high scores.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA05818",
+    "title": "Job Simulator (PSVR)",
+    "version": "1.06",
+    "size": "933.69 MB",
+    "cover": "covers/job-simulator.jpg",
+    "year": "N/A",
+    "genre": "Simulation",
+    "description": "Job Simulator is a comedic VR experience where robots recreate human jobs, letting players perform exaggerated workplace tasks in virtual reality.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA14807",
+    "title": "Jumanji The Video Game",
+    "version": "1.00",
+    "size": "2.1 GB",
+    "cover": "covers/jumanji-the-video-game.jpg",
+    "year": "N/A",
+    "genre": "Adventure",
+    "description": "Jumanji: The Video Game is a cooperative action adventure where players team up to recover the Jewel of Jumanji across dangerous environments.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA32104",
+    "title": "Jumanji Wild Adventures",
+    "version": "1.01",
+    "size": "2.67 GB",
+    "cover": "covers/jumanji-wild-adventures.jpg",
+    "year": "N/A",
+    "genre": "Adventure",
+    "description": "Jumanji: Wild Adventures expands the cooperative formula with larger levels, new enemies, and more exploration-focused gameplay.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA02747",
+    "title": "Just Cause 3",
+    "version": "1.05",
+    "size": "40.77 GB",
+    "cover": "covers/just-cause-3.jpg",
+    "year": "N/A",
+    "genre": "Action",
+    "description": "Just Cause 3 is an explosive open‑world action game where Rico Rodriguez uses grappling hooks, wingsuits, and heavy firepower to liberate Medici.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "ULUS10575",
+    "title": "LEGO Pirates of The Caribbean The Video Game (PSP)",
+    "version": "1.00",
+    "size": "1.36 GB",
+    "cover": "covers/lego-pirates-of-the-caribbean-the-video-game.jpg",
+    "year": "N/A",
+    "genre": "Adventure",
+    "description": "LEGO Pirates of the Caribbean retells the film series with LEGO humor, puzzle‑solving, and action‑adventure gameplay on PSP.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA53974",
+    "title": "LEGO Party",
+    "version": "1.07",
+    "size": "5.68 GB",
+    "cover": "covers/lego-party.jpg",
+    "year": "N/A",
+    "genre": "Party",
+    "description": "LEGO Party is a family‑friendly party game featuring LEGO‑themed minigames, multiplayer challenges, and colorful environments.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA00044",
+    "title": "LEGO Marvel Super Heroes",
+    "version": "1.03",
+    "size": "6.22 GB",
+    "cover": "covers/lego-marvel-super-heroes.jpg",
+    "year": "N/A",
+    "genre": "Action",
+    "description": "LEGO Marvel Super Heroes features a massive roster of Marvel characters in a humorous action‑adventure filled with puzzles and open‑world exploration.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA32093",
+    "title": "LEGO Brawls",
+    "version": "1.08",
+    "size": "2.17 GB",
+    "cover": "covers/lego-brawls.jpg",
+    "year": "N/A",
+    "genre": "Fighting",
+    "description": "LEGO Brawls is a team‑based platform fighter where players build custom LEGO characters and battle across themed arenas.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "UCES00109",
+    "title": "Lemmings (PSP)",
+    "version": "1.00",
+    "size": "219.02 MB",
+    "cover": "covers/lemmings.jpg",
+    "year": "N/A",
+    "genre": "Puzzle",
+    "description": "Lemmings on PSP brings the classic puzzle gameplay to handheld, guiding groups of lemmings to safety using strategic abilities and timing.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA07106",
+    "title": "Lethal VR (PSVR)",
+    "version": "1.01",
+    "size": "561.71 MB",
+    "cover": "covers/lethal-vr.jpg",
+    "year": "N/A",
+    "genre": "Shooter",
+    "description": "Lethal VR is a virtual reality shooting gallery inspired by classic arcade training simulations, featuring fast‑paced target challenges.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA39446",
+    "title": "LudoXXL",
+    "version": "1.00",
+    "size": "234.03 MB",
+    "cover": "covers/ludoxxl.jpg",
+    "year": "N/A",
+    "genre": "Board Game",
+    "description": "LudoXXL is a digital adaptation of the classic board game Ludo, offering multiplayer gameplay and colorful animated boards.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "HOTZ79000",
+    "title": "MARIO KART HOMEBREW (Homebrew)",
+    "version": "0.20",
+    "size": "2.4 GB",
+    "cover": "covers/mario-kart-homebrew.jpg",
+    "year": "N/A",
+    "genre": "Racing",
+    "description": "MARIO KART HOMEBREW is a fan‑made racing project featuring custom tracks and characters built specifically for modded systems.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA18779",
+    "title": "Minecraft Dungeons Ultimate Edition",
+    "version": "1.29",
+    "size": "3.01 GB",
+    "cover": "covers/minecraft-dungeons-ultimate-edition.jpg",
+    "year": "N/A",
+    "genre": "Action",
+    "description": "Minecraft Dungeons Ultimate Edition includes the full dungeon‑crawler adventure with all expansions and additional content bundled together.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA20193",
+    "title": "Minecraft Legends",
+    "version": "1.13",
+    "size": "7.48 GB",
+    "cover": "covers/minecraft-legends.jpg",
+    "year": "N/A",
+    "genre": "Strategy",
+    "description": "Minecraft Legends blends action and strategy as you lead allies into battle to defend the Overworld from invading Piglin forces.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA06409",
+    "title": "Minecraft Story Mode The Complete Adventure",
+    "version": "1.00",
+    "size": "8.13 GB",
+    "cover": "covers/minecraft-story-mode-the-complete-adventure.jpg",
+    "year": "N/A",
+    "genre": "Adventure",
+    "description": "Minecraft Story Mode: The Complete Adventure includes all episodic chapters of the narrative‑driven Telltale series set in the Minecraft universe.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA00265",
+    "title": "Minecraft PlayStation 4 Edition",
+    "version": "1.02",
+    "size": "186.12 MB",
+    "cover": "covers/minecraft-playstation-4-edition.jpg",
+    "year": "N/A",
+    "genre": "Sandbox",
+    "description": "Minecraft: PlayStation 4 Edition is the classic block‑building sandbox experience featuring survival, creative mode, and endless exploration.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA00265",
+    "title": "Minecraft",
+    "version": "1.02",
+    "size": "186.12 MB",
+    "cover": "covers/minecraft.jpg",
+    "year": "N/A",
+    "genre": "Sandbox",
+    "description": "Minecraft is the iconic sandbox game where players gather resources, craft tools, build structures, and survive in procedurally generated worlds.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA01317",
+    "title": "Monopoly Family Fun Pack",
+    "version": "1.02",
+    "size": "899.81 MB",
+    "cover": "covers/monopoly-family-fun-pack.jpg",
+    "year": "N/A",
+    "genre": "Board Game",
+    "description": "Monopoly Family Fun Pack includes multiple Monopoly variations with enhanced visuals, multiplayer support, and themed boards.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA01061",
+    "title": "Monopoly Plus",
+    "version": "1.03",
+    "size": "976.49 MB",
+    "cover": "covers/monopoly-plus.jpg",
+    "year": "N/A",
+    "genre": "Board Game",
+    "description": "Monopoly Plus brings the classic board game to life with animated 3D boards, online multiplayer, and customizable house rules.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA09938",
+    "title": "Monster Energy Supercross - The Official Videogame",
+    "version": "1.13",
+    "size": "11.81 GB",
+    "cover": "covers/monster-energy-supercross-the-official-videogame.jpg",
+    "year": "N/A",
+    "genre": "Racing",
+    "description": "Monster Energy Supercross delivers official tracks, riders, and bikes in a high‑speed motocross racing experience with realistic physics.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA34717",
+    "title": "Monster Energy Supercross - The Official Videogame 6",
+    "version": "1.08",
+    "size": "12.97 GB",
+    "cover": "covers/monster-energy-supercross-6.jpg",
+    "year": "N/A",
+    "genre": "Racing",
+    "description": "Monster Energy Supercross 6 refines the motocross formula with improved handling, new training modes, and expanded career progression.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA13366",
+    "title": "MX Nitro - Unleashed",
+    "version": "1.01",
+    "size": "3.48 GB",
+    "cover": "covers/mx-nitro-unleashed.jpg",
+    "year": "N/A",
+    "genre": "Racing",
+    "description": "MX Nitro: Unleashed is a fast‑paced motocross stunt racer featuring high jumps, trick combos, and adrenaline‑driven tracks.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA25622",
+    "title": "MX vs ATV Legends",
+    "version": "1.09",
+    "size": "26.09 GB",
+    "cover": "covers/mx-vs-atv-legends.jpg",
+    "year": "N/A",
+    "genre": "Racing",
+    "description": "MX vs ATV Legends delivers off‑road racing across open environments with customizable vehicles and a career mode spanning multiple disciplines.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA15295",
+    "title": "MXGP 2019 - The Official Motocross Videogame",
+    "version": "1.07",
+    "size": "15.65 GB",
+    "cover": "covers/mxgp-2019.jpg",
+    "year": "N/A",
+    "genre": "Racing",
+    "description": "MXGP 2019 features official riders, bikes, and tracks from the motocross championship with realistic physics and track deformation.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA10585",
+    "title": "MXGP PRO",
+    "version": "1.06",
+    "size": "16.33 GB",
+    "cover": "covers/mxgp-pro.jpg",
+    "year": "N/A",
+    "genre": "Racing",
+    "description": "MXGP PRO offers a more simulation‑focused motocross experience with advanced bike handling, training modes, and official MXGP content.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA48139",
+    "title": "NBA 2K25",
+    "version": "1.00",
+    "size": "92.29 GB",
+    "cover": "covers/nba-2k25.jpg",
+    "year": "N/A",
+    "genre": "Sports",
+    "description": "NBA 2K25 continues the basketball simulation series with enhanced gameplay, updated rosters, and expanded career and online modes.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA50346",
+    "title": "NBA BOUNCE",
+    "version": "1.01",
+    "size": "487 MB",
+    "cover": "covers/nba-bounce.jpg",
+    "year": "N/A",
+    "genre": "Sports",
+    "description": "NBA Bounce is an arcade‑style basketball game focused on quick matches, simple controls, and fast‑paced scoring action.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA43649",
+    "title": "Nickelodeon All Star Brawl 2",
+    "version": "1.15",
+    "size": "7.03 GB",
+    "cover": "covers/nickelodeon-all-star-brawl-2.jpg",
+    "year": "N/A",
+    "genre": "Fighting",
+    "description": "Nickelodeon All‑Star Brawl 2 is a platform fighter featuring characters from across Nickelodeon franchises with improved mechanics and story mode.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA28990",
+    "title": "Nickelodeon Kart Racers 3 Slime Speedway Turbo Edition",
+    "version": "1.03",
+    "size": "5.8 GB",
+    "cover": "covers/nickelodeon-kart-racers-3-slime-speedway-turbo-edition.jpg",
+    "year": "N/A",
+    "genre": "Racing",
+    "description": "Nickelodeon Kart Racers 3 Turbo Edition adds new racers, tracks, and customization options to the chaotic slime‑powered kart racing series.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA23464",
+    "title": "Overcooked! All You Can Eat",
+    "version": "1.07",
+    "size": "7.73 GB",
+    "cover": "covers/overcooked-all-you-can-eat.jpg",
+    "year": "N/A",
+    "genre": "Party",
+    "description": "Overcooked! All You Can Eat combines both Overcooked games with remastered visuals, new content, and cross‑platform cooperative chaos.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA05724",
+    "title": "Overcooked!",
+    "version": "1.03",
+    "size": "377.03 MB",
+    "cover": "covers/overcooked.jpg",
+    "year": "N/A",
+    "genre": "Party",
+    "description": "Overcooked is a frantic cooperative cooking game where players work together to prepare meals in kitchens filled with hazards and chaos.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA10870",
+    "title": "Overcooked! 2",
+    "version": "1.13",
+    "size": "7.49 GB",
+    "cover": "covers/overcooked-2.jpg",
+    "year": "N/A",
+    "genre": "Party",
+    "description": "Overcooked! 2 expands the chaotic cooperative cooking formula with new recipes, kitchens, and the ability to throw ingredients across the kitchen.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA52195",
+    "title": "PAW Patrol Rescue Wheels Championship",
+    "version": "1.01",
+    "size": "4.2 GB",
+    "cover": "covers/paw-patrol-rescue-wheels-championship.jpg",
+    "year": "N/A",
+    "genre": "Racing",
+    "description": "PAW Patrol Rescue Wheels Championship is a kid‑friendly kart racer featuring the PAW Patrol pups competing across themed tracks and challenges.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA55613",
+    "title": "Plants vs. Zombies - Replanted",
+    "version": "1.10",
+    "size": "1.63 GB",
+    "cover": "covers/plants-vs-zombies-replanted.jpg",
+    "year": "N/A",
+    "genre": "Strategy",
+    "description": "Plants vs. Zombies: Replanted revitalizes the classic tower defense gameplay with updated visuals and new plant and zombie varieties.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA44827",
+    "title": "PlateUp",
+    "version": "1.17",
+    "size": "549.98 MB",
+    "cover": "covers/plateup.jpg",
+    "year": "N/A",
+    "genre": "Simulation",
+    "description": "PlateUp combines restaurant management with roguelike progression as players cook, serve, and automate their way through chaotic kitchens.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA19608",
+    "title": "Police Simulator Patrol Officers",
+    "version": "1.41",
+    "size": "5.24 GB",
+    "cover": "covers/police-simulator-patrol-officers.jpg",
+    "year": "N/A",
+    "genre": "Simulation",
+    "description": "Police Simulator: Patrol Officers puts you on duty in an open city where you enforce laws, respond to incidents, and manage traffic situations realistically.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA15499",
+    "title": "Pool Nation",
+    "version": "1.03",
+    "size": "2.81 GB",
+    "cover": "covers/pool-nation.jpg",
+    "year": "N/A",
+    "genre": "Sports",
+    "description": "Pool Nation is a polished billiards simulation featuring realistic physics, trick shots, tournaments, and online multiplayer competition.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA46876",
+    "title": "Poppy Playtime Chapter 1",
+    "version": "1.01",
+    "size": "3.94 GB",
+    "cover": "covers/poppy-playtime-chapter-1.jpg",
+    "year": "N/A",
+    "genre": "Horror",
+    "description": "Poppy Playtime Chapter 1 is a first‑person horror puzzle game set in an abandoned toy factory filled with unsettling secrets and dangerous mascots.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA36012",
+    "title": "Potion Craft",
+    "version": "1.02",
+    "size": "683.21 MB",
+    "cover": "covers/potion-craft.jpg",
+    "year": "N/A",
+    "genre": "Simulation",
+    "description": "Potion Craft is an alchemist simulator where you experiment with ingredients, craft potions, and manage a medieval potion shop with full creative freedom.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA29984",
+    "title": "PowerWash Simulator",
+    "version": "1.14",
+    "size": "8.54 GB",
+    "cover": "covers/powerwash-simulator.jpg",
+    "year": "N/A",
+    "genre": "Simulation",
+    "description": "PowerWash Simulator offers relaxing, pressure‑washing gameplay as you clean vehicles, buildings, and environments with satisfying precision and upgrades.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA01749",
+    "title": "Pure Chess",
+    "version": "1.00",
+    "size": "688.46 MB",
+    "cover": "covers/pure-chess.jpg",
+    "year": "N/A",
+    "genre": "Board Game",
+    "description": "Pure Chess delivers a visually rich chess experience with multiple sets, tutorials, and online multiplayer for players of all skill levels.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA01748",
+    "title": "Pure Pool",
+    "version": "1.01",
+    "size": "532.41 MB",
+    "cover": "covers/pure-pool.jpg",
+    "year": "N/A",
+    "genre": "Sports",
+    "description": "Pure Pool delivers a realistic billiards experience with lifelike physics, career modes, and competitive online multiplayer.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA27237",
+    "title": "Rabbids Party of Legends",
+    "version": "1.01",
+    "size": "4.75 GB",
+    "cover": "covers/rabbids-party-of-legends.jpg",
+    "year": "N/A",
+    "genre": "Party",
+    "description": "Rabbids Party of Legends features chaotic minigames starring the Rabbids in a family‑friendly multiplayer party adventure.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA27450",
+    "title": "Radon Blast",
+    "version": "1.01",
+    "size": "24.9 MB",
+    "cover": "covers/radon-blast.jpg",
+    "year": "N/A",
+    "genre": "Arcade",
+    "description": "Radon Blast is a fast‑paced arcade shooter where players blast through waves of enemies in compact, action‑packed stages.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA00069",
+    "title": "Rayman Legends",
+    "version": "1.01",
+    "size": "7.78 GB",
+    "cover": "covers/rayman-legends.jpg",
+    "year": "N/A",
+    "genre": "Platformer",
+    "description": "Rayman Legends is a vibrant platformer featuring hand‑drawn worlds, rhythmic stages, and cooperative multiplayer gameplay.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA07966",
+    "title": "Real Farm",
+    "version": "1.33",
+    "size": "1.06 GB",
+    "cover": "covers/real-farm.jpg",
+    "year": "N/A",
+    "genre": "Simulation",
+    "description": "Real Farm is an agricultural simulator where you cultivate land, manage livestock, and grow your farming business from the ground up.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA14553",
+    "title": "Red Matter (PSVR)",
+    "version": "1.03",
+    "size": "3.08 GB",
+    "cover": "covers/red-matter.jpg",
+    "year": "N/A",
+    "genre": "Adventure",
+    "description": "Red Matter is a story‑driven VR sci‑fi adventure set on a mysterious base where you solve puzzles and uncover political secrets in deep space.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA52222",
+    "title": "Revenge Of The Savage Planet",
+    "version": "1.04",
+    "size": "7.07 GB",
+    "cover": "covers/revenge-of-the-savage-planet.jpg",
+    "year": "N/A",
+    "genre": "Adventure",
+    "description": "Revenge of the Savage Planet is a humorous sci‑fi exploration game filled with alien wildlife, quirky tools, and environmental puzzles.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "SLUS20219",
+    "title": "Time Crisis 2 (PS2)",
+    "version": "1.00",
+    "size": "577.57 MB",
+    "cover": "covers/time-crisis-2.jpg",
+    "year": "N/A",
+    "genre": "Shooter",
+    "description": "Time Crisis 2 is a classic PS2 light‑gun shooter featuring fast‑paced cover mechanics and cooperative arcade‑style action.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA24364",
+    "title": "MultiVersus",
+    "version": "1.26",
+    "size": "7.2 GB",
+    "cover": "covers/multiversus.jpg",
+    "year": "N/A",
+    "genre": "Fighting",
+    "description": "MultiVersus is a platform fighter featuring characters from Warner Bros. franchises battling across dynamic, themed arenas.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA17876",
+    "title": "Family Fued",
+    "version": "1.02",
+    "size": "1.64 GB",
+    "cover": "covers/family-fued.jpg",
+    "year": "N/A",
+    "genre": "Party",
+    "description": "Family Feud brings the classic game show to console with survey questions, multiplayer modes, and fast‑paced trivia rounds.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA14553",
+    "title": "Red Matter (PSVR)",
+    "version": "1.03",
+    "size": "3.08 GB",
+    "cover": "covers/red-matter.jpg",
+    "year": "N/A",
+    "genre": "Adventure",
+    "description": "Red Matter is a story‑driven VR sci‑fi adventure set on a mysterious base where you solve puzzles and uncover political secrets in deep space.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA52222",
+    "title": "Revenge Of The Savage Planet",
+    "version": "1.04",
+    "size": "7.07 GB",
+    "cover": "covers/revenge-of-the-savage-planet.jpg",
+    "year": "N/A",
+    "genre": "Adventure",
+    "description": "Revenge of the Savage Planet is a humorous sci‑fi exploration game filled with alien wildlife, quirky tools, and environmental puzzles.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "SLUS20219",
+    "title": "Time Crisis 2 (PS2)",
+    "version": "1.00",
+    "size": "577.57 MB",
+    "cover": "covers/time-crisis-2.jpg",
+    "year": "N/A",
+    "genre": "Shooter",
+    "description": "Time Crisis 2 is a classic PS2 light‑gun shooter featuring fast‑paced cover mechanics and cooperative arcade‑style action.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA24364",
+    "title": "MultiVersus",
+    "version": "1.26",
+    "size": "7.2 GB",
+    "cover": "covers/multiversus.jpg",
+    "year": "N/A",
+    "genre": "Fighting",
+    "description": "MultiVersus is a platform fighter featuring characters from Warner Bros. franchises battling across dynamic, themed arenas.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA17876",
+    "title": "Family Fued",
+    "version": "1.02",
+    "size": "1.64 GB",
+    "cover": "covers/family-fued.jpg",
+    "year": "N/A",
+    "genre": "Party",
+    "description": "Family Feud brings the classic game show to console with survey questions, multiplayer modes, and fast‑paced trivia rounds.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA32089",
+    "title": "Firefighting Simulator The Squad",
+    "version": "1.10",
+    "size": "5.08 GB",
+    "cover": "covers/firefighting-simulator-the-squad.jpg",
+    "year": "N/A",
+    "genre": "Simulation",
+    "description": "Firefighting Simulator: The Squad puts you in command of a team of firefighters as you respond to emergencies and battle intense blazes.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA15690",
+    "title": "Frostpunk",
+    "version": "1.05",
+    "size": "6.05 GB",
+    "cover": "covers/frostpunk.jpg",
+    "year": "N/A",
+    "genre": "Strategy",
+    "description": "Frostpunk is a city‑building survival strategy game where you manage the last city on Earth and make difficult moral decisions to keep society alive.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA16485",
+    "title": "Garfield Kart Furious Racing",
+    "version": "1.01",
+    "size": "1.92 GB",
+    "cover": "covers/garfield-kart-furious-racing.jpg",
+    "year": "N/A",
+    "genre": "Racing",
+    "description": "Garfield Kart: Furious Racing is a family‑friendly kart racer featuring Garfield and friends competing across colorful tracks with power‑ups and boosts.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA27030",
+    "title": "Ghostbusters - Spirits Unleashed Ecto Edition",
+    "version": "1.23",
+    "size": "14.87 GB",
+    "cover": "covers/ghostbusters-spirits-unleashed-ecto-edition.jpg",
+    "year": "N/A",
+    "genre": "Action",
+    "description": "Ghostbusters: Spirits Unleashed is a 4v1 asymmetrical action game where players either hunt ghosts or haunt locations as a spectral threat.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA50520",
+    "title": "Girlfriend from Hell",
+    "version": "1.01",
+    "size": "216.33 MB",
+    "cover": "covers/girlfriend-from-hell.jpg",
+    "year": "N/A",
+    "genre": "Adventure",
+    "description": "Girlfriend from Hell is a quirky narrative adventure featuring supernatural twists, humor, and relationship‑driven storytelling.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA06712",
+    "title": "Goat Simulator - The Bundle",
+    "version": "1.00",
+    "size": "1.05 GB",
+    "cover": "covers/goat-simulator-the-bundle.jpg",
+    "year": "N/A",
+    "genre": "Simulation",
+    "description": "Goat Simulator: The Bundle includes the original chaotic goat‑based sandbox along with expansions full of absurd physics and comedic mayhem.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA46679",
+    "title": "Goat Simulator 3",
+    "version": "1.10",
+    "size": "6.82 GB",
+    "cover": "covers/goat-simulator-3.jpg",
+    "year": "N/A",
+    "genre": "Simulation",
+    "description": "Goat Simulator 3 expands the chaotic sandbox formula with new areas, multiplayer modes, and even more ridiculous goat‑powered antics.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA26347",
+    "title": "Green Hell",
+    "version": "1.14",
+    "size": "2.12 GB",
+    "cover": "covers/green-hell.jpg",
+    "year": "N/A",
+    "genre": "Survival",
+    "description": "Green Hell is a realistic survival game set in the Amazon rainforest, where you must craft tools, hunt, and manage your health to stay alive.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA42556",
+    "title": "Grounded",
+    "version": "1.14",
+    "size": "5.19 GB",
+    "cover": "covers/grounded.jpg",
+    "year": "N/A",
+    "genre": "Survival",
+    "description": "Grounded shrinks players to the size of insects in a backyard survival adventure filled with crafting, exploration, and giant bugs.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA11675",
+    "title": "Guts & Glory",
+    "version": "1.01",
+    "size": "2.6 GB",
+    "cover": "covers/guts-and-glory.jpg",
+    "year": "N/A",
+    "genre": "Action",
+    "description": "Guts and Glory is a physics‑driven stunt game where players navigate dangerous obstacle courses with hilarious and chaotic results.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA03312",
+    "title": "Hasbro Family Fun Pack",
+    "version": "1.00",
+    "size": "3.37 GB",
+    "cover": "covers/hasbro-family-fun-pack.jpg",
+    "year": "N/A",
+    "genre": "Party",
+    "description": "Hasbro Family Fun Pack brings together classic board games like Monopoly, Scrabble, and more in a digital party‑game collection.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA06098",
+    "title": "Hasbro Family Fun Pack Conquest Edition",
+    "version": "1.00",
+    "size": "4.03 GB",
+    "cover": "covers/hasbro-family-fun-pack-conquest-edition.jpg",
+    "year": "N/A",
+    "genre": "Party",
+    "description": "Hasbro Family Fun Pack: Conquest Edition expands the classic board‑game experience with additional modes and enhanced multiplayer options.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA12378",
+    "title": "Hungry Shark World",
+    "version": "1.01",
+    "size": "1.2 GB",
+    "cover": "covers/hungry-shark-world.jpg",
+    "year": "N/A",
+    "genre": "Action",
+    "description": "Hungry Shark World lets you control a growing shark as you eat your way through oceans, unlock new species, and survive dangerous waters.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA00245",
+    "title": "Hustle Kings",
+    "version": "1.17",
+    "size": "1.02 GB",
+    "cover": "covers/hustle-kings.jpg",
+    "year": "N/A",
+    "genre": "Sports",
+    "description": "Hustle Kings is a realistic pool simulation game featuring trick shots, tournaments, and online multiplayer billiards competition.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA03047",
+    "title": "I Am Bread",
+    "version": "1.03",
+    "size": "834.01 MB",
+    "cover": "covers/i-am-bread.jpg",
+    "year": "N/A",
+    "genre": "Simulation",
+    "description": "I Am Bread is a physics‑based adventure where you guide a slice of bread through bizarre environments on a quest to become toast.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA07396",
+    "title": "I Expect You To Die (PSVR)",
+    "version": "1.01",
+    "size": "432.34 MB",
+    "cover": "covers/i-expect-you-to-die.jpg",
+    "year": "N/A",
+    "genre": "Puzzle",
+    "description": "I Expect You To Die is a VR escape‑room puzzle game where you solve spy‑themed challenges using clever interactions and environmental clues.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA27601",
+    "title": "I Expect You To Die 2 (PSVR)",
+    "version": "1.02",
+    "size": "825.88 MB",
+    "cover": "covers/i-expect-you-to-die-2.jpg",
+    "year": "N/A",
+    "genre": "Puzzle",
+    "description": "I Expect You To Die 2 continues the VR spy‑puzzle experience with new missions, gadgets, and immersive escape‑room scenarios.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA16742",
+    "title": "It Takes Two",
+    "version": "1.03",
+    "size": "36.86 GB",
+    "cover": "covers/it-takes-two.jpg",
+    "year": "N/A",
+    "genre": "Adventure",
+    "description": "It Takes Two is a co‑op adventure where two players work together through imaginative worlds filled with puzzles, action, and emotional storytelling.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA14396",
+    "title": "Jewel Fever 2",
+    "version": "1.00",
+    "size": "115.54 MB",
+    "cover": "covers/jewel-fever-2.jpg",
+    "year": "N/A",
+    "genre": "Puzzle",
+    "description": "Jewel Fever 2 is a match‑3 puzzle game where players swap gems to create combos, clear boards, and chase high scores.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA05818",
+    "title": "Job Simulator (PSVR)",
+    "version": "1.06",
+    "size": "933.69 MB",
+    "cover": "covers/job-simulator.jpg",
+    "year": "N/A",
+    "genre": "Simulation",
+    "description": "Job Simulator is a comedic VR experience where robots recreate human jobs, letting players perform exaggerated workplace tasks in virtual reality.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA14807",
+    "title": "Jumanji The Video Game",
+    "version": "1.00",
+    "size": "2.1 GB",
+    "cover": "covers/jumanji-the-video-game.jpg",
+    "year": "N/A",
+    "genre": "Adventure",
+    "description": "Jumanji: The Video Game is a cooperative action adventure where players team up to recover the Jewel of Jumanji across dangerous environments.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA32104",
+    "title": "Jumanji Wild Adventures",
+    "version": "1.01",
+    "size": "2.67 GB",
+    "cover": "covers/jumanji-wild-adventures.jpg",
+    "year": "N/A",
+    "genre": "Adventure",
+    "description": "Jumanji: Wild Adventures expands the cooperative formula with larger levels, new enemies, and more exploration‑focused gameplay.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA02747",
+    "title": "Just Cause 3",
+    "version": "1.05",
+    "size": "40.77 GB",
+    "cover": "covers/just-cause-3.jpg",
+    "year": "N/A",
+    "genre": "Action",
+    "description": "Just Cause 3 is an explosive open‑world action game where Rico Rodriguez uses grappling hooks, wingsuits, and heavy firepower to liberate Medici.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "ULUS10575",
+    "title": "LEGO Pirates of The Caribbean The Video Game (PSP)",
+    "version": "1.00",
+    "size": "1.36 GB",
+    "cover": "covers/lego-pirates-of-the-caribbean-the-video-game.jpg",
+    "year": "N/A",
+    "genre": "Adventure",
+    "description": "LEGO Pirates of the Caribbean retells the film series with LEGO humor, puzzle‑solving, and action‑adventure gameplay on PSP.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA53974",
+    "title": "LEGO Party",
+    "version": "1.07",
+    "size": "5.68 GB",
+    "cover": "covers/lego-party.jpg",
+    "year": "N/A",
+    "genre": "Party",
+    "description": "LEGO Party is a family‑friendly party game featuring LEGO‑themed minigames, multiplayer challenges, and colorful environments.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA00044",
+    "title": "LEGO Marvel Super Heroes",
+    "version": "1.03",
+    "size": "6.22 GB",
+    "cover": "covers/lego-marvel-super-heroes.jpg",
+    "year": "N/A",
+    "genre": "Action",
+    "description": "LEGO Marvel Super Heroes features a massive roster of Marvel characters in a humorous action‑adventure filled with puzzles and open‑world exploration.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA32093",
+    "title": "LEGO Brawls",
+    "version": "1.08",
+    "size": "2.17 GB",
+    "cover": "covers/lego-brawls.jpg",
+    "year": "N/A",
+    "genre": "Fighting",
+    "description": "LEGO Brawls is a team‑based platform fighter where players build custom LEGO characters and battle across themed arenas.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "UCES00109",
+    "title": "Lemmings (PSP)",
+    "version": "1.00",
+    "size": "219.02 MB",
+    "cover": "covers/lemmings.jpg",
+    "year": "N/A",
+    "genre": "Puzzle",
+    "description": "Lemmings on PSP brings the classic puzzle gameplay to handheld, guiding groups of lemmings to safety using strategic abilities and timing.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA07106",
+    "title": "Lethal VR (PSVR)",
+    "version": "1.01",
+    "size": "561.71 MB",
+    "cover": "covers/lethal-vr.jpg",
+    "year": "N/A",
+    "genre": "Shooter",
+    "description": "Lethal VR is a virtual reality shooting gallery inspired by classic arcade training simulations, featuring fast‑paced target challenges.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA39446",
+    "title": "LudoXXL",
+    "version": "1.00",
+    "size": "234.03 MB",
+    "cover": "covers/ludoxxl.jpg",
+    "year": "N/A",
+    "genre": "Board Game",
+    "description": "LudoXXL is a digital adaptation of the classic board game Ludo, offering multiplayer gameplay and colorful animated boards.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "HOTZ79000",
+    "title": "MARIO KART HOMEBREW (Homebrew)",
+    "version": "0.20",
+    "size": "2.4 GB",
+    "cover": "covers/mario-kart-homebrew.jpg",
+    "year": "N/A",
+    "genre": "Racing",
+    "description": "MARIO KART HOMEBREW is a fan‑made racing project featuring custom tracks and characters built specifically for modded systems.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA18779",
+    "title": "Minecraft Dungeons Ultimate Edition",
+    "version": "1.29",
+    "size": "3.01 GB",
+    "cover": "covers/minecraft-dungeons-ultimate-edition.jpg",
+    "year": "N/A",
+    "genre": "Action",
+    "description": "Minecraft Dungeons Ultimate Edition includes the full dungeon‑crawler adventure with all expansions and additional content bundled together.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA20193",
+    "title": "Minecraft Legends",
+    "version": "1.13",
+    "size": "7.48 GB",
+    "cover": "covers/minecraft-legends.jpg",
+    "year": "N/A",
+    "genre": "Strategy",
+    "description": "Minecraft Legends blends action and strategy as you lead allies into battle to defend the Overworld from invading Piglin forces.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA06409",
+    "title": "Minecraft Story Mode The Complete Adventure",
+    "version": "1.00",
+    "size": "8.13 GB",
+    "cover": "covers/minecraft-story-mode-the-complete-adventure.jpg",
+    "year": "N/A",
+    "genre": "Adventure",
+    "description": "Minecraft Story Mode: The Complete Adventure includes all episodic chapters of the narrative‑driven Telltale series set in the Minecraft universe.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA00265",
+    "title": "Minecraft PlayStation 4 Edition",
+    "version": "1.02",
+    "size": "186.12 MB",
+    "cover": "covers/minecraft-playstation-4-edition.jpg",
+    "year": "N/A",
+    "genre": "Sandbox",
+    "description": "Minecraft: PlayStation 4 Edition is the classic block‑building sandbox experience featuring survival, creative mode, and endless exploration.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA00265",
+    "title": "Minecraft",
+    "version": "1.02",
+    "size": "186.12 MB",
+    "cover": "covers/minecraft.jpg",
+    "year": "N/A",
+    "genre": "Sandbox",
+    "description": "Minecraft is the iconic sandbox game where players gather resources, craft tools, build structures, and survive in procedurally generated worlds.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA01317",
+    "title": "Monopoly Family Fun Pack",
+    "version": "1.02",
+    "size": "899.81 MB",
+    "cover": "covers/monopoly-family-fun-pack.jpg",
+    "year": "N/A",
+    "genre": "Board Game",
+    "description": "Monopoly Family Fun Pack includes multiple Monopoly variations with enhanced visuals, multiplayer support, and themed boards.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA01061",
+    "title": "Monopoly Plus",
+    "version": "1.03",
+    "size": "976.49 MB",
+    "cover": "covers/monopoly-plus.jpg",
+    "year": "N/A",
+    "genre": "Board Game",
+    "description": "Monopoly Plus brings the classic board game to life with animated 3D boards, online multiplayer, and customizable house rules.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA09938",
+    "title": "Monster Energy Supercross - The Official Videogame",
+    "version": "1.13",
+    "size": "11.81 GB",
+    "cover": "covers/monster-energy-supercross-the-official-videogame.jpg",
+    "year": "N/A",
+    "genre": "Racing",
+    "description": "Monster Energy Supercross delivers official tracks, riders, and bikes in a high‑speed motocross racing experience with realistic physics.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA34717",
+    "title": "Monster Energy Supercross - The Official Videogame 6",
+    "version": "1.08",
+    "size": "12.97 GB",
+    "cover": "covers/monster-energy-supercross-6.jpg",
+    "year": "N/A",
+    "genre": "Racing",
+    "description": "Monster Energy Supercross 6 refines the motocross formula with improved handling, new training modes, and expanded career progression.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA13366",
+    "title": "MX Nitro - Unleashed",
+    "version": "1.01",
+    "size": "3.48 GB",
+    "cover": "covers/mx-nitro-unleashed.jpg",
+    "year": "N/A",
+    "genre": "Racing",
+    "description": "MX Nitro: Unleashed is a fast‑paced motocross stunt racer featuring high jumps, trick combos, and adrenaline‑driven tracks.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA25622",
+    "title": "MX vs ATV Legends",
+    "version": "1.09",
+    "size": "26.09 GB",
+    "cover": "covers/mx-vs-atv-legends.jpg",
+    "year": "N/A",
+    "genre": "Racing",
+    "description": "MX vs ATV Legends delivers off‑road racing across open environments with customizable vehicles and a career mode spanning multiple disciplines.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA15295",
+    "title": "MXGP 2019 - The Official Motocross Videogame",
+    "version": "1.07",
+    "size": "15.65 GB",
+    "cover": "covers/mxgp-2019.jpg",
+    "year": "N/A",
+    "genre": "Racing",
+    "description": "MXGP 2019 features official riders, bikes, and tracks from the motocross championship with realistic physics and track deformation.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA10585",
+    "title": "MXGP PRO",
+    "version": "1.06",
+    "size": "16.33 GB",
+    "cover": "covers/mxgp-pro.jpg",
+    "year": "N/A",
+    "genre": "Racing",
+    "description": "MXGP PRO offers a more simulation‑focused motocross experience with advanced bike handling, training modes, and official MXGP content.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA48139",
+    "title": "NBA 2K25",
+    "version": "1.00",
+    "size": "92.29 GB",
+    "cover": "covers/nba-2k25.jpg",
+    "year": "N/A",
+    "genre": "Sports",
+    "description": "NBA 2K25 continues the basketball simulation series with enhanced gameplay, updated rosters, and expanded career and online modes.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  }
+  {
+    "id": "CUSA50346",
+    "title": "NBA BOUNCE",
+    "version": "1.01",
+    "size": "487 MB",
+    "cover": "covers/nba-bounce.jpg",
+    "year": "N/A",
+    "genre": "Sports",
+    "description": "NBA Bounce is an arcade‑style basketball game focused on quick matches, simple controls, and fast‑paced scoring action.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA43649",
+    "title": "Nickelodeon All Star Brawl 2",
+    "version": "1.15",
+    "size": "7.03 GB",
+    "cover": "covers/nickelodeon-all-star-brawl-2.jpg",
+    "year": "N/A",
+    "genre": "Fighting",
+    "description": "Nickelodeon All‑Star Brawl 2 is a platform fighter featuring characters from across Nickelodeon franchises with improved mechanics and a full story mode.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA28990",
+    "title": "Nickelodeon Kart Racers 3 Slime Speedway Turbo Edition",
+    "version": "1.03",
+    "size": "5.8 GB",
+    "cover": "covers/nickelodeon-kart-racers-3-slime-speedway-turbo-edition.jpg",
+    "year": "N/A",
+    "genre": "Racing",
+    "description": "Nickelodeon Kart Racers 3 Turbo Edition adds new racers, tracks, and customization options to the chaotic slime‑powered kart racing series.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA23464",
+    "title": "Overcooked! All You Can Eat",
+    "version": "1.07",
+    "size": "7.73 GB",
+    "cover": "covers/overcooked-all-you-can-eat.jpg",
+    "year": "N/A",
+    "genre": "Party",
+    "description": "Overcooked! All You Can Eat combines both Overcooked games with remastered visuals, new content, and cross‑platform cooperative chaos.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA05724",
+    "title": "Overcooked!",
+    "version": "1.03",
+    "size": "377.03 MB",
+    "cover": "covers/overcooked.jpg",
+    "year": "N/A",
+    "genre": "Party",
+    "description": "Overcooked is a frantic cooperative cooking game where players work together to prepare meals in kitchens filled with hazards and chaos.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA10870",
+    "title": "Overcooked! 2",
+    "version": "1.13",
+    "size": "7.49 GB",
+    "cover": "covers/overcooked-2.jpg",
+    "year": "N/A",
+    "genre": "Party",
+    "description": "Overcooked! 2 expands the chaotic cooperative cooking formula with new recipes, kitchens, and the ability to throw ingredients across the kitchen.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA52195",
+    "title": "PAW Patrol Rescue Wheels Championship",
+    "version": "1.01",
+    "size": "4.2 GB",
+    "cover": "covers/paw-patrol-rescue-wheels-championship.jpg",
+    "year": "N/A",
+    "genre": "Racing",
+    "description": "PAW Patrol Rescue Wheels Championship is a kid‑friendly kart racer featuring the PAW Patrol pups competing across themed tracks and challenges.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA55613",
+    "title": "Plants vs. Zombies - Replanted",
+    "version": "1.10",
+    "size": "1.63 GB",
+    "cover": "covers/plants-vs-zombies-replanted.jpg",
+    "year": "N/A",
+    "genre": "Strategy",
+    "description": "Plants vs. Zombies: Replanted revitalizes the classic tower defense gameplay with updated visuals and new plant and zombie varieties.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA44827",
+    "title": "PlateUp",
+    "version": "1.17",
+    "size": "549.98 MB",
+    "cover": "covers/plateup.jpg",
+    "year": "N/A",
+    "genre": "Simulation",
+    "description": "PlateUp combines restaurant management with roguelike progression as players cook, serve, and automate their way through chaotic kitchens.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA19608",
+    "title": "Police Simulator Patrol Officers",
+    "version": "1.41",
+    "size": "5.24 GB",
+    "cover": "covers/police-simulator-patrol-officers.jpg",
+    "year": "N/A",
+    "genre": "Simulation",
+    "description": "Police Simulator: Patrol Officers puts you on duty in an open city where you enforce laws, respond to incidents, and manage traffic situations realistically.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA15499",
+    "title": "Pool Nation",
+    "version": "1.03",
+    "size": "2.81 GB",
+    "cover": "covers/pool-nation.jpg",
+    "year": "N/A",
+    "genre": "Sports",
+    "description": "Pool Nation is a polished billiards simulation featuring realistic physics, trick shots, tournaments, and online multiplayer competition.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA46876",
+    "title": "Poppy Playtime Chapter 1",
+    "version": "1.01",
+    "size": "3.94 GB",
+    "cover": "covers/poppy-playtime-chapter-1.jpg",
+    "year": "N/A",
+    "genre": "Horror",
+    "description": "Poppy Playtime Chapter 1 is a first-person horror puzzle game set in an abandoned toy factory filled with unsettling secrets and dangerous mascots.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA36012",
+    "title": "Potion Craft",
+    "version": "1.02",
+    "size": "683.21 MB",
+    "cover": "covers/potion-craft.jpg",
+    "year": "N/A",
+    "genre": "Simulation",
+    "description": "Potion Craft is an alchemist simulator where you experiment with ingredients, craft potions, and manage a medieval potion shop with full creative freedom.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA29984",
+    "title": "PowerWash Simulator",
+    "version": "1.14",
+    "size": "8.54 GB",
+    "cover": "covers/powerwash-simulator.jpg",
+    "year": "N/A",
+    "genre": "Simulation",
+    "description": "PowerWash Simulator offers relaxing, pressure-washing gameplay as you clean vehicles, buildings, and environments with satisfying precision and upgrades.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA01749",
+    "title": "Pure Chess",
+    "version": "1.00",
+    "size": "688.46 MB",
+    "cover": "covers/pure-chess.jpg",
+    "year": "N/A",
+    "genre": "Board Game",
+    "description": "Pure Chess delivers a visually rich chess experience with multiple sets, tutorials, and online multiplayer for players of all skill levels.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA01748",
+    "title": "Pure Pool",
+    "version": "1.01",
+    "size": "532.41 MB",
+    "cover": "covers/pure-pool.jpg",
+    "year": "N/A",
+    "genre": "Sports",
+    "description": "Pure Pool delivers a realistic billiards experience with lifelike physics, career modes, and competitive online multiplayer.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA27237",
+    "title": "Rabbids Party of Legends",
+    "version": "1.01",
+    "size": "4.75 GB",
+    "cover": "covers/rabbids-party-of-legends.jpg",
+    "year": "N/A",
+    "genre": "Party",
+    "description": "Rabbids Party of Legends features chaotic minigames starring the Rabbids in a family-friendly multiplayer party adventure.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA27450",
+    "title": "Radon Blast",
+    "version": "1.01",
+    "size": "24.9 MB",
+    "cover": "covers/radon-blast.jpg",
+    "year": "N/A",
+    "genre": "Arcade",
+    "description": "Radon Blast is a fast-paced arcade shooter where players blast through waves of enemies in compact, action-packed stages.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA00069",
+    "title": "Rayman Legends",
+    "version": "1.01",
+    "size": "7.78 GB",
+    "cover": "covers/rayman-legends.jpg",
+    "year": "N/A",
+    "genre": "Platformer",
+    "description": "Rayman Legends is a vibrant platformer featuring hand-drawn worlds, rhythmic stages, and cooperative multiplayer gameplay.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA07966",
+    "title": "Real Farm",
+    "version": "1.33",
+    "size": "1.06 GB",
+    "cover": "covers/real-farm.jpg",
+    "year": "N/A",
+    "genre": "Simulation",
+    "description": "Real Farm is an agricultural simulator where you cultivate land, manage livestock, and grow your farming business from the ground up.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA14553",
+    "title": "Red Matter (PSVR)",
+    "version": "1.03",
+    "size": "3.08 GB",
+    "cover": "covers/red-matter.jpg",
+    "year": "N/A",
+    "genre": "Adventure",
+    "description": "Red Matter is a story-driven VR sci-fi adventure set on a mysterious base where you solve puzzles and uncover political secrets in deep space.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA52222",
+    "title": "Revenge Of The Savage Planet",
+    "version": "1.04",
+    "size": "7.07 GB",
+    "cover": "covers/revenge-of-the-savage-planet.jpg",
+    "year": "N/A",
+    "genre": "Adventure",
+    "description": "Revenge Of The Savage Planet is a humorous sci-fi exploration game filled with alien wildlife, quirky tools, and environmental puzzles.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "SLES00707",
+    "title": "Risk (PS1)",
+    "version": "1.00",
+    "size": "297.47 MB",
+    "cover": "covers/risk-ps1.jpg",
+    "year": "N/A",
+    "genre": "Strategy",
+    "description": "Risk on PS1 adapts the classic global domination board game into a digital format with animated battles and multiple rule variations.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA01163",
+    "title": "Rocket League",
+    "version": "2.39",
+    "size": "33.15 GB",
+    "cover": "covers/rocket-league.jpg",
+    "year": "N/A",
+    "genre": "Sports",
+    "description": "Rocket League blends arcade-style soccer with rocket-powered cars in fast-paced competitive matches across a variety of arenas.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA05583",
+    "title": "Rugby League Live 4",
+    "version": "1.07",
+    "size": "16.86 GB",
+    "cover": "covers/rugby-league-live-4.jpg",
+    "year": "N/A",
+    "genre": "Sports",
+    "description": "Rugby League Live 4 delivers realistic rugby gameplay with licensed teams, stadiums, and deep career and team management modes.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA13397",
+    "title": "Rush VR (PSVR)",
+    "version": "1.02",
+    "size": "2.88 GB",
+    "cover": "covers/rush-vr.jpg",
+    "year": "N/A",
+    "genre": "Racing",
+    "description": "Rush VR is a wingsuit racing experience featuring high-speed descents through mountain ranges, canyons, and forests in virtual reality.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "BOMB81070",
+    "title": "Saturn Bomberman (Homebrew)",
+    "version": "1.00",
+    "size": "605.62 MB",
+    "cover": "covers/saturn-bomberman.jpg",
+    "year": "N/A",
+    "genre": "Action",
+    "description": "Saturn Bomberman brings classic Bomberman gameplay with fast-paced grid-based battles and explosive multiplayer action.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA01445",
+    "title": "Scrabble",
+    "version": "1.02",
+    "size": "148.31 MB",
+    "cover": "covers/scrabble.jpg",
+    "year": "N/A",
+    "genre": "Board Game",
+    "description": "Scrabble brings the iconic word-building board game to PS4 with multiple modes, online play, and classic tile-based strategy.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA33000",
+    "title": "Smurfs Kart",
+    "version": "1.01",
+    "size": "3.76 GB",
+    "cover": "covers/smurfs-kart.jpg",
+    "year": "N/A",
+    "genre": "Racing",
+    "description": "Smurfs Kart is a family-friendly kart racer featuring iconic Smurfs characters competing across colorful, whimsical tracks.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA35016",
+    "title": "Sonic Racing - CrossWorlds",
+    "version": "1.22",
+    "size": "13.73 GB",
+    "cover": "covers/sonic-racing-crossworlds.jpg",
+    "year": "N/A",
+    "genre": "Racing",
+    "description": "Sonic Racing - CrossWorlds is a high-speed kart racer featuring Sonic and friends competing across vibrant tracks with team-based mechanics.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA05722",
+    "title": "Spy Chameleon",
+    "version": "1.00",
+    "size": "179.37 MB",
+    "cover": "covers/spy-chameleon.jpg",
+    "year": "N/A",
+    "genre": "Puzzle",
+    "description": "Spy Chameleon is a colorful stealth puzzle game where players change colors to blend into environments and avoid detection across 75 levels.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA24899",
+    "title": "Stray",
+    "version": "1.04",
+    "size": "6.57 GB",
+    "cover": "covers/stray.jpg",
+    "year": "N/A",
+    "genre": "Adventure",
+    "description": "Stray follows a lost cat navigating a futuristic cybercity inhabited by robots, solving puzzles and uncovering the mysteries of the world.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA07828",
+    "title": "Street Fighter 30th Anniversary Collection",
+    "version": "1.02",
+    "size": "5.08 GB",
+    "cover": "covers/street-fighter-30th-anniversary-collection.jpg",
+    "year": "N/A",
+    "genre": "Fighting",
+    "description": "Street Fighter 30th Anniversary Collection compiles 12 classic Street Fighter titles with museum features, online play, and arcade-perfect emulation.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA52553",
+    "title": "Street Food Restaurant Owner",
+    "version": "1.06",
+    "size": "955.78 MB",
+    "cover": "covers/street-food-restaurant-owner.jpg",
+    "year": "N/A",
+    "genre": "Simulation",
+    "description": "Street Food Restaurant Owner lets players run and expand a street food business, preparing dishes, managing customers, and upgrading equipment.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA08165",
+    "title": "SUPERHOT VR (PSVR)",
+    "version": "1.13",
+    "size": "828.18 MB",
+    "cover": "covers/superhot-vr.jpg",
+    "year": "N/A",
+    "genre": "Shooter",
+    "description": "SUPERHOT VR is a unique first-person shooter where time moves only when you move, creating strategic combat scenarios in virtual reality.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA23228",
+    "title": "Supraland",
+    "version": "1.03",
+    "size": "1.56 GB",
+    "cover": "covers/supraland.jpg",
+    "year": "N/A",
+    "genre": "Adventure",
+    "description": "Supraland blends exploration, puzzles, and combat in a vibrant miniature world inspired by Metroidvania and Zelda-style gameplay.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA06041",
+    "title": "Surgeon Simulator - Experience Reality (PSVR)",
+    "version": "1.03",
+    "size": "661.91 MB",
+    "cover": "covers/surgeon-simulator-er.jpg",
+    "year": "N/A",
+    "genre": "Simulation",
+    "description": "Surgeon Simulator ER brings chaotic surgical procedures into VR, letting players perform exaggerated operations with unpredictable physics.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA13594",
+    "title": "Tetris Effect - Connected",
+    "version": "2.04",
+    "size": "5.51 GB",
+    "cover": "covers/tetris-effect-connected.jpg",
+    "year": "N/A",
+    "genre": "Puzzle",
+    "description": "Tetris Effect: Connected enhances the acclaimed puzzle experience with multiplayer modes, mesmerizing visuals, and immersive music-driven gameplay.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA00239",
+    "title": "The Amazing Spider Man 2",
+    "version": "1.01",
+    "size": "8.6 GB",
+    "cover": "covers/the-amazing-spider-man-2.jpg",
+    "year": "N/A",
+    "genre": "Action",
+    "description": "The Amazing Spider-Man 2 expands the open-world superhero experience with new villains, upgraded web-swinging, and dynamic crime events.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA27303",
+    "title": "The Colonists",
     "version": "1.03",
     "size": "447.41 MB",
     "cover": "covers/the-colonists.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "year": "N/A",
+    "genre": "Strategy",
+    "description": "The Colonists is a settlement-building game where robot colonists gather resources, research technologies, and construct expanding villages.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "the-escapists-2",
-    "title": "The Escapists 2 v1.00",
-    "version": "1.00",
-    "size": "1.44 GB",
-    "cover": "covers/the-escapists-2.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
-  },
-  {
-    "id": "the-escapists-the-walking-dead",
-    "title": "The Escapists The Walking Dead v1.01",
+    "id": "CUSA04097",
+    "title": "The Escapists - The Walking Dead",
     "version": "1.01",
     "size": "1.02 GB",
     "cover": "covers/the-escapists-the-walking-dead.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "year": "N/A",
+    "genre": "Strategy",
+    "description": "The Escapists: The Walking Dead blends prison escape gameplay with the world of The Walking Dead, featuring iconic characters and themed levels.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "the-flame-in-the-flood",
-    "title": "The Flame in the Flood v1.02",
+    "id": "CUSA06267",
+    "title": "The Escapists 2",
+    "version": "1.00",
+    "size": "1.44 GB",
+    "cover": "covers/the-escapists-2.jpg",
+    "year": "N/A",
+    "genre": "Strategy",
+    "description": "The Escapists 2 expands the prison escape formula with new prisons, multiplayer modes, crafting options, and more complex escape routes.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA07205",
+    "title": "The Flame in the Flood",
     "version": "1.02",
     "size": "2.61 GB",
     "cover": "covers/the-flame-in-the-flood.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "year": "N/A",
+    "genre": "Survival",
+    "description": "The Flame in the Flood is a survival adventure where players travel down a procedurally generated river, crafting, scavenging, and staying alive in the wilderness.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "the-forest",
-    "title": "The Forest v1.15",
+    "id": "CUSA12398",
+    "title": "The Forest",
     "version": "1.15",
     "size": "1.84 GB",
     "cover": "covers/the-forest.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "year": "N/A",
+    "genre": "Survival",
+    "description": "The Forest is a survival horror game where players build shelters, craft tools, and defend against cannibalistic mutants after a plane crash on a remote island.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "the-good-life",
-    "title": "The Good Life v1.15",
+    "id": "CUSA29499",
+    "title": "The Good Life",
     "version": "1.15",
     "size": "3.49 GB",
     "cover": "covers/the-good-life.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "year": "N/A",
+    "genre": "Adventure",
+    "description": "The Good Life is a quirky life-simulation mystery where players investigate a strange English town while transforming into a cat or dog to uncover clues.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "the-house-of-the-dead-2-remake",
-    "title": "The House of the Dead 2 Remake v1.01",
+    "id": "CUSA49723",
+    "title": "The House of the Dead 2 - Remake",
     "version": "1.01",
     "size": "3.7 GB",
     "cover": "covers/the-house-of-the-dead-2-remake.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "year": "N/A",
+    "genre": "Shooter",
+    "description": "The House of the Dead 2 Remake modernizes the arcade classic with updated visuals, improved controls, and intense on-rails zombie shooting action.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "the-simpsons-hit-and-run-ps2",
-    "title": "The Simpsons Hit and Run (PS2) v1.00",
+    "id": "SLUS20624",
+    "title": "The Simpsons Hit and Run (PS2)",
     "version": "1.00",
     "size": "937.1 MB",
     "cover": "covers/the-simpsons-hit-and-run.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "year": "N/A",
+    "genre": "Action",
+    "description": "The Simpsons Hit & Run is an open-world action game inspired by The Simpsons, featuring driving, exploration, and comedic missions across Springfield.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "the-smurfs-2-the-prisoner-of-the-green-stone",
-    "title": "The Smurfs 2 The Prisoner of The Green Stone v1.02",
+    "id": "CUSA43623",
+    "title": "The Smurfs 2 - The Prisoner of The Green Stone",
     "version": "1.02",
     "size": "7.32 GB",
-    "cover": "covers/the-smurfs-2-the-prisoner-of-the-green-stone.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "cover": "covers/the-smurfs-2.jpg",
+    "year": "N/A",
+    "genre": "Adventure",
+    "description": "The Smurfs 2: The Prisoner of the Green Stone is an action-adventure game where players explore Smurf Village and beyond to stop a magical threat.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "the-smurfs-mission-vileaf",
-    "title": "The Smurfs Mission Vileaf v1.04",
+    "id": "CUSA26671",
+    "title": "The Smurfs - Mission Vileaf",
     "version": "1.04",
     "size": "1.23 GB",
     "cover": "covers/the-smurfs-mission-vileaf.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "year": "N/A",
+    "genre": "Adventure",
+    "description": "The Smurfs: Mission Vileaf is a 3D platformer where players use the Smurfizer to clean corrupted plants and save the forest from Gargamel’s new invention.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "the-smurfs-village-party",
-    "title": "The Smurfs Village Party v1.01",
+    "id": "CUSA47540",
+    "title": "The Smurfs - Village Party",
     "version": "1.01",
     "size": "1.26 GB",
     "cover": "covers/the-smurfs-village-party.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "year": "N/A",
+    "genre": "Party",
+    "description": "The Smurfs: Village Party is a family-friendly party game featuring dozens of minigames and iconic Smurfs characters in colorful environments.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "the-stanley-parable-ultra-deluxe",
-    "title": "The Stanley Parable Ultra Deluxe v1.05",
+    "id": "CUSA31559",
+    "title": "The Stanley Parable - Ultra Deluxe",
     "version": "1.05",
     "size": "3.65 GB",
     "cover": "covers/the-stanley-parable-ultra-deluxe.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "year": "N/A",
+    "genre": "Adventure",
+    "description": "The Stanley Parable: Ultra Deluxe expands the original narrative-driven experience with new endings, content, and meta twists on player choice.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "the-wild-eight",
-    "title": "The Wild Eight v1.00",
+    "id": "CUSA20408",
+    "title": "The Wild Eight",
     "version": "1.00",
     "size": "915.6 MB",
     "cover": "covers/the-wild-eight.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "year": "N/A",
+    "genre": "Survival",
+    "description": "The Wild Eight is a survival adventure set in the Alaskan wilderness where players scavenge, craft, and uncover the mystery behind a plane crash.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "theme-park-simulator",
-    "title": "Theme Park Simulator Rollercoaster Paradise v1.00",
+    "id": "CUSA23527",
+    "title": "Theme Park Simulator - Rollercoaster Paradise",
     "version": "1.00",
     "size": "893.26 MB",
     "cover": "covers/theme-park-simulator.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "year": "N/A",
+    "genre": "Simulation",
+    "description": "Theme Park Simulator lets players operate a variety of amusement rides, including rollercoasters and classic attractions, with realistic controls and physics.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "thief-simulator",
-    "title": "Thief Simulator v1.05",
+    "id": "CUSA20097",
+    "title": "Thief Simulator",
     "version": "1.05",
     "size": "2.86 GB",
     "cover": "covers/thief-simulator.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "year": "N/A",
+    "genre": "Simulation",
+    "description": "Thief Simulator blends stealth, planning, and burglary mechanics as players scout neighborhoods, break into homes, and steal valuables for profit.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "think-of-the-children",
-    "title": "Think of the Children v1.02",
-    "version": "1.02",
+    "id": "CUSA12051",
+    "title": "Think of the Children",
+    "version": "1.00",
     "size": "549.06 MB",
     "cover": "covers/think-of-the-children.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "year": "N/A",
+    "genre": "Party",
+    "description": "Think of the Children is a frantic parenting party game where players try to keep chaotic kids alive through increasingly absurd scenarios.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "time-loader",
-    "title": "Time Loader v1.00",
+    "id": "CUSA30591",
+    "title": "Time Loader",
     "version": "1.00",
     "size": "2.08 GB",
     "cover": "covers/time-loader.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "year": "N/A",
+    "genre": "Puzzle",
+    "description": "Time Loader is a physics-based puzzle platformer where players control a small robot sent back in time to prevent a tragic accident.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "tmnt-mutants-unleashed",
-    "title": "TMNT Mutants Unleashed v1.03",
+    "id": "CUSA44075",
+    "title": "TMNT - Mutants Unleashed",
     "version": "1.03",
     "size": "5.28 GB",
-    "cover": "covers/teenage-mutant-ninja-turtles-mutants-unleashed.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "cover": "covers/tmnt-mutants-unleashed.jpg",
+    "year": "N/A",
+    "genre": "Action",
+    "description": "TMNT: Mutants Unleashed follows the Ninja Turtles through fast-paced missions, combat encounters, and story-driven adventures across New York City.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "tmnt-splintered-fate",
-    "title": "TMNT Splintered Fate v1.08",
+    "id": "CUSA50828",
+    "title": "TMNT - Splintered Fate",
     "version": "1.08",
     "size": "1.88 GB",
-    "cover": "covers/teenage-mutant-ninja-turtles-splintered-fate.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "cover": "covers/tmnt-splintered-fate.jpg",
+    "year": "N/A",
+    "genre": "Action",
+    "description": "TMNT: Splintered Fate is a roguelike action game where players battle through randomized levels, unlock upgrades, and rescue Master Splinter from danger.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "tmnt-arcade-wrath-of-the-mutants",
-    "title": "TMNT Arcade Wrath of the Mutants v1.02",
+    "id": "CUSA45206",
+    "title": "TMNT Arcade - Wrath of the Mutants",
     "version": "1.02",
     "size": "2.19 GB",
-    "cover": "covers/teenage-mutant-ninja-turtles-arcade-wrath-of-the-mutants.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "cover": "covers/tmnt-arcade-wrath-of-the-mutants.jpg",
+    "year": "N/A",
+    "genre": "Beat 'em Up",
+    "description": "TMNT Arcade: Wrath of the Mutants is a classic-style beat 'em up featuring the Ninja Turtles fighting through arcade-inspired stages and boss battles.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "tony-hawks-american-wasteland-ps2",
-    "title": "Tony Hawk's American Wasteland (PS2) v1.00",
+    "id": "SLUS21208",
+    "title": "Tony Hawk's American Wasteland (PS2)",
     "version": "1.00",
     "size": "2.64 GB",
-    "cover": "covers/tony-hawk's-american-wasteland.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "cover": "covers/tony-hawks-american-wasteland.jpg",
+    "year": "N/A",
+    "genre": "Sports",
+    "description": "Tony Hawk's American Wasteland delivers open-world skateboarding with classic trick systems, BMX riding, and a story-driven tour of Los Angeles.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "tony-hawks-pro-skater-ps2",
-    "title": "Tony Hawk's Pro Skater (PS2) v1.00",
+    "id": "SLUS00860",
+    "title": "Tony Hawk's Pro Skater (PS2)",
     "version": "1.00",
     "size": "706.48 MB",
-    "cover": "covers/tony-hawk's-pro-skate.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "cover": "covers/tony-hawks-pro-skater-ps2.jpg",
+    "year": "N/A",
+    "genre": "Sports",
+    "description": "Tony Hawk's Pro Skater brings the iconic skateboarding series to early PlayStation hardware with classic levels, tricks, and arcade-style gameplay.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "tony-hawks-pro-skater-1-2",
-    "title": "Tony Hawk's Pro Skater 1 + 2 v1.10",
+    "id": "CUSA17922",
+    "title": "Tony Hawk's Pro Skater 1 + 2 (PS4)",
     "version": "1.10",
     "size": "25.52 GB",
-    "cover": "covers/tony-hawk's-pro-skater-1-+-2.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "cover": "covers/tony-hawks-pro-skater-1-2.jpg",
+    "year": "N/A",
+    "genre": "Sports",
+    "description": "Tony Hawk's Pro Skater 1 + 2 remasters the first two games with modern visuals, updated controls, and classic levels rebuilt from the ground up.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "tony-hawks-pro-skater-3-ps2",
-    "title": "Tony Hawk's Pro Skater 3 (PS2) v1.00",
+    "id": "SLUS20013",
+    "title": "Tony Hawk's Pro Skater 3 (PS2)",
     "version": "1.00",
     "size": "3.04 GB",
-    "cover": "covers/tony-hawk's-pro-skater-3.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "cover": "covers/tony-hawks-pro-skater-3-ps2.jpg",
+    "year": "N/A",
+    "genre": "Sports",
+    "description": "Tony Hawk's Pro Skater 3 introduces the revert mechanic and features a wide range of levels, pro skaters, and classic arcade-style challenges.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "tony-hawks-pro-skater-4-ps2",
-    "title": "Tony Hawk's Pro Skater 4 (PS2) v1.00",
+    "id": "SLUS20504",
+    "title": "Tony Hawk's Pro Skater 4 (PS2)",
     "version": "1.00",
     "size": "3.43 GB",
-    "cover": "covers/tony-hawk's-pro-skater-4.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "cover": "covers/tony-hawks-pro-skater-4-ps2.jpg",
+    "year": "N/A",
+    "genre": "Sports",
+    "description": "Tony Hawk's Pro Skater 4 expands the series with open-ended goals, larger levels, and more advanced trick chaining mechanics.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "tony-hawks-pro-skater-5",
-    "title": "Tony Hawk's Pro Skater 5 v1.00",
+    "id": "CUSA02852",
+    "title": "Tony Hawk's Pro Skater 5 (PS4)",
     "version": "1.00",
     "size": "7.26 GB",
-    "cover": "covers/tony-hawk's-pro-skater-5.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "cover": "covers/tony-hawks-pro-skater-5.jpg",
+    "year": "N/A",
+    "genre": "Sports",
+    "description": "Tony Hawk's Pro Skater 5 brings the series to modern consoles with new levels, missions, and online multiplayer skate sessions.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "tony-hawks-project-8-ps2",
-    "title": "Tony Hawk's Project 8 (PS2) v1.00",
+    "id": "SLUS21444",
+    "title": "Tony Hawk's Project 8 (PS2)",
     "version": "1.00",
     "size": "3.41 GB",
-    "cover": "covers/tony-hawk's-project-8.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "cover": "covers/tony-hawks-project-8.jpg",
+    "year": "N/A",
+    "genre": "Sports",
+    "description": "Tony Hawk's Project 8 introduces the Nail-The-Trick mechanic and features a story-driven progression through a fully explorable skate world.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "tony-hawks-underground-ps2",
-    "title": "Tony Hawk's Underground (PS2) v1.00",
+    "id": "SLUS20731",
+    "title": "Tony Hawk's Underground (PS2)",
     "version": "1.00",
     "size": "4.69 GB",
-    "cover": "covers/tony-hawk's-underground.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "cover": "covers/tony-hawks-underground.jpg",
+    "year": "N/A",
+    "genre": "Sports",
+    "description": "Tony Hawk's Underground shifts the series into a story-driven adventure where players rise from amateur skater to pro status across global locations.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "tony-hawks-underground-2-ps2",
-    "title": "Tony Hawk's Underground 2 (PS2) v1.00",
+    "id": "SLUS20965",
+    "title": "Tony Hawk's Underground 2 (PS2)",
     "version": "1.00",
     "size": "2.72 GB",
-    "cover": "covers/tony-hawk's-underground-2.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "cover": "covers/tony-hawks-underground-2.jpg",
+    "year": "N/A",
+    "genre": "Sports",
+    "description": "Tony Hawk's Underground 2 blends skateboarding with Jackass-style antics in a world tour filled with chaotic missions and over-the-top humor.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "tony-hawks-pro-skater-3-4",
-    "title": "Tony Hawk's Pro Skater 3 + 4 v1.07",
+    "id": "SLUS01066",
+    "title": "Tony Hawk's Pro Skater 2 (PS2)",
+    "version": "1.01",
+    "size": "553.65 MB",
+    "cover": "covers/tony-hawks-pro-skater-2-ps2.jpg",
+    "year": "N/A",
+    "genre": "Sports",
+    "description": "Tony Hawk's Pro Skater 2 expands the original with manuals, improved level design, and one of the most iconic soundtracks in gaming history.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA44732",
+    "title": "Tony Hawk's Pro Skater 3 + 4 (PS4)",
     "version": "1.07",
     "size": "36.79 GB",
-    "cover": "covers/tony-hawk's-pro-skater-3-+-4.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "cover": "covers/tony-hawks-pro-skater-3-4.jpg",
+    "year": "N/A",
+    "genre": "Sports",
+    "description": "Tony Hawk's Pro Skater 3 + 4 combines two classic entries with enhanced visuals, updated mechanics, and a modernized presentation for PS4.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "trailmakers",
-    "title": "Trailmakers v2.23",
+    "id": "CUSA18027",
+    "title": "Trailmakers (PS4)",
     "version": "2.23",
     "size": "5.98 GB",
     "cover": "covers/trailmakers.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "year": "N/A",
+    "genre": "Sandbox",
+    "description": "Trailmakers is a vehicle-building sandbox where players construct cars, planes, and machines to explore open environments and complete challenges.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "trash-sailors",
-    "title": "Trash Sailors v1.02",
+    "id": "CUSA28641",
+    "title": "Trash Sailors (PS4)",
     "version": "1.02",
     "size": "936.9 MB",
     "cover": "covers/trash-sailors.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "year": "N/A",
+    "genre": "Action",
+    "description": "Trash Sailors is a chaotic co-op adventure where players build and sail junk-made rafts through flooded worlds filled with hazards and enemies.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "tridents-tale",
-    "title": "Tridents Tale v1.03",
+    "id": "CUSA51511",
+    "title": "Tridents Tale (PS4)",
     "version": "1.03",
     "size": "4.53 GB",
-    "cover": "covers/trident's-tale.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "cover": "covers/tridents-tale.jpg",
+    "year": "N/A",
+    "genre": "Adventure",
+    "description": "Tridents Tale is an action-adventure game featuring underwater exploration, mythical creatures, and fast-paced trident-based combat.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "trivial-pursuit-live",
-    "title": "Trivial Pursuit Live v1.01",
+    "id": "CUSA01024",
+    "title": "Trivial Pursuit Live (PS4)",
     "version": "1.01",
     "size": "729.68 MB",
-    "cover": "covers/trivial-pursuit-live!.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "cover": "covers/trivial-pursuit-live.jpg",
+    "year": "N/A",
+    "genre": "Trivia",
+    "description": "Trivial Pursuit Live adapts the classic trivia board game into a TV-style quiz show with multiplayer support and themed question categories.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "trivial-pursuit-live-2",
-    "title": "Trivial Pursuit Live! 2 v1.02",
+    "id": "CUSA26430",
+    "title": "Trivial Pursuit Live! 2 (PS4)",
     "version": "1.02",
     "size": "1.24 GB",
-    "cover": "covers/trivial-pursuit-live!-2.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "cover": "covers/trivial-pursuit-live-2.jpg",
+    "year": "N/A",
+    "genre": "Trivia",
+    "description": "Trivial Pursuit Live! 2 expands the quiz show experience with new questions, updated visuals, and additional multiplayer modes.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "tropico-6",
-    "title": "Tropico 6 v23.02",
+    "id": "CUSA08154",
+    "title": "Tropico 6 (PS4)",
     "version": "23.02",
     "size": "11.53 GB",
     "cover": "covers/tropico-6.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "year": "N/A",
+    "genre": "Strategy",
+    "description": "Tropico 6 puts players in the role of El Presidente, managing an island nation through city-building, politics, and economic strategy across eras.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "ultimate-runner",
-    "title": "Ultimate Runner v1.02",
+    "id": "CUSA11645",
+    "title": "Ultimate Runner (PS4)",
     "version": "1.02",
     "size": "122.95 MB",
     "cover": "covers/ultimate-runner.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "year": "N/A",
+    "genre": "Arcade",
+    "description": "Ultimate Runner is a fast-paced endless runner featuring obstacle-dodging gameplay, power-ups, and colorful environments.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "uno",
-    "title": "Uno v1.21",
+    "id": "CUSA04040",
+    "title": "Uno (PS4)",
     "version": "1.21",
     "size": "2.3 GB",
     "cover": "covers/uno.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "year": "N/A",
+    "genre": "Card Game",
+    "description": "Uno brings the classic card game to PS4 with online multiplayer, themed decks, and customizable house rules for varied gameplay.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "untitled-goose-game",
-    "title": "Untitled Goose Game v1.02",
+    "id": "CUSA23079",
+    "title": "Untitled Goose Game (PS4)",
     "version": "1.02",
     "size": "457.44 MB",
     "cover": "covers/untitled-goose-game.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "year": "N/A",
+    "genre": "Puzzle",
+    "description": "Untitled Goose Game is a mischievous puzzle game where players control a goose causing chaos in a quiet village through creative pranks and stealthy antics.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "vr-ping-pong-psvr",
-    "title": "VR Ping Pong (PSVR) v1.05",
-    "version": "1.05",
-    "size": "163.64 MB",
-    "cover": "covers/vr-ping-pong.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
-  },
-  {
-    "id": "vr-ping-pong-pro-psvr",
-    "title": "VR Ping Pong Pro (PSVR) v1.02",
+    "id": "CUSA15540",
+    "title": "VR Ping Pong Pro (PSVR)",
     "version": "1.02",
     "size": "4.44 GB",
     "cover": "covers/vr-ping-pong-pro.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "year": "N/A",
+    "genre": "Sports",
+    "description": "VR Ping Pong Pro offers realistic table tennis gameplay in virtual reality with multiple environments, physics-driven ball movement, and competitive modes.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "wheel-of-fortune",
-    "title": "Wheel Of Fortune v1.04",
+    "id": "CUSA06032",
+    "title": "VR Ping Pong (PSVR)",
+    "version": "1.05",
+    "size": "163.64 MB",
+    "cover": "covers/vr-ping-pong.jpg",
+    "year": "N/A",
+    "genre": "Sports",
+    "description": "VR Ping Pong brings realistic table tennis gameplay to virtual reality with physics-based ball movement and multiple play environments.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA09059",
+    "title": "Wheel Of Fortune (PS4)",
     "version": "1.04",
     "size": "3.93 GB",
     "cover": "covers/wheel-of-fortune.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "year": "N/A",
+    "genre": "Trivia",
+    "description": "Wheel of Fortune adapts the classic TV game show with puzzle-solving gameplay, online multiplayer, and customizable contestants.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "who-wants-to-be-a-millionaire",
-    "title": "Who Wants To Be A Millionaire v1.06",
+    "id": "CUSA23750",
+    "title": "Who Wants To Be A Millionaire (PS4)",
     "version": "1.06",
     "size": "2.43 GB",
     "cover": "covers/who-wants-to-be-a-millionaire.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "year": "N/A",
+    "genre": "Trivia",
+    "description": "Who Wants To Be A Millionaire brings the iconic quiz show to PS4 with thousands of questions, lifelines, and competitive multiplayer modes.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "worms-armageddon-anniversary-edition",
-    "title": "Worms Armageddon Anniversary Edition v1.03",
+    "id": "CUSA46400",
+    "title": "Worms Armageddon - Anniversary Edition (PS4)",
     "version": "1.03",
     "size": "2.47 GB",
-    "cover": "covers/worms-armageddon-anniversary-edition.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "cover": "covers/worms-armageddon-anniversary.jpg",
+    "year": "N/A",
+    "genre": "Strategy",
+    "description": "Worms Armageddon Anniversary Edition updates the classic turn-based artillery game with enhanced visuals, new customization, and online multiplayer.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "wreckfest",
-    "title": "Wreckfest v2.22",
+    "id": "CUSA08652",
+    "title": "Wreckfest (PS4)",
     "version": "2.22",
     "size": "21.73 GB",
     "cover": "covers/wreckfest.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "year": "N/A",
+    "genre": "Racing",
+    "description": "Wreckfest is a demolition racing game featuring realistic physics, destructible vehicles, and chaotic events across dirt tracks and arenas.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "wwe-2k25",
-    "title": "WWE 2K25 v1.00",
+    "id": "CUSA48575",
+    "title": "WWE 2K25 (PS4)",
     "version": "1.00",
     "size": "86.48 GB",
     "cover": "covers/wwe-2k25.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "year": "N/A",
+    "genre": "Sports",
+    "description": "WWE 2K25 continues the wrestling simulation series with updated rosters, improved animations, and expanded career and showcase modes.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "yatzi",
-    "title": "Yatzi v1.03",
+    "id": "CUSA44427",
+    "title": "Yatzi (PS4)",
     "version": "1.03",
     "size": "402 MB",
     "cover": "covers/yatzi.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "year": "N/A",
+    "genre": "Board Game",
+    "description": "Yatzi brings the classic dice game to PS4 with multiple modes, multiplayer support, and colorful animated presentation.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   },
   {
-    "id": "youtubers-life-omg",
-    "title": "Youtubers Life OMG v1.06",
+    "id": "CUSA13591",
+    "title": "Youtubers Life OMG (PS4)",
     "version": "1.06",
     "size": "957.02 MB",
-    "cover": "covers/youtubers-life.jpg",
-    "year": "TO BE ADDED",
-    "genre": "TO BE ADDED",
-	"dlc": "N/A",
-    "description": "TO BE ADDED"
+    "cover": "covers/youtubers-life-omg.jpg",
+    "year": "N/A",
+    "genre": "Simulation",
+    "description": "Youtubers Life OMG is a life simulation game where players create videos, manage channels, grow audiences, and build a digital career from scratch.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
   }
 ]
