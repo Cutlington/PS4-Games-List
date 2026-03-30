@@ -16,6 +16,15 @@ document.addEventListener('click', e => {
     }
 });
 
+// Helper: check if DLC is real
+function hasRealDLC(game) {
+    return (
+        Array.isArray(game.dlc) &&
+        game.dlc.length > 0 &&
+        game.dlc.some(d => d.name && d.name !== "N/A")
+    );
+}
+
 // --- Index page: load game grid ---
 fetch('https://raw.githubusercontent.com/Cutlington/PS4-Games-List/main/games.json')
   .then(response => response.json())
@@ -33,7 +42,7 @@ fetch('https://raw.githubusercontent.com/Cutlington/PS4-Games-List/main/games.js
           <p>${game.title}</p>
           <small>${game.size}</small>
 
-          ${game.dlc && game.dlc.length > 0 ? `
+          ${hasRealDLC(game) ? `
             <div class="dlc-badge">
                 <span class="dlc-icon">🧩</span> ${game.dlc.length} DLC
             </div>
@@ -77,10 +86,13 @@ if (window.location.pathname.endsWith('game.html')) {
           <li><strong>Genre:</strong> ${game.genre}</li>
         </ul>
 
-        ${game.dlc && game.dlc.length > 0 ? `
+        ${hasRealDLC(game) ? `
           <h3>DLC</h3>
           <ul>
-            ${game.dlc.map(d => `<li>${d.name} — ${d.size}</li>`).join("")}
+            ${game.dlc
+              .filter(d => d.name && d.name !== "N/A")
+              .map(d => `<li>${d.name} — ${d.size}</li>`)
+              .join("")}
           </ul>
         ` : ""}
 
