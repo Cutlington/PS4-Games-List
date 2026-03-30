@@ -31,7 +31,7 @@ const genreGroups = {
     "Horror": "Horror",
     "Indie": "Indie",
     "VR": "VR",
-    "Game Show": "Game Show",
+    "Trivia": "Game Show",
     "Survival": "Survival"
 };
 
