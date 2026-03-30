@@ -106,9 +106,29 @@
     "description": "Explore stylized planets, gather resources, craft tools, and reshape terrain in a peaceful space sandbox.",
     "dlc": [
       {
-        "name": "N/A",
-        "size": "N/A"
-      }
+    "name": "Athleisure Bundle DLC",
+    "size": "1.05 MB"
+  },
+  {
+    "name": "Essential Bundle DLC",
+    "size": "1.05 MB"
+  },
+  {
+    "name": "Starter Bundle DLC",
+    "size": "1.05 MB"
+  },
+  {
+    "name": "Suit Bundle DLC",
+    "size": "1.05 MB"
+  },
+  {
+    "name": "Glitchwalkers DLC",
+    "size": "2 GB"
+  },
+  {
+    "name": "Glitchwalker Premium Pack DLC",
+    "size": "2.78 GB"
+  }
     ]
   },
   {
