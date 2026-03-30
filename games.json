@@ -270,8 +270,8 @@
     "description": "A tile‑matching puzzle game focused on chaining combos and clearing cascading blocks.",
     "dlc": [
       {
-        "name": "N/A",
-        "size": "N/A"
+        "name": "Color DLC",
+        "size": "1.05 MB"
       }
     ]
   },
@@ -366,8 +366,8 @@
     "description": "A VR collection of classic carnival attractions including ring toss, shooting galleries, and more.",
     "dlc": [
       {
-        "name": "N/A",
-        "size": "N/A"
+        "name": "Alley Adventure DLC",
+        "size": "1.05 Mb"
       }
     ]
   },
@@ -398,8 +398,16 @@
     "description": "Run and customize your own restaurant, manage staff, prepare dishes, and build a culinary reputation.",
     "dlc": [
       {
-        "name": "N/A",
-        "size": "N/A"
+        "name": "Al Forno DLC",
+        "size": "1.05 MB"
+      },
+      {
+        "name": "Bon Appetit DLC",
+        "size": "1.05 MB"
+      },
+      {
+        "name": "Cooking Lab DLC",
+        "size": "1.05 MB"
       }
     ]
   },
@@ -494,8 +502,16 @@
     "description": "A hybrid deep‑sea adventure and sushi‑restaurant management game with exploration, crafting, and quirky storytelling.",
     "dlc": [
       {
-        "name": "N/A",
-        "size": "N/A"
+        "name": "Dredge Content Pack DLC",
+        "size": "25.49 MB"
+      },
+      {
+        "name": "Godzilla Content Pack DLC",
+        "size": "75.24 MB"
+      },
+      {
+        "name": "Ichibans Holiday Content Pack DLC",
+        "size": "1.05 MB"
       }
     ]
   },
@@ -542,8 +558,8 @@
     "description": "A kart racer featuring DreamWorks characters with themed tracks, power‑ups, and multiplayer modes.",
     "dlc": [
       {
-        "name": "N/A",
-        "size": "N/A"
+        "name": "Rally Pack DLC",
+        "size": "1.05 MB"
       }
     ]
   },
@@ -558,9 +574,17 @@
     "description": "A fishing adventure with a sinister twist where players uncover dark secrets beneath the waves.",
     "dlc": [
       {
-        "name": "N/A",
-        "size": "N/A"
-      }
+        "name": "Blackstone Key DLC",
+        "size": "1.05 MB"
+      },
+      {
+        "name": "The Iron Rig DLC",
+        "size": "1.05 MB"
+      },
+      {
+        "name": "The Pale Reach DLC",
+        "size": "1.05 MB"
+      },
     ]
   },
   {
@@ -574,9 +598,17 @@
     "description": "A post‑apocalyptic survival game where nearly everything can be dismantled for crafting materials.",
     "dlc": [
       {
-        "name": "N/A",
-        "size": "N/A"
-      }
+        "name": "Doomsday DLC",
+        "size": "1.05 MB"
+      },
+      {
+        "name": "Pets & Dungeons DLC",
+        "size": "1.05 MB"
+      },
+      {
+        "name": "Underworld DLC",
+        "size": "1.05 MB"
+      },
     ]
   },
   {
@@ -606,8 +638,8 @@
     "description": "The 2026 installment of EA’s football series, offering enhanced realism and expanded career features.",
     "dlc": [
       {
-        "name": "N/A",
-        "size": "N/A"
+        "name": "Offline Unlocker",
+        "size": "1.05 MB"
       }
     ]
   },
@@ -622,9 +654,89 @@
     "description": "A mixed martial arts fighting game featuring career progression, realistic combat, and licensed UFC fighters.",
     "dlc": [
       {
-        "name": "N/A",
-        "size": "N/A"
-      }
+        "name": "100 Ufc Points",
+        "size": "1.44 MB"
+      },
+      {
+        "name": "250 Ufc Points",
+        "size": "1.44 MB"
+      },
+      {
+        "name": "500 Ufc Points",
+        "size": "1.44 MB"
+      },
+      {
+        "name": "750 Ufc Points",
+        "size": "1.44 MB"
+      },
+      {
+        "name": "1050 Ufc Points",
+        "size": "1.44 MB"
+      },
+      {
+        "name": "1600 Ufc Points",
+        "size": "1.44 MB"
+      },
+      {
+        "name": "2200 Ufc Points",
+        "size": "1.44 MB"
+      },
+      {
+        "name": "4600 Ufc Points",
+        "size": "1.44 MB"
+      },
+      {
+        "name": "2200 Ufc Points",
+        "size": "1.44 MB"
+      },
+      {
+        "name": "Anthony Joshua DLC",
+        "size": "1.97 MB"
+      },
+      {
+        "name": "Backyard And Kumite Customization Packs DLC",
+        "size": "1.97 MB"
+      },
+      {
+        "name": "Bruce Lee Bantamweight DLC",
+        "size": "1.97 MB"
+      },
+      {
+        "name": "Bruce Lee Bundle DLC",
+        "size": "1.97 MB"
+      },
+      {
+        "name": "Bruce Lee Featherweight DLC",
+        "size": "1.97 MB"
+      },
+      {
+        "name": "Bruce Lee Lightweight DLC",
+        "size": "1.97 MB"
+      },
+      {
+        "name": "Bruce Lee Welterweight DLC",
+        "size": "1.97 MB"
+      },
+      {
+        "name": "Gladiator Vanity Bundle DLC",
+        "size": "1.97 MB"
+      },
+      {
+        "name": "Premium Starter Bundle DLC",
+        "size": "1.97 MB"
+      },
+      {
+        "name": "Rainbows And Unicorns Vanity Bundle DLC",
+        "size": "1.97 MB"
+      },
+      {
+        "name": "Starter Bundle DLC",
+        "size": "1.97 MB"
+      },
+      {
+        "name": "Tyson Fury DLC",
+        "size": "1.97 MB"
+      },
     ]
   },
   {
@@ -654,9 +766,17 @@
     "description": "A physics‑driven off‑road exploration game where players complete scientific missions using specialized vehicles.",
     "dlc": [
       {
-        "name": "N/A",
-        "size": "N/A"
-      }
+        "name": "Cotco Canyon DLC",
+        "size": "1.05 MB"
+      },
+      {
+        "name": "Pioneer Pack DLC",
+        "size": "1.05 MB"
+      },
+      {
+        "name": "The Great Don 71 DLC",
+        "size": "1.05 MB"
+      },
     ]
   },
   {
@@ -862,8 +982,16 @@
     "description": "A collection of classic Hasbro board games including Risk, Battleship, and more, with enhanced digital features.",
     "dlc": [
       {
-        "name": "N/A",
-        "size": "N/A"
+        "name": "Just Dance DLC",
+        "size": "16.52 MB"
+      },
+      {
+        "name": "My Little Pony DLC",
+        "size": "19.6 MB"
+      },
+      {
+        "name": "Raving Rabbids DLC",
+        "size": "1.18 MB"
       }
     ]
   },
