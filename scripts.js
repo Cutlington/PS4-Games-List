@@ -2,12 +2,29 @@
 // HELPERS
 // ------------------------------
 
+// Normalize genres: split all combined genres into individual tags
+function normalizeGenres(rawGenres) {
+    return rawGenres
+        .flatMap(g =>
+            g
+                // split on commas, slashes, ampersands, dashes
+                .split(/[,/&\-]+/g)
+                // also split on word boundaries like "Action Adventure"
+                .flatMap(part => part.split(/\s+(?=[A-Z])/g))
+        )
+        .map(g => g.trim())
+        .filter(g => g.length > 0);
+}
+
 // Universal genre getter (supports: genre, genres, array, string)
 function getGenres(game) {
-    if (Array.isArray(game.genres)) return game.genres;
-    if (Array.isArray(game.genre)) return game.genre;
-    if (typeof game.genre === "string") return [game.genre];
-    return [];
+    let raw = [];
+
+    if (Array.isArray(game.genres)) raw = game.genres;
+    else if (Array.isArray(game.genre)) raw = game.genre;
+    else if (typeof game.genre === "string") raw = [game.genre];
+
+    return normalizeGenres(raw);
 }
 
 // Helper: check if DLC is real
@@ -53,11 +70,6 @@ if (document.getElementById("gameGrid")) {
                     applyFilters();
                 });
             }
-
-            // Trigger sidebar slide-in animation
-            requestAnimationFrame(() => {
-                document.getElementById("sidebar")?.classList.add("visible");
-            });
         })
         .catch(err => console.error("JSON Load Error (index):", err));
 }
