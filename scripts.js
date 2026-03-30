@@ -30,6 +30,7 @@ function hasRealDLC(game) {
 // ------------------------------
 let allGames = [];
 let selectedGenres = new Set();
+let searchQuery = "";
 
 // ------------------------------
 // INDEX PAGE LOGIC
@@ -42,6 +43,12 @@ if (document.getElementById("gameGrid")) {
 
             generateGenreFilters(games);
             renderGames(games);
+
+            const searchInput = document.getElementById("searchInput");
+            searchInput.addEventListener("input", e => {
+                searchQuery = e.target.value.toLowerCase();
+                applyFilters();
+            });
         })
         .catch(err => console.error("JSON Load Error (index):", err));
 }
@@ -123,16 +130,27 @@ function handleGenreChange(e) {
     applyFilters();
 }
 
-// Apply genre filtering
+// Apply BOTH search + genre filters
 function applyFilters() {
-    if (selectedGenres.size === 0) {
-        renderGames(allGames);
-        return;
+    let filtered = allGames;
+
+    // Genre filtering
+    if (selectedGenres.size > 0) {
+        filtered = filtered.filter(game =>
+            game.genres?.some(g => selectedGenres.has(g))
+        );
     }
 
-    const filtered = allGames.filter(game =>
-        game.genres?.some(g => selectedGenres.has(g))
-    );
+    // Search filtering
+    if (searchQuery.trim() !== "") {
+        filtered = filtered.filter(game => {
+            return (
+                game.title.toLowerCase().includes(searchQuery) ||
+                String(game.id).includes(searchQuery) ||
+                String(game.year).includes(searchQuery)
+            );
+        });
+    }
 
     renderGames(filtered);
 }
@@ -140,10 +158,12 @@ function applyFilters() {
 // Reset filters
 function resetFilters() {
     selectedGenres.clear();
+    searchQuery = "";
 
-    document
-        .querySelectorAll("#genre-filters input[type='checkbox']")
+    document.querySelectorAll("#genre-filters input[type='checkbox']")
         .forEach(cb => (cb.checked = false));
+
+    document.getElementById("searchInput").value = "";
 
     renderGames(allGames);
 }
