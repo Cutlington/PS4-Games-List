@@ -736,7 +736,7 @@
       {
         "name": "Tyson Fury DLC",
         "size": "1.97 MB"
-      },
+      }
     ]
   },
   {
@@ -776,7 +776,7 @@
       {
         "name": "The Great Don 71 DLC",
         "size": "1.05 MB"
-      },
+      }
     ]
   },
   {
@@ -1169,8 +1169,6 @@
       "name": "N/A",
       "size": "N/A"
     }
-  ]
-}
 ]
   },
   {
@@ -2503,7 +2501,7 @@
   },
   {
     "id": "SLUS21207",
-    "title": "Tony Hawk's American Wasteland",
+    "title": "Tony Hawks American Wasteland",
     "version": "1.00",
     "size": "3.92 GB",
     "cover": "covers/tony-hawk's-american-wasteland.jpg",
@@ -2519,7 +2517,7 @@
   },
   {
     "id": "SLUS00981",
-    "title": "Tony Hawk's Pro Skater",
+    "title": "Tony Hawks Pro Skater",
     "version": "1.00",
     "size": "517.34 MB",
     "cover": "covers/tony-hawk's-pro-skate.jpg",
@@ -2535,7 +2533,7 @@
   },
   {
     "id": "CUSA17922",
-    "title": "Tony Hawk's Pro Skater 1 + 2",
+    "title": "Tony Hawks Pro Skater 1 + 2",
     "version": "1.10",
     "size": "23.8 GB",
     "cover": "covers/tony-hawk's-pro-skater-1-+-2.jpg",
@@ -2551,13 +2549,13 @@
   },
   {
     "id": "SLUS99999",
-    "title": "Tony Hawk's Pro Skater 3 + 4",
+    "title": "Tony Hawks Pro Skater 3 + 4",
     "version": "1.00",
     "size": "TO BE ADDED",
     "cover": "covers/tony-hawk's-pro-skater-3-+-4.jpg",
     "year": "TO BE ADDED",
     "genre": "Sports / Skateboarding",
-    "description": "A combined release of Tony Hawk's Pro Skater 3 and 4. (Metadata placeholder until your sheet confirms details.)",
+    "description": "A combined release of Tony Hawks Pro Skater 3 and 4.",
     "dlc": [
       {
         "name": "N/A",
@@ -2567,7 +2565,7 @@
   },
   {
     "id": "SLUS01419",
-    "title": "Tony Hawk's Pro Skater 3",
+    "title": "Tony Hawks Pro Skater 3",
     "version": "1.00",
     "size": "2.01 GB",
     "cover": "covers/tony-hawk's-pro-skater-3.jpg",
@@ -2583,7 +2581,7 @@
   },
   {
     "id": "SLUS20604",
-    "title": "Tony Hawk's Pro Skater 4",
+    "title": "Tony Hawks Pro Skater 4",
     "version": "1.00",
     "size": "3.12 GB",
     "cover": "covers/tony-hawk's-pro-skater-4.jpg",
@@ -2599,7 +2597,7 @@
   },
   {
     "id": "CUSA02609",
-    "title": "Tony Hawk's Pro Skater 5",
+    "title": "Tony Hawks Pro Skater 5",
     "version": "1.08",
     "size": "7.8 GB",
     "cover": "covers/tony-hawk's-pro-skater-5.jpg",
@@ -2615,7 +2613,7 @@
   },
   {
     "id": "SLUS21444",
-    "title": "Tony Hawk's Project 8",
+    "title": "Tony Hawks Project 8",
     "version": "1.00",
     "size": "4.21 GB",
     "cover": "covers/tony-hawk's-project-8.jpg",
@@ -2631,7 +2629,7 @@
   },
   {
     "id": "SLUS21065",
-    "title": "Tony Hawk's Underground",
+    "title": "Tony Hawks Underground",
     "version": "1.00",
     "size": "3.92 GB",
     "cover": "covers/tony-hawk's-underground.jpg",
@@ -2647,7 +2645,7 @@
   },
   {
     "id": "SLUS21066",
-    "title": "Tony Hawk's Underground 2",
+    "title": "Tony Hawks Underground 2",
     "version": "1.00",
     "size": "4.01 GB",
     "cover": "covers/tony-hawk's-underground-2.jpg",
@@ -2663,7 +2661,7 @@
   },
   {
     "id": "SLUS01066",
-    "title": "Tony Hawk's Pro Skater 2",
+    "title": "Tony Hawks Pro Skater 2",
     "version": "1.00",
     "size": "1.12 GB",
     "cover": "covers/tony-hawks-pro-skater-2.jpg",
@@ -2711,7 +2709,7 @@
   },
   {
     "id": "CUSA55555",
-    "title": "Trident's Tale",
+    "title": "Tridents Tale",
     "version": "1.00",
     "size": "TO BE ADDED",
     "cover": "covers/trident's-tale.jpg",
