@@ -35,6 +35,8 @@ const genreGroups = {
     "Games Show": "Game Show",
     "Trivia": "Game Show",
     "Survival": "Survival",
+
+    // Board Game family
     "Board Game": "Board Game",
     "Board Games": "Board Game",
     "Boardgame": "Board Game",
@@ -46,26 +48,29 @@ const genreGroups = {
 };
 
 // ------------------------------
-// HELPERS
+// GENRE NORMALIZATION (FINAL FIX)
 // ------------------------------
-function normalizeGenres(rawGenres) {
-    return rawGenres
-        .flatMap(g =>
-            g
-                .split(/[,/&\-]+/g)
-                .flatMap(part => part.split(/\s+(?=[A-Z])/g))
-        )
+function normalizeGenre(g) {
+    return g
+        .replace(/\s*\/\s*/g, "/")   // keep slash as separator
+        .replace(/\s*&\s*/g, "&")    // keep &
+        .replace(/\s*-\s*/g, "-")    // keep hyphen
+        .trim();
+}
+
+// ------------------------------
+// SAFE SPLITTING (NO SPACE SPLIT)
+// ------------------------------
+function splitGenres(raw) {
+    return raw
+        .split(/[/,&-]/g)   // split ONLY on true separators
         .map(g => g.trim())
         .filter(g => g.length > 0);
 }
 
-function mapToGroupedGenres(rawGenres) {
-    return normalizeGenres(rawGenres)
-        .map(g => genreGroups[g] || null)
-        .filter(Boolean)
-        .filter((g, i, arr) => arr.indexOf(g) === i);
-}
-
+// ------------------------------
+// MAP RAW GENRES → GROUPED GENRES
+// ------------------------------
 function getGenres(game) {
     let raw = [];
 
@@ -73,9 +78,21 @@ function getGenres(game) {
     else if (Array.isArray(game.genre)) raw = game.genre;
     else if (typeof game.genre === "string") raw = [game.genre];
 
-    return mapToGroupedGenres(raw);
+    const normalized = raw.map(normalizeGenre);
+
+    const parts = normalized.flatMap(splitGenres);
+
+    const mapped = parts
+        .map(g => genreGroups[g] || null)
+        .filter(Boolean);
+
+    // Dedupe
+    return [...new Set(mapped)];
 }
 
+// ------------------------------
+// DLC CHECK
+// ------------------------------
 function hasRealDLC(game) {
     return (
         Array.isArray(game.dlc) &&
@@ -179,7 +196,7 @@ function applyFilters() {
         );
     }
 
-    // Letter filter (A–Z)
+    // Letter filter
     if (FilterState.letter !== "all") {
         filtered = filtered.filter(game =>
             game.title.trim().toUpperCase().startsWith(FilterState.letter)
@@ -251,7 +268,6 @@ function generateLetterSort() {
     const select = document.getElementById("sortLetter");
     if (!select) return;
 
-    // Populate A–Z
     for (let i = 65; i <= 90; i++) {
         const letter = String.fromCharCode(i);
         const option = document.createElement("option");
@@ -260,7 +276,6 @@ function generateLetterSort() {
         select.appendChild(option);
     }
 
-    // Listen for changes
     select.addEventListener("change", () => {
         FilterState.letter = select.value;
         applyFilters();
