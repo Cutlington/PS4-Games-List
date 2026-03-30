@@ -8,6 +8,7 @@ body {
     background: #020617;
     color: #fff;
     font-family: 'SST', sans-serif;
+
     /* Push main content over so it doesn't sit under the fixed sidebar */
     margin-left: 250px; /* matches sidebar width */
 }
