@@ -35,6 +35,7 @@ const genreGroups = {
     "Games Show": "Game Show",
     "Trivia": "Game Show",
     "Survival": "Survival",
+    "Board Game": "Board Game",
 };
 
 // ------------------------------
