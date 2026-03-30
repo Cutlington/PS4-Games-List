@@ -7,6 +7,7 @@ body {
     overflow-x: hidden;
 }
 
+/* Stronger PS4 Wave Effect */
 .ps4-waves {
     position: fixed;
     top: 0;
@@ -15,8 +16,8 @@ body {
     height: 100%;
     background: url('ps4-waves.svg');
     background-size: cover;
-    animation: waveMove 18s linear infinite;
-    opacity: 0.25;
+    animation: waveMove 14s linear infinite;
+    opacity: 0.28;
     z-index: -1;
 }
 
@@ -47,12 +48,41 @@ h1 {
 /* Game Tile */
 .game {
     text-align: center;
-    transition: transform 0.2s ease, filter 0.2s ease;
+    transition: transform 0.25s ease, filter 0.25s ease, box-shadow 0.25s ease;
+    position: relative;
+    animation: float 4s ease-in-out infinite;
 }
 
+/* PS4 Floating Animation */
+@keyframes float {
+    0% { transform: translateY(0); }
+    50% { transform: translateY(-6px); }
+    100% { transform: translateY(0); }
+}
+
+/* PS4 Glow + Focus Bar */
 .game:hover {
     transform: scale(1.1);
     filter: brightness(1.2);
+    box-shadow: 0 0 25px rgba(0, 140, 255, 0.6);
+    animation: none;
+}
+
+.game::after {
+    content: "";
+    position: absolute;
+    bottom: -6px;
+    left: 50%;
+    width: 0;
+    height: 3px;
+    background: #4da3ff;
+    border-radius: 2px;
+    transition: all 0.25s ease;
+    transform: translateX(-50%);
+}
+
+.game:hover::after {
+    width: 60%;
 }
 
 /* Cover Art */
@@ -70,7 +100,7 @@ h1 {
     color: #ffffff;
 }
 
-/* If titles are links, force them white too */
+/* Force all title links white */
 .game p a,
 .game a,
 .game a:link,
@@ -120,18 +150,6 @@ ul {
 
 ul li {
     margin-bottom: 6px;
-}
-
-/* Force game title text and links to white across all states */
-.grid .game p,
-.grid .game p a,
-.grid .game a,
-.grid .game a:link,
-.grid .game a:visited,
-.grid .game a:hover,
-.grid .game a:active {
-  color: #ffffff !important;
-  text-decoration: none !important;
 }
 
 /* Force ALL game title text to white */
