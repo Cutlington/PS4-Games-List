@@ -1,35 +1,46 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PS4 Game Library</title>
     <link rel="stylesheet" href="style.css">
-    <link href="https://fonts.cdnfonts.com/css/sst" rel="stylesheet">
 </head>
 <body>
 
-<!-- Background Waves (PS4 Theme) -->
-<div class="ps4-waves"></div>
+    <!-- SIDEBAR -->
+    <div class="sidebar">
+        <h2>Filters</h2>
 
-<!-- Sidebar for Genres -->
-<div id="sidebar">
-    <h3>Genres</h3>
-    <div id="genre-filters"></div>
-    <button id="resetFilters">Show All</button>
-</div>
+        <!-- Search -->
+        <label for="search">Search</label>
+        <input type="text" id="search" placeholder="Search games...">
 
-<!-- Search Bar -->
-<div id="searchBarContainer">
-    <input type="text" id="searchInput" placeholder="Search by title, ID, or year">
-</div>
+        <!-- Sort -->
+        <label for="sort">Sort By</label>
+        <select id="sort">
+            <option value="title">Title (A–Z)</option>
+            <option value="size">Size (Small–Large)</option>
+        </select>
 
-<!-- Page Title -->
-<h1 class="page-title">PS4 Game Library</h1>
+        <!-- Genres (auto-filled by scripts.js) -->
+        <h2>Genres</h2>
+        <div id="genreFilters"></div>
 
-<!-- Game Grid -->
-<div id="gameGrid" class="grid"></div>
+        <!-- Show All -->
+        <button id="resetFilters" style="margin-top: 15px; padding: 8px 12px; width: 100%; border-radius: 6px; border: none; background: rgba(0,140,255,0.8); color: white; cursor: pointer;">
+            Show All
+        </button>
+    </div>
 
-<!-- Scripts -->
-<script src="scripts.js"></script>
+    <!-- MAIN CONTENT -->
+    <div class="main-content">
+        <h1 style="margin-bottom: 20px;">PS4 Game Library</h1>
 
+        <!-- Game Grid -->
+        <div id="games-container"></div>
+    </div>
+
+    <script src="scripts.js"></script>
 </body>
 </html>
