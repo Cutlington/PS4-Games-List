@@ -260,3 +260,12 @@ body.game-page {
                 url('assets/ps4-wave-true.svg') no-repeat center center fixed;
     background-size: cover;
 }
+
+/* --------------------------------------------------
+   FIX: Make sidebar dropdown text visible
+-------------------------------------------------- */
+
+.sidebar select {
+    color: black !important;
+    background-color: white !important;
+}
