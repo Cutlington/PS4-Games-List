@@ -122,8 +122,16 @@
     "description": "TO BE ADDED",
     "dlc": [
       {
-        "name": "N/A",
-        "size": "N/A"
+        "name": "Basic Supply Bundle",
+        "size": "1.05 MB"
+        "name": "Deluxe Upgrade",
+        "size": "1.05 MB"
+        "name": "Enhanced Supply Bundle",
+        "size": "1.05 MB"
+        "name": "Story Expansion Pack The Red Strain",
+        "size": "2 GB"
+        "name": "Story Expansion Pack Wicked Isle",
+        "size": "2.78 GB"
       }
     ]
   },
