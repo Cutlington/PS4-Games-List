@@ -1,4 +1,7 @@
-/* Sidebar Slide-In Animation */
+/* ---------------------------------------
+   PS4 SIDEBAR LAYOUT + ANIMATION
+---------------------------------------- */
+
 #sidebar {
     position: fixed;
     top: 0;
@@ -12,16 +15,110 @@
     box-shadow: 4px 0 20px rgba(0, 0, 0, 0.4);
     z-index: 10;
     animation: slideIn 0.7s ease forwards;
+    color: #dfe6ff;
+    font-family: 'SST', sans-serif;
+    overflow-y: auto;
 }
 
+/* Slide-in animation */
 @keyframes slideIn {
     from { left: -260px; opacity: 0; }
     to { left: 0; opacity: 1; }
 }
 
-/* Search Bar */
+/* Sidebar title */
+#sidebar h3 {
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 18px;
+    letter-spacing: 1px;
+    color: #9cf;
+    text-shadow: 0 0 6px #005eff;
+}
+
+/* Reset button */
+#resetFilters {
+    margin-top: 15px;
+    width: 100%;
+    padding: 8px 0;
+    background: #003a80;
+    border: 1px solid #9cf;
+    color: #dfe6ff;
+    font-family: 'SST', sans-serif;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+#resetFilters:hover {
+    background: #0050b3;
+    box-shadow: 0 0 10px #9cf;
+}
+
+/* ---------------------------------------
+   PS4 CHECKBOX STYLE
+---------------------------------------- */
+
+.ps4-filter-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin: 6px 0;
+    cursor: pointer;
+    color: #dfe6ff;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    transition: 0.2s;
+}
+
+.ps4-filter-item:hover {
+    color: #9cf;
+    text-shadow: 0 0 6px #005eff;
+}
+
+/* Hide native checkbox */
+.ps4-filter-item input[type="checkbox"] {
+    display: none;
+}
+
+/* Custom PS4 checkbox */
+.ps4-checkbox {
+    width: 18px;
+    height: 18px;
+    border: 2px solid #9cf;
+    border-radius: 4px;
+    display: inline-block;
+    position: relative;
+    transition: 0.2s;
+}
+
+/* Checked state */
+.ps4-filter-item input[type="checkbox"]:checked + .ps4-checkbox {
+    background: #9cf;
+    box-shadow: 0 0 10px #9cf;
+}
+
+/* Checkmark */
+.ps4-filter-item input[type="checkbox"]:checked + .ps4-checkbox::after {
+    content: "✔";
+    color: #002b66;
+    font-size: 14px;
+    position: absolute;
+    top: -2px;
+    left: 2px;
+}
+
+/* Genre text */
+.ps4-filter-text {
+    user-select: none;
+}
+
+/* ---------------------------------------
+   SEARCH BAR (PS4 STYLE)
+---------------------------------------- */
+
 #searchBarContainer {
-    margin-left: 250px;
+    margin-left: 250px; /* accounts for sidebar width */
     margin-top: 20px;
     text-align: center;
 }
