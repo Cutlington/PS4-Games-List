@@ -80,10 +80,12 @@ let allGames = [];
 const FilterState = {
     genres: new Set(),
     search: "",
+    letter: "all",
 
     reset() {
         this.genres.clear();
         this.search = "";
+        this.letter = "all";
     }
 };
 
@@ -97,6 +99,7 @@ if (document.getElementById("games-container")) {
             allGames = games;
 
             generateGenreFilters(games);
+            generateLetterSort();
             renderGames(games);
 
             const searchInput = document.getElementById("search");
@@ -147,18 +150,27 @@ function renderGames(games) {
 function applyFilters() {
     let filtered = allGames;
 
+    // Genre filter
     if (FilterState.genres.size > 0) {
         filtered = filtered.filter(game =>
             getGenres(game).some(g => FilterState.genres.has(g))
         );
     }
 
+    // Search filter
     if (FilterState.search.trim() !== "") {
         const q = FilterState.search.toLowerCase();
         filtered = filtered.filter(game =>
             game.title.toLowerCase().includes(q) ||
             String(game.id).includes(q) ||
             String(game.year).includes(q)
+        );
+    }
+
+    // Letter filter (A–Z)
+    if (FilterState.letter !== "all") {
+        filtered = filtered.filter(game =>
+            game.title.trim().toUpperCase().startsWith(FilterState.letter)
         );
     }
 
@@ -212,9 +224,35 @@ function generateGenreFilters(games) {
             const searchInput = document.getElementById("search");
             if (searchInput) searchInput.value = "";
 
+            const sortLetter = document.getElementById("sortLetter");
+            if (sortLetter) sortLetter.value = "all";
+
             applyFilters();
         });
     }
+}
+
+// ------------------------------
+// A–Z SORT DROPDOWN GENERATOR
+// ------------------------------
+function generateLetterSort() {
+    const select = document.getElementById("sortLetter");
+    if (!select) return;
+
+    // Populate A–Z
+    for (let i = 65; i <= 90; i++) {
+        const letter = String.fromCharCode(i);
+        const option = document.createElement("option");
+        option.value = letter;
+        option.textContent = letter;
+        select.appendChild(option);
+    }
+
+    // Listen for changes
+    select.addEventListener("change", () => {
+        FilterState.letter = select.value;
+        applyFilters();
+    });
 }
 
 // ------------------------------
