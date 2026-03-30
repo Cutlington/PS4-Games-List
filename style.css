@@ -10,10 +10,12 @@
 
 body {
     font-family: 'Helvetica Neue', sans-serif;
-    background: url('ps4-waves.svg') no-repeat center center fixed;
-    background-size: cover;
+
+    /* TRUE PS4 BLUE GRADIENT */
+    background: linear-gradient(135deg, #003791 0%, #012060 100%);
     color: white;
     overflow-x: hidden;
+    position: relative;
 }
 
 /* Make all text white */
@@ -159,7 +161,7 @@ a {
 }
 
 /* --------------------------------------------------
-   PS4 ANIMATED WAVES (MAIN PAGE ONLY)
+   TRUE PS4 ANIMATED WAVES (MAIN PAGE ONLY)
 -------------------------------------------------- */
 
 body:not(.game-page)::before {
@@ -169,10 +171,14 @@ body:not(.game-page)::before {
     left: 0;
     width: 200%;
     height: 100%;
-    background: url('ps4-waves.svg') repeat-x;
+
+    /* TRUE PS4 WAVE SVG */
+    background: url('assets/ps4-wave-true.svg') repeat-x;
     background-size: cover;
-    opacity: 0.25;
-    animation: ps4Wave 18s linear infinite;
+
+    opacity: 0.22; /* matches console */
+    mix-blend-mode: screen;
+    animation: ps4Wave 22s linear infinite;
     z-index: -1;
 }
 
@@ -186,6 +192,7 @@ body:not(.game-page)::before {
 -------------------------------------------------- */
 
 body.game-page {
-    background: url('ps4-waves.svg') no-repeat center center fixed;
+    background: linear-gradient(135deg, #003791 0%, #012060 100%),
+                url('assets/ps4-wave-true.svg') no-repeat center center fixed;
     background-size: cover;
 }
