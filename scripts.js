@@ -1,4 +1,39 @@
 // ------------------------------
+// GENRE GROUPING MAP
+// ------------------------------
+const genreGroups = {
+    // Action / Adventure
+    "Action": "Action",
+    "Action Adventure": "Action-Adventure",
+    "Action-Adventure": "Action-Adventure",
+    "Adventure": "Action-Adventure",
+    "Adventure RPG": "RPG",
+
+    // RPG
+    "RPG": "RPG",
+    "JRPG": "RPG",
+    "Action RPG": "RPG",
+
+    // Shooter
+    "Shooter": "Shooter",
+    "FPS": "Shooter",
+    "First-Person Shooter": "Shooter",
+    "Third-Person Shooter": "Shooter",
+
+    // Other common genres
+    "Sports": "Sports",
+    "Racing": "Racing",
+    "Puzzle": "Puzzle",
+    "Platformer": "Platformer",
+    "Fighting": "Fighting",
+    "Strategy": "Strategy",
+    "Simulation": "Simulation",
+    "Horror": "Horror",
+    "Indie": "Indie",
+    "VR": "VR"
+};
+
+// ------------------------------
 // HELPERS
 // ------------------------------
 
@@ -7,13 +42,19 @@ function normalizeGenres(rawGenres) {
     return rawGenres
         .flatMap(g =>
             g
-                // split on commas, slashes, ampersands, dashes
                 .split(/[,/&\-]+/g)
-                // also split on word boundaries like "Action Adventure"
                 .flatMap(part => part.split(/\s+(?=[A-Z])/g))
         )
         .map(g => g.trim())
         .filter(g => g.length > 0);
+}
+
+// Convert raw genres → grouped genres
+function mapToGroupedGenres(rawGenres) {
+    return normalizeGenres(rawGenres)
+        .map(g => genreGroups[g] || null)
+        .filter(Boolean)
+        .filter((g, i, arr) => arr.indexOf(g) === i);
 }
 
 // Universal genre getter (supports: genre, genres, array, string)
@@ -24,7 +65,7 @@ function getGenres(game) {
     else if (Array.isArray(game.genre)) raw = game.genre;
     else if (typeof game.genre === "string") raw = [game.genre];
 
-    return normalizeGenres(raw);
+    return mapToGroupedGenres(raw);
 }
 
 // Helper: check if DLC is real
