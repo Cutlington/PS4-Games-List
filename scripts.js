@@ -1,20 +1,14 @@
-// --- Sounds ---
-const hoverSound = new Audio('hover.mp3');
-const clickSound = new Audio('click.mp3');
+// ------------------------------
+// HELPERS
+// ------------------------------
 
-document.addEventListener('mouseover', e => {
-    if (e.target.closest('.game')) {
-        hoverSound.currentTime = 0;
-        hoverSound.play().catch(() => {});
-    }
-});
-
-document.addEventListener('click', e => {
-    if (e.target.closest('a')) {
-        clickSound.currentTime = 0;
-        clickSound.play().catch(() => {});
-    }
-});
+// Universal genre getter (supports: genre, genres, array, string)
+function getGenres(game) {
+    if (Array.isArray(game.genres)) return game.genres;
+    if (Array.isArray(game.genre)) return game.genre;
+    if (typeof game.genre === "string") return [game.genre];
+    return [];
+}
 
 // Helper: check if DLC is real
 function hasRealDLC(game) {
@@ -26,11 +20,19 @@ function hasRealDLC(game) {
 }
 
 // ------------------------------
-// GLOBALS FOR FILTERING
+// GLOBALS & FILTER STATE
 // ------------------------------
 let allGames = [];
-let selectedGenres = new Set();
-let searchQuery = "";
+
+const FilterState = {
+    genres: new Set(),
+    search: "",
+
+    reset() {
+        this.genres.clear();
+        this.search = "";
+    }
+};
 
 // ------------------------------
 // INDEX PAGE LOGIC
@@ -45,20 +47,29 @@ if (document.getElementById("gameGrid")) {
             renderGames(games);
 
             const searchInput = document.getElementById("searchInput");
-            searchInput.addEventListener("input", e => {
-                searchQuery = e.target.value.toLowerCase();
-                applyFilters();
+            if (searchInput) {
+                searchInput.addEventListener("input", e => {
+                    FilterState.search = e.target.value.toLowerCase();
+                    applyFilters();
+                });
+            }
+
+            // Trigger sidebar slide-in animation
+            requestAnimationFrame(() => {
+                document.getElementById("sidebar")?.classList.add("visible");
             });
         })
         .catch(err => console.error("JSON Load Error (index):", err));
 }
 
-// Render games into the grid
+// ------------------------------
+// RENDER GAME GRID
+// ------------------------------
 function renderGames(games) {
     const grid = document.getElementById('gameGrid');
     if (!grid) return;
 
-    grid.innerHTML = ""; // Clear existing
+    grid.innerHTML = "";
 
     games.forEach(game => {
         const div = document.createElement('div');
@@ -82,7 +93,35 @@ function renderGames(games) {
     });
 }
 
-// Generate sidebar genre checkboxes
+// ------------------------------
+// FILTER ENGINE
+// ------------------------------
+function applyFilters() {
+    let filtered = allGames;
+
+    // Genre filtering
+    if (FilterState.genres.size > 0) {
+        filtered = filtered.filter(game =>
+            getGenres(game).some(g => FilterState.genres.has(g))
+        );
+    }
+
+    // Search filtering
+    if (FilterState.search.trim() !== "") {
+        const q = FilterState.search.toLowerCase();
+        filtered = filtered.filter(game =>
+            game.title.toLowerCase().includes(q) ||
+            String(game.id).includes(q) ||
+            String(game.year).includes(q)
+        );
+    }
+
+    renderGames(filtered);
+}
+
+// ------------------------------
+// SIDEBAR FILTER GENERATOR
+// ------------------------------
 function generateGenreFilters(games) {
     const container = document.getElementById("genre-filters");
     if (!container) return;
@@ -90,82 +129,47 @@ function generateGenreFilters(games) {
     const genreSet = new Set();
 
     games.forEach(game => {
-        if (Array.isArray(game.genres)) {
-            game.genres.forEach(g => genreSet.add(g));
-        }
+        getGenres(game).forEach(g => genreSet.add(g));
     });
 
     container.innerHTML = "";
 
-    genreSet.forEach(genre => {
+    [...genreSet].sort().forEach(genre => {
         const id = "genre-" + genre.replace(/\s+/g, "-").toLowerCase();
 
-        container.innerHTML += `
-            <label>
-                <input type="checkbox" value="${genre}" id="${id}">
-                ${genre}
-            </label>
+        const wrapper = document.createElement("label");
+        wrapper.className = "ps4-filter-item";
+
+        wrapper.innerHTML = `
+            <input type="checkbox" value="${genre}" id="${id}">
+            <span class="ps4-checkbox"></span>
+            <span class="ps4-filter-text">${genre}</span>
         `;
+
+        container.appendChild(wrapper);
     });
 
-    // Add listeners
+    // Checkbox listeners
     container.querySelectorAll("input[type='checkbox']").forEach(cb => {
-        cb.addEventListener("change", handleGenreChange);
+        cb.addEventListener("change", e => {
+            const g = e.target.value;
+            if (e.target.checked) FilterState.genres.add(g);
+            else FilterState.genres.delete(g);
+            applyFilters();
+        });
     });
 
+    // Reset button
     const resetBtn = document.getElementById("resetFilters");
-    if (resetBtn) resetBtn.addEventListener("click", resetFilters);
-}
-
-// Checkbox change handler
-function handleGenreChange(e) {
-    const genre = e.target.value;
-
-    if (e.target.checked) {
-        selectedGenres.add(genre);
-    } else {
-        selectedGenres.delete(genre);
-    }
-
-    applyFilters();
-}
-
-// Apply BOTH search + genre filters
-function applyFilters() {
-    let filtered = allGames;
-
-    // Genre filtering
-    if (selectedGenres.size > 0) {
-        filtered = filtered.filter(game =>
-            game.genres?.some(g => selectedGenres.has(g))
-        );
-    }
-
-    // Search filtering
-    if (searchQuery.trim() !== "") {
-        filtered = filtered.filter(game => {
-            return (
-                game.title.toLowerCase().includes(searchQuery) ||
-                String(game.id).includes(searchQuery) ||
-                String(game.year).includes(searchQuery)
-            );
+    if (resetBtn) {
+        resetBtn.addEventListener("click", () => {
+            FilterState.reset();
+            container.querySelectorAll("input[type='checkbox']").forEach(cb => cb.checked = false);
+            const searchInput = document.getElementById("searchInput");
+            if (searchInput) searchInput.value = "";
+            applyFilters();
         });
     }
-
-    renderGames(filtered);
-}
-
-// Reset filters
-function resetFilters() {
-    selectedGenres.clear();
-    searchQuery = "";
-
-    document.querySelectorAll("#genre-filters input[type='checkbox']")
-        .forEach(cb => (cb.checked = false));
-
-    document.getElementById("searchInput").value = "";
-
-    renderGames(allGames);
 }
 
 // ------------------------------
@@ -178,7 +182,7 @@ if (window.location.pathname.endsWith('game.html')) {
     fetch('https://raw.githubusercontent.com/Cutlington/PS4-Games-List/main/games.json')
         .then(response => response.json())
         .then(games => {
-            const game = games.find(g => g.id === id);
+            const game = games.find(g => String(g.id) === String(id));
             const container = document.getElementById('gameContainer');
 
             if (!container) return;
@@ -187,6 +191,8 @@ if (window.location.pathname.endsWith('game.html')) {
                 container.innerHTML = "<h1>Game not found</h1>";
                 return;
             }
+
+            const genresText = getGenres(game).join(", ");
 
             container.innerHTML = `
                 <h1>${game.title}</h1>
@@ -198,7 +204,7 @@ if (window.location.pathname.endsWith('game.html')) {
                 <h3>Details</h3>
                 <ul>
                     <li><strong>Release Year:</strong> ${game.year}</li>
-                    <li><strong>Genre:</strong> ${Array.isArray(game.genres) ? game.genres.join(", ") : game.genre}</li>
+                    <li><strong>Genre:</strong> ${genresText}</li>
                 </ul>
 
                 ${hasRealDLC(game) ? `
