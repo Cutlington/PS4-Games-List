@@ -548,68 +548,68 @@
     ]
   },
   {
-    "id": "CUSA42499",
-    "title": "DreamWorks All-Star Kart Racing",
-    "version": "1.01",
-    "size": "5.96 GB",
-    "cover": "covers/dreamworks-all-star-kart-racing.jpg",
-    "year": 2023,
-    "genre": "Racing / Family",
-    "description": "A kart racer featuring DreamWorks characters with themed tracks, power‑ups, and multiplayer modes.",
-    "dlc": [
-      {
-        "name": "Rally Pack DLC",
-        "size": "1.05 MB"
-      }
-    ]
-  },
-  {
-    "id": "CUSA35761",
-    "title": "DREDGE",
-    "version": "1.08",
-    "size": "869.66 MB",
-    "cover": "covers/dredge.jpg",
-    "year": 2023,
-    "genre": "Fishing / Horror / Adventure",
-    "description": "A fishing adventure with a sinister twist where players uncover dark secrets beneath the waves.",
-    "dlc": [
-      {
-        "name": "Blackstone Key DLC",
-        "size": "1.05 MB"
-      },
-      {
-        "name": "The Iron Rig DLC",
-        "size": "1.05 MB"
-      },
-      {
-        "name": "The Pale Reach DLC",
-        "size": "1.05 MB"
-      },
-    ]
-  },
-  {
-    "id": "CUSA15128",
-    "title": "Dysmantle",
-    "version": "1.08",
-    "size": "2.31 GB",
-    "cover": "covers/dysmantle.jpg",
-    "year": 2021,
-    "genre": "Survival / Action RPG",
-    "description": "A post‑apocalyptic survival game where nearly everything can be dismantled for crafting materials.",
-    "dlc": [
-      {
-        "name": "Doomsday DLC",
-        "size": "1.05 MB"
-      },
-      {
-        "name": "Pets & Dungeons DLC",
-        "size": "1.05 MB"
-      },
-      {
-        "name": "Underworld DLC",
-        "size": "1.05 MB"
-      },
-    ]
+  "id": "CUSA42499",
+  "title": "DreamWorks All-Star Kart Racing",
+  "version": "1.01",
+  "size": "5.96 GB",
+  "cover": "covers/dreamworks-all-star-kart-racing.jpg",
+  "year": 2023,
+  "genre": "Racing / Family",
+  "description": "A kart racer featuring DreamWorks characters with themed tracks, power‑ups, and multiplayer modes.",
+  "dlc": [
+    {
+      "name": "Rally Pack DLC",
+      "size": "1.05 MB"
+    }
+  ]
+},
+{
+  "id": "CUSA35761",
+  "title": "DREDGE",
+  "version": "1.08",
+  "size": "869.66 MB",
+  "cover": "covers/dredge.jpg",
+  "year": 2023,
+  "genre": "Fishing / Horror / Adventure",
+  "description": "A fishing adventure with a sinister twist where players uncover dark secrets beneath the waves.",
+  "dlc": [
+    {
+      "name": "Blackstone Key DLC",
+      "size": "1.05 MB"
+    },
+    {
+      "name": "The Iron Rig DLC",
+      "size": "1.05 MB"
+    },
+    {
+      "name": "The Pale Reach DLC",
+      "size": "1.05 MB"
+    }
+  ]
+},
+{
+  "id": "CUSA15128",
+  "title": "Dysmantle",
+  "version": "1.08",
+  "size": "2.31 GB",
+  "cover": "covers/dysmantle.jpg",
+  "year": 2021,
+  "genre": "Survival / Action RPG",
+  "description": "A post‑apocalyptic survival game where nearly everything can be dismantled for crafting materials.",
+  "dlc": [
+    {
+      "name": "Doomsday DLC",
+      "size": "1.05 MB"
+    },
+    {
+      "name": "Pets & Dungeons DLC",
+      "size": "1.05 MB"
+    },
+    {
+      "name": "Underworld DLC",
+      "size": "1.05 MB"
+    }
+  ]
   },
   {
     "id": "CUSA46399",
@@ -1156,20 +1156,22 @@
     ]
   },
   {
-    "id": "CUSA32104",
-    "title": "Jumanji: Wild Adventures",
-    "version": "1.01",
-    "size": "2.67 GB",
-    "cover": "covers/jumanji-wild-adventures.jpg",
-    "year": 2023,
-    "genre": "Adventure / Family",
-    "description": "Explore vast environments, battle enemies, and complete quests in this family‑friendly Jumanji adventure game.",
-    "dlc": [
-      {
-        "name": "N/A",
-        "size": "N/A"
-      }
-    ]
+  "id": "CUSA32104",
+  "title": "Jumanji: Wild Adventures",
+  "version": "1.01",
+  "size": "2.67 GB",
+  "cover": "covers/jumanji-wild-adventures.jpg",
+  "year": 2023,
+  "genre": "Adventure / Family",
+  "description": "Explore vast environments, battle enemies, and complete quests in this family‑friendly Jumanji adventure game.",
+  "dlc": [
+    {
+      "name": "N/A",
+      "size": "N/A"
+    }
+  ]
+}
+]
   },
   {
     "id": "CUSA02747",
