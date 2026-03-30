@@ -32,7 +32,7 @@ const genreGroups = {
     "Indie": "Indie",
     "VR": "VR",
     "Trivia": "Game Show",
-    "Survival": "Survival"
+    "Survival": "Survival",
 };
 
 // ------------------------------
