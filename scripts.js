@@ -1,6 +1,8 @@
-// ------------------------------
-// GENRE GROUPING MAP
-// ------------------------------
+// --------------------------------------------------
+// GENRE GROUPING MAP (CONTROLLED OUTPUT LIST)
+// --------------------------------------------------
+// Only genres listed here will appear in the sidebar.
+// This keeps your sidebar clean and minimal.
 const genreGroups = {
     // Action / Adventure
     "Action": "Action",
@@ -47,30 +49,41 @@ const genreGroups = {
     "Dice / Board Game": "Board Game",
 };
 
-// ------------------------------
-// GENRE NORMALIZATION (FINAL FIX)
-// ------------------------------
+// --------------------------------------------------
+// GENRE NORMALIZER (THE CRITICAL FIX)
+// --------------------------------------------------
+// This fixes:
+// - NBSP characters (the real cause of Board Game failing)
+// - double spaces
+// - trailing/leading spaces
+// - inconsistent separators
 function normalizeGenre(g) {
     return g
-        .replace(/\s*\/\s*/g, "/")   // keep slash as separator
-        .replace(/\s*&\s*/g, "&")    // keep &
-        .replace(/\s*-\s*/g, "-")    // keep hyphen
+        .replace(/\u00A0/g, " ")   // Convert NBSP → normal space
+        .replace(/\s+/g, " ")      // Collapse multiple spaces
+        .replace(/\s*\/\s*/g, "/") // Normalize slash
+        .replace(/\s*&\s*/g, "&")  // Normalize ampersand
+        .replace(/\s*-\s*/g, "-")  // Normalize hyphen
         .trim();
 }
 
-// ------------------------------
-// SAFE SPLITTING (NO SPACE SPLIT)
-// ------------------------------
+// --------------------------------------------------
+// SAFE SPLITTING (NO SPLITTING ON SPACES ANYMORE)
+// --------------------------------------------------
+// Only split on true separators: "/", ",", "&", "-"
+// This prevents "Board Game" from being split incorrectly.
 function splitGenres(raw) {
     return raw
-        .split(/[/,&-]/g)   // split ONLY on true separators
+        .split(/[/,&-]/g)
         .map(g => g.trim())
         .filter(g => g.length > 0);
 }
 
-// ------------------------------
-// MAP RAW GENRES → GROUPED GENRES
-// ------------------------------
+// --------------------------------------------------
+// MAP RAW GENRES → CLEAN GROUPED GENRES
+// --------------------------------------------------
+// Option 1 behavior: Only mapped genres are shown.
+// Unmapped parts are ignored.
 function getGenres(game) {
     let raw = [];
 
@@ -78,21 +91,24 @@ function getGenres(game) {
     else if (Array.isArray(game.genre)) raw = game.genre;
     else if (typeof game.genre === "string") raw = [game.genre];
 
+    // Normalize each raw genre string
     const normalized = raw.map(normalizeGenre);
 
+    // Split into parts using safe splitting
     const parts = normalized.flatMap(splitGenres);
 
+    // Map each part to a grouped genre
     const mapped = parts
         .map(g => genreGroups[g] || null)
         .filter(Boolean);
 
-    // Dedupe
+    // Remove duplicates
     return [...new Set(mapped)];
 }
 
-// ------------------------------
+// --------------------------------------------------
 // DLC CHECK
-// ------------------------------
+// --------------------------------------------------
 function hasRealDLC(game) {
     return (
         Array.isArray(game.dlc) &&
@@ -101,9 +117,9 @@ function hasRealDLC(game) {
     );
 }
 
-// ------------------------------
+// --------------------------------------------------
 // GLOBALS & FILTER STATE
-// ------------------------------
+// --------------------------------------------------
 let allGames = [];
 
 const FilterState = {
@@ -118,9 +134,9 @@ const FilterState = {
     }
 };
 
-// ------------------------------
+// --------------------------------------------------
 // INDEX PAGE LOGIC
-// ------------------------------
+// --------------------------------------------------
 if (document.getElementById("games-container")) {
     fetch('https://raw.githubusercontent.com/Cutlington/PS4-Games-List/main/games.json')
         .then(response => response.json())
@@ -142,9 +158,9 @@ if (document.getElementById("games-container")) {
         .catch(err => console.error("JSON Load Error (index):", err));
 }
 
-// ------------------------------
+// --------------------------------------------------
 // RENDER GAME GRID
-// ------------------------------
+// --------------------------------------------------
 function renderGames(games) {
     const grid = document.getElementById('games-container');
     if (!grid) return;
@@ -173,9 +189,9 @@ function renderGames(games) {
     });
 }
 
-// ------------------------------
+// --------------------------------------------------
 // FILTER ENGINE
-// ------------------------------
+// --------------------------------------------------
 function applyFilters() {
     let filtered = allGames;
 
@@ -206,15 +222,16 @@ function applyFilters() {
     renderGames(filtered);
 }
 
-// ------------------------------
+// --------------------------------------------------
 // SIDEBAR FILTER GENERATOR
-// ------------------------------
+// --------------------------------------------------
 function generateGenreFilters(games) {
     const container = document.getElementById("genreFilters");
     if (!container) return;
 
     const genreSet = new Set();
 
+    // Collect all mapped genres from all games
     games.forEach(game => {
         getGenres(game).forEach(g => genreSet.add(g));
     });
@@ -261,9 +278,9 @@ function generateGenreFilters(games) {
     }
 }
 
-// ------------------------------
+// --------------------------------------------------
 // A–Z SORT DROPDOWN GENERATOR
-// ------------------------------
+// --------------------------------------------------
 function generateLetterSort() {
     const select = document.getElementById("sortLetter");
     if (!select) return;
@@ -282,9 +299,9 @@ function generateLetterSort() {
     });
 }
 
-// ------------------------------
+// --------------------------------------------------
 // GAME PAGE LOGIC
-// ------------------------------
+// --------------------------------------------------
 if (window.location.pathname.endsWith('game.html')) {
     const params = new URLSearchParams(window.location.search);
     const id = params.get('id');
