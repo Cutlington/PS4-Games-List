@@ -157,3 +157,35 @@ a {
 ::-webkit-scrollbar-thumb:hover {
     background: rgba(0, 140, 255, 0.9);
 }
+
+/* --------------------------------------------------
+   PS4 ANIMATED WAVES (MAIN PAGE ONLY)
+-------------------------------------------------- */
+
+body:not(.game-page)::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 200%;
+    height: 100%;
+    background: url('ps4-waves.svg') repeat-x;
+    background-size: cover;
+    opacity: 0.25;
+    animation: ps4Wave 18s linear infinite;
+    z-index: -1;
+}
+
+@keyframes ps4Wave {
+    from { transform: translateX(0); }
+    to { transform: translateX(-50%); }
+}
+
+/* --------------------------------------------------
+   GAME PAGE STATIC BACKGROUND
+-------------------------------------------------- */
+
+body.game-page {
+    background: url('ps4-waves.svg') no-repeat center center fixed;
+    background-size: cover;
+}
