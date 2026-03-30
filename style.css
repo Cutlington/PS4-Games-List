@@ -1,4 +1,61 @@
 /* ---------------------------------------
+   GLOBAL LAYOUT
+---------------------------------------- */
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #020617;
+    color: #fff;
+    font-family: 'SST', sans-serif;
+    /* Push main content over so it doesn't sit under the fixed sidebar */
+    margin-left: 250px; /* matches sidebar width */
+}
+
+/* Optional: PS4 waves background container */
+.ps4-waves {
+    position: fixed;
+    inset: 0;
+    background: radial-gradient(circle at 0 0, #003b88 0, transparent 55%),
+                radial-gradient(circle at 100% 100%, #0050b3 0, transparent 55%);
+    opacity: 0.35;
+    z-index: -1;
+}
+
+/* Page title */
+.page-title {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 32px;
+    letter-spacing: 1px;
+}
+
+/* Game grid container */
+#gameGrid {
+    margin-top: 30px;
+    padding: 0 40px 40px 0;
+}
+
+/* If you use .grid for layout */
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 20px;
+}
+
+/* Basic game tile styling */
+.game {
+    position: relative;
+    text-align: center;
+}
+
+.game img {
+    width: 100%;
+    border-radius: 8px;
+    display: block;
+}
+
+/* ---------------------------------------
    PS4 SIDEBAR LAYOUT + ANIMATION
 ---------------------------------------- */
 
@@ -16,7 +73,6 @@
     z-index: 10;
     animation: slideIn 0.7s ease forwards;
     color: #dfe6ff;
-    font-family: 'SST', sans-serif;
     overflow-y: auto;
 }
 
@@ -44,7 +100,6 @@
     background: #003a80;
     border: 1px solid #9cf;
     color: #dfe6ff;
-    font-family: 'SST', sans-serif;
     border-radius: 4px;
     cursor: pointer;
     transition: 0.2s;
@@ -118,7 +173,6 @@
 ---------------------------------------- */
 
 #searchBarContainer {
-    margin-left: 250px; /* accounts for sidebar width */
     margin-top: 20px;
     text-align: center;
 }
