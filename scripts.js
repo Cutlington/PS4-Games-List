@@ -36,6 +36,13 @@ const genreGroups = {
     "Trivia": "Game Show",
     "Survival": "Survival",
     "Board Game": "Board Game",
+    "Board Games": "Board Game",
+    "Boardgame": "Board Game",
+    "BoardGame": "Board Game",
+    "Board / Game": "Board Game",
+    "Board-Game": "Board Game",
+    "Dice Game": "Board Game",
+    "Dice / Board Game": "Board Game",
 };
 
 // ------------------------------
