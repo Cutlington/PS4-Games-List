@@ -50,28 +50,21 @@ const genreGroups = {
 };
 
 // --------------------------------------------------
-// GENRE NORMALIZER (THE CRITICAL FIX)
+// GENRE NORMALIZER
 // --------------------------------------------------
-// This fixes:
-// - NBSP characters (the real cause of Board Game failing)
-// - double spaces
-// - trailing/leading spaces
-// - inconsistent separators
 function normalizeGenre(g) {
     return g
-        .replace(/\u00A0/g, " ")   // Convert NBSP → normal space
-        .replace(/\s+/g, " ")      // Collapse multiple spaces
-        .replace(/\s*\/\s*/g, "/") // Normalize slash
-        .replace(/\s*&\s*/g, "&")  // Normalize ampersand
-        .replace(/\s*-\s*/g, "-")  // Normalize hyphen
+        .replace(/\u00A0/g, " ")
+        .replace(/\s+/g, " ")
+        .replace(/\s*\/\s*/g, "/")
+        .replace(/\s*&\s*/g, "&")
+        .replace(/\s*-\s*/g, "-")
         .trim();
 }
 
 // --------------------------------------------------
-// SAFE SPLITTING (NO SPLITTING ON SPACES ANYMORE)
+// SAFE SPLITTING
 // --------------------------------------------------
-// Only split on true separators: "/", ",", "&", "-"
-// This prevents "Board Game" from being split incorrectly.
 function splitGenres(raw) {
     return raw
         .split(/[/,&-]/g)
@@ -82,8 +75,6 @@ function splitGenres(raw) {
 // --------------------------------------------------
 // MAP RAW GENRES → CLEAN GROUPED GENRES
 // --------------------------------------------------
-// Option 1 behavior: Only mapped genres are shown.
-// Unmapped parts are ignored.
 function getGenres(game) {
     let raw = [];
 
@@ -91,18 +82,13 @@ function getGenres(game) {
     else if (Array.isArray(game.genre)) raw = game.genre;
     else if (typeof game.genre === "string") raw = [game.genre];
 
-    // Normalize each raw genre string
     const normalized = raw.map(normalizeGenre);
-
-    // Split into parts using safe splitting
     const parts = normalized.flatMap(splitGenres);
 
-    // Map each part to a grouped genre
     const mapped = parts
         .map(g => genreGroups[g] || null)
         .filter(Boolean);
 
-    // Remove duplicates
     return [...new Set(mapped)];
 }
 
@@ -115,6 +101,35 @@ function hasRealDLC(game) {
         game.dlc.length > 0 &&
         game.dlc.some(d => d.name && d.name !== "N/A")
     );
+}
+
+// --------------------------------------------------
+// PLATFORM ICON DETECTION (NEW)
+// --------------------------------------------------
+function getPlatformIcons(id, isVR) {
+    const icons = [];
+
+    // PS4 / PS5 style IDs
+    if (id.startsWith("CUSA") || id.startsWith("PPSA")) {
+        icons.push("icons/ps4.png");
+    }
+
+    // PS2 Classics
+    if (id.startsWith("NPUA") || id.startsWith("NPEB") || id.startsWith("SLUS") || id.startsWith("SLES")) {
+        icons.push("icons/ps2.png");
+    }
+
+    // PSP
+    if (id.startsWith("ULUS") || id.startsWith("UCES")) {
+        icons.push("icons/psp.png");
+    }
+
+    // PSVR flag
+    if (isVR === true) {
+        icons.push("icons/psvr.png");
+    }
+
+    return icons;
 }
 
 // --------------------------------------------------
@@ -159,7 +174,7 @@ if (document.getElementById("games-container")) {
 }
 
 // --------------------------------------------------
-// RENDER GAME GRID
+// RENDER GAME GRID (PATCHED)
 // --------------------------------------------------
 function renderGames(games) {
     const grid = document.getElementById('games-container');
@@ -171,11 +186,20 @@ function renderGames(games) {
         const div = document.createElement('div');
         div.className = 'game-tile';
 
+        const platformIconsHTML = getPlatformIcons(game.id, game.vr)
+            .map(src => `<img class="platform-icon" src="${src}">`)
+            .join("");
+
         div.innerHTML = `
             <a href="game.html?id=${game.id}">
                 <img src="${game.cover}" alt="${game.title}">
                 <p class="game-title">${game.title}</p>
-                <small>${game.size}</small>
+
+                <!-- ID instead of size -->
+                <small>${game.id}</small>
+
+                <!-- Platform icons -->
+                <div class="platform-icons">${platformIconsHTML}</div>
 
                 ${hasRealDLC(game) ? `
                     <div class="dlc-badge">
@@ -195,14 +219,12 @@ function renderGames(games) {
 function applyFilters() {
     let filtered = allGames;
 
-    // Genre filter
     if (FilterState.genres.size > 0) {
         filtered = filtered.filter(game =>
             getGenres(game).some(g => FilterState.genres.has(g))
         );
     }
 
-    // Search filter
     if (FilterState.search.trim() !== "") {
         const q = FilterState.search.toLowerCase();
         filtered = filtered.filter(game =>
@@ -212,7 +234,6 @@ function applyFilters() {
         );
     }
 
-    // Letter filter
     if (FilterState.letter !== "all") {
         filtered = filtered.filter(game =>
             game.title.trim().toUpperCase().startsWith(FilterState.letter)
@@ -231,7 +252,6 @@ function generateGenreFilters(games) {
 
     const genreSet = new Set();
 
-    // Collect all mapped genres from all games
     games.forEach(game => {
         getGenres(game).forEach(g => genreSet.add(g));
     });
@@ -325,7 +345,7 @@ if (window.location.pathname.endsWith('game.html')) {
                 <h1>${game.title}</h1>
                 <img class="cover-large" src="${game.cover}" alt="${game.title}">
                 
-                <h2>Size: ${game.size}</h2>
+                <h2>ID: ${game.id}</h2>
                 <p>${game.description}</p>
 
                 <h3>Details</h3>
