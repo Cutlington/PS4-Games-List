@@ -110,26 +110,26 @@ function getPlatformIcons(id, isVR) {
 
     // PS4 / PSVR
     if (upper.startsWith("CUSA")) {
-        if (isVR === true) icons.push("psvrwhite.png");
-        else icons.push("ps4white.png");
+        if (isVR === true) icons.push("icons/psvrwhite.png");
+        else icons.push("icons/ps4white.png");
         return icons;
     }
 
     // PS1
     if (upper.startsWith("SLES")) {
-        icons.push("pswhite.png");
+        icons.push("icons/pswhite.png");
         return icons;
     }
 
     // PS2
     if (upper.startsWith("SLUS")) {
-        icons.push("ps2white.png");
+        icons.push("icons/ps2white.png");
         return icons;
     }
 
     // PSP
     if (upper.startsWith("UCES") || upper.startsWith("ULUS")) {
-        icons.push("pspwhite.png");
+        icons.push("icons/pspwhite.png");
         return icons;
     }
 
