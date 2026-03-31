@@ -18,13 +18,15 @@ if (window.location.pathname.endsWith('game.html')) {
                 return;
             }
 
+            // Genres
             const genresText = getGenres(game).join(", ");
 
-            // Build platform icons
+            // Platform icons
             const platformIconsHTML = getPlatformIcons(game.id, game.vr)
-                .map(src => `<img class="platform-icon" src="${src}">`)
+                .map(src => `<img class="platform-icon" src="${src}" alt="Platform icon">`)
                 .join("");
 
+            // Render page
             container.innerHTML = `
                 <h1>${game.title}</h1>
 
