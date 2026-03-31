@@ -186,19 +186,22 @@ function renderGames(games) {
             .join("");
 
         div.innerHTML = `
-            <a href="game.html?id=${game.id}">
-                <img src="${game.cover}" alt="${game.title}">
-                <p class="game-title">${game.title}</p>
+    <a href="game.html?id=${game.id}">
 
-                <small>${game.id}</small>
+        <div class="game-id-title">
+            <small class="game-id">${game.id}</small>
+            <p class="game-title">${game.title}</p>
+        </div>
 
-                <div class="platform-icons">${platformIconsHTML}</div>
+        <img src="${game.cover}" alt="${game.title}">
 
-                ${hasRealDLC(game) ? `
-                    <div class="dlc-badge">🧩 ${game.dlc.length} DLC</div>
-                ` : ""}
-            </a>
-        `;
+        <div class="platform-icons">${platformIconsHTML}</div>
+
+        ${hasRealDLC(game) ? `
+            <div class="dlc-badge">🧩 ${game.dlc.length} DLC</div>
+        ` : ""}
+    </a>
+`;
 
         grid.appendChild(div);
     });
