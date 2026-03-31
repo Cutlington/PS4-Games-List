@@ -311,7 +311,7 @@ function generateLetterSort() {
 }
 
 // --------------------------------------------------
-// GAME PAGE LOGIC
+// GAME PAGE LOGIC (UPDATED WITH ID + PLATFORM ICONS)
 // --------------------------------------------------
 if (window.location.pathname.endsWith("game.html")) {
     const params = new URLSearchParams(window.location.search);
