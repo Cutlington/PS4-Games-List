@@ -1,1 +1,6 @@
-
+ps4black.png
+ps4white.png
+psblack.png
+psvrblack.png
+psvrwhite.png
+pswhite.png
