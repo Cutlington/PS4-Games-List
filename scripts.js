@@ -1,8 +1,6 @@
 // --------------------------------------------------
 // GENRE GROUPING MAP (CONTROLLED OUTPUT LIST)
 // --------------------------------------------------
-// Only genres listed here will appear in the sidebar.
-// This keeps your sidebar clean and minimal.
 const genreGroups = {
     // Action / Adventure
     "Action": "Action",
@@ -104,29 +102,35 @@ function hasRealDLC(game) {
 }
 
 // --------------------------------------------------
-// PLATFORM ICON DETECTION (NEW)
+// PLATFORM ICON DETECTION (FINAL VERSION)
 // --------------------------------------------------
 function getPlatformIcons(id, isVR) {
     const icons = [];
+    const upper = String(id).toUpperCase();
 
-    // PS4 / PS5 style IDs
-    if (id.startsWith("CUSA") || id.startsWith("PPSA")) {
-        icons.push("icons/ps4.png");
+    // PS4 / PSVR
+    if (upper.startsWith("CUSA")) {
+        if (isVR === true) icons.push("psvrwhite.png");
+        else icons.push("ps4white.png");
+        return icons;
     }
 
-    // PS2 Classics
-    if (id.startsWith("NPUA") || id.startsWith("NPEB") || id.startsWith("SLUS") || id.startsWith("SLES")) {
-        icons.push("icons/ps2.png");
+    // PS1
+    if (upper.startsWith("SLES")) {
+        icons.push("pswhite.png");
+        return icons;
+    }
+
+    // PS2
+    if (upper.startsWith("SLUS")) {
+        icons.push("ps2white.png");
+        return icons;
     }
 
     // PSP
-    if (id.startsWith("ULUS") || id.startsWith("UCES")) {
-        icons.push("icons/psp.png");
-    }
-
-    // PSVR flag
-    if (isVR === true) {
-        icons.push("icons/psvr.png");
+    if (upper.startsWith("UCES") || upper.startsWith("ULUS")) {
+        icons.push("pspwhite.png");
+        return icons;
     }
 
     return icons;
@@ -174,7 +178,7 @@ if (document.getElementById("games-container")) {
 }
 
 // --------------------------------------------------
-// RENDER GAME GRID (PATCHED)
+// RENDER GAME GRID
 // --------------------------------------------------
 function renderGames(games) {
     const grid = document.getElementById('games-container');
@@ -195,10 +199,8 @@ function renderGames(games) {
                 <img src="${game.cover}" alt="${game.title}">
                 <p class="game-title">${game.title}</p>
 
-                <!-- ID instead of size -->
                 <small>${game.id}</small>
 
-                <!-- Platform icons -->
                 <div class="platform-icons">${platformIconsHTML}</div>
 
                 ${hasRealDLC(game) ? `
@@ -320,7 +322,7 @@ function generateLetterSort() {
 }
 
 // --------------------------------------------------
-// GAME PAGE LOGIC
+// GAME PAGE LOGIC (UPDATED WITH PLATFORM ICONS)
 // --------------------------------------------------
 if (window.location.pathname.endsWith('game.html')) {
     const params = new URLSearchParams(window.location.search);
@@ -340,19 +342,30 @@ if (window.location.pathname.endsWith('game.html')) {
             }
 
             const genresText = getGenres(game).join(", ");
+            const platformIconsHTML = getPlatformIcons(game.id, game.vr)
+                .map(src => `<img class="platform-icon" src="${src}">`)
+                .join("");
 
             container.innerHTML = `
                 <h1>${game.title}</h1>
-                <img class="cover-large" src="${game.cover}" alt="${game.title}">
-                
-                <h2>ID: ${game.id}</h2>
-                <p>${game.description}</p>
 
-                <h3>Details</h3>
-                <ul>
-                    <li><strong>Release Year:</strong> ${game.year}</li>
-                    <li><strong>Genre:</strong> ${genresText}</li>
-                </ul>
+                <div class="game-details-header">
+                    <img class="cover-large" src="${game.cover}" alt="${game.title}">
+
+                    <div class="game-meta">
+                        <h2>ID: ${game.id}</h2>
+
+                        <div class="platform-icons" style="margin: 8px 0;">
+                            ${platformIconsHTML}
+                        </div>
+
+                        <p><strong>Release Year:</strong> ${game.year}</p>
+                        <p><strong>Genre:</strong> ${genresText}</p>
+                    </div>
+                </div>
+
+                <h3>Description</h3>
+                <p>${game.description}</p>
 
                 ${hasRealDLC(game) ? `
                     <h3>DLC</h3>
