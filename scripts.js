@@ -169,7 +169,7 @@ if (document.getElementById("games-container")) {
 }
 
 // --------------------------------------------------
-// RENDER GAME GRID
+// RENDER GAME GRID (UPDATED LAYOUT)
 // --------------------------------------------------
 function renderGames(games) {
     const grid = document.getElementById("games-container");
@@ -185,23 +185,30 @@ function renderGames(games) {
             .map(src => `<img class="platform-icon" src="${src}" alt="Platform icon">`)
             .join("");
 
+        // NEW LAYOUT:
+        // CUSA
+        // COVER
+        // TITLE
+        // ICONS
+        // DLC BADGE
         div.innerHTML = `
-    <a href="game.html?id=${game.id}">
+            <a href="game.html?id=${game.id}">
 
-        <div class="game-id-title">
-            <small class="game-id">${game.id}</small>
-            <p class="game-title">${game.title}</p>
-        </div>
+                <div class="game-id-title">
+                    <small class="game-id">${game.id}</small>
+                </div>
 
-        <img src="${game.cover}" alt="${game.title}">
+                <img src="${game.cover}" alt="${game.title}">
 
-        <div class="platform-icons">${platformIconsHTML}</div>
+                <p class="game-title">${game.title}</p>
 
-        ${hasRealDLC(game) ? `
-            <div class="dlc-badge">🧩 ${game.dlc.length} DLC</div>
-        ` : ""}
-    </a>
-`;
+                <div class="platform-icons">${platformIconsHTML}</div>
+
+                ${hasRealDLC(game) ? `
+                    <div class="dlc-badge">🧩 ${game.dlc.length} DLC</div>
+                ` : ""}
+            </a>
+        `;
 
         grid.appendChild(div);
     });
@@ -314,7 +321,7 @@ function generateLetterSort() {
 }
 
 // --------------------------------------------------
-// GAME PAGE LOGIC (UPDATED WITH ID + PLATFORM ICONS)
+// GAME PAGE LOGIC
 // --------------------------------------------------
 if (window.location.pathname.endsWith("game.html")) {
     const params = new URLSearchParams(window.location.search);
