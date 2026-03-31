@@ -149,7 +149,7 @@ const FilterState = {
     reset() {
         this.genres.clear();
         this.search = "";
-               this.letter = "all";
+        this.letter = "all";
     }
 };
 
