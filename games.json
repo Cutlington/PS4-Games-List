@@ -1,0 +1,2295 @@
+[
+  {
+    "id": "CUSA09170",
+    "title": "3D Mini Golf",
+    "version": "1.00",
+    "gamesize": "392.76 MB",
+    "size": "392.76 MB",
+    "cover": "covers/3d-mini-golf.jpg",
+    "year": 2017,
+    "genre": "Sports",
+    "description": "A casual miniature golf game featuring themed courses, simple controls, and relaxing gameplay.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA06312",
+    "title": "AdVenture Capitalist",
+    "version": "1.02",
+    "gamesize": "80.15 MB",
+    "size": "80.15 MB",
+    "cover": "covers/adventure-capitalist.jpg",
+    "year": 2016,
+    "genre": "Idle / Simulation",
+    "description": "A satirical idle-clicker where players build a business empire and accumulate absurd wealth.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA12276",
+    "title": "American Ninja Warrior: Challenge",
+    "version": "1.01",
+    "gamesize": "1.25 GB",
+    "size": "1.25 GB",
+    "cover": "covers/american-ninja-warrior-challenge.jpg",
+    "year": 2019,
+    "genre": "Sports / Action",
+    "description": "A competitive obstacle‑course game based on the TV show, featuring timed runs and character progression.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA25919",
+    "title": "Angry Alligator",
+    "version": "1.01",
+    "gamesize": "884.54 MB",
+    "size": "884.54 MB",
+    "cover": "covers/angry-alligator.jpg",
+    "year": 2021,
+    "genre": "Adventure",
+    "description": "Play as a growing alligator exploring a swamp, eating wildlife, and completing quirky missions.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA27386",
+    "title": "Arcade Paradise",
+    "version": "1.11",
+    "gamesize": "3.05 GB",
+    "size": "3.05 GB",
+    "cover": "covers/arcade-paradise.jpg",
+    "year": 2022,
+    "genre": "Simulation / Arcade",
+    "description": "Run a laundromat by day and build a retro arcade empire by night with dozens of playable machines.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA31975",
+    "title": "Arkanoid: Eternal Battle",
+    "version": "1.02",
+    "gamesize": "349.31 MB",
+    "size": "349.31 MB",
+    "cover": "covers/arkanoid-eternal-battle.jpg",
+    "year": 2022,
+    "genre": "Arcade / Puzzle",
+    "description": "A modern reinvention of the classic brick‑breaker with online battle modes and updated visuals.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA16473",
+    "title": "ASTRONEER",
+    "version": "1.64",
+    "gamesize": "1.65 GB",
+    "size": "6.43 GB",
+    "cover": "covers/astroneer.jpg",
+    "year": 2019,
+    "genre": "Adventure / Sandbox",
+    "description": "Explore stylized planets, gather resources, craft tools, and reshape terrain in a peaceful space sandbox.",
+    "dlc": [
+      {
+        "name": "Athleisure Bundle DLC",
+        "size": "1.05 MB"
+      },
+      {
+        "name": "Essential Bundle DLC",
+        "size": "1.05 MB"
+      },
+      {
+        "name": "Starter Bundle DLC",
+        "size": "1.05 MB"
+      },
+      {
+        "name": "Suit Bundle DLC",
+        "size": "1.05 MB"
+      },
+      {
+        "name": "Glitchwalkers DLC",
+        "size": "2 GB"
+      },
+      {
+        "name": "Glitchwalker Premium Pack DLC",
+        "size": "2.78 GB"
+      }
+    ]
+  },
+  {
+    "id": "CUSA42503",
+    "title": "Atomfall",
+    "version": "1.22",
+    "gamesize": "31.32 GB",
+    "size": "36.10 GB",
+    "cover": "covers/atomfall.jpg",
+    "year": "2025",
+    "genre": "Adventure",
+    "description": "Explore the fictional quarantine zone, scavenge, craft, barter, fight and talk your way through a British countryside setting filled with bizarre characters, mysticism, cults, and rogue government agencies.",
+    "dlc": [
+      {
+        "name": "Basic Supply Bundle",
+        "size": "1.05 MB"
+      },
+      {
+        "name": "Deluxe Upgrade",
+        "size": "1.05 MB"
+      },
+      {
+        "name": "Enhanced Supply Bundle",
+        "size": "1.05 MB"
+      },
+      {
+        "name": "Story Expansion Pack The Red Strain",
+        "size": "2 GB"
+      },
+      {
+        "name": "Story Expansion Pack Wicked Isle",
+        "size": "2.78 GB"
+      }
+    ]
+  },
+  {
+    "id": "CUSA09535",
+    "title": "ATV Drift and Tricks",
+    "version": "1.03",
+    "gamesize": "5.89 GB",
+    "size": "5.89 GB",
+    "cover": "covers/atv-drift-and-tricks-definitive-edition.jpg",
+    "year": 2017,
+    "genre": "Racing",
+    "description": "An ATV racing game focused on stunts, drifting, and arcade‑style off‑road competition.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA30313",
+    "title": "Autobahn Police Simulator 3",
+    "version": "1.12",
+    "gamesize": "3.5 GB",
+    "size": "3.5 GB",
+    "cover": "covers/autobahn-police-simulator-3.jpg",
+    "year": 2022,
+    "genre": "Simulation",
+    "description": "Patrol the German autobahn, respond to incidents, and complete police missions in an open‑world environment.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA27571",
+    "title": "Autonauts",
+    "version": "1.01",
+    "gamesize": "393.94 MB",
+    "size": "393.94 MB",
+    "cover": "covers/autonauts.jpg",
+    "year": 2022,
+    "genre": "Automation / Simulation",
+    "description": "Build, automate, and expand colonies using programmable workerbots in a charming sandbox world.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA04286",
+    "title": "Battleship",
+    "version": "1.02",
+    "gamesize": "1.25 GB",
+    "size": "1.25 GB",
+    "cover": "covers/battleship.jpg",
+    "year": 2016,
+    "genre": "Strategy / Board Game",
+    "description": "A modern adaptation of the classic naval strategy game featuring tactical combat and fleet management.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA15604",
+    "title": "Bee Simulator",
+    "version": "1.02",
+    "gamesize": "7.92 GB",
+    "size": "7.92 GB",
+    "cover": "covers/bee-simulator.jpg",
+    "year": 2019,
+    "genre": "Adventure / Family",
+    "description": "Experience life as a honeybee, explore the world from a tiny perspective, and protect your hive.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA05525",
+    "title": "Big Buck Arcade",
+    "version": "1.01",
+    "gamesize": "3.77 GB",
+    "size": "3.77 GB",
+    "cover": "covers/big-buck-arcade.jpg",
+    "year": 2020,
+    "genre": "Arcade / Shooter",
+    "description": "A fast‑paced arcade hunting experience based on the classic Big Buck Hunter series.",
+    "dlc": [
+      {
+        "name": "N/A",
+        "size": "N/A"
+      }
+    ]
+  },
+  {
+    "id": "CUSA57692",
+    "title": "Block Cascade",
+    "version": "1.02",
+    "gamesize": "178.19 MB",
+    "size": "178.19 MB",
+    "cover": "covers/block-cascade.jpg",
+    "year": "TO BE ADDED",
+    "genre": "Puzzle",
+    "description": "A tile‑matching puzzle game focused on chaining combos and clearing cascading blocks.",
+    "dlc": [
+      {
+        "name": "Color DLC",
+        "size": "1.05 MB"
+      }
+    ]
+	},
+{
+  "id": "CUSA08065",
+  "title": "Bloons TD 5",
+  "version": "1.01",
+  "gamesize": "219.28 MB",
+  "size": "219.28 MB",
+  "cover": "covers/bloons-td-5.jpg",
+  "year": 2014,
+  "genre": "Tower Defense",
+  "description": "A classic tower defense game where players deploy monkey towers to stop waves of balloons.",
+  "dlc": [
+    {
+      "name": "N/A",
+      "size": "N/A"
+    }
+  ]
+},
+{
+  "id": "CUSA01926",
+  "title": "Boggle",
+  "version": "1.02",
+  "gamesize": "201 MB",
+  "size": "201 MB",
+  "cover": "covers/boggle.jpg",
+  "year": 2017,
+  "genre": "Puzzle / Word Game",
+  "description": "A digital version of the classic word‑finding game with multiplayer and timed challenges.",
+  "dlc": [
+    {
+      "name": "N/A",
+      "size": "N/A"
+    }
+  ]
+},
+{
+  "id": "CUSA01189",
+  "title": "Bomberman Party Edition",
+  "version": "1.01",
+  "gamesize": "333.32 MB",
+  "size": "333.32 MB",
+  "cover": "covers/bomberman-party-edition.jpg",
+  "year": 1998,
+  "genre": "Arcade / Action",
+  "description": "A classic Bomberman release featuring maze‑based battles, power‑ups, and multiplayer chaos.",
+  "dlc": [
+    {
+      "name": "N/A",
+      "size": "N/A"
+    }
+  ]
+},
+{
+  "id": "CUSA03889",
+  "title": "Brick Breaker",
+  "version": "1.01",
+  "gamesize": "249.56 MB",
+  "size": "249.56 MB",
+  "cover": "covers/brick-breaker.jpg",
+  "year": 2016,
+  "genre": "Arcade / Puzzle",
+  "description": "A modern take on the classic brick‑breaking formula with power‑ups and fast‑paced gameplay.",
+  "dlc": [
+    {
+      "name": "N/A",
+      "size": "N/A"
+    }
+  ]
+},
+{
+  "id": "CUSA03760",
+  "title": "Bridge Constructor",
+  "version": "1.06",
+  "gamesize": "154.08 MB",
+  "size": "154.08 MB",
+  "cover": "covers/bridge-constructor.jpg",
+  "year": 2013,
+  "genre": "Simulation / Puzzle",
+  "description": "Design and build bridges that must withstand physics‑based stress tests across multiple environments.",
+  "dlc": [
+    {
+      "name": "N/A",
+      "size": "N/A"
+    }
+  ]
+},
+{
+  "id": "CUSA05842",
+  "title": "Carnival Games VR",
+  "version": "1.02",
+  "gamesize": "1.59 GB",
+  "size": "1.59 GB",
+  "cover": "covers/carnival-games-vr.jpg",
+  "year": 2016,
+  "genre": "VR / Party",
+  "description": "A VR collection of classic carnival attractions including ring toss, shooting galleries, and more.",
+  "dlc": [
+    {
+      "name": "Alley Adventure DLC",
+      "size": "1.05 MB"
+    }
+  ]
+},
+{
+  "id": "CUSA14587",
+  "title": "Catan VR",
+  "version": "1.06",
+  "gamesize": "247.86 MB",
+  "size": "247.86 MB",
+  "cover": "covers/catan-vr.jpg",
+  "year": 2018,
+  "genre": "Strategy / Board Game / VR",
+  "description": "A virtual reality adaptation of the classic board game where players build settlements and compete for resources.",
+  "dlc": [
+    {
+      "name": "N/A",
+      "size": "N/A"
+    }
+  ]
+},
+{
+  "id": "CUSA33367",
+  "title": "Chef Life: A Restaurant Simulator",
+  "version": "1.08",
+  "gamesize": "1.93 GB",
+  "size": "1.93 GB",
+  "cover": "covers/chef-life-a-restaurant-simulator.jpg",
+  "year": 2023,
+  "genre": "Simulation / Management",
+  "description": "Run and customize your own restaurant, manage staff, prepare dishes, and build a culinary reputation.",
+  "dlc": [
+    {
+      "name": "Al Forno DLC",
+      "size": "1.05 MB"
+    },
+    {
+      "name": "Bon Appetit DLC",
+      "size": "1.05 MB"
+    },
+    {
+      "name": "Cooking Lab DLC",
+      "size": "1.05 MB"
+    }
+  ]
+},
+{
+  "id": "CUSA47953",
+  "title": "Climber: Sky is the Limit",
+  "version": "1.03",
+  "gamesize": "1.09 GB",
+  "size": "1.09 GB",
+  "cover": "covers/climber-sky-is-the-limit.jpg",
+  "year": 2022,
+  "genre": "Survival / Simulation",
+  "description": "A realistic mountaineering experience where players face harsh weather, limited supplies, and dangerous climbs.",
+  "dlc": [
+    {
+      "name": "N/A",
+      "size": "N/A"
+    }
+  ]
+},
+{
+  "id": "CUSA06489",
+  "title": "Clustertruck",
+  "version": "1.02",
+  "gamesize": "237.96 MB",
+  "size": "237.96 MB",
+  "cover": "covers/clustertruck.jpg",
+  "year": 2016,
+  "genre": "Platformer / Action",
+  "description": "A chaotic platformer where players leap across speeding trucks while avoiding obstacles and hazards.",
+  "dlc": [
+    {
+      "name": "N/A",
+      "size": "N/A"
+    }
+  ]
+},
+{
+  "id": "CUSA07399",
+  "title": "Crash Bandicoot N. Sane Trilogy",
+  "version": "1.07",
+  "gamesize": "23.21 GB",
+  "size": "23.21 GB",
+  "cover": "covers/crash-bandicoot-n.-sane-trilogy.jpg",
+  "year": 2017,
+  "genre": "Platformer",
+  "description": "A remastered collection of the first three Crash Bandicoot games with updated graphics and improved controls.",
+  "dlc": [
+    {
+      "name": "N/A",
+      "size": "N/A"
+    }
+  ]
+},
+{
+  "id": "CUSA12801",
+  "title": "Creed: Rise to Glory",
+  "version": "1.11",
+  "gamesize": "4.43 GB",
+  "size": "4.43 GB",
+  "cover": "covers/creed-rise-to-glory.jpg",
+  "year": 2018,
+  "genre": "VR / Boxing",
+  "description": "A VR boxing experience where players train, fight, and rise through the ranks as Adonis Creed.",
+  "dlc": [
+    {
+      "name": "N/A",
+      "size": "N/A"
+    }
+  ]
+},
+{
+  "id": "SLUS20159",
+  "title": "Dave Mirra Freestyle BMX 2",
+  "version": "1.00",
+  "gamesize": "506.92 MB",
+  "size": "506.92 MB",
+  "cover": "covers/dave-mirra-freestyle-bmx-2.jpg",
+  "year": 2001,
+  "genre": "Sports / BMX",
+  "description": "A classic BMX stunt game featuring open environments, trick challenges, and pro riders.",
+  "dlc": [
+    {
+      "name": "N/A",
+      "size": "N/A"
+    }
+  ]
+},
+{
+  "id": "CUSA45599",
+  "title": "DAVE THE DIVER",
+  "version": "1.26",
+  "gamesize": "3.33 GB",
+  "size": "3.43 GB",
+  "cover": "covers/dave-the-diver.jpg",
+  "year": 2023,
+  "genre": "Adventure / Management",
+  "description": "A hybrid deep‑sea adventure and sushi‑restaurant management game with exploration, crafting, and quirky storytelling.",
+  "dlc": [
+    {
+      "name": "Dredge Content Pack DLC",
+      "size": "25.49 MB"
+    },
+    {
+      "name": "Godzilla Content Pack DLC",
+      "size": "75.24 MB"
+    },
+    {
+      "name": "Ichibans Holiday Content Pack DLC",
+      "size": "1.05 MB"
+    }
+  ]
+},
+{
+  "id": "CUSA34716",
+  "title": "Disney Dreamlight Valley",
+  "version": "21.00",
+  "gamesize": "18.75 GB",
+  "size": "18.75 GB",
+  "cover": "covers/disney-dreamlight-valley.jpg",
+  "year": 2022,
+  "genre": "Life Simulation / Adventure",
+  "description": "A cozy life‑sim adventure where players restore a magical valley alongside Disney and Pixar characters.",
+  "dlc": [
+    {
+      "name": "N/A",
+      "size": "N/A"
+    }
+  ]
+},
+{
+  "id": "CUSA44429",
+  "title": "DOG The Dog Takes The Hindmost",
+  "version": "1.02",
+  "gamesize": "377.62 MB",
+  "size": "377.62 MB",
+  "cover": "covers/dog-the-dog-takes-the-hindmost..jpg",
+  "year": "TO BE ADDED",
+  "genre": "Action / Indie",
+  "description": "A quirky indie action game featuring chaotic dog‑themed challenges and fast‑paced gameplay.",
+  "dlc": [
+    {
+      "name": "N/A",
+      "size": "N/A"
+    }
+  ]
+},
+{
+  "id": "CUSA42499",
+  "title": "DreamWorks All-Star Kart Racing",
+  "version": "1.01",
+  "gamesize": "5.96 GB",
+  "size": "5.96 GB",
+  "cover": "covers/dreamworks-all-star-kart-racing.jpg",
+  "year": 2023,
+  "genre": "Racing / Family",
+  "description": "A kart racer featuring DreamWorks characters with themed tracks, power‑ups, and multiplayer modes.",
+  "dlc": [
+    {
+      "name": "Rally Pack DLC",
+      "size": "1.05 MB"
+    }
+  ]
+},
+{
+  "id": "CUSA35761",
+  "title": "DREDGE",
+  "version": "1.08",
+  "gamesize": "869.66 MB",
+  "size": "872.81 MB",
+  "cover": "covers/dredge.jpg",
+  "year": 2023,
+  "genre": "Fishing / Horror / Adventure",
+  "description": "A fishing adventure with a sinister twist where players uncover dark secrets beneath the waves.",
+  "dlc": [
+    {
+      "name": "Blackstone Key DLC",
+      "size": "1.05 MB"
+    },
+    {
+      "name": "The Iron Rig DLC",
+      "size": "1.05 MB"
+    },
+    {
+      "name": "The Pale Reach DLC",
+      "size": "1.05 MB"
+    }
+  ]
+},
+{
+  "id": "CUSA15128",
+  "title": "Dysmantle",
+  "version": "1.08",
+  "gamesize": "2.31 GB",
+  "size": "2.31 GB",
+  "cover": "covers/dysmantle.jpg",
+  "year": 2021,
+  "genre": "Survival / Action RPG",
+  "description": "A post‑apocalyptic survival game where nearly everything can be dismantled for crafting materials.",
+  "dlc": [
+    {
+      "name": "Doomsday DLC",
+      "size": "1.05 MB"
+    },
+    {
+      "name": "Pets & Dungeons DLC",
+      "size": "1.05 MB"
+    },
+    {
+      "name": "Underworld DLC",
+      "size": "1.05 MB"
+    }
+  ]
+},
+{
+  "id": "CUSA46399",
+  "title": "EA SPORTS FC 25",
+  "version": "1.22",
+  "gamesize": "5.75 GB",
+  "size": "5.75 GB",
+  "cover": "covers/ea-sports-fc-25.jpg",
+  "year": 2024,
+  "genre": "Sports / Football",
+  "description": "The 2025 entry in EA’s football franchise, featuring updated rosters, modes, and gameplay improvements.",
+  "dlc": [
+    {
+      "name": "N/A",
+      "size": "N/A"
+    }
+  ]
+},
+{
+  "id": "CUSA52342",
+  "title": "EA SPORTS FC 26",
+  "version": "1.05",
+  "gamesize": "65 GB",
+  "size": "65.00 GB",
+  "cover": "covers/ea-sports-fc-26.jpg",
+  "year": 2025,
+  "genre": "Sports / Football",
+  "description": "The 2026 installment of EA’s football series, offering enhanced realism and expanded career features.",
+  "dlc": [
+    {
+      "name": "Offline Unlocker",
+      "size": "1.05 MB"
+    }
+  ]
+},
+{
+  "id": "CUSA14204",
+  "title": "EA SPORTS UFC 4",
+  "version": "1.00",
+  "gamesize": "24.7 GB",
+  "size": "24.72 GB",
+  "cover": "covers/ea-sports-ufc-4.jpg",
+  "year": 2020,
+  "genre": "Sports / Fighting",
+  "description": "A mixed martial arts fighting game featuring career progression, realistic combat, and licensed UFC fighters.",
+  "dlc": [
+    { "name": "100 Ufc Points", "size": "1.44 MB" },
+    { "name": "250 Ufc Points", "size": "1.44 MB" },
+    { "name": "500 Ufc Points", "size": "1.44 MB" },
+    { "name": "750 Ufc Points", "size": "1.44 MB" },
+    { "name": "1050 Ufc Points", "size": "1.44 MB" },
+    { "name": "1600 Ufc Points", "size": "1.44 MB" },
+    { "name": "2200 Ufc Points", "size": "1.44 MB" },
+    { "name": "4600 Ufc Points", "size": "1.44 MB" },
+    { "name": "2200 Ufc Points", "size": "1.44 MB" },
+    { "name": "Anthony Joshua DLC", "size": "1.97 MB" },
+    { "name": "Backyard And Kumite Customization Packs DLC", "size": "1.97 MB" },
+    { "name": "Bruce Lee Bantamweight DLC", "size": "1.97 MB" },
+    { "name": "Bruce Lee Bundle DLC", "size": "1.97 MB" },
+    { "name": "Bruce Lee Featherweight DLC", "size": "1.97 MB" },
+    { "name": "Bruce Lee Lightweight DLC", "size": "1.97 MB" },
+    { "name": "Bruce Lee Welterweight DLC", "size": "1.97 MB" },
+    { "name": "Gladiator Vanity Bundle DLC", "size": "1.97 MB" },
+    { "name": "Premium Starter Bundle DLC", "size": "1.97 MB" },
+    { "name": "Rainbows And Unicorns Vanity Bundle DLC", "size": "1.97 MB" },
+    { "name": "Starter Bundle DLC", "size": "1.97 MB" },
+    { "name": "Tyson Fury DLC", "size": "1.97 MB" }
+  ]
+},
+{
+  "id": "CUSA41203",
+  "title": "Egg Runner",
+  "version": "1.00",
+  "gamesize": "109.18 MB",
+  "size": "109.18 MB",
+  "cover": "covers/egg-runner.jpg",
+  "year": "TO BE ADDED",
+  "genre": "Arcade / Indie",
+  "description": "A lighthearted arcade game focused on balancing, running, and avoiding obstacles while carrying an egg.",
+  "dlc": [
+    {
+      "name": "N/A",
+      "size": "N/A"
+    }
+  ]
+},
+{
+  "id": "CUSA44233",
+  "title": "Expeditions: A MudRunner Game",
+  "version": "1.06",
+  "gamesize": "12.37 GB",
+  "size": "12.37 GB",
+  "cover": "covers/expeditions-a-mudrunner-game.jpg",
+  "year": 2024,
+  "genre": "Simulation / Off‑Road",
+  "description": "A physics‑driven off‑road exploration game where players complete scientific missions using specialized vehicles.",
+  "dlc": [
+    { "name": "Cotco Canyon DLC", "size": "1.05 MB" },
+    { "name": "Pioneer Pack DLC", "size": "1.05 MB" },
+    { "name": "The Great Don 71 DLC", "size": "1.05 MB" }
+  ]
+},
+{
+  "id": "CUSA17876",
+  "title": "Family Feud",
+  "version": "1.02",
+  "gamesize": "1.64 GB",
+  "size": "1.64 GB",
+  "cover": "covers/family-feud.jpg",
+  "year": 2020,
+  "genre": "Party / Trivia",
+  "description": "A digital adaptation of the classic game show where families compete to guess the most popular survey answers.",
+  "dlc": [
+    {
+      "name": "N/A",
+      "size": "N/A"
+    }
+  ]
+},
+{
+  "id": "CUSA32089",
+  "title": "Firefighting Simulator: The Squad",
+  "version": "1.10",
+  "gamesize": "5.08 GB",
+  "size": "5.08 GB",
+  "cover": "covers/firefighting-simulator-the-squad.jpg",
+  "year": 2020,
+  "genre": "Simulation",
+  "description": "A cooperative firefighting simulation where players respond to emergencies, control equipment, and work as a squad to extinguish fires.",
+  "dlc": [
+    {
+      "name": "N/A",
+      "size": "N/A"
+    }
+  ]
+},
+{
+  "id": "CUSA15690",
+  "title": "Frostpunk",
+  "version": "1.05",
+  "gamesize": "6.05 GB",
+  "size": "6.05 GB",
+  "cover": "covers/frostpunk.jpg",
+  "year": 2018,
+  "genre": "City Builder / Survival",
+  "description": "A harsh survival city‑builder where players manage the last city on Earth and make morally challenging decisions to keep society alive.",
+  "dlc": [
+    {
+      "name": "N/A",
+      "size": "N/A"
+    }
+  ]
+},
+{
+  "id": "CUSA16485",
+  "title": "Garfield Kart: Furious Racing",
+  "version": "1.01",
+  "gamesize": "1.92 GB",
+  "size": "1.92 GB",
+  "cover": "covers/garfield-kart-furious-racing.jpg",
+  "year": 2019,
+  "genre": "Racing / Family",
+  "description": "A lighthearted kart racer featuring Garfield and friends, with themed tracks, power‑ups, and multiplayer modes.",
+  "dlc": [
+    {
+      "name": "N/A",
+      "size": "N/A"
+    }
+  ]
+},
+{
+  "id": "CUSA46679",
+  "title": "Goat Simulator 3",
+  "version": "1.10",
+  "gamesize": "6.82 GB",
+  "size": "6.82 GB",
+  "cover": "covers/goat-simulator-3.jpg",
+  "year": 2022,
+  "genre": "Sandbox / Comedy",
+  "description": "A chaotic open‑world sandbox where players cause mayhem as a goat with absurd physics and multiplayer support.",
+  "dlc": [
+    {
+      "name": "N/A",
+      "size": "N/A"
+    }
+  ]
+},
+{
+  "id": "CUSA06712",
+  "title": "Goat Simulator: The Bundle",
+  "version": "1.00",
+  "gamesize": "1.05 GB",
+  "size": "1.05 GB",
+  "cover": "covers/goat-simulator-the-bundle.jpg",
+  "year": 2015,
+  "genre": "Sandbox / Comedy",
+  "description": "A collection of Goat Simulator content featuring multiple expansions and the signature chaotic goat gameplay.",
+  "dlc": [
+    {
+      "name": "N/A",
+      "size": "N/A"
+    }
+  ]
+},
+{
+  "id": "CUSA26347",
+  "title": "Green Hell",
+  "version": "1.14",
+  "gamesize": "2.12 GB",
+  "size": "2.12 GB",
+  "cover": "covers/green-hell.jpg",
+  "year": 2019,
+  "genre": "Survival",
+  "description": "A realistic survival game set in the Amazon rainforest where players must craft, hunt, and manage their mental and physical health.",
+  "dlc": [
+    {
+      "name": "N/A",
+      "size": "N/A"
+    }
+  ]
+},
+{
+  "id": "CUSA42556",
+  "title": "Grounded",
+  "version": "1.14",
+  "gamesize": "5.19 GB",
+  "size": "5.19 GB",
+  "cover": "covers/grounded.jpg",
+  "year": 2020,
+  "genre": "Survival / Adventure",
+  "description": "A cooperative survival adventure where players are shrunk to the size of insects and must survive in a backyard ecosystem.",
+  "dlc": [
+    {
+      "name": "N/A",
+      "size": "N/A"
+    }
+  ]
+},
+{
+  "id": "CUSA05874",
+  "title": "EVE: Gunjack",
+  "version": "1.02",
+  "gamesize": "813.24 MB",
+  "size": "813.24 MB",
+  "cover": "covers/gunjack.jpg",
+  "year": 2016,
+  "genre": "VR / Shooter",
+  "description": "A VR arcade shooter set in the EVE universe, featuring turret‑based combat and fast‑paced action.",
+  "dlc": [
+    {
+      "name": "N/A",
+      "size": "N/A"
+    }
+  ]
+},
+{
+  "id": "CUSA11675",
+  "title": "Guts & Glory",
+  "version": "1.01",
+  "gamesize": "2.6 GB",
+  "size": "2.6 GB",
+  "cover": "covers/guts-and-glory.jpg",
+  "year": 2018,
+  "genre": "Action / Physics",
+  "description": "A physics‑driven obstacle course game where players race through deadly tracks filled with hazards and absurd challenges.",
+  "dlc": [
+    {
+      "name": "N/A",
+      "size": "N/A"
+    }
+  ]
+},
+{
+  "id": "CUSA06098",
+  "title": "Hasbro Family Fun Pack Conquest Edition",
+  "version": "1.00",
+  "gamesize": "4.03 GB",
+  "size": "4.07 GB",
+  "cover": "covers/hasbro-family-fun-pack-conquest-edition.jpg",
+  "year": 2016,
+  "genre": "Party / Board Game",
+  "description": "A collection of classic Hasbro board games including Risk, Battleship, and more, with enhanced digital features.",
+  "dlc": [
+    {
+      "name": "Just Dance DLC",
+      "size": "16.52 MB"
+    },
+    {
+      "name": "My Little Pony DLC",
+      "size": "19.6 MB"
+    },
+    {
+      "name": "Raving Rabbids DLC",
+      "size": "1.18 MB"
+    }
+  ]
+},
+{
+  "id": "CUSA03312",
+  "title": "Hasbro Family Fun Pack",
+  "version": "1.00",
+  "gamesize": "3.37 GB",
+  "size": "3.37 GB",
+  "cover": "covers/hasbro-family-fun-pack.jpg",
+  "year": 2015,
+  "genre": "Party / Board Game",
+  "description": "A compilation of classic Hasbro games including Monopoly, Scrabble, Trivial Pursuit, and Risk in one digital package.",
+  "dlc": [
+    {
+      "name": "N/A",
+      "size": "N/A"
+    }
+  ]
+},
+{
+  "id": "CUSA12378",
+  "title": "Hungry Shark World",
+  "version": "1.01",
+  "gamesize": "1.2 GB",
+  "size": "1.2 GB",
+  "cover": "covers/hungry-shark-world.jpg",
+  "year": 2016,
+  "genre": "Action / Arcade",
+  "description": "Control a hungry shark and eat your way through oceans, unlocking new species and completing challenges.",
+  "dlc": [
+    {
+      "name": "N/A",
+      "size": "N/A"
+    }
+  ]
+},
+{
+  "id": "CUSA00245",
+  "title": "Hustle Kings",
+  "version": "1.17",
+  "gamesize": "1.02 GB",
+  "size": "1.02 GB",
+  "cover": "covers/hustle-kings.jpg",
+  "year": 2014,
+  "genre": "Sports / Pool",
+  "description": "A realistic billiards simulation featuring trick shots, tournaments, and online multiplayer competition.",
+  "dlc": [
+    {
+      "name": "N/A",
+      "size": "N/A"
+    }
+  ]
+},
+{
+  "id": "CUSA03047",
+  "title": "I Am Bread",
+  "version": "1.03",
+  "gamesize": "834.01 MB",
+  "size": "834.01 MB",
+  "cover": "covers/i-am-bread.jpg",
+  "year": 2015,
+  "genre": "Comedy / Physics",
+  "description": "A bizarre physics‑based adventure where players control a slice of bread on a quest to become toast.",
+  "dlc": [
+    {
+      "name": "N/A",
+      "size": "N/A"
+    }
+  ]
+},
+{
+  "id": "CUSA27601",
+  "title": "I Expect You To Die 2",
+  "version": "1.02",
+  "gamesize": "825.88 MB",
+  "size": "825.88 MB",
+  "cover": "covers/i-expect-you-to-die-2.jpg",
+  "year": 2021,
+  "genre": "VR / Puzzle",
+  "description": "A spy‑themed VR puzzle game where players solve escape‑room‑style missions using clever gadgets and quick thinking.",
+  "dlc": [
+    {
+      "name": "N/A",
+      "size": "N/A"
+    }
+  ]
+},
+{
+  "id": "CUSA07396",
+  "title": "I Expect You To Die",
+  "version": "1.01",
+  "gamesize": "432.34 MB",
+  "size": "432.34 MB",
+  "cover": "covers/i-expect-you-to-die.jpg",
+  "year": 2016,
+  "genre": "VR / Puzzle",
+  "description": "A VR escape‑room adventure where players take on the role of a secret agent solving deadly scenarios.",
+  "dlc": [
+    {
+      "name": "N/A",
+      "size": "N/A"
+    }
+  ]
+},
+{
+  "id": "CUSA16742",
+  "title": "It Takes Two",
+  "version": "1.03",
+  "gamesize": "36.86 GB",
+  "size": "36.86 GB",
+  "cover": "covers/it-takes-two.jpg",
+  "year": 2021,
+  "genre": "Co‑op Adventure / Platformer",
+  "description": "A critically acclaimed co‑op adventure where two players work together through imaginative worlds to repair a broken relationship.",
+  "dlc": [
+    {
+      "name": "N/A",
+      "size": "N/A"
+    }
+  ]
+},
+{
+  "id": "CUSA14396",
+  "title": "Jewel Fever 2",
+  "version": "1.00",
+  "gamesize": "115.54 MB",
+  "size": "115.54 MB",
+  "cover": "covers/jewel-fever-2.jpg",
+  "year": "TO BE ADDED",
+  "genre": "Puzzle",
+  "description": "A match‑3 puzzle game featuring colorful gems, combo chains, and casual gameplay.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA05818",
+  "title": "Job Simulator",
+  "version": "1.06",
+  "gamesize": "933.69 MB",
+  "size": "933.69 MB",
+  "cover": "covers/job-simulator.jpg",
+  "year": 2016,
+  "genre": "VR / Simulation",
+  "description": "A comedic VR experience where players perform exaggerated versions of everyday jobs in a futuristic world run by robots.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA14807",
+  "title": "Jumanji: The Video Game",
+  "version": "1.00",
+  "gamesize": "2.1 GB",
+  "size": "2.1 GB",
+  "cover": "covers/jumanji-the-video-game.jpg",
+  "year": 2019,
+  "genre": "Action / Adventure",
+  "description": "A cooperative action game where players take on the roles of Jumanji heroes to recover stolen jewels and save the world.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA32104",
+  "title": "Jumanji: Wild Adventures",
+  "version": "1.01",
+  "gamesize": "2.67 GB",
+  "size": "2.67 GB",
+  "cover": "covers/jumanji-wild-adventures.jpg",
+  "year": 2023,
+  "genre": "Adventure / Family",
+  "description": "Explore vast environments, battle enemies, and complete quests in this family‑friendly Jumanji adventure game.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA02747",
+  "title": "Just Cause 3",
+  "version": "1.05",
+  "gamesize": "40.77 GB",
+  "size": "40.77 GB",
+  "cover": "covers/just-cause-3.jpg",
+  "year": 2015,
+  "genre": "Action / Open World",
+  "description": "A high‑octane open‑world action game where players use grappling hooks, wingsuits, and explosives to liberate a Mediterranean island nation.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA32093",
+  "title": "LEGO Brawls",
+  "version": "1.08",
+  "gamesize": "2.17 GB",
+  "size": "2.17 GB",
+  "cover": "covers/lego-brawls.jpg",
+  "year": 2022,
+  "genre": "Fighting / Party",
+  "description": "A family‑friendly brawler where players build custom LEGO minifigures and battle across iconic LEGO‑themed arenas.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA00044",
+  "title": "LEGO Marvel Super Heroes",
+  "version": "1.03",
+  "gamesize": "6.22 GB",
+  "size": "6.22 GB",
+  "cover": "covers/lego-marvel-super-heroes.jpg",
+  "year": 2013,
+  "genre": "Action / Adventure",
+  "description": "A LEGO adventure featuring Marvel heroes and villains in a humorous story with puzzles, combat, and exploration.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA53974",
+  "title": "LEGO Party",
+  "version": "1.07",
+  "gamesize": "5.68 GB",
+  "size": "5.68 GB",
+  "cover": "covers/lego-party!.jpg",
+  "year": "TO BE ADDED",
+  "genre": "Party / Family",
+  "description": "A LEGO‑themed party game featuring minigames, multiplayer challenges, and family‑friendly fun.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "ULUS10575",
+  "title": "LEGO Pirates of the Caribbean: The Video Game",
+  "version": "1.00",
+  "gamesize": "1.36 GB",
+  "size": "1.36 GB",
+  "cover": "covers/lego-pirates-of-the-caribbean-the-video-game.jpg",
+  "year": 2011,
+  "genre": "Action / Adventure",
+  "description": "A LEGO retelling of the Pirates of the Caribbean films with puzzle‑solving, exploration, and cooperative gameplay.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "UCES00109",
+  "title": "Lemmings",
+  "version": "1.00",
+  "gamesize": "219.02 MB",
+  "size": "219.02 MB",
+  "cover": "covers/lemmings.jpg",
+  "year": 1991,
+  "genre": "Puzzle",
+  "description": "A classic puzzle game where players guide groups of lemmings to safety by assigning them various abilities.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA07106",
+  "title": "Lethal VR",
+  "version": "1.01",
+  "gamesize": "561.71 MB",
+  "size": "561.71 MB",
+  "cover": "covers/lethal-vr.jpg",
+  "year": 2016,
+  "genre": "VR / Shooter",
+  "description": "A VR arcade shooting gallery inspired by classic action movies, featuring fast‑paced target challenges.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA39446",
+  "title": "LudoXXL",
+  "version": "1.00",
+  "gamesize": "234.03 MB",
+  "size": "234.03 MB",
+  "cover": "covers/ludoxxl.jpg",
+  "year": "TO BE ADDED",
+  "genre": "Board Game / Family",
+  "description": "A digital adaptation of the classic Ludo board game featuring enhanced visuals and multiplayer support.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "HOTZ79000",
+  "title": "MARIO KART HOMEBREW",
+  "version": "0.2",
+  "gamesize": "2.4 GB",
+  "size": "2.4 GB",
+  "cover": "covers/mario-kart-homebrew.jpg",
+  "year": "TO BE ADDED",
+  "genre": "Racing / Homebrew",
+  "description": "A fan‑made homebrew racing project inspired by Mario Kart, featuring custom tracks and characters.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA00265",
+  "title": "Minecraft",
+  "version": "1.02",
+  "gamesize": "186.12 MB",
+  "size": "186.12 MB",
+  "cover": "covers/minecraft.jpg",
+  "year": 2011,
+  "genre": "Sandbox / Survival",
+  "description": "A world‑building sandbox game where players explore, craft, mine, and survive in procedurally generated environments.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA18779",
+  "title": "Minecraft Dungeons: Ultimate Edition",
+  "version": "1.29",
+  "gamesize": "3.01 GB",
+  "size": "3.01 GB",
+  "cover": "covers/minecraft-dungeons.jpg",
+  "year": 2020,
+  "genre": "Action RPG / Dungeon Crawler",
+  "description": "A cooperative dungeon crawler set in the Minecraft universe, featuring loot, quests, and multiple difficulty tiers.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA20193",
+  "title": "Minecraft Legends",
+  "version": "1.13",
+  "gamesize": "7.48 GB",
+  "size": "7.48 GB",
+  "cover": "covers/minecraft-legends.jpg",
+  "year": 2023,
+  "genre": "Action Strategy",
+  "description": "An action‑strategy adventure where players unite mobs and defend the Overworld from Piglin invasions.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA00265",
+  "title": "Minecraft PlayStation 4 Edition",
+  "version": "1.02",
+  "gamesize": "186.12 MB",
+  "size": "186.12 MB",
+  "cover": "covers/minecraft-playstation-4-edition.jpg",
+  "year": 2014,
+  "genre": "Sandbox / Survival",
+  "description": "The PS4‑specific version of Minecraft featuring improved performance, larger worlds, and console‑optimized controls.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA06409",
+  "title": "Minecraft: Story Mode – The Complete Adventure",
+  "version": "1.00",
+  "gamesize": "8.13 GB",
+  "size": "8.13 GB",
+  "cover": "covers/minecraft-story-mode.jpg",
+  "year": 2016,
+  "genre": "Adventure / Narrative",
+  "description": "A Telltale Games episodic adventure set in the Minecraft universe, featuring story‑driven choices and character progression.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA01317",
+  "title": "Monopoly Family Fun Pack",
+  "version": "1.02",
+  "gamesize": "899.81 MB",
+  "size": "899.81 MB",
+  "cover": "covers/monopoly-family-fun-pack.jpg",
+  "year": 2014,
+  "genre": "Board Game / Party",
+  "description": "A collection of Monopoly experiences including classic gameplay, enhanced modes, and themed boards.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA01061",
+  "title": "Monopoly Plus",
+  "version": "1.03",
+  "gamesize": "976.49 MB",
+  "size": "976.49 MB",
+  "cover": "covers/monopoly-plus.jpg",
+  "year": 2014,
+  "genre": "Board Game / Strategy",
+  "description": "A 3D animated version of Monopoly featuring customizable boards, online multiplayer, and classic gameplay.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA09938",
+  "title": "Monster Energy Supercross – The Official Videogame",
+  "version": "1.13",
+  "gamesize": "11.81 GB",
+  "size": "11.81 GB",
+  "cover": "covers/monster-energy-supercross-the-official-videogame.jpg",
+  "year": 2018,
+  "genre": "Racing / Sports",
+  "description": "An official Supercross racing game featuring real riders, bikes, stadiums, and a detailed career mode.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA34717",
+  "title": "Monster Energy Supercross – The Official Videogame 6",
+  "version": "1.08",
+  "gamesize": "12.97 GB",
+  "size": "12.97 GB",
+  "cover": "covers/monster-energy-supercross-the-official-videogame-6.jpg",
+  "year": 2023,
+  "genre": "Racing / Sports",
+  "description": "A realistic Supercross racing experience featuring official riders, tracks, and a deep career progression system.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA15295",
+  "title": "MXGP 2019 – The Official Motocross Videogame",
+  "version": "1.07",
+  "gamesize": "15.65 GB",
+  "size": "15.65 GB",
+  "cover": "covers/mxgp-2019-the-official-motocross-videogame.jpg",
+  "year": 2019,
+  "genre": "Racing / Motocross",
+  "description": "Race through official MXGP tracks with licensed riders, dynamic weather, and a powerful track editor.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA10585",
+  "title": "MXGP PRO",
+  "version": "1.06",
+  "gamesize": "16.33 GB",
+  "size": "16.33 GB",
+  "cover": "covers/mxgp-pro.jpg",
+  "year": 2018,
+  "genre": "Racing / Simulation",
+  "description": "A motocross simulation focused on realistic bike handling, physics, and professional training challenges.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA25622",
+  "title": "MX vs ATV Legends",
+  "version": "1.09",
+  "gamesize": "26.09 GB",
+  "size": "26.09 GB",
+  "cover": "covers/mx-vs-atv-legends.jpg",
+  "year": 2022,
+  "genre": "Racing / Off‑Road",
+  "description": "Race motorcycles, ATVs, and UTVs across open environments with a career mode and online multiplayer.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA13366",
+  "title": "MX Nitro – Unleashed",
+  "version": "1.01",
+  "gamesize": "3.48 GB",
+  "size": "3.48 GB",
+  "cover": "covers/mx-nitro-unleashed.jpg",
+  "year": 2017,
+  "genre": "Racing / Arcade",
+  "description": "A fast‑paced motocross stunt racer featuring high‑speed tracks, tricks, and competitive challenges.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA24364",
+  "title": "MultiVersus",
+  "version": "1.26",
+  "gamesize": "7.2 GB",
+  "size": "7.2 GB",
+  "cover": "covers/multiversus.jpg",
+  "year": 2022,
+  "genre": "Fighting / Platformer",
+  "description": "A crossover platform‑fighter featuring characters from Warner Bros. franchises in fast‑paced multiplayer battles.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA48139",
+  "title": "NBA 2K25",
+  "version": "1.00",
+  "gamesize": "92.29 GB",
+  "size": "92.29 GB",
+  "cover": "covers/nba-2k25.jpg",
+  "year": 2024,
+  "genre": "Sports / Basketball",
+  "description": "The 2025 entry in the NBA 2K series featuring updated rosters, enhanced gameplay, and expanded career options.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA50346",
+  "title": "NBA BOUNCE",
+  "version": "1.01",
+  "gamesize": "487 MB",
+  "size": "487 MB",
+  "cover": "covers/nba-bounce.jpg",
+  "year": "TO BE ADDED",
+  "genre": "Sports / Arcade",
+  "description": "An arcade‑style basketball experience featuring fast matches, simple controls, and high‑energy gameplay.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA43649",
+  "title": "Nickelodeon All-Star Brawl 2",
+  "version": "1.15",
+  "gamesize": "7.03 GB",
+  "size": "7.03 GB",
+  "cover": "covers/nickelodeon-all-star-brawl-2.jpg",
+  "year": 2023,
+  "genre": "Fighting / Platformer",
+  "description": "A crossover platform‑fighter featuring Nickelodeon characters with improved mechanics, story mode, and competitive play.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA28990",
+  "title": "Nickelodeon Kart Racers 3: Slime Speedway Turbo Edition",
+  "version": "1.03",
+  "gamesize": "5.8 GB",
+  "size": "5.8 GB",
+  "cover": "covers/nickelodeon-kart-racers-3-slime-speedway.jpg",
+  "year": 2022,
+  "genre": "Racing / Family",
+  "description": "A kart racer featuring Nickelodeon characters, customizable karts, and slime‑powered abilities across themed tracks.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA05724",
+  "title": "Overcooked!",
+  "version": "1.03",
+  "gamesize": "377.03 MB",
+  "size": "377.03 MB",
+  "cover": "covers/overcooked.jpg",
+  "year": 2016,
+  "genre": "Co‑op / Party",
+  "description": "A chaotic cooperative cooking game where players work together to prepare meals in increasingly absurd kitchens.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA10870",
+  "title": "Overcooked! 2",
+  "version": "1.13",
+  "gamesize": "7.49 GB",
+  "size": "7.49 GB",
+  "cover": "covers/overcooked-2.jpg",
+  "year": 2018,
+  "genre": "Co‑op / Party",
+  "description": "The sequel to the hit co‑op cooking game, adding new recipes, kitchens, characters, and online multiplayer support.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA23464",
+  "title": "Overcooked! All You Can Eat",
+  "version": "1.07",
+  "gamesize": "7.73 GB",
+  "size": "7.73 GB",
+  "cover": "covers/overcooked!-all-you-can-eat.jpg",
+  "year": 2020,
+  "genre": "Co‑op / Party",
+  "description": "A definitive collection of Overcooked 1 and 2 with remastered visuals, all DLC, and cross‑platform multiplayer.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA52195",
+  "title": "PAW Patrol: Rescue Wheels Championship",
+  "version": "1.01",
+  "gamesize": "4.2 GB",
+  "size": "4.2 GB",
+  "cover": "covers/paw-patrol-rescue-wheels-championship.jpg",
+  "year": 2023,
+  "genre": "Racing / Family",
+  "description": "A kid‑friendly racing game featuring the PAW Patrol pups competing across themed tracks and challenges.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA55613",
+  "title": "Plants vs. Zombies: Replanted",
+  "version": "1.10",
+  "gamesize": "1.63 GB",
+  "size": "1.63 GB",
+  "cover": "covers/plants-vs.-zombies-replanted.jpg",
+  "year": "TO BE ADDED",
+  "genre": "Strategy / Tower Defense",
+  "description": "A modern reimagining of the classic Plants vs. Zombies experience with updated visuals and expanded content.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA44827",
+  "title": "PlateUp!",
+  "version": "1.17",
+  "gamesize": "549.98 MB",
+  "size": "549.98 MB",
+  "cover": "covers/plateup.jpg",
+  "year": 2022,
+  "genre": "Roguelike / Restaurant Management",
+  "description": "A chaotic restaurant management roguelike where players cook, serve, automate, and expand their dining empire.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA19608",
+  "title": "Police Simulator: Patrol Officers",
+  "version": "1.41",
+  "gamesize": "5.24 GB",
+  "size": "5.24 GB",
+  "cover": "covers/police-simulator-patrol-officers.jpg",
+  "year": 2022,
+  "genre": "Simulation / Law Enforcement",
+  "description": "A realistic police simulation where players patrol districts, respond to incidents, issue citations, and investigate crimes as a uniformed officer.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA15499",
+  "title": "Pool Nation",
+  "version": "1.03",
+  "gamesize": "2.81 GB",
+  "size": "2.81 GB",
+  "cover": "covers/pool-nation.jpg",
+  "year": 2013,
+  "genre": "Sports / Pool",
+  "description": "A polished billiards simulation featuring trick shots, tournaments, and a variety of pool game modes with realistic physics.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA46876",
+  "title": "Poppy Playtime: Chapter 1",
+  "version": "1.01",
+  "gamesize": "3.94 GB",
+  "size": "3.94 GB",
+  "cover": "covers/poppy-playtime-chapter-1.jpg",
+  "year": 2021,
+  "genre": "Horror / Puzzle",
+  "description": "A first‑person horror adventure set in an abandoned toy factory where players solve puzzles while avoiding the terrifying Huggy Wuggy.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA36012",
+  "title": "Potion Craft",
+  "version": "1.02",
+  "gamesize": "683.21 MB",
+  "size": "683.21 MB",
+  "cover": "covers/potion-craft.jpg",
+  "year": 2022,
+  "genre": "Simulation / Crafting",
+  "description": "A medieval alchemist simulator where players mix ingredients, brew potions, manage a shop, and experiment with branching recipe paths.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA29984",
+  "title": "PowerWash Simulator",
+  "version": "1.14",
+  "gamesize": "8.54 GB",
+  "size": "8.54 GB",
+  "cover": "covers/powerwash-simulator.jpg",
+  "year": 2022,
+  "genre": "Simulation / Relaxation",
+  "description": "A satisfying cleaning simulator where players use power‑washing tools to restore vehicles, buildings, and environments to spotless condition.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA01749",
+  "title": "Pure Chess",
+  "version": "1.00",
+  "gamesize": "688.46 MB",
+  "size": "688.46 MB",
+  "cover": "covers/pure-chess.jpg",
+  "year": 2014,
+  "genre": "Board Game / Strategy",
+  "description": "A premium chess experience featuring detailed piece sets, multiple difficulty levels, and online multiplayer matches.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA01748",
+  "title": "Pure Pool",
+  "version": "1.01",
+  "gamesize": "532.41 MB",
+  "size": "532.41 MB",
+  "cover": "covers/pure-pool.jpg",
+  "year": 2014,
+  "genre": "Sports / Pool",
+  "description": "A realistic pool simulation with lifelike physics, career progression, and online competitive play.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA27237",
+  "title": "Rabbids: Party of Legends",
+  "version": "1.01",
+  "gamesize": "4.75 GB",
+  "size": "4.75 GB",
+  "cover": "covers/rabbids-party-of-legends.jpg",
+  "year": 2022,
+  "genre": "Party / Family",
+  "description": "A family‑friendly party game where the Rabbids star in a chaotic adventure inspired by Journey to the West, featuring dozens of minigames.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA27450",
+  "title": "Radon Blast",
+  "version": "1.01",
+  "gamesize": "24.9 MB",
+  "size": "24.9 MB",
+  "cover": "covers/radon-blast.jpg",
+  "year": "TO BE ADDED",
+  "genre": "Arcade / Shooter",
+  "description": "A retro‑inspired arcade shooter focused on fast reflexes, neon visuals, and high‑score chasing gameplay.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA00069",
+  "title": "Rayman Legends",
+  "version": "1.01",
+  "gamesize": "7.78 GB",
+  "size": "7.78 GB",
+  "cover": "covers/rayman-legends.jpg",
+  "year": 2013,
+  "genre": "Platformer",
+  "description": "A critically acclaimed platformer featuring hand‑drawn visuals, rhythmic levels, cooperative play, and creative world design.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA07966",
+  "title": "Real Farm",
+  "version": "1.33",
+  "gamesize": "1.06 GB",
+  "size": "1.06 GB",
+  "cover": "covers/real-farm-gold-edition.jpg",
+  "year": 2017,
+  "genre": "Simulation / Farming",
+  "description": "A modern farming simulator where players cultivate crops, manage livestock, and expand their agricultural business across open landscapes.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA14553",
+  "title": "Red Matter",
+  "version": "1.03",
+  "gamesize": "3.08 GB",
+  "size": "3.08 GB",
+  "cover": "covers/red-matter.jpg",
+  "year": 2018,
+  "genre": "VR / Adventure",
+  "description": "A story‑driven VR puzzle adventure set on a mysterious base during a sci‑fi cold war, featuring atmospheric exploration and environmental puzzles.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA52222",
+  "title": "Revenge of the Savage Planet",
+  "version": "1.04",
+  "gamesize": "7.07 GB",
+  "size": "7.07 GB",
+  "cover": "covers/revenge-of-the-savage-planet.jpg",
+  "year": "TO BE ADDED",
+  "genre": "Action / Adventure",
+  "description": "A quirky sci‑fi adventure featuring exploration, crafting, and humorous encounters on a vibrant alien world.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "SLES00707",
+  "title": "Risk",
+  "version": "1.00",
+  "gamesize": "297.47 MB",
+  "size": "297.47 MB",
+  "cover": "covers/risk.jpg",
+  "year": 1996,
+  "genre": "Strategy / Board Game",
+  "description": "A digital adaptation of the classic global domination board game where players deploy armies and conquer territories.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA01163",
+  "title": "Rocket League",
+  "version": "2.39",
+  "gamesize": "33.15 GB",
+  "size": "33.15 GB",
+  "cover": "covers/rocket-league.jpg",
+  "year": 2015,
+  "genre": "Sports / Action",
+  "description": "A high‑octane hybrid of soccer and vehicular acrobatics featuring competitive multiplayer, ranked modes, and endless customization.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA05583",
+  "title": "Rugby League Live 4",
+  "version": "1.07",
+  "gamesize": "16.86 GB",
+  "size": "16.86 GB",
+  "cover": "covers/rugby-league-live-4.jpg",
+  "year": 2017,
+  "genre": "Sports",
+  "description": "A full‑featured rugby league simulation with licensed teams, stadiums, and a deep career mode spanning multiple seasons.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA13397",
+  "title": "Rush VR",
+  "version": "1.02",
+  "gamesize": "2.88 GB",
+  "size": "2.88 GB",
+  "cover": "covers/rush-vr.jpg",
+  "year": 2018,
+  "genre": "VR / Racing",
+  "description": "A wingsuit racing experience in VR where players soar through mountain ranges and compete in high‑speed aerial courses.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "BOMB81070",
+  "title": "Saturn Bomberman",
+  "version": "1.00",
+  "gamesize": "605.62 MB",
+  "size": "605.62 MB",
+  "cover": "covers/saturn-bomberman.jpg",
+  "year": 1996,
+  "genre": "Arcade / Action",
+  "description": "A classic Bomberman title known for its chaotic multiplayer battles and explosive maze‑based gameplay.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA01445",
+  "title": "Scrabble",
+  "version": "1.02",
+  "gamesize": "148.31 MB",
+  "size": "148.31 MB",
+  "cover": "covers/scrabble.jpg",
+  "year": 2014,
+  "genre": "Puzzle / Word Game",
+  "description": "A digital version of the iconic word‑building board game featuring solo play, local multiplayer, and online matches.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA33000",
+  "title": "Smurfs Kart",
+  "version": "1.01",
+  "gamesize": "3.76 GB",
+  "size": "3.76 GB",
+  "cover": "covers/smurfs-kart.jpg",
+  "year": 2022,
+  "genre": "Racing / Family",
+  "description": "A colorful kart racer starring the Smurfs, featuring themed tracks, power‑ups, and accessible family‑friendly gameplay.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA26671",
+  "title": "The Smurfs: Mission Vileaf",
+  "version": "1.04",
+  "gamesize": "1.23 GB",
+  "size": "1.23 GB",
+  "cover": "covers/the-smurfs-mission-vileaf.jpg",
+  "year": 2021,
+  "genre": "Adventure / Platformer",
+  "description": "A colorful 3D platformer where players help the Smurfs stop the evil Vileaf plant by exploring vibrant environments and using the Smurfizer tool.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA47540",
+  "title": "The Smurfs: Village Party",
+  "version": "1.01",
+  "gamesize": "1.26 GB",
+  "size": "1.26 GB",
+  "cover": "covers/the-smurfs-village-party.jpg",
+  "year": 2024,
+  "genre": "Party / Family",
+  "description": "A family‑friendly party game featuring dozens of Smurf‑themed minigames and multiplayer challenges set across the Smurf Village.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA35016",
+  "title": "Sonic Racing: CrossWorlds",
+  "version": "1.22",
+  "gamesize": "13.73 GB",
+  "size": "13.73 GB",
+  "cover": "covers/sonic-racing-crossworlds.jpg",
+  "year": "TO BE ADDED",
+  "genre": "Racing",
+  "description": "A Sonic‑themed racing title featuring high‑speed tracks, power‑ups, and competitive multiplayer modes.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA05722",
+  "title": "Spy Chameleon",
+  "version": "1.00",
+  "gamesize": "179.37 MB",
+  "size": "179.37 MB",
+  "cover": "covers/spy-chameleon.jpg",
+  "year": 2014,
+  "genre": "Puzzle / Stealth",
+  "description": "A colorful stealth‑puzzle game where players change colors to blend into environments and avoid detection across 75 levels.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA24899",
+  "title": "Stray",
+  "version": "1.04",
+  "gamesize": "6.57 GB",
+  "size": "6.57 GB",
+  "cover": "covers/stray.jpg",
+  "year": 2022,
+  "genre": "Adventure / Puzzle",
+  "description": "Play as a stray cat exploring a neon‑lit cybercity, solving puzzles and uncovering mysteries with the help of a drone companion.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA07828",
+  "title": "Street Fighter 30th Anniversary Collection",
+  "version": "1.02",
+  "gamesize": "5.08 GB",
+  "size": "5.08 GB",
+  "cover": "covers/street-fighter-30th-anniversary-collection.jpg",
+  "year": 2018,
+  "genre": "Fighting",
+  "description": "A compilation of 12 classic Street Fighter titles with online play, museum content, and faithfully preserved arcade gameplay.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA52553",
+  "title": "Street Food Restaurant Owner",
+  "version": "1.06",
+  "gamesize": "955.78 MB",
+  "size": "955.78 MB",
+  "cover": "covers/street-food-restaurant-owner.jpg",
+  "year": "TO BE ADDED",
+  "genre": "Simulation / Cooking",
+  "description": "Run a street food business by preparing dishes, serving customers, upgrading equipment, and managing daily operations.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA08165",
+  "title": "SUPERHOT VR",
+  "version": "1.13",
+  "gamesize": "828.18 MB",
+  "size": "828.18 MB",
+  "cover": "covers/superhot-vr.jpg",
+  "year": 2016,
+  "genre": "VR / Shooter",
+  "description": "A unique VR shooter where time moves only when the player moves, creating strategic combat scenarios in stylized environments.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA23228",
+  "title": "Supraland",
+  "version": "1.03",
+  "gamesize": "1.56 GB",
+  "size": "1.56 GB",
+  "cover": "covers/supraland.jpg",
+  "year": 2019,
+  "genre": "Puzzle / Metroidvania",
+  "description": "A first‑person puzzle‑adventure blending exploration, combat, and clever environmental puzzles in a handcrafted miniature world.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA06041",
+  "title": "Surgeon Simulator: Experience Reality",
+  "version": "1.03",
+  "gamesize": "661.91 MB",
+  "size": "661.91 MB",
+  "cover": "covers/surgeon-simulator-experience-reality.jpg",
+  "year": 2016,
+  "genre": "VR / Simulation",
+  "description": "A chaotic VR surgery simulation where players perform intentionally clumsy medical procedures with humorous results.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA13594",
+  "title": "Tetris Effect: Connected",
+  "version": "2.04",
+  "gamesize": "5.51 GB",
+  "size": "5.51 GB",
+  "cover": "covers/tetris-effect-connected.jpg",
+  "year": 2018,
+  "genre": "Puzzle / Music",
+  "description": "A mesmerizing reinvention of Tetris featuring reactive music, stunning visuals, and cooperative and competitive multiplayer modes.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA00239",
+  "title": "The Amazing Spider-Man 2",
+  "version": "1.01",
+  "gamesize": "8.6 GB",
+  "size": "8.6 GB",
+  "cover": "covers/the-amazing-spider-man-2.jpg",
+  "year": 2014,
+  "genre": "Action / Open World",
+  "description": "A superhero action game where players swing through Manhattan, battle iconic villains, and uncover a criminal conspiracy as Spider-Man.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA27303",
+  "title": "The Colonists",
+  "version": "1.03",
+  "gamesize": "447.41 MB",
+  "size": "447.41 MB",
+  "cover": "covers/the-colonists.jpg",
+  "year": 2018,
+  "genre": "Strategy / Simulation",
+  "description": "A settlement‑building game where robot colonists gather resources, automate production chains, and expand across peaceful landscapes.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA06267",
+  "title": "The Escapists 2",
+  "version": "1.00",
+  "gamesize": "1.44 GB",
+  "size": "1.44 GB",
+  "cover": "covers/the-escapists-2.jpg",
+  "year": 2017,
+  "genre": "Strategy / Simulation",
+  "description": "A prison escape sandbox where players craft tools, plan breakouts, and coordinate with others in cooperative multiplayer modes.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA34112",
+  "title": "Trash Sailors",
+  "version": "1.02",
+  "gamesize": "2.41 GB",
+  "size": "2.41 GB",
+  "cover": "covers/trash-sailors.jpg",
+  "year": 2023,
+  "genre": "Co‑op / Adventure",
+  "description": "A hand‑drawn co‑op sailing adventure where players navigate hazards using junk‑powered rafts.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA55555",
+  "title": "Tridents Tale",
+  "version": "1.00",
+  "gamesize": "TO BE ADDED",
+  "size": "TO BE ADDED",
+  "cover": "covers/trident's-tale.jpg",
+  "year": "TO BE ADDED",
+  "genre": "Adventure",
+  "description": "Metadata placeholder — awaiting details from your sheet.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA28777",
+  "title": "Trivial Pursuit Live! 2",
+  "version": "1.01",
+  "gamesize": "1.12 GB",
+  "size": "1.12 GB",
+  "cover": "covers/trivial-pursuit-live!-2.jpg",
+  "year": 2022,
+  "genre": "Trivia / Party",
+  "description": "A modern quiz‑show take on the classic trivia board game with new question packs.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA01445",
+  "title": "Trivial Pursuit Live!",
+  "version": "1.02",
+  "gamesize": "1.01 GB",
+  "size": "1.01 GB",
+  "cover": "covers/trivial-pursuit-live!.jpg",
+  "year": 2014,
+  "genre": "Trivia / Party",
+  "description": "A digital trivia competition featuring themed categories and multiplayer modes.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA12692",
+  "title": "Tropico 6",
+  "version": "1.16",
+  "gamesize": "15.8 GB",
+  "size": "15.8 GB",
+  "cover": "covers/tropico-6.jpg",
+  "year": 2019,
+  "genre": "Strategy / City Builder",
+  "description": "Rule as El Presidente while managing islands, politics, and economics in a humorous dictatorship simulator.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA55556",
+  "title": "Ultimate Runner",
+  "version": "1.00",
+  "gamesize": "TO BE ADDED",
+  "size": "TO BE ADDED",
+  "cover": "covers/ultimate-runner.jpg",
+  "year": "TO BE ADDED",
+  "genre": "Action / Runner",
+  "description": "Metadata placeholder — awaiting details from your sheet.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA00960",
+  "title": "UNO",
+  "version": "1.04",
+  "gamesize": "1.52 GB",
+  "size": "1.52 GB",
+  "cover": "covers/uno.jpg",
+  "year": 2016,
+  "genre": "Card Game / Party",
+  "description": "A digital version of the classic UNO card game with online multiplayer and themed decks.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA16300",
+  "title": "Untitled Goose Game",
+  "version": "1.03",
+  "gamesize": "1.01 GB",
+  "size": "1.01 GB",
+  "cover": "covers/untitled-goose-game.jpg",
+  "year": 2019,
+  "genre": "Stealth / Comedy",
+  "description": "Play as a mischievous goose causing chaos in a quiet village.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA13261",
+  "title": "VR Ping Pong Pro",
+  "version": "1.01",
+  "gamesize": "2.14 GB",
+  "size": "2.14 GB",
+  "cover": "covers/vr-ping-pong-pro.jpg",
+  "year": 2019,
+  "genre": "VR / Sports",
+  "description": "A realistic VR table tennis experience featuring detailed physics and multiple tournament environments.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA06042",
+  "title": "VR Ping Pong",
+  "version": "1.00",
+  "gamesize": "1.02 GB",
+  "size": "1.02 GB",
+  "cover": "covers/vr-ping-pong.jpg",
+  "year": 2016,
+  "genre": "VR / Sports",
+  "description": "An arcade‑style VR ping pong game with stylized visuals and fast‑paced gameplay.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA08904",
+  "title": "Wheel of Fortune",
+  "version": "1.03",
+  "gamesize": "2.87 GB",
+  "size": "2.87 GB",
+  "cover": "covers/wheel-of-fortune.jpg",
+  "year": 2017,
+  "genre": "Game Show / Puzzle",
+  "description": "A digital adaptation of the classic TV game show featuring puzzles, multiplayer, and themed sets.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA20037",
+  "title": "Who Wants to Be a Millionaire?",
+  "version": "1.01",
+  "gamesize": "3.41 GB",
+  "size": "3.41 GB",
+  "cover": "covers/who-wants-to-be-a-millionaire.jpg",
+  "year": 2020,
+  "genre": "Trivia / Game Show",
+  "description": "A modern version of the iconic quiz show with themed question packs and multiplayer modes.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA55557",
+  "title": "Worms Armageddon: Anniversary Edition",
+  "version": "1.00",
+  "gamesize": "TO BE ADDED",
+  "size": "TO BE ADDED",
+  "cover": "covers/worms-armageddon-anniversary-edition.jpg",
+  "year": "TO BE ADDED",
+  "genre": "Strategy / Artillery",
+  "description": "A modernized edition of the classic Worms artillery strategy game. (Metadata placeholder.)",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA08534",
+  "title": "Wreckfest",
+  "version": "1.41",
+  "gamesize": "23.9 GB",
+  "size": "23.9 GB",
+  "cover": "covers/wreckfest.jpg",
+  "year": 2018,
+  "genre": "Racing / Destruction",
+  "description": "A demolition‑focused racing game featuring realistic physics, vehicle damage, and chaotic events.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA55558",
+  "title": "WWE 2K25",
+  "version": "1.00",
+  "gamesize": "TO BE ADDED",
+  "size": "TO BE ADDED",
+  "cover": "covers/wwe-2k25.jpg",
+  "year": 2025,
+  "genre": "Sports / Wrestling",
+  "description": "The 2025 entry in the WWE 2K series. (Metadata placeholder until your sheet confirms details.)",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA55559",
+  "title": "Yatzi",
+  "version": "1.00",
+  "gamesize": "TO BE ADDED",
+  "size": "TO BE ADDED",
+  "cover": "covers/yatzi.jpg",
+  "year": "TO BE ADDED",
+  "genre": "Board Game",
+  "description": "A digital version of the classic dice‑rolling game.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+},
+{
+  "id": "CUSA08034",
+  "title": "Youtubers Life",
+  "version": "1.02",
+  "gamesize": "2.91 GB",
+  "size": "2.91 GB",
+  "cover": "covers/youtubers-life.jpg",
+  "year": 2017,
+  "genre": "Simulation",
+  "description": "A life simulation game where players grow a YouTube channel, manage content, and build an online career.",
+  "dlc": [
+    { "name": "N/A", "size": "N/A" }
+  ]
+}
+]
