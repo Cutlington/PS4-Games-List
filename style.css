@@ -186,7 +186,7 @@ body:not(.game-page)::before {
 body:not(.game-page)::after {
     content: "";
     position: fixed;
-    top: 20px; /* slight vertical offset like PS4 */
+    top: 20px;
     left: 0;
     width: 200%;
     height: 100%;
@@ -268,4 +268,71 @@ body.game-page {
 .sidebar select {
     color: black !important;
     background-color: white !important;
+}
+
+/* --------------------------------------------------
+   PLATFORM ICONS (GLOBAL)
+-------------------------------------------------- */
+
+.platform-icons {
+    display: flex;
+    gap: 6px;
+    margin-top: 6px;
+}
+
+.platform-icon {
+    width: 22px;
+    height: 22px;
+    object-fit: contain;
+    filter: drop-shadow(0 0 3px rgba(0,0,0,0.7));
+}
+
+/* --------------------------------------------------
+   GAME PAGE LAYOUT (COVER + META)
+-------------------------------------------------- */
+
+.game-details-header {
+    display: flex;
+    gap: 30px;
+    align-items: flex-start;
+    margin: 20px 0 30px;
+}
+
+.cover-large {
+    width: 260px;
+    border-radius: 12px;
+    box-shadow: 0 0 18px rgba(0, 140, 255, 0.5);
+}
+
+.game-meta {
+    flex: 1;
+    font-size: 18px;
+}
+
+.game-meta h2 {
+    margin-bottom: 10px;
+}
+
+.game-meta p {
+    margin: 6px 0;
+}
+
+/* --------------------------------------------------
+   GAME PAGE RESPONSIVE FIX
+-------------------------------------------------- */
+
+@media (max-width: 700px) {
+    .game-details-header {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .game-meta {
+        margin-top: 20px;
+    }
+
+    .platform-icons {
+        justify-content: center;
+    }
 }
