@@ -77,7 +77,7 @@ a {
 -------------------------------------------------- */
 
 .main-content {
-    margin-left: 260px; /* Matches sidebar width */
+    margin-left: 260px;
     padding: 20px;
 }
 
@@ -164,7 +164,6 @@ a {
    TRUE PS4 BACKGROUND SYSTEM
 -------------------------------------------------- */
 
-/* PRIMARY WAVE (bright) */
 body:not(.game-page)::before {
     content: "";
     position: fixed;
@@ -172,17 +171,14 @@ body:not(.game-page)::before {
     left: 0;
     width: 200%;
     height: 100%;
-
     background: url('assets/ps4-wave-true.svg') repeat-x;
     background-size: cover;
-
     opacity: 0.22;
     mix-blend-mode: screen;
     animation: ps4WavePrimary 30s linear infinite;
     z-index: -2;
 }
 
-/* SECONDARY WAVE (faint, deeper layer) */
 body:not(.game-page)::after {
     content: "";
     position: fixed;
@@ -190,23 +186,19 @@ body:not(.game-page)::after {
     left: 0;
     width: 200%;
     height: 100%;
-
     background: url('assets/ps4-wave-true.svg') repeat-x;
     background-size: cover;
-
     opacity: 0.12;
     mix-blend-mode: screen;
     animation: ps4WaveSecondary 45s linear infinite;
     z-index: -3;
 }
 
-/* PRIMARY WAVE SPEED */
 @keyframes ps4WavePrimary {
     from { transform: translateX(0); }
     to { transform: translateX(-50%); }
 }
 
-/* SECONDARY WAVE SPEED */
 @keyframes ps4WaveSecondary {
     from { transform: translateX(0); }
     to { transform: translateX(-40%); }
@@ -238,17 +230,9 @@ body:not(.game-page)::after {
 }
 
 @keyframes particleFloat {
-    0% {
-        transform: translateY(0) scale(0.6);
-        opacity: 0;
-    }
-    20% {
-        opacity: 0.4;
-    }
-    100% {
-        transform: translateY(-120vh) scale(1);
-        opacity: 0;
-    }
+    0% { transform: translateY(0) scale(0.6); opacity: 0; }
+    20% { opacity: 0.4; }
+    100% { transform: translateY(-120vh) scale(1); opacity: 0; }
 }
 
 /* --------------------------------------------------
@@ -271,7 +255,7 @@ body.game-page {
 }
 
 /* --------------------------------------------------
-   PLATFORM ICONS (IMPROVED PS4 LOOK)
+   PLATFORM ICONS (PS4 ACCURATE + GLOW)
 -------------------------------------------------- */
 
 .platform-icons {
@@ -282,26 +266,26 @@ body.game-page {
 }
 
 .platform-icon {
-    width: 26px;
-    height: 26px;
+    width: 28px;
+    height: 28px;
     object-fit: contain;
     filter: drop-shadow(0 0 4px rgba(0,0,0,0.8));
     transition: transform 0.15s ease, filter 0.15s ease;
 }
 
 .platform-icon:hover {
-    transform: scale(1.15);
-    filter: drop-shadow(0 0 6px rgba(0,140,255,0.9));
+    transform: scale(1.18);
+    filter: drop-shadow(0 0 8px rgba(0,140,255,1));
 }
 
 /* Larger icons on game page */
 .game-meta .platform-icon {
-    width: 30px;
-    height: 30px;
+    width: 42px;
+    height: 42px;
 }
 
 /* --------------------------------------------------
-   GAME PAGE LAYOUT (COVER + META)
+   GAME PAGE LAYOUT
 -------------------------------------------------- */
 
 .game-details-header {
@@ -331,7 +315,7 @@ body.game-page {
 }
 
 /* --------------------------------------------------
-   GAME PAGE RESPONSIVE FIX
+   RESPONSIVE FIX
 -------------------------------------------------- */
 
 @media (max-width: 700px) {
