@@ -2,25 +2,21 @@
 // GENRE GROUPING MAP (CONTROLLED OUTPUT LIST)
 // --------------------------------------------------
 const genreGroups = {
-    // Action / Adventure
     "Action": "Action",
     "Action Adventure": "Action-Adventure",
     "Action-Adventure": "Action-Adventure",
     "Adventure": "Action-Adventure",
     "Adventure RPG": "RPG",
 
-    // RPG
     "RPG": "RPG",
     "JRPG": "RPG",
     "Action RPG": "RPG",
 
-    // Shooter
     "Shooter": "Shooter",
     "FPS": "Shooter",
     "First-Person Shooter": "Shooter",
     "Third-Person Shooter": "Shooter",
 
-    // Other common genres
     "Sports": "Sports",
     "Racing": "Racing",
     "Puzzle": "Puzzle",
@@ -36,7 +32,6 @@ const genreGroups = {
     "Trivia": "Game Show",
     "Survival": "Survival",
 
-    // Board Game family
     "Board Game": "Board Game",
     "Board Games": "Board Game",
     "Boardgame": "Board Game",
@@ -102,32 +97,28 @@ function hasRealDLC(game) {
 }
 
 // --------------------------------------------------
-// PLATFORM ICON DETECTION (FINAL + FIXED PATHS)
+// PLATFORM ICON DETECTION
 // --------------------------------------------------
 function getPlatformIcons(id, isVR) {
     const icons = [];
     const upper = String(id).toUpperCase();
 
-    // PS4 / PSVR
     if (upper.startsWith("CUSA")) {
         if (isVR === true) icons.push("icons/psvrwhite.png");
         else icons.push("icons/ps4white.png");
         return icons;
     }
 
-    // PS1
     if (upper.startsWith("SLES")) {
         icons.push("icons/pswhite.png");
         return icons;
     }
 
-    // PS2
     if (upper.startsWith("SLUS")) {
         icons.push("icons/ps2white.png");
         return icons;
     }
 
-    // PSP
     if (upper.startsWith("UCES") || upper.startsWith("ULUS")) {
         icons.push("icons/pspwhite.png");
         return icons;
@@ -157,8 +148,8 @@ const FilterState = {
 // INDEX PAGE LOGIC
 // --------------------------------------------------
 if (document.getElementById("games-container")) {
-    fetch('https://raw.githubusercontent.com/Cutlington/PS4-Games-List/main/games.json')
-        .then(response => response.json())
+    fetch("https://raw.githubusercontent.com/Cutlington/PS4-Games-List/main/games.json")
+        .then(r => r.json())
         .then(games => {
             allGames = games;
 
@@ -181,14 +172,14 @@ if (document.getElementById("games-container")) {
 // RENDER GAME GRID
 // --------------------------------------------------
 function renderGames(games) {
-    const grid = document.getElementById('games-container');
+    const grid = document.getElementById("games-container");
     if (!grid) return;
 
     grid.innerHTML = "";
 
     games.forEach(game => {
-        const div = document.createElement('div');
-        div.className = 'game-tile';
+        const div = document.createElement("div");
+        div.className = "game-tile";
 
         const platformIconsHTML = getPlatformIcons(game.id, game.vr)
             .map(src => `<img class="platform-icon" src="${src}" alt="Platform icon">`)
@@ -204,9 +195,7 @@ function renderGames(games) {
                 <div class="platform-icons">${platformIconsHTML}</div>
 
                 ${hasRealDLC(game) ? `
-                    <div class="dlc-badge">
-                        🧩 ${game.dlc.length} DLC
-                    </div>
+                    <div class="dlc-badge">🧩 ${game.dlc.length} DLC</div>
                 ` : ""}
             </a>
         `;
@@ -322,17 +311,17 @@ function generateLetterSort() {
 }
 
 // --------------------------------------------------
-// GAME PAGE LOGIC (UPDATED WITH PLATFORM ICONS)
+// GAME PAGE LOGIC
 // --------------------------------------------------
-if (window.location.pathname.endsWith('game.html')) {
+if (window.location.pathname.endsWith("game.html")) {
     const params = new URLSearchParams(window.location.search);
-    const id = params.get('id');
+    const id = params.get("id");
 
-    fetch('https://raw.githubusercontent.com/Cutlington/PS4-Games-List/main/games.json')
-        .then(response => response.json())
+    fetch("https://raw.githubusercontent.com/Cutlington/PS4-Games-List/main/games.json")
+        .then(r => r.json())
         .then(games => {
             const game = games.find(g => String(g.id) === String(id));
-            const container = document.getElementById('gameContainer');
+            const container = document.getElementById("gameContainer");
 
             if (!container) return;
 
