@@ -191,7 +191,7 @@ function renderGames(games) {
         div.className = 'game-tile';
 
         const platformIconsHTML = getPlatformIcons(game.id, game.vr)
-            .map(src => `<img class="platform-icon" src="${src}">`)
+            .map(src => `<img class="platform-icon" src="${src}" alt="Platform icon">`)
             .join("");
 
         div.innerHTML = `
@@ -343,7 +343,7 @@ if (window.location.pathname.endsWith('game.html')) {
 
             const genresText = getGenres(game).join(", ");
             const platformIconsHTML = getPlatformIcons(game.id, game.vr)
-                .map(src => `<img class="platform-icon" src="${src}">`)
+                .map(src => `<img class="platform-icon" src="${src}" alt="Platform icon">`)
                 .join("");
 
             container.innerHTML = `
