@@ -102,7 +102,7 @@ function hasRealDLC(game) {
 }
 
 // --------------------------------------------------
-// PLATFORM ICON DETECTION (FINAL VERSION)
+// PLATFORM ICON DETECTION (FINAL + FIXED PATHS)
 // --------------------------------------------------
 function getPlatformIcons(id, isVR) {
     const icons = [];
