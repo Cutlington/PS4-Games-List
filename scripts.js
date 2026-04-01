@@ -306,6 +306,11 @@ function renderGameGrid(games) {
         const div = document.createElement("div");
         div.className = "game-card";
 
+        // NEW: Determine if game has REAL DLC entries
+        const realDLC = Array.isArray(game.dlc)
+            ? game.dlc.filter(d => d.dlcname && d.dlcname.trim().toUpperCase() !== "N/A")
+            : [];
+
         div.innerHTML = `
             <div class="game-id-display">${game.id}</div>
 
@@ -313,11 +318,12 @@ function renderGameGrid(games) {
 
             <h3>${game.title}</h3>
 
-            <div class="dlc-indicator">
-                ${game.dlc && game.dlc.length > 0
-                    ? `<img src="icons/dlc.png" class="dlc-icon"> <span class="dlc-count">${game.dlc.length}</span>`
-                    : ``}
-            </div>
+            ${realDLC.length > 0 ? `
+                <div class="dlc-indicator">
+                    <img src="icons/dlc.png" class="dlc-icon">
+                    <span class="dlc-count">${realDLC.length}</span>
+                </div>
+            ` : ``}
         `;
 
         div.onclick = () => {
