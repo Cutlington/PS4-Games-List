@@ -12,24 +12,26 @@
     <div class="sidebar">
         <h2>Filters</h2>
 
+        <!-- SEARCH MOVED TO TOP -->
         <div class="filter-group">
-            <label for="genreFilter">Genre</label>
-            <select id="genreFilter">
-                <option value="">All Genres</option>
-            </select>
+            <label for="search">Search</label>
+            <input type="text" id="search" placeholder="Search games...">
         </div>
 
+        <!-- GENRE CHECKBOXES -->
         <div class="filter-group">
-            <label for="platformFilter">Platform</label>
-            <select id="platformFilter">
-                <option value="">All Platforms</option>
-            </select>
+            <label>Genres</label>
+            <div id="genreFilters" class="checkbox-list"></div>
         </div>
 
+        <!-- PLATFORM CHECKBOXES -->
         <div class="filter-group">
-            <label for="searchInput">Search</label>
-            <input type="text" id="searchInput" placeholder="Search games...">
+            <label>Platforms</label>
+            <div id="platformFilters" class="checkbox-list"></div>
         </div>
+
+        <!-- RESET BUTTON -->
+        <button id="resetFilters" class="reset-btn">Reset / Show All</button>
     </div>
 
     <div class="main-content">
