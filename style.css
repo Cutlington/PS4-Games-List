@@ -75,15 +75,11 @@ body::after {
     z-index: 10;
 }
 
-/* Main content aligned with sidebar */
-.index-page .main-content {
-    margin-left: 250px;
-    padding: 20px;
-}
-
-/* Game grid pushed right */
+/* Tighter spacing between sidebar and content */
+.index-page .main-content,
 .index-page .game-grid {
-    margin-left: 250px;
+    margin-left: 280px; /* Perfect PS4 spacing */
+    padding: 20px;
 }
 
 .game-page .main-content {
@@ -192,6 +188,7 @@ body::after {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
     gap: 20px;
+    padding-right: 20px; /* Prevents hover from touching edge */
 }
 
 /* PS4 Tile Base */
