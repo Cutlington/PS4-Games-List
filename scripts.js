@@ -69,7 +69,7 @@ function renderGameGrid(games) {
         const div = document.createElement("div");
         div.className = "game-card";
         div.innerHTML = `
-            <img src="${game.frontcover}" class="game-cover">
+            <img src="${game.frontcover}" class="gamebadge">
             <h3>${game.title}</h3>
         `;
         div.onclick = () => {
