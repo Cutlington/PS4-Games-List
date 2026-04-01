@@ -265,7 +265,7 @@ body::after {
     display: flex;
     justify-content: flex-end;
     width: 100%;
-    padding-right: 4px; /* slight PS4-style breathing room */
+    padding-right: 4px; /* PS4-style breathing room */
 }
 
 /* ------------------------------
