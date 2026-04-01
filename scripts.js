@@ -270,12 +270,9 @@ function renderGameGrid(games) {
     const gameGrid = document.getElementById("gameGrid");
     gameGrid.innerHTML = "";
 
-    // Safe normalization helper
     const norm = v => (v ? v.toLowerCase() : "");
 
     const filtered = games.filter(game => {
-
-        // Expanded search system
         const matchesSearch =
             !FilterState.search ||
             norm(game.title).includes(FilterState.search) ||
@@ -283,10 +280,10 @@ function renderGameGrid(games) {
             norm(game.genre1).includes(FilterState.search) ||
             norm(game.genre2).includes(FilterState.search) ||
             norm(game.genre3).includes(FilterState.search) ||
-            norm(game.id).includes(FilterState.search) ||          // CUSA ID
-            norm(game.version).includes(FilterState.search) ||     // Version
-            norm(game.publisher).includes(FilterState.search) ||   // Publisher
-            norm(game.developer).includes(FilterState.search);     // Developer
+            norm(game.id).includes(FilterState.search) ||
+            norm(game.version).includes(FilterState.search) ||
+            norm(game.publisher).includes(FilterState.search) ||
+            norm(game.developer).includes(FilterState.search);
 
         const gameGenres = [
             normalizeGenre(game.genre1),
@@ -308,13 +305,25 @@ function renderGameGrid(games) {
     filtered.forEach(game => {
         const div = document.createElement("div");
         div.className = "game-card";
+
         div.innerHTML = `
+            <div class="game-id-display">${game.id}</div>
+
             <img src="${game.gamebadge}" class="game-cover">
+
             <h3>${game.title}</h3>
+
+            <div class="dlc-indicator">
+                ${game.dlc && game.dlc.length > 0
+                    ? `<img src="icons/dlc.png" class="dlc-icon"> <span class="dlc-count">${game.dlc.length}</span>`
+                    : ``}
+            </div>
         `;
+
         div.onclick = () => {
             window.location.href = `game.html?id=${game.id}`;
         };
+
         gameGrid.appendChild(div);
     });
 }
