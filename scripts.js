@@ -270,10 +270,23 @@ function renderGameGrid(games) {
     const gameGrid = document.getElementById("gameGrid");
     gameGrid.innerHTML = "";
 
+    // Safe normalization helper
+    const norm = v => (v ? v.toLowerCase() : "");
+
     const filtered = games.filter(game => {
+
+        // Expanded search system
         const matchesSearch =
             !FilterState.search ||
-            game.title.toLowerCase().includes(FilterState.search);
+            norm(game.title).includes(FilterState.search) ||
+            norm(game.description).includes(FilterState.search) ||
+            norm(game.genre1).includes(FilterState.search) ||
+            norm(game.genre2).includes(FilterState.search) ||
+            norm(game.genre3).includes(FilterState.search) ||
+            norm(game.id).includes(FilterState.search) ||          // CUSA ID
+            norm(game.version).includes(FilterState.search) ||     // Version
+            norm(game.publisher).includes(FilterState.search) ||   // Publisher
+            norm(game.developer).includes(FilterState.search);     // Developer
 
         const gameGenres = [
             normalizeGenre(game.genre1),
@@ -332,7 +345,6 @@ async function initGamePage() {
 function renderGameDetails(game) {
     const container = document.getElementById("gameContainer");
 
-    // Normalize genres
     const genres = [
         normalizeGenre(game.genre1),
         normalizeGenre(game.genre2),
