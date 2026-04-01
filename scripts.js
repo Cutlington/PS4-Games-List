@@ -69,7 +69,7 @@ function renderGameGrid(games) {
         const div = document.createElement("div");
         div.className = "game-card";
         div.innerHTML = `
-            <img src="${game.frontcover}" class="gamebadge">
+            <img src="${game.gamebade}" class="gamebadge">
             <h3>${game.title}</h3>
         `;
         div.onclick = () => {
@@ -104,7 +104,7 @@ function renderGameDetails(game) {
 
     container.innerHTML = `
         <div class="game-header">
-            <img src="${game.frontcover}" class="game-cover-large">
+            <img src="${game.gamebadge}" class="game-cover-large">
             <div class="game-info">
                 <h1>${game.title}</h1>
                 <p>${game.description}</p>
