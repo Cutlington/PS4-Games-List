@@ -43,6 +43,7 @@ function generateGenreFilters(games) {
     const container = document.getElementById("genreFilters");
     container.innerHTML = "";
 
+    // Collect all genres from genre1, genre2, genre3
     const genres = new Set();
     games.forEach(g => {
         if (g.genre1) genres.add(g.genre1);
@@ -50,7 +51,15 @@ function generateGenreFilters(games) {
         if (g.genre3) genres.add(g.genre3);
     });
 
-    [...genres].sort().forEach(genre => {
+    // Sort genres so the ones used most often as genre1 appear first
+    const sortedGenres = [...genres].sort((a, b) => {
+        const countA = games.filter(g => g.genre1 === a).length;
+        const countB = games.filter(g => g.genre1 === b).length;
+        return countB - countA;
+    });
+
+    // Build checkboxes
+    sortedGenres.forEach(genre => {
         const id = "genre-" + genre.replace(/\s+/g, "-").toLowerCase();
 
         const wrapper = document.createElement("label");
@@ -64,6 +73,7 @@ function generateGenreFilters(games) {
         container.appendChild(wrapper);
     });
 
+    // Checkbox listeners
     container.querySelectorAll("input[type='checkbox']").forEach(cb => {
         cb.addEventListener("change", () => {
             if (cb.checked) FilterState.genres.add(cb.value);
@@ -160,7 +170,7 @@ function renderGameGrid(games) {
             !FilterState.search ||
             game.title.toLowerCase().includes(FilterState.search);
 
-        // Genres
+        // Genres (game appears under ALL 3 genres)
         const gameGenres = [game.genre1, game.genre2, game.genre3].filter(Boolean);
         const matchesGenres =
             FilterState.genres.size === 0 ||
