@@ -66,17 +66,17 @@ function renderGameGrid(games) {
     });
 
     filtered.forEach(game => {
-        const div = document.createElement("div");
-        div.className = "game-card";
-        div.innerHTML = `
-            <img src="${game.gamebade}" class="gamebadge">
-            <h3>${game.title}</h3>
-        `;
-        div.onclick = () => {
-            window.location.href = `game.html?id=${game.id}`;
-        };
-        gameGrid.appendChild(div);
-    });
+    const div = document.createElement("div");
+    div.className = "game-card";
+    div.innerHTML = `
+        <img src="${game.gamebadge}" class="game-cover">
+        <h3>${game.title}</h3>
+    `;
+    div.onclick = () => {
+        window.location.href = `game.html?id=${game.id}`;
+    };
+    gameGrid.appendChild(div);
+});
 }
 
 // ------------------------------
