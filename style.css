@@ -62,7 +62,6 @@ body::after {
    LAYOUT
 ------------------------------ */
 
-/* Sidebar — fixed PS4-style */
 .index-page .sidebar {
     width: 250px;
     background: rgba(0, 10, 40, 0.6);
@@ -75,13 +74,11 @@ body::after {
     z-index: 10;
 }
 
-/* Main content offset from sidebar */
 .index-page .main-content {
     margin-left: 280px;
     padding: 20px;
 }
 
-/* Game page layout */
 .game-page .main-content {
     padding: 20px;
 }
@@ -107,7 +104,6 @@ body::after {
     font-size: 14px;
 }
 
-/* Search box */
 .filter-group input[type="text"] {
     width: 100%;
     padding: 8px;
@@ -115,7 +111,6 @@ body::after {
     border-radius: 4px;
 }
 
-/* Compact checkbox layout */
 .checkbox-list {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -143,7 +138,6 @@ body::after {
     cursor: pointer;
 }
 
-/* Checkbox focus ring */
 .ps4-checkbox:focus-visible {
     outline: none;
     box-shadow: 0 0 0 3px #4da3ff,
@@ -162,7 +156,6 @@ body::after {
     font-size: 12px;
 }
 
-/* Reset button */
 .reset-btn {
     width: 100%;
     padding: 10px;
@@ -201,13 +194,11 @@ body::after {
     box-shadow: 0 0 0 rgba(0, 140, 255, 0);
 }
 
-/* PS4 Hover Glow */
 .game-card:hover {
     transform: scale(1.06);
     box-shadow: 0 0 18px rgba(0, 140, 255, 0.55);
 }
 
-/* PS4 Focus Ring */
 .game-card:focus,
 .game-card:focus-visible {
     outline: none;
@@ -216,7 +207,6 @@ body::after {
     transform: scale(1.08);
 }
 
-/* Tile image animation */
 .game-card img {
     width: 100%;
     border-radius: 6px;
@@ -269,6 +259,12 @@ body::after {
     letter-spacing: 0.3px;
 }
 
+/* DLC badge under the title */
+.dlc-below-title {
+    margin-top: 6px;
+    justify-content: center;
+}
+
 /* ------------------------------
    GAME PAGE HEADER
 ------------------------------ */
@@ -319,7 +315,6 @@ body::after {
     box-shadow: 0 0 0 rgba(0, 120, 255, 0);
 }
 
-/* PS4 DLC Hover Glow */
 .dlc-item:hover {
     transform: scale(1.03);
     box-shadow: 0 0 16px rgba(0, 120, 255, 0.45);
