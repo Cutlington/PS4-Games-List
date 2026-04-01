@@ -312,24 +312,23 @@ function renderGameGrid(games) {
             : [];
 
         // ------------------------------
-        // PS4-LIBRARY DLC BADGE (Option B)
-        // Right-aligned on ID row
+        // NEW LAYOUT: DLC UNDER TITLE
         // ------------------------------
         div.innerHTML = `
             <div class="top-info">
                 <div class="game-id-display">${game.id}</div>
-
-                ${realDLC.length > 0 ? `
-                    <div class="dlc-wrapper">
-                        <img src="icons/dlc.png" class="dlc-icon">
-                        <span class="dlc-count">${realDLC.length}</span>
-                    </div>
-                ` : ``}
             </div>
 
             <img src="${game.gamebadge}" class="game-cover">
 
             <h3>${game.title}</h3>
+
+            ${realDLC.length > 0 ? `
+                <div class="dlc-wrapper dlc-below-title">
+                    <img src="icons/dlc.png" class="dlc-icon">
+                    <span class="dlc-count">${realDLC.length}</span>
+                </div>
+            ` : ``}
         `;
 
         div.onclick = () => {
