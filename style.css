@@ -110,20 +110,24 @@ body::after {
     border-radius: 4px;
 }
 
-/* Checkbox List Layout */
+/* ---------------------------------------
+   COMPACT CHECKBOX LAYOUT (Option A + C)
+---------------------------------------- */
+
+/* Two-column layout */
 .checkbox-list {
-    display: flex;
-    flex-direction: column;
-    gap: 8px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4px 8px;
 }
 
-/* PS4 Checkbox Item */
+/* Smaller checkbox rows */
 .ps4-filter-item {
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 6px;
     cursor: pointer;
-    padding: 6px 4px;
+    padding: 3px 2px;
     border-radius: 6px;
     transition: background 0.2s ease;
 }
@@ -132,10 +136,10 @@ body::after {
     background: rgba(80, 120, 255, 0.15);
 }
 
-/* Checkbox */
+/* Smaller checkbox */
 .ps4-filter-item input[type="checkbox"] {
-    width: 18px;
-    height: 18px;
+    width: 14px;
+    height: 14px;
     accent-color: #4da3ff;
     cursor: pointer;
 }
@@ -153,9 +157,14 @@ body::after {
     100% { box-shadow: 0 0 0 3px #4da3ff, 0 0 12px rgba(0, 140, 255, 0.7); }
 }
 
-/* Checkbox Label Text */
+/* Smaller text */
 .ps4-filter-text {
-    font-size: 14px;
+    font-size: 12px;
+}
+
+/* Reduce spacing between groups */
+.filter-group {
+    margin-bottom: 12px;
 }
 
 /* Reset Button */
