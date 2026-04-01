@@ -13,7 +13,7 @@
     "totalsize": "392.76 MB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/3d-mini-golf.png",
+    "gamebadge": "badges/3d-mini-golf.jpg",
     "frontcover": "covers/3d-mini-golf-front.jpg",
     "backcover": "covers/3d-mini-golf-back.jpg",
     "backgrounds": [
@@ -28,12 +28,12 @@
     "genre3": "Arcade",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
 
@@ -42,10 +42,10 @@
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
 
@@ -85,7 +85,7 @@
     "totalsize": "80.15 MB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/adventure-capitalist.png",
+    "gamebadge": "badges/adventure-capitalist.jpg",
     "frontcover": "covers/adventure-capitalist-front.jpg",
     "backcover": "covers/adventure-capitalist-back.jpg",
     "backgrounds": [
@@ -114,7 +114,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
 
@@ -154,7 +154,7 @@
     "totalsize": "1.25 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/american-ninja-warrior-challenge.png",
+    "gamebadge": "badges/american-ninja-warrior-challenge.jpg",
     "frontcover": "covers/american-ninja-warrior-challenge-front.jpg",
     "backcover": "covers/american-ninja-warrior-challenge-back.jpg",
     "backgrounds": [
@@ -169,12 +169,12 @@
     "genre3": "Fitness",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
 
@@ -185,7 +185,7 @@
     "splitscreen": "No",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
 
@@ -225,7 +225,7 @@
     "totalsize": "884.54 MB",
     "highestfirmware": "7.50",
     "backport": "No",
-    "gamebadge": "badges/angry-alligator.png",
+    "gamebadge": "badges/angry-alligator.jpg",
     "frontcover": "covers/angry-alligator-front.jpg",
     "backcover": "covers/angry-alligator-back.jpg",
     "backgrounds": [
@@ -254,7 +254,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
 
@@ -294,7 +294,7 @@
     "totalsize": "3.05 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/arcade-paradise.png",
+    "gamebadge": "badges/arcade-paradise.jpg",
     "frontcover": "covers/arcade-paradise-front.jpg",
     "backcover": "covers/arcade-paradise-back.jpg",
     "backgrounds": [
@@ -323,7 +323,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
 
@@ -363,7 +363,7 @@
     "totalsize": "350.36 MB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/arkanoid-eternal-battle.png",
+    "gamebadge": "badges/arkanoid-eternal-battle.jpg",
     "frontcover": "covers/arkanoid-eternal-battle-front.jpg",
     "backcover": "covers/arkanoid-eternal-battle-back.jpg",
     "backgrounds": [
@@ -378,10 +378,10 @@
     "genre3": "Retro",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "No",
 
@@ -394,7 +394,7 @@
     "splitscreen": "No",
 
     "maxplayers": "25",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
 
@@ -434,7 +434,7 @@
     "totalsize": "1.66 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/astroneer.png",
+    "gamebadge": "badges/astroneer.jpg",
     "frontcover": "covers/astroneer-front.jpg",
     "backcover": "covers/astroneer-back.jpg",
     "backgrounds": [
@@ -449,25 +449,25 @@
     "genre3": "Sandbox",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "No",
 
     "coop": "Yes",
-    "coopicon": "icons/features/coop.png",
+    "coopicon": "icons/features/coop.jpg",
 
     "onlinecoop": "Yes",
-    "onlinecoopicon": "icons/features/online-coop.png",
+    "onlinecoopicon": "icons/features/online-coop.jpg",
 
     "localcoop": "No",
 
     "splitscreen": "No",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
 
@@ -552,7 +552,7 @@
     "totalsize": "39.25 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/atomfall.png",
+    "gamebadge": "badges/atomfall.jpg",
     "frontcover": "covers/atomfall-front.jpg",
     "backcover": "covers/atomfall-back.jpg",
     "backgrounds": [
@@ -581,7 +581,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
 
@@ -657,7 +657,7 @@
     "totalsize": "5.89 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/atv-drift-and-tricks.png",
+    "gamebadge": "badges/atv-drift-and-tricks.jpg",
     "frontcover": "covers/atv-drift-and-tricks-front.jpg",
     "backcover": "covers/atv-drift-and-tricks-back.jpg",
     "backgrounds": [
@@ -672,12 +672,12 @@
     "genre3": "Sports",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
 
@@ -686,10 +686,10 @@
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
 
@@ -729,7 +729,7 @@
     "totalsize": "3.5 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/autobahn-police-simulator-3.png",
+    "gamebadge": "badges/autobahn-police-simulator-3.jpg",
     "frontcover": "covers/autobahn-police-simulator-3-front.jpg",
     "backcover": "covers/autobahn-police-simulator-3-back.jpg",
     "backgrounds": [
@@ -758,7 +758,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
 
@@ -798,7 +798,7 @@
     "totalsize": "393.94 MB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/autonauts.png",
+    "gamebadge": "badges/autonauts.jpg",
     "frontcover": "covers/autonauts-front.jpg",
     "backcover": "covers/autonauts-back.jpg",
     "backgrounds": [
@@ -827,7 +827,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
 
@@ -867,7 +867,7 @@
     "totalsize": "1.25 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/battleship.png",
+    "gamebadge": "badges/battleship.jpg",
     "frontcover": "covers/battleship-front.jpg",
     "backcover": "covers/battleship-back.jpg",
     "backgrounds": [
@@ -882,13 +882,13 @@
     "genre3": "Tactical",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
 
@@ -899,7 +899,7 @@
     "splitscreen": "No",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
 
@@ -939,7 +939,7 @@
     "totalsize": "7.92 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/bee-simulator.png",
+    "gamebadge": "badges/bee-simulator.jpg",
     "frontcover": "covers/bee-simulator-front.jpg",
     "backcover": "covers/bee-simulator-back.jpg",
     "backgrounds": [
@@ -954,26 +954,26 @@
     "genre3": "Family",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
-    "coopicon": "icons/features/coop.png",
+    "coopicon": "icons/features/coop.jpg",
 
     "onlinecoop": "No",
 
     "localcoop": "Yes",
-    "localcoopicon": "icons/features/local-coop.png",
+    "localcoopicon": "icons/features/local-coop.jpg",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
 
@@ -1013,7 +1013,7 @@
     "totalsize": "3.77 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/big-buck-arcade.png",
+    "gamebadge": "badges/big-buck-arcade.jpg",
     "frontcover": "covers/big-buck-arcade-front.jpg",
     "backcover": "covers/big-buck-arcade-back.jpg",
     "backgrounds": [
@@ -1028,12 +1028,12 @@
     "genre3": "Hunting",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
 
@@ -1042,10 +1042,10 @@
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
 
@@ -1085,7 +1085,7 @@
     "totalsize": "179.24 MB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/block-cascade.png",
+    "gamebadge": "badges/block-cascade.jpg",
     "frontcover": "covers/block-cascade-front.jpg",
     "backcover": "covers/block-cascade-back.jpg",
     "backgrounds": [
@@ -1114,7 +1114,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
 
@@ -1154,7 +1154,7 @@
     "totalsize": "219.28 MB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/bloons-td-5.png",
+    "gamebadge": "badges/bloons-td-5.jpg",
     "frontcover": "covers/bloons-td-5-front.jpg",
     "backcover": "covers/bloons-td-5-back.jpg",
     "backgrounds": [
@@ -1169,25 +1169,25 @@
     "genre3": "Arcade",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "No",
 
     "coop": "Yes",
-    "coopicon": "icons/features/coop.png",
+    "coopicon": "icons/features/coop.jpg",
 
     "onlinecoop": "Yes",
-    "onlinecoopicon": "icons/features/online-coop.png",
+    "onlinecoopicon": "icons/features/online-coop.jpg",
 
     "localcoop": "No",
 
     "splitscreen": "No",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
 
@@ -1227,7 +1227,7 @@
     "totalsize": "201 MB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/boggle.png",
+    "gamebadge": "badges/boggle.jpg",
     "frontcover": "covers/boggle-front.jpg",
     "backcover": "covers/boggle-back.jpg",
     "backgrounds": [
@@ -1242,13 +1242,13 @@
     "genre3": "Family",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
 
@@ -1257,10 +1257,10 @@
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -1296,7 +1296,7 @@
     "totalsize": "333.32 MB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/bomberman-party-edition.png",
+    "gamebadge": "badges/bomberman-party-edition.jpg",
     "frontcover": "covers/bomberman-party-edition-front.jpg",
     "backcover": "covers/bomberman-party-edition-back.jpg",
     "backgrounds": [
@@ -1311,12 +1311,12 @@
     "genre3": "Party",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
 
@@ -1325,10 +1325,10 @@
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -1364,7 +1364,7 @@
     "totalsize": "249.56 MB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/brick-breaker.png",
+    "gamebadge": "badges/brick-breaker.jpg",
     "frontcover": "covers/brick-breaker-front.jpg",
     "backcover": "covers/brick-breaker-back.jpg",
     "backgrounds": [
@@ -1393,7 +1393,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -1429,7 +1429,7 @@
     "totalsize": "154.08 MB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/bridge-constructor.png",
+    "gamebadge": "badges/bridge-constructor.jpg",
     "frontcover": "covers/bridge-constructor-front.jpg",
     "backcover": "covers/bridge-constructor-back.jpg",
     "backgrounds": [
@@ -1458,7 +1458,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -1494,7 +1494,7 @@
     "totalsize": "1.59 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/carnival-games-vr.png",
+    "gamebadge": "badges/carnival-games-vr.jpg",
     "frontcover": "covers/carnival-games-vr-front.jpg",
     "backcover": "covers/carnival-games-vr-back.jpg",
     "backgrounds": [
@@ -1523,16 +1523,16 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "Yes",
-    "psvricon": "icons/features/psvr.png",
+    "psvricon": "icons/features/psvr.jpg",
 
     "psmove": "Yes",
-    "psmoveicon": "icons/features/ps-move.png",
+    "psmoveicon": "icons/features/ps-move.jpg",
 
     "pscamera": "Yes",
-    "pscameraicon": "icons/features/ps-camera.png",
+    "pscameraicon": "icons/features/ps-camera.jpg",
 
     "keyboardsupport": "No",
     "mousesupport": "No",
@@ -1565,7 +1565,7 @@
     "totalsize": "247.86 MB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/catan-vr.png",
+    "gamebadge": "badges/catan-vr.jpg",
     "frontcover": "covers/catan-vr-front.jpg",
     "backcover": "covers/catan-vr-back.jpg",
     "backgrounds": [
@@ -1580,10 +1580,10 @@
     "genre3": "Board Game",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "No",
 
@@ -1596,15 +1596,15 @@
     "splitscreen": "No",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "Yes",
-    "psvricon": "icons/features/psvr.png",
+    "psvricon": "icons/features/psvr.jpg",
 
     "psmove": "No",
 
     "pscamera": "Yes",
-    "pscameraicon": "icons/features/ps-camera.png",
+    "pscameraicon": "icons/features/ps-camera.jpg",
 
     "keyboardsupport": "No",
     "mousesupport": "No",
@@ -1637,7 +1637,7 @@
     "totalsize": "1.93 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/chef-life.png",
+    "gamebadge": "badges/chef-life.jpg",
     "frontcover": "covers/chef-life-front.jpg",
     "backcover": "covers/chef-life-back.jpg",
     "backgrounds": [
@@ -1660,7 +1660,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -1714,7 +1714,7 @@
     "totalsize": "1.09 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/climber-sky-is-the-limit.png",
+    "gamebadge": "badges/climber-sky-is-the-limit.jpg",
     "frontcover": "covers/climber-sky-is-the-limit-front.jpg",
     "backcover": "covers/climber-sky-is-the-limit-back.jpg",
     "backgrounds": [
@@ -1737,7 +1737,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -1773,7 +1773,7 @@
     "totalsize": "237.96 MB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/clustertruck.png",
+    "gamebadge": "badges/clustertruck.jpg",
     "frontcover": "covers/clustertruck-front.jpg",
     "backcover": "covers/clustertruck-back.jpg",
     "backgrounds": [
@@ -1796,7 +1796,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -1832,7 +1832,7 @@
     "totalsize": "23.21 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/crash-bandicoot-n-sane-trilogy.png",
+    "gamebadge": "badges/crash-bandicoot-n-sane-trilogy.jpg",
     "frontcover": "covers/crash-bandicoot-n-sane-trilogy-front.jpg",
     "backcover": "covers/crash-bandicoot-n-sane-trilogy-back.jpg",
     "backgrounds": [
@@ -1855,7 +1855,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -1891,7 +1891,7 @@
     "totalsize": "4.43 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/creed-rise-to-glory.png",
+    "gamebadge": "badges/creed-rise-to-glory.jpg",
     "frontcover": "covers/creed-rise-to-glory-front.jpg",
     "backcover": "covers/creed-rise-to-glory-back.jpg",
     "backgrounds": [
@@ -1906,10 +1906,10 @@
     "genre3": "Sports",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "No",
 
@@ -1920,16 +1920,16 @@
     "splitscreen": "No",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "Yes",
-    "psvricon": "icons/features/psvr.png",
+    "psvricon": "icons/features/psvr.jpg",
 
     "psmove": "Yes",
-    "psmoveicon": "icons/features/ps-move.png",
+    "psmoveicon": "icons/features/ps-move.jpg",
 
     "pscamera": "Yes",
-    "pscameraicon": "icons/features/ps-camera.png",
+    "pscameraicon": "icons/features/ps-camera.jpg",
 
     "keyboardsupport": "No",
     "mousesupport": "No",
@@ -1951,8 +1951,8 @@
   {
     "id": "SLUS20159",
     "platform": "PS2",
-    "icon1": "icons/ps2white.png",
-    "icon2": "icons/ps2black.png",
+    "icon1": "icons/ps2white.jpg",
+    "icon2": "icons/ps2black.jpg",
     "title": "Dave Mirra Freestyle BMX 2 (PS2)",
     "version": "1.00",
     "publisher": "Acclaim",
@@ -1962,7 +1962,7 @@
     "totalsize": "506.92 MB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/dave-mirra-freestyle-bmx-2.png",
+    "gamebadge": "badges/dave-mirra-freestyle-bmx-2.jpg",
     "frontcover": "covers/dave-mirra-freestyle-bmx-2-front.jpg",
     "backcover": "covers/dave-mirra-freestyle-bmx-2-back.jpg",
     "backgrounds": [
@@ -1977,22 +1977,22 @@
     "genre3": "Arcade",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -2028,7 +2028,7 @@
     "totalsize": "3.33 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/dave-the-diver.png",
+    "gamebadge": "badges/dave-the-diver.jpg",
     "frontcover": "covers/dave-the-diver-front.jpg",
     "backcover": "covers/dave-the-diver-back.jpg",
     "backgrounds": [
@@ -2051,7 +2051,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -2105,7 +2105,7 @@
     "totalsize": "18.75 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/disney-dreamlight-valley.png",
+    "gamebadge": "badges/disney-dreamlight-valley.jpg",
     "frontcover": "covers/disney-dreamlight-valley-front.jpg",
     "backcover": "covers/disney-dreamlight-valley-back.jpg",
     "backgrounds": [
@@ -2128,7 +2128,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -2164,7 +2164,7 @@
     "totalsize": "377.62 MB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/dog-the-dog-takes-the-hindmost.png",
+    "gamebadge": "badges/dog-the-dog-takes-the-hindmost.jpg",
     "frontcover": "covers/dog-the-dog-takes-the-hindmost-front.jpg",
     "backcover": "covers/dog-the-dog-takes-the-hindmost-back.jpg",
     "backgrounds": [
@@ -2187,7 +2187,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -2223,7 +2223,7 @@
     "totalsize": "5.96 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/dreamworks-all-star-kart-racing.png",
+    "gamebadge": "badges/dreamworks-all-star-kart-racing.jpg",
     "frontcover": "covers/dreamworks-all-star-kart-racing-front.jpg",
     "backcover": "covers/dreamworks-all-star-kart-racing-back.jpg",
     "backgrounds": [
@@ -2238,23 +2238,23 @@
     "genre3": "Arcade",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -2290,7 +2290,7 @@
     "totalsize": "869.66 MB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/dredge.png",
+    "gamebadge": "badges/dredge.jpg",
     "frontcover": "covers/dredge-front.jpg",
     "backcover": "covers/dredge-back.jpg",
     "backgrounds": [
@@ -2313,7 +2313,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -2367,7 +2367,7 @@
     "totalsize": "2.31 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/dysmantle.png",
+    "gamebadge": "badges/dysmantle.jpg",
     "frontcover": "covers/dysmantle-front.jpg",
     "backcover": "covers/dysmantle-back.jpg",
     "backgrounds": [
@@ -2390,7 +2390,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -2444,7 +2444,7 @@
     "totalsize": "5.75 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/ea-sports-fc-25.png",
+    "gamebadge": "badges/ea-sports-fc-25.jpg",
     "frontcover": "covers/ea-sports-fc-25-front.jpg",
     "backcover": "covers/ea-sports-fc-25-back.jpg",
     "backgrounds": [
@@ -2459,23 +2459,23 @@
     "genre3": "Simulation",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
     "onlinecoop": "Yes",
     "localcoop": "Yes",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "22",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -2511,7 +2511,7 @@
     "totalsize": "65 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/ea-sports-fc-26.png",
+    "gamebadge": "badges/ea-sports-fc-26.jpg",
     "frontcover": "covers/ea-sports-fc-26-front.jpg",
     "backcover": "covers/ea-sports-fc-26-back.jpg",
     "backgrounds": [
@@ -2526,23 +2526,23 @@
     "genre3": "Simulation",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
     "onlinecoop": "Yes",
     "localcoop": "Yes",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "22",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -2578,7 +2578,7 @@
     "totalsize": "40.74 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/ea-sports-nhl-24.png",
+    "gamebadge": "badges/ea-sports-nhl-24.jpg",
     "frontcover": "covers/ea-sports-nhl-24-front.jpg",
     "backcover": "covers/ea-sports-nhl-24-back.jpg",
     "backgrounds": [
@@ -2593,23 +2593,23 @@
     "genre3": "Simulation",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
     "onlinecoop": "Yes",
     "localcoop": "Yes",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "12",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -2645,7 +2645,7 @@
     "totalsize": "42.23 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/ea-sports-ufc-4.png",
+    "gamebadge": "badges/ea-sports-ufc-4.jpg",
     "frontcover": "covers/ea-sports-ufc-4-front.jpg",
     "backcover": "covers/ea-sports-ufc-4-back.jpg",
     "backgrounds": [
@@ -2660,13 +2660,13 @@
     "genre3": "Mixed Martial Arts",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
@@ -2675,7 +2675,7 @@
     "splitscreen": "No",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -2891,7 +2891,7 @@
     "totalsize": "109.18 MB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/egg-runner.png",
+    "gamebadge": "badges/egg-runner.jpg",
     "frontcover": "covers/egg-runner-front.jpg",
     "backcover": "covers/egg-runner-back.jpg",
     "backgrounds": [
@@ -2914,7 +2914,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -2950,7 +2950,7 @@
     "totalsize": "813.24 MB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/eve-gunjack.png",
+    "gamebadge": "badges/eve-gunjack.jpg",
     "frontcover": "covers/eve-gunjack-front.jpg",
     "backcover": "covers/eve-gunjack-back.jpg",
     "backgrounds": [
@@ -2973,13 +2973,13 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "Yes",
-	"psvricon": "icons/features/psvr.png",
+	"psvricon": "icons/features/psvr.jpg",
     "psmove": "No",
     "pscamera": "Yes",
-	"pscameraicon": "icons/features/ps-camera.png",
+	"pscameraicon": "icons/features/ps-camera.jpg",
     "keyboardsupport": "No",
     "mousesupport": "No",
 
@@ -3011,7 +3011,7 @@
     "totalsize": "12.38 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/expeditions-a-mudrunner-game.png",
+    "gamebadge": "badges/expeditions-a-mudrunner-game.jpg",
     "frontcover": "covers/expeditions-a-mudrunner-game-front.jpg",
     "backcover": "covers/expeditions-a-mudrunner-game-back.jpg",
     "backgrounds": [
@@ -3034,7 +3034,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -3088,7 +3088,7 @@
     "totalsize": "1.64 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/family-feud.png",
+    "gamebadge": "badges/family-feud.jpg",
     "frontcover": "covers/family-feud-front.jpg",
     "backcover": "covers/family-feud-back.jpg",
     "backgrounds": [
@@ -3103,13 +3103,13 @@
     "genre3": "Family",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
@@ -3118,7 +3118,7 @@
     "splitscreen": "No",
 
     "maxplayers": "5",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -3154,7 +3154,7 @@
     "totalsize": "5.08 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/firefighting-simulator-the-squad.png",
+    "gamebadge": "badges/firefighting-simulator-the-squad.jpg",
     "frontcover": "covers/firefighting-simulator-the-squad-front.jpg",
     "backcover": "covers/firefighting-simulator-the-squad-back.jpg",
     "backgrounds": [
@@ -3169,24 +3169,24 @@
     "genre3": "Cooperative",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "No",
 
     "coop": "Yes",
 
     "onlinecoop": "Yes",
-    "onlinecoopicon": "icons/features/online-coop.png",
+    "onlinecoopicon": "icons/features/online-coop.jpg",
 
     "localcoop": "No",
 
     "splitscreen": "No",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -3222,7 +3222,7 @@
     "totalsize": "6.05 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/frostpunk.png",
+    "gamebadge": "badges/frostpunk.jpg",
     "frontcover": "covers/frostpunk-front.jpg",
     "backcover": "covers/frostpunk-back.jpg",
     "backgrounds": [
@@ -3251,7 +3251,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -3287,7 +3287,7 @@
     "totalsize": "1.92 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/garfield-kart-furious-racing.png",
+    "gamebadge": "badges/garfield-kart-furious-racing.jpg",
     "frontcover": "covers/garfield-kart-furious-racing-front.jpg",
     "backcover": "covers/garfield-kart-furious-racing-back.jpg",
     "backgrounds": [
@@ -3302,12 +3302,12 @@
     "genre3": "Family",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
 
@@ -3316,10 +3316,10 @@
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -3355,7 +3355,7 @@
     "totalsize": "14.87 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/ghostbusters-spirits-unleashed-ecto-edition.png",
+    "gamebadge": "badges/ghostbusters-spirits-unleashed-ecto-edition.jpg",
     "frontcover": "covers/ghostbusters-spirits-unleashed-ecto-edition-front.jpg",
     "backcover": "covers/ghostbusters-spirits-unleashed-ecto-edition-back.jpg",
     "backgrounds": [
@@ -3370,24 +3370,24 @@
     "genre3": "Asymmetric",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "No",
 
     "coop": "Yes",
 
     "onlinecoop": "Yes",
-    "onlinecoopicon": "icons/features/online-coop.png",
+    "onlinecoopicon": "icons/features/online-coop.jpg",
 
     "localcoop": "No",
 
     "splitscreen": "No",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -3423,7 +3423,7 @@
     "totalsize": "216.33 MB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/girlfriend-from-hell.png",
+    "gamebadge": "badges/girlfriend-from-hell.jpg",
     "frontcover": "covers/girlfriend-from-hell-front.jpg",
     "backcover": "covers/girlfriend-from-hell-back.jpg",
     "backgrounds": [
@@ -3452,7 +3452,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -3488,7 +3488,7 @@
     "totalsize": "1.05 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/goat-simulator-the-bundle.png",
+    "gamebadge": "badges/goat-simulator-the-bundle.jpg",
     "frontcover": "covers/goat-simulator-the-bundle-front.jpg",
     "backcover": "covers/goat-simulator-the-bundle-back.jpg",
     "backgrounds": [
@@ -3517,7 +3517,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -3553,7 +3553,7 @@
     "totalsize": "6.82 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/goat-simulator-3.png",
+    "gamebadge": "badges/goat-simulator-3.jpg",
     "frontcover": "covers/goat-simulator-3-front.jpg",
     "backcover": "covers/goat-simulator-3-back.jpg",
     "backgrounds": [
@@ -3568,24 +3568,24 @@
     "genre3": "Adventure",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "No",
 
     "coop": "Yes",
 
     "onlinecoop": "Yes",
-    "onlinecoopicon": "icons/features/online-coop.png",
+    "onlinecoopicon": "icons/features/online-coop.jpg",
 
     "localcoop": "No",
 
     "splitscreen": "No",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -3621,7 +3621,7 @@
     "totalsize": "2.12 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/green-hell.png",
+    "gamebadge": "badges/green-hell.jpg",
     "frontcover": "covers/green-hell-front.jpg",
     "backcover": "covers/green-hell-back.jpg",
     "backgrounds": [
@@ -3644,14 +3644,14 @@
     "coop": "Yes",
 
     "onlinecoop": "Yes",
-    "onlinecoopicon": "icons/features/online-coop.png",
+    "onlinecoopicon": "icons/features/online-coop.jpg",
 
     "localcoop": "No",
 
     "splitscreen": "No",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -3687,7 +3687,7 @@
     "totalsize": "5.19 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/grounded.png",
+    "gamebadge": "badges/grounded.jpg",
     "frontcover": "covers/grounded-front.jpg",
     "backcover": "covers/grounded-back.jpg",
     "backgrounds": [
@@ -3702,24 +3702,24 @@
     "genre3": "Cooperative",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "No",
 
     "coop": "Yes",
 
     "onlinecoop": "Yes",
-    "onlinecoopicon": "icons/features/online-coop.png",
+    "onlinecoopicon": "icons/features/online-coop.jpg",
 
     "localcoop": "No",
 
     "splitscreen": "No",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -3755,7 +3755,7 @@
     "totalsize": "2.6 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/guts-and-glory.png",
+    "gamebadge": "badges/guts-and-glory.jpg",
     "frontcover": "covers/guts-and-glory-front.jpg",
     "backcover": "covers/guts-and-glory-back.jpg",
     "backgrounds": [
@@ -3784,7 +3784,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -3820,7 +3820,7 @@
     "totalsize": "4.12 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/hasbro-family-fun-pack-conquest-edition.png",
+    "gamebadge": "badges/hasbro-family-fun-pack-conquest-edition.jpg",
     "frontcover": "covers/hasbro-family-fun-pack-conquest-edition-front.jpg",
     "backcover": "covers/hasbro-family-fun-pack-conquest-edition-back.jpg",
     "backgrounds": [
@@ -3835,13 +3835,13 @@
     "genre3": "Family",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
 
@@ -3850,10 +3850,10 @@
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -3907,7 +3907,7 @@
     "totalsize": "3.37 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/hasbro-family-fun-pack.png",
+    "gamebadge": "badges/hasbro-family-fun-pack.jpg",
     "frontcover": "covers/hasbro-family-fun-pack-front.jpg",
     "backcover": "covers/hasbro-family-fun-pack-back.jpg",
     "backgrounds": [
@@ -3922,13 +3922,13 @@
     "genre3": "Family",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
 
@@ -3937,10 +3937,10 @@
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -3976,7 +3976,7 @@
     "totalsize": "1.2 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/hungry-shark-world.png",
+    "gamebadge": "badges/hungry-shark-world.jpg",
     "frontcover": "covers/hungry-shark-world-front.jpg",
     "backcover": "covers/hungry-shark-world-back.jpg",
     "backgrounds": [
@@ -4005,7 +4005,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -4041,7 +4041,7 @@
     "totalsize": "1.02 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/hustle-kings.png",
+    "gamebadge": "badges/hustle-kings.jpg",
     "frontcover": "covers/hustle-kings-front.jpg",
     "backcover": "covers/hustle-kings-back.jpg",
     "backgrounds": [
@@ -4056,13 +4056,13 @@
     "genre3": "Pool",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
 
@@ -4073,7 +4073,7 @@
     "splitscreen": "No",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -4109,7 +4109,7 @@
     "totalsize": "834.01 MB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/i-am-bread.png",
+    "gamebadge": "badges/i-am-bread.jpg",
     "frontcover": "covers/i-am-bread-front.jpg",
     "backcover": "covers/i-am-bread-back.jpg",
     "backgrounds": [
@@ -4138,7 +4138,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -4174,7 +4174,7 @@
     "totalsize": "825.88 MB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/i-expect-you-to-die-2.png",
+    "gamebadge": "badges/i-expect-you-to-die-2.jpg",
     "frontcover": "covers/i-expect-you-to-die-2-front.jpg",
     "backcover": "covers/i-expect-you-to-die-2-back.jpg",
     "backgrounds": [
@@ -4203,16 +4203,16 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "Yes",
-    "psvricon": "icons/features/psvr.png",
+    "psvricon": "icons/features/psvr.jpg",
 
     "psmove": "Yes",
-    "psmoveicon": "icons/features/psmove.png",
+    "psmoveicon": "icons/features/psmove.jpg",
 
     "pscamera": "Yes",
-    "pscameraicon": "icons/features/pscamera.png",
+    "pscameraicon": "icons/features/pscamera.jpg",
 
     "keyboardsupport": "No",
     "mousesupport": "No",
@@ -4245,7 +4245,7 @@
     "totalsize": "432.34 MB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/i-expect-you-to-die.png",
+    "gamebadge": "badges/i-expect-you-to-die.jpg",
     "frontcover": "covers/i-expect-you-to-die-front.jpg",
     "backcover": "covers/i-expect-you-to-die-back.jpg",
     "backgrounds": [
@@ -4274,16 +4274,16 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "Yes",
-    "psvricon": "icons/features/psvr.png",
+    "psvricon": "icons/features/psvr.jpg",
 
     "psmove": "Yes",
-    "psmoveicon": "icons/features/psmove.png",
+    "psmoveicon": "icons/features/psmove.jpg",
 
     "pscamera": "Yes",
-    "pscameraicon": "icons/features/pscamera.png",
+    "pscameraicon": "icons/features/pscamera.jpg",
 
     "keyboardsupport": "No",
     "mousesupport": "No",
@@ -4316,7 +4316,7 @@
     "totalsize": "36.87 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/it-takes-two.png",
+    "gamebadge": "badges/it-takes-two.jpg",
     "frontcover": "covers/it-takes-two-front.jpg",
     "backcover": "covers/it-takes-two-back.jpg",
     "backgrounds": [
@@ -4331,27 +4331,27 @@
     "genre3": "Platformer",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
 
     "onlinecoop": "Yes",
-    "onlinecoopicon": "icons/features/online-coop.png",
+    "onlinecoopicon": "icons/features/online-coop.jpg",
 
     "localcoop": "Yes",
-    "localcoopicon": "icons/features/local-coop.png",
+    "localcoopicon": "icons/features/local-coop.jpg",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -4387,7 +4387,7 @@
     "totalsize": "115.54 MB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/jewel-fever-2.png",
+    "gamebadge": "badges/jewel-fever-2.jpg",
     "frontcover": "covers/jewel-fever-2-front.jpg",
     "backcover": "covers/jewel-fever-2-back.jpg",
     "backgrounds": [
@@ -4416,7 +4416,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -4452,7 +4452,7 @@
     "totalsize": "933.69 MB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/job-simulator.png",
+    "gamebadge": "badges/job-simulator.jpg",
     "frontcover": "covers/job-simulator-front.jpg",
     "backcover": "covers/job-simulator-back.jpg",
     "backgrounds": [
@@ -4481,16 +4481,16 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "Yes",
-    "psvricon": "icons/features/psvr.png",
+    "psvricon": "icons/features/psvr.jpg",
 
     "psmove": "Yes",
-    "psmoveicon": "icons/features/psmove.png",
+    "psmoveicon": "icons/features/psmove.jpg",
 
     "pscamera": "Yes",
-    "pscameraicon": "icons/features/pscamera.png",
+    "pscameraicon": "icons/features/pscamera.jpg",
 
     "keyboardsupport": "No",
     "mousesupport": "No",
@@ -4523,7 +4523,7 @@
     "totalsize": "2.1 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/jumanji-the-video-game.png",
+    "gamebadge": "badges/jumanji-the-video-game.jpg",
     "frontcover": "covers/jumanji-the-video-game-front.jpg",
     "backcover": "covers/jumanji-the-video-game-back.jpg",
     "backgrounds": [
@@ -4538,27 +4538,27 @@
     "genre3": "Cooperative",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
 
     "onlinecoop": "Yes",
-    "onlinecoopicon": "icons/features/online-coop.png",
+    "onlinecoopicon": "icons/features/online-coop.jpg",
 
     "localcoop": "Yes",
-    "localcoopicon": "icons/features/local-coop.png",
+    "localcoopicon": "icons/features/local-coop.jpg",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -4594,7 +4594,7 @@
     "totalsize": "2.67 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/jumanji-wild-adventures.png",
+    "gamebadge": "badges/jumanji-wild-adventures.jpg",
     "frontcover": "covers/jumanji-wild-adventures-front.jpg",
     "backcover": "covers/jumanji-wild-adventures-back.jpg",
     "backgrounds": [
@@ -4609,25 +4609,25 @@
     "genre3": "Cooperative",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
 
     "onlinecoop": "No",
 
     "localcoop": "Yes",
-    "localcoopicon": "icons/features/local-coop.png",
+    "localcoopicon": "icons/features/local-coop.jpg",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -4663,7 +4663,7 @@
     "totalsize": "53.22 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/just-cause-3.png",
+    "gamebadge": "badges/just-cause-3.jpg",
     "frontcover": "covers/just-cause-3-front.jpg",
     "backcover": "covers/just-cause-3-back.jpg",
     "backgrounds": [
@@ -4688,7 +4688,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -4751,7 +4751,7 @@
     "totalsize": "2.17 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/lego-brawls.png",
+    "gamebadge": "badges/lego-brawls.jpg",
     "frontcover": "covers/lego-brawls-front.jpg",
     "backcover": "covers/lego-brawls-back.jpg",
     "backgrounds": [
@@ -4766,27 +4766,27 @@
     "genre3": "Action",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
 
     "onlinecoop": "Yes",
-    "onlinecoopicon": "icons/features/online-coop.png",
+    "onlinecoopicon": "icons/features/online-coop.jpg",
 
     "localcoop": "Yes",
-    "localcoopicon": "icons/features/local-coop.png",
+    "localcoopicon": "icons/features/local-coop.jpg",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -4811,8 +4811,8 @@
   {
     "id": "ULUS10365",
     "platform": "PSP",
-    "icon1": "icons/pspwhite.png",
-    "icon2": "icons/pspblack.png",
+    "icon1": "icons/pspwhite.jpg",
+    "icon2": "icons/pspblack.jpg",
     "title": "LEGO Indiana Jones: The Original Adventures",
     "version": "1.00",
     "publisher": "LucasArts",
@@ -4822,7 +4822,7 @@
     "totalsize": "697.04 MB",
     "highestfirmware": "N/A",
     "backport": "No",
-    "gamebadge": "badges/lego-indiana-jones-psp.png",
+    "gamebadge": "badges/lego-indiana-jones-psp.jpg",
     "frontcover": "covers/lego-indiana-jones-psp-front.jpg",
     "backcover": "covers/lego-indiana-jones-psp-back.jpg",
     "backgrounds": [
@@ -4847,7 +4847,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -4883,7 +4883,7 @@
     "totalsize": "6.22 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/lego-marvel-super-heroes.png",
+    "gamebadge": "badges/lego-marvel-super-heroes.jpg",
     "frontcover": "covers/lego-marvel-super-heroes-front.jpg",
     "backcover": "covers/lego-marvel-super-heroes-back.jpg",
     "backgrounds": [
@@ -4898,25 +4898,25 @@
     "genre3": "Superhero",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
 
     "onlinecoop": "No",
 
     "localcoop": "Yes",
-    "localcoopicon": "icons/features/local-coop.png",
+    "localcoopicon": "icons/features/local-coop.jpg",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -4952,7 +4952,7 @@
     "totalsize": "5.90 GB",
     "highestfirmware": "11.00",
     "backport": "Yes",
-    "gamebadge": "badges/lego-party.png",
+    "gamebadge": "badges/lego-party.jpg",
     "frontcover": "covers/lego-party-front.jpg",
     "backcover": "covers/lego-party-back.jpg",
     "backgrounds": [
@@ -4967,25 +4967,25 @@
     "genre3": "Mini‑Games",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
 
     "onlinecoop": "No",
 
     "localcoop": "Yes",
-    "localcoopicon": "icons/features/local-coop.png",
+    "localcoopicon": "icons/features/local-coop.jpg",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -5010,8 +5010,8 @@
   {
     "id": "ULUS10575",
     "platform": "PSP",
-    "icon1": "icons/pspwhite.png",
-    "icon2": "icons/pspblack.png",
+    "icon1": "icons/pspwhite.jpg",
+    "icon2": "icons/pspblack.jpg",
     "title": "LEGO Pirates of the Caribbean: The Video Game",
     "version": "1.00",
     "publisher": "Disney Interactive Studios",
@@ -5021,7 +5021,7 @@
     "totalsize": "1.36 GB",
     "highestfirmware": "N/A",
     "backport": "No",
-    "gamebadge": "badges/lego-pirates-of-the-caribbean-psp.png",
+    "gamebadge": "badges/lego-pirates-of-the-caribbean-psp.jpg",
     "frontcover": "covers/lego-pirates-of-the-caribbean-psp-front.jpg",
     "backcover": "covers/lego-pirates-of-the-caribbean-psp-back.jpg",
     "backgrounds": [
@@ -5046,7 +5046,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -5071,8 +5071,8 @@
   {
     "id": "UCES00109",
     "platform": "PSP",
-    "icon1": "icons/pspwhite.png",
-    "icon2": "icons/pspblack.png",
+    "icon1": "icons/pspwhite.jpg",
+    "icon2": "icons/pspblack.jpg",
     "title": "Lemmings",
     "version": "1.00",
     "publisher": "Sony Computer Entertainment",
@@ -5082,7 +5082,7 @@
     "totalsize": "219.02 MB",
     "highestfirmware": "N/A",
     "backport": "No",
-    "gamebadge": "badges/lemmings-psp.png",
+    "gamebadge": "badges/lemmings-psp.jpg",
     "frontcover": "covers/lemmings-psp-front.jpg",
     "backcover": "covers/lemmings-psp-back.jpg",
     "backgrounds": [
@@ -5107,7 +5107,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -5143,7 +5143,7 @@
     "totalsize": "561.71 MB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/lethal-vr.png",
+    "gamebadge": "badges/lethal-vr.jpg",
     "frontcover": "covers/lethal-vr-front.jpg",
     "backcover": "covers/lethal-vr-back.jpg",
     "backgrounds": [
@@ -5168,16 +5168,16 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "Yes",
-    "psvricon": "icons/features/psvr.png",
+    "psvricon": "icons/features/psvr.jpg",
 
     "psmove": "Yes",
-    "psmoveicon": "icons/features/psmove.png",
+    "psmoveicon": "icons/features/psmove.jpg",
 
     "pscamera": "Yes",
-    "pscameraicon": "icons/features/pscamera.png",
+    "pscameraicon": "icons/features/pscamera.jpg",
 
     "keyboardsupport": "No",
     "mousesupport": "No",
@@ -5210,7 +5210,7 @@
     "totalsize": "234.03 MB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/ludoxxl.png",
+    "gamebadge": "badges/ludoxxl.jpg",
     "frontcover": "covers/ludoxxl-front.jpg",
     "backcover": "covers/ludoxxl-back.jpg",
     "backgrounds": [
@@ -5225,25 +5225,25 @@
     "genre3": "Party",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
 
     "onlinecoop": "No",
 
     "localcoop": "Yes",
-    "localcoopicon": "icons/features/local-coop.png",
+    "localcoopicon": "icons/features/local-coop.jpg",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -5279,7 +5279,7 @@
     "totalsize": "2.4 GB",
     "highestfirmware": "N/A",
     "backport": "No",
-    "gamebadge": "badges/mario-kart-homebrew.png",
+    "gamebadge": "badges/mario-kart-homebrew.jpg",
     "frontcover": "covers/mario-kart-homebrew-front.jpg",
     "backcover": "covers/mario-kart-homebrew-back.jpg",
     "backgrounds": [
@@ -5294,22 +5294,22 @@
     "genre3": "Homebrew",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -5345,7 +5345,7 @@
     "totalsize": "3.02 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/minecraft-dungeons-ultimate.png",
+    "gamebadge": "badges/minecraft-dungeons-ultimate.jpg",
     "frontcover": "covers/minecraft-dungeons-ultimate-front.jpg",
     "backcover": "covers/minecraft-dungeons-ultimate-back.jpg",
     "backgrounds": [
@@ -5360,27 +5360,27 @@
     "genre3": "Adventure",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
 
     "onlinecoop": "Yes",
-    "onlinecoopicon": "icons/features/online-coop.png",
+    "onlinecoopicon": "icons/features/online-coop.jpg",
 
     "localcoop": "Yes",
-    "localcoopicon": "icons/features/local-coop.png",
+    "localcoopicon": "icons/features/local-coop.jpg",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -5470,7 +5470,7 @@
     "totalsize": "9.12 GB",
     "highestfirmware": "11.00",
     "backport": "Yes",
-    "gamebadge": "badges/minecraft-legends.png",
+    "gamebadge": "badges/minecraft-legends.jpg",
     "frontcover": "covers/minecraft-legends-front.jpg",
     "backcover": "covers/minecraft-legends-back.jpg",
     "backgrounds": [
@@ -5485,27 +5485,27 @@
     "genre3": "Adventure",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
 
     "onlinecoop": "Yes",
-    "onlinecoopicon": "icons/features/online-coop.png",
+    "onlinecoopicon": "icons/features/online-coop.jpg",
 
     "localcoop": "Yes",
-    "localcoopicon": "icons/features/local-coop.png",
+    "localcoopicon": "icons/features/local-coop.jpg",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -5541,7 +5541,7 @@
     "totalsize": "17.31 GB",
     "highestfirmware": "11.00",
     "backport": "No",
-    "gamebadge": "badges/minecraft-ps4-edition.png",
+    "gamebadge": "badges/minecraft-ps4-edition.jpg",
     "frontcover": "covers/minecraft-ps4-edition-front.jpg",
     "backcover": "covers/minecraft-ps4-edition-back.jpg",
     "backgrounds": [
@@ -5556,27 +5556,27 @@
     "genre3": "Adventure",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
 
     "onlinecoop": "Yes",
-    "onlinecoopicon": "icons/features/online-coop.png",
+    "onlinecoopicon": "icons/features/online-coop.jpg",
 
     "localcoop": "Yes",
-    "localcoopicon": "icons/features/local-coop.png",
+    "localcoopicon": "icons/features/local-coop.jpg",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -5612,7 +5612,7 @@
     "totalsize": "8.13 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/minecraft-story-mode-complete.png",
+    "gamebadge": "badges/minecraft-story-mode-complete.jpg",
     "frontcover": "covers/minecraft-story-mode-complete-front.jpg",
     "backcover": "covers/minecraft-story-mode-complete-back.jpg",
     "backgrounds": [
@@ -5637,7 +5637,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -5673,7 +5673,7 @@
     "totalsize": "2.66 GB",
     "highestfirmware": "11.00",
     "backport": "Yes",
-    "gamebadge": "badges/minecraft.png",
+    "gamebadge": "badges/minecraft.jpg",
     "frontcover": "covers/minecraft-front.jpg",
     "backcover": "covers/minecraft-back.jpg",
     "backgrounds": [
@@ -5688,27 +5688,27 @@
     "genre3": "Adventure",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
 
     "onlinecoop": "Yes",
-    "onlinecoopicon": "icons/features/online-coop.png",
+    "onlinecoopicon": "icons/features/online-coop.jpg",
 
     "localcoop": "Yes",
-    "localcoopicon": "icons/features/local-coop.png",
+    "localcoopicon": "icons/features/local-coop.jpg",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -5744,7 +5744,7 @@
     "totalsize": "0.94 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/monopoly-family-fun-pack.png",
+    "gamebadge": "badges/monopoly-family-fun-pack.jpg",
     "frontcover": "covers/monopoly-family-fun-pack-front.jpg",
     "backcover": "covers/monopoly-family-fun-pack-back.jpg",
     "backgrounds": [
@@ -5759,23 +5759,23 @@
     "genre3": "Party",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "6",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -5820,7 +5820,7 @@
     "totalsize": "1.01 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/monopoly-plus.png",
+    "gamebadge": "badges/monopoly-plus.jpg",
     "frontcover": "covers/monopoly-plus-front.jpg",
     "backcover": "covers/monopoly-plus-back.jpg",
     "backgrounds": [
@@ -5835,23 +5835,23 @@
     "genre3": "Party",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "6",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -5905,7 +5905,7 @@
     "totalsize": "12.97 GB",
     "highestfirmware": "11.00",
     "backport": "No",
-    "gamebadge": "badges/mes6.png",
+    "gamebadge": "badges/mes6.jpg",
     "frontcover": "covers/mes6-front.jpg",
     "backcover": "covers/mes6-back.jpg",
     "backgrounds": [
@@ -5920,23 +5920,23 @@
     "genre3": "Motorbike",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -5990,7 +5990,7 @@
     "totalsize": "11.82 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/mes1.png",
+    "gamebadge": "badges/mes1.jpg",
     "frontcover": "covers/mes1-front.jpg",
     "backcover": "covers/mes1-back.jpg",
     "backgrounds": [
@@ -6005,23 +6005,23 @@
     "genre3": "Motorbike",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -6120,7 +6120,7 @@
     "totalsize": "7.21 GB",
     "highestfirmware": "11.00",
     "backport": "No",
-    "gamebadge": "badges/multiversus.png",
+    "gamebadge": "badges/multiversus.jpg",
     "frontcover": "covers/multiversus-front.jpg",
     "backcover": "covers/multiversus-back.jpg",
     "backgrounds": [
@@ -6135,23 +6135,23 @@
     "genre3": "Multiplayer",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -6187,7 +6187,7 @@
     "totalsize": "3.48 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/mx-nitro-unleashed.png",
+    "gamebadge": "badges/mx-nitro-unleashed.jpg",
     "frontcover": "covers/mx-nitro-unleashed-front.jpg",
     "backcover": "covers/mx-nitro-unleashed-back.jpg",
     "backgrounds": [
@@ -6202,13 +6202,13 @@
     "genre3": "Motorbike",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
@@ -6217,7 +6217,7 @@
     "splitscreen": "No",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -6253,7 +6253,7 @@
     "totalsize": "26.09 GB",
     "highestfirmware": "11.00",
     "backport": "No",
-    "gamebadge": "badges/mx-vs-atv-legends.png",
+    "gamebadge": "badges/mx-vs-atv-legends.jpg",
     "frontcover": "covers/mx-vs-atv-legends-front.jpg",
     "backcover": "covers/mx-vs-atv-legends-back.jpg",
     "backgrounds": [
@@ -6268,23 +6268,23 @@
     "genre3": "Motorbike",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -6320,7 +6320,7 @@
     "totalsize": "15.65 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/mxgp2019.png",
+    "gamebadge": "badges/mxgp2019.jpg",
     "frontcover": "covers/mxgp2019-front.jpg",
     "backcover": "covers/mxgp2019-back.jpg",
     "backgrounds": [
@@ -6335,23 +6335,23 @@
     "genre3": "Motorbike",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -6387,7 +6387,7 @@
     "totalsize": "16.33 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/mxgp-pro.png",
+    "gamebadge": "badges/mxgp-pro.jpg",
     "frontcover": "covers/mxgp-pro-front.jpg",
     "backcover": "covers/mxgp-pro-back.jpg",
     "backgrounds": [
@@ -6402,23 +6402,23 @@
     "genre3": "Motorbike",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -6454,7 +6454,7 @@
     "totalsize": "92.29 GB",
     "highestfirmware": "11.00",
     "backport": "No",
-    "gamebadge": "badges/nba2k25.png",
+    "gamebadge": "badges/nba2k25.jpg",
     "frontcover": "covers/nba2k25-front.jpg",
     "backcover": "covers/nba2k25-back.jpg",
     "backgrounds": [
@@ -6469,27 +6469,27 @@
     "genre3": "Simulation",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
 
     "onlinecoop": "Yes",
-    "onlinecoopicon": "icons/features/online-coop.png",
+    "onlinecoopicon": "icons/features/online-coop.jpg",
 
     "localcoop": "Yes",
-    "localcoopicon": "icons/features/local-coop.png",
+    "localcoopicon": "icons/features/local-coop.jpg",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "10",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -6525,7 +6525,7 @@
     "totalsize": "0.487 GB",
     "highestfirmware": "11.00",
     "backport": "No",
-    "gamebadge": "badges/nba-bounce.png",
+    "gamebadge": "badges/nba-bounce.jpg",
     "frontcover": "covers/nba-bounce-front.jpg",
     "backcover": "covers/nba-bounce-back.jpg",
     "backgrounds": [
@@ -6550,7 +6550,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -6586,7 +6586,7 @@
     "totalsize": "7.04 GB",
     "highestfirmware": "11.00",
     "backport": "No",
-    "gamebadge": "badges/nasb2.png",
+    "gamebadge": "badges/nasb2.jpg",
     "frontcover": "covers/nasb2-front.jpg",
     "backcover": "covers/nasb2-back.jpg",
     "backgrounds": [
@@ -6601,23 +6601,23 @@
     "genre3": "Multiplayer",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -6698,7 +6698,7 @@
     "totalsize": "5.80 GB",
     "highestfirmware": "11.00",
     "backport": "No",
-    "gamebadge": "badges/nkr3-turbo.png",
+    "gamebadge": "badges/nkr3-turbo.jpg",
     "frontcover": "covers/nkr3-turbo-front.jpg",
     "backcover": "covers/nkr3-turbo-back.jpg",
     "backgrounds": [
@@ -6713,23 +6713,23 @@
     "genre3": "Family",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -6765,7 +6765,7 @@
     "totalsize": "7.50 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/overcooked2.png",
+    "gamebadge": "badges/overcooked2.jpg",
     "frontcover": "covers/overcooked2-front.jpg",
     "backcover": "covers/overcooked2-back.jpg",
     "backgrounds": [
@@ -6780,27 +6780,27 @@
     "genre3": "Cooking",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
 
     "onlinecoop": "Yes",
-    "onlinecoopicon": "icons/features/online-coop.png",
+    "onlinecoopicon": "icons/features/online-coop.jpg",
 
     "localcoop": "Yes",
-    "localcoopicon": "icons/features/local-coop.png",
+    "localcoopicon": "icons/features/local-coop.jpg",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -6872,7 +6872,7 @@
     "totalsize": "7.73 GB",
     "highestfirmware": "11.00",
     "backport": "No",
-    "gamebadge": "badges/overcooked-ayce.png",
+    "gamebadge": "badges/overcooked-ayce.jpg",
     "frontcover": "covers/overcooked-ayce-front.jpg",
     "backcover": "covers/overcooked-ayce-back.jpg",
     "backgrounds": [
@@ -6887,27 +6887,27 @@
     "genre3": "Cooking",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
 
     "onlinecoop": "Yes",
-    "onlinecoopicon": "icons/features/online-coop.png",
+    "onlinecoopicon": "icons/features/online-coop.jpg",
 
     "localcoop": "Yes",
-    "localcoopicon": "icons/features/local-coop.png",
+    "localcoopicon": "icons/features/local-coop.jpg",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -6943,7 +6943,7 @@
     "totalsize": "0.38 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/overcooked1.png",
+    "gamebadge": "badges/overcooked1.jpg",
     "frontcover": "covers/overcooked1-front.jpg",
     "backcover": "covers/overcooked1-back.jpg",
     "backgrounds": [
@@ -6958,25 +6958,25 @@
     "genre3": "Cooking",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
 
     "onlinecoop": "No",
 
     "localcoop": "Yes",
-    "localcoopicon": "icons/features/local-coop.png",
+    "localcoopicon": "icons/features/local-coop.jpg",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -7021,7 +7021,7 @@
     "totalsize": "4.37 GB",
     "highestfirmware": "11.00",
     "backport": "Yes",
-    "gamebadge": "badges/paw-rescue-wheels.png",
+    "gamebadge": "badges/paw-rescue-wheels.jpg",
     "frontcover": "covers/paw-rescue-wheels-front.jpg",
     "backcover": "covers/paw-rescue-wheels-back.jpg",
     "backgrounds": [
@@ -7036,22 +7036,22 @@
     "genre3": "Kids",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -7096,7 +7096,7 @@
     "totalsize": "1.63 GB",
     "highestfirmware": "11.00",
     "backport": "No",
-    "gamebadge": "badges/pvz-replanted.png",
+    "gamebadge": "badges/pvz-replanted.jpg",
     "frontcover": "covers/pvz-replanted-front.jpg",
     "backcover": "covers/pvz-replanted-back.jpg",
     "backgrounds": [
@@ -7121,7 +7121,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -7157,7 +7157,7 @@
     "totalsize": "0.55 GB",
     "highestfirmware": "11.00",
     "backport": "No",
-    "gamebadge": "badges/plateup.png",
+    "gamebadge": "badges/plateup.jpg",
     "frontcover": "covers/plateup-front.jpg",
     "backcover": "covers/plateup-back.jpg",
     "backgrounds": [
@@ -7172,26 +7172,26 @@
     "genre3": "Co‑op",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
 
     "onlinecoop": "Yes",
-    "onlinecoopicon": "icons/features/online-coop.png",
+    "onlinecoopicon": "icons/features/online-coop.jpg",
 
     "localcoop": "Yes",
-    "localcoopicon": "icons/features/local-coop.png",
+    "localcoopicon": "icons/features/local-coop.jpg",
 
     "splitscreen": "No",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -7227,7 +7227,7 @@
     "totalsize": "5.24 GB",
     "highestfirmware": "11.00",
     "backport": "No",
-    "gamebadge": "badges/police-simulator-patrol-officers.png",
+    "gamebadge": "badges/police-simulator-patrol-officers.jpg",
     "frontcover": "covers/police-simulator-patrol-officers-front.jpg",
     "backcover": "covers/police-simulator-patrol-officers-back.jpg",
     "backgrounds": [
@@ -7242,23 +7242,23 @@
     "genre3": "Action",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "No",
 
     "coop": "Yes",
     "onlinecoop": "Yes",
-    "onlinecoopicon": "icons/features/online-coop.png",
+    "onlinecoopicon": "icons/features/online-coop.jpg",
 
     "localcoop": "No",
 
     "splitscreen": "No",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -7348,7 +7348,7 @@
     "totalsize": "2.81 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/pool-nation.png",
+    "gamebadge": "badges/pool-nation.jpg",
     "frontcover": "covers/pool-nation-front.jpg",
     "backcover": "covers/pool-nation-back.jpg",
     "backgrounds": [
@@ -7363,23 +7363,23 @@
     "genre3": "Simulation",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -7415,7 +7415,7 @@
     "totalsize": "3.94 GB",
     "highestfirmware": "11.00",
     "backport": "No",
-    "gamebadge": "badges/poppy-playtime-ch1.png",
+    "gamebadge": "badges/poppy-playtime-ch1.jpg",
     "frontcover": "covers/poppy-playtime-ch1-front.jpg",
     "backcover": "covers/poppy-playtime-ch1-back.jpg",
     "backgrounds": [
@@ -7440,7 +7440,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -7476,7 +7476,7 @@
     "totalsize": "0.68 GB",
     "highestfirmware": "11.00",
     "backport": "No",
-    "gamebadge": "badges/potion-craft.png",
+    "gamebadge": "badges/potion-craft.jpg",
     "frontcover": "covers/potion-craft-front.jpg",
     "backcover": "covers/potion-craft-back.jpg",
     "backgrounds": [
@@ -7501,7 +7501,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -7537,7 +7537,7 @@
     "totalsize": "8.54 GB",
     "highestfirmware": "11.00",
     "backport": "No",
-    "gamebadge": "badges/powerwash-simulator.png",
+    "gamebadge": "badges/powerwash-simulator.jpg",
     "frontcover": "covers/powerwash-simulator-front.jpg",
     "backcover": "covers/powerwash-simulator-back.jpg",
     "backgrounds": [
@@ -7552,23 +7552,23 @@
     "genre3": "First-Person",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "No",
 
     "coop": "Yes",
     "onlinecoop": "Yes",
-    "onlinecoopicon": "icons/features/online-coop.png",
+    "onlinecoopicon": "icons/features/online-coop.jpg",
 
     "localcoop": "No",
 
     "splitscreen": "No",
 
     "maxplayers": "6",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -7604,7 +7604,7 @@
     "totalsize": "0.69 GB",
     "highestfirmware": "2.50",
     "backport": "No",
-    "gamebadge": "badges/pure-chess.png",
+    "gamebadge": "badges/pure-chess.jpg",
     "frontcover": "covers/pure-chess-front.jpg",
     "backcover": "covers/pure-chess-back.jpg",
     "backgrounds": [
@@ -7619,23 +7619,23 @@
     "genre3": "Casual",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -7671,7 +7671,7 @@
     "totalsize": "0.53 GB",
     "highestfirmware": "2.50",
     "backport": "No",
-    "gamebadge": "badges/pure-pool.png",
+    "gamebadge": "badges/pure-pool.jpg",
     "frontcover": "covers/pure-pool-front.jpg",
     "backcover": "covers/pure-pool-back.jpg",
     "backgrounds": [
@@ -7686,23 +7686,23 @@
     "genre3": "Simulation",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -7738,7 +7738,7 @@
     "totalsize": "4.75 GB",
     "highestfirmware": "9.50",
     "backport": "No",
-    "gamebadge": "badges/rabbids-party-of-legends.png",
+    "gamebadge": "badges/rabbids-party-of-legends.jpg",
     "frontcover": "covers/rabbids-party-of-legends-front.jpg",
     "backcover": "covers/rabbids-party-of-legends-back.jpg",
     "backgrounds": [
@@ -7753,22 +7753,22 @@
     "genre3": "Multiplayer",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -7804,7 +7804,7 @@
     "totalsize": "0.02 GB",
     "highestfirmware": "7.50",
     "backport": "No",
-    "gamebadge": "badges/radon-blast.png",
+    "gamebadge": "badges/radon-blast.jpg",
     "frontcover": "covers/radon-blast-front.jpg",
     "backcover": "covers/radon-blast-back.jpg",
     "backgrounds": [
@@ -7864,7 +7864,7 @@
     "totalsize": "7.78 GB",
     "highestfirmware": "1.50",
     "backport": "No",
-    "gamebadge": "badges/rayman-legends.png",
+    "gamebadge": "badges/rayman-legends.jpg",
     "frontcover": "covers/rayman-legends-front.jpg",
     "backcover": "covers/rayman-legends-back.jpg",
     "backgrounds": [
@@ -7879,22 +7879,22 @@
     "genre3": "Co-op",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
     "onlinecoop": "No",
     "localcoop": "Yes",
-    "localcoopicon": "icons/features/local-coop.png",
+    "localcoopicon": "icons/features/local-coop.jpg",
 
     "splitscreen": "No",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -7930,7 +7930,7 @@
     "totalsize": "1.06 GB",
     "highestfirmware": "5.00",
     "backport": "No",
-    "gamebadge": "badges/real-farm.png",
+    "gamebadge": "badges/real-farm.jpg",
     "frontcover": "covers/real-farm-front.jpg",
     "backcover": "covers/real-farm-back.jpg",
     "backgrounds": [
@@ -7990,7 +7990,7 @@
     "totalsize": "3.08 GB",
     "highestfirmware": "7.00",
     "backport": "No",
-    "gamebadge": "badges/red-matter.png",
+    "gamebadge": "badges/red-matter.jpg",
     "frontcover": "covers/red-matter-front.jpg",
     "backcover": "covers/red-matter-back.jpg",
     "backgrounds": [
@@ -8050,7 +8050,7 @@
     "totalsize": "7.07 GB",
     "highestfirmware": "11.00",
     "backport": "No",
-    "gamebadge": "badges/revenge-of-the-savage-planet.png",
+    "gamebadge": "badges/revenge-of-the-savage-planet.jpg",
     "frontcover": "covers/revenge-of-the-savage-planet-front.jpg",
     "backcover": "covers/revenge-of-the-savage-planet-back.jpg",
     "backgrounds": [
@@ -8070,13 +8070,13 @@
 
     "coop": "Yes",
     "onlinecoop": "Yes",
-    "onlinecoopicon": "icons/features/online-coop.png",
+    "onlinecoopicon": "icons/features/online-coop.jpg",
     "localcoop": "No",
 
     "splitscreen": "No",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -8101,8 +8101,8 @@
   {
     "id": "SLES00707",
     "platform": "PS1",
-    "icon1": "icons/ps1white.png",
-    "icon2": "icons/ps1black.png",
+    "icon1": "icons/ps1white.jpg",
+    "icon2": "icons/ps1black.jpg",
     "title": "Risk",
     "version": "1.00",
     "publisher": "Hasbro Interactive",
@@ -8112,7 +8112,7 @@
     "totalsize": "0.29 GB",
     "highestfirmware": "PS1",
     "backport": "No",
-    "gamebadge": "badges/risk-ps1.png",
+    "gamebadge": "badges/risk-ps1.jpg",
     "frontcover": "covers/risk-ps1-front.jpg",
     "backcover": "covers/risk-ps1-back.jpg",
     "backgrounds": [
@@ -8128,15 +8128,15 @@
 
     "multiplayer": "Yes",
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "onlinemultiplayer": "No",
     "coop": "No",
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "6",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -8172,7 +8172,7 @@
     "totalsize": "33.25 GB",
     "highestfirmware": "11.00",
     "backport": "No",
-    "gamebadge": "badges/rocket-league.png",
+    "gamebadge": "badges/rocket-league.jpg",
     "frontcover": "covers/rocket-league-front.jpg",
     "backcover": "covers/rocket-league-back.jpg",
     "backgrounds": [
@@ -8187,25 +8187,25 @@
     "genre3": "Multiplayer",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
     "onlinecoop": "Yes",
-    "onlinecoopicon": "icons/features/online-coop.png",
+    "onlinecoopicon": "icons/features/online-coop.jpg",
     "localcoop": "Yes",
-    "localcoopicon": "icons/features/local-coop.png",
+    "localcoopicon": "icons/features/local-coop.jpg",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "8",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -8241,7 +8241,7 @@
     "totalsize": "16.86 GB",
     "highestfirmware": "5.00",
     "backport": "No",
-    "gamebadge": "badges/rugby-league-live-4.png",
+    "gamebadge": "badges/rugby-league-live-4.jpg",
     "frontcover": "covers/rugby-league-live-4-front.jpg",
     "backcover": "covers/rugby-league-live-4-back.jpg",
     "backgrounds": [
@@ -8256,23 +8256,23 @@
     "genre3": "Simulation",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -8308,7 +8308,7 @@
     "totalsize": "2.88 GB",
     "highestfirmware": "6.50",
     "backport": "No",
-    "gamebadge": "badges/rush-vr.png",
+    "gamebadge": "badges/rush-vr.jpg",
     "frontcover": "covers/rush-vr-front.jpg",
     "backcover": "covers/rush-vr-back.jpg",
     "backgrounds": [
@@ -8323,10 +8323,10 @@
     "genre3": "VR",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "No",
 
@@ -8337,7 +8337,7 @@
     "splitscreen": "No",
 
     "maxplayers": "12",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "Yes",
     "psmove": "Optional",
@@ -8373,7 +8373,7 @@
     "totalsize": "0.61 GB",
     "highestfirmware": "Sega Saturn",
     "backport": "No",
-    "gamebadge": "badges/saturn-bomberman.png",
+    "gamebadge": "badges/saturn-bomberman.jpg",
     "frontcover": "covers/saturn-bomberman-front.jpg",
     "backcover": "covers/saturn-bomberman-back.jpg",
     "backgrounds": [
@@ -8388,22 +8388,22 @@
     "genre3": "Party",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "10",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -8439,7 +8439,7 @@
     "totalsize": "0.15 GB",
     "highestfirmware": "2.50",
     "backport": "No",
-    "gamebadge": "badges/scrabble.png",
+    "gamebadge": "badges/scrabble.jpg",
     "frontcover": "covers/scrabble-front.jpg",
     "backcover": "covers/scrabble-back.jpg",
     "backgrounds": [
@@ -8454,23 +8454,23 @@
     "genre3": "Strategy",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -8506,7 +8506,7 @@
     "totalsize": "3.76 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/smurfs-kart.png",
+    "gamebadge": "badges/smurfs-kart.jpg",
     "frontcover": "covers/smurfs-kart-front.jpg",
     "backcover": "covers/smurfs-kart-back.jpg",
     "backgrounds": [
@@ -8521,22 +8521,22 @@
     "genre3": "Family",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -8572,7 +8572,7 @@
     "totalsize": "13.74 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/sonic-racing-crossworlds.png",
+    "gamebadge": "badges/sonic-racing-crossworlds.jpg",
     "frontcover": "covers/sonic-racing-crossworlds-front.jpg",
     "backcover": "covers/sonic-racing-crossworlds-back.jpg",
     "backgrounds": [
@@ -8587,23 +8587,23 @@
     "genre3": "Arcade",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
     "onlinecoop": "Yes",
     "localcoop": "Yes",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "12",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -8720,7 +8720,7 @@
     "totalsize": "0.18 GB",
     "highestfirmware": "3.50",
     "backport": "No",
-    "gamebadge": "badges/spy-chameleon.png",
+    "gamebadge": "badges/spy-chameleon.jpg",
     "frontcover": "covers/spy-chameleon-front.jpg",
     "backcover": "covers/spy-chameleon-back.jpg",
     "backgrounds": [
@@ -8777,7 +8777,7 @@
     "totalsize": "6.57 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/stray.png",
+    "gamebadge": "badges/stray.jpg",
     "frontcover": "covers/stray-front.jpg",
     "backcover": "covers/stray-back.jpg",
     "backgrounds": [
@@ -8834,7 +8834,7 @@
     "totalsize": "5.08 GB",
     "highestfirmware": "5.50",
     "backport": "No",
-    "gamebadge": "badges/street-fighter-30th.png",
+    "gamebadge": "badges/street-fighter-30th.jpg",
     "frontcover": "covers/street-fighter-30th-front.jpg",
     "backcover": "covers/street-fighter-30th-back.jpg",
     "backgrounds": [
@@ -8849,23 +8849,23 @@
     "genre3": "Compilation",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -8901,7 +8901,7 @@
     "totalsize": "0.96 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/street-food-restaurant-owner.png",
+    "gamebadge": "badges/street-food-restaurant-owner.jpg",
     "frontcover": "covers/street-food-restaurant-owner-front.jpg",
     "backcover": "covers/street-food-restaurant-owner-back.jpg",
     "backgrounds": [
@@ -8958,7 +8958,7 @@
     "totalsize": "0.83 GB",
     "highestfirmware": "5.00",
     "backport": "No",
-    "gamebadge": "badges/superhot-vr.png",
+    "gamebadge": "badges/superhot-vr.jpg",
     "frontcover": "covers/superhot-vr-front.jpg",
     "backcover": "covers/superhot-vr-back.jpg",
     "backgrounds": [
@@ -8982,13 +8982,13 @@
     "maxplayers": "1",
 
     "psvr": "Yes",
-    "psvricon": "icons/features/psvr.png",
+    "psvricon": "icons/features/psvr.jpg",
 
     "psmove": "Yes",
-    "psmoveicon": "icons/features/ps-move.png",
+    "psmoveicon": "icons/features/ps-move.jpg",
 
     "pscamera": "Yes",
-    "pscameraicon": "icons/features/ps-camera.png",
+    "pscameraicon": "icons/features/ps-camera.jpg",
 
     "keyboardsupport": "No",
     "mousesupport": "No",
@@ -9021,7 +9021,7 @@
     "totalsize": "1.56 GB",
     "highestfirmware": "7.50",
     "backport": "No",
-    "gamebadge": "badges/supraland.png",
+    "gamebadge": "badges/supraland.jpg",
     "frontcover": "covers/supraland-front.jpg",
     "backcover": "covers/supraland-back.jpg",
     "backgrounds": [
@@ -9044,7 +9044,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -9081,7 +9081,7 @@
     "totalsize": "0.66 GB",
     "highestfirmware": "4.50",
     "backport": "No",
-    "gamebadge": "badges/surgeon-simulator-er.png",
+    "gamebadge": "badges/surgeon-simulator-er.jpg",
     "frontcover": "covers/surgeon-simulator-er-front.jpg",
     "backcover": "covers/surgeon-simulator-er-back.jpg",
     "backgrounds": [
@@ -9104,16 +9104,16 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "Yes",
-    "psvricon": "icons/features/psvr.png",
+    "psvricon": "icons/features/psvr.jpg",
 
     "psmove": "Yes",
-    "psmoveicon": "icons/features/ps-move.png",
+    "psmoveicon": "icons/features/ps-move.jpg",
 
     "pscamera": "Yes",
-    "pscameraicon": "icons/features/ps-camera.png",
+    "pscameraicon": "icons/features/ps-camera.jpg",
 
     "keyboardsupport": "No",
     "mousesupport": "No",
@@ -9146,7 +9146,7 @@
     "totalsize": "5.51 GB",
     "highestfirmware": "8.00",
     "backport": "No",
-    "gamebadge": "badges/tetris-effect-connected.png",
+    "gamebadge": "badges/tetris-effect-connected.jpg",
     "frontcover": "covers/tetris-effect-connected-front.jpg",
     "backcover": "covers/tetris-effect-connected-back.jpg",
     "backgrounds": [
@@ -9161,32 +9161,32 @@
     "genre3": "VR",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
     "onlinecoop": "Yes",
     "localcoop": "Yes",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "3",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "Yes",
-    "psvricon": "icons/features/psvr.png",
+    "psvricon": "icons/features/psvr.jpg",
 
     "psmove": "No",
-    "psmoveicon": "icons/features/ps-move.png",
+    "psmoveicon": "icons/features/ps-move.jpg",
 
     "pscamera": "Yes",
-    "pscameraicon": "icons/features/ps-camera.png",
+    "pscameraicon": "icons/features/ps-camera.jpg",
 
     "keyboardsupport": "No",
     "mousesupport": "No",
@@ -9219,7 +9219,7 @@
     "totalsize": "8.6 GB",
     "highestfirmware": "1.70",
     "backport": "No",
-    "gamebadge": "badges/the-amazing-spider-man-2.png",
+    "gamebadge": "badges/the-amazing-spider-man-2.jpg",
     "frontcover": "covers/the-amazing-spider-man-2-front.jpg",
     "backcover": "covers/the-amazing-spider-man-2-back.jpg",
     "backgrounds": [
@@ -9242,7 +9242,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -9279,7 +9279,7 @@
     "totalsize": "0.45 GB",
     "highestfirmware": "8.00",
     "backport": "No",
-    "gamebadge": "badges/the-colonists.png",
+    "gamebadge": "badges/the-colonists.jpg",
     "frontcover": "covers/the-colonists-front.jpg",
     "backcover": "covers/the-colonists-back.jpg",
     "backgrounds": [
@@ -9302,7 +9302,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -9339,7 +9339,7 @@
     "totalsize": "1.02 GB",
     "highestfirmware": "3.00",
     "backport": "No",
-    "gamebadge": "badges/the-escapists-the-walking-dead.png",
+    "gamebadge": "badges/the-escapists-the-walking-dead.jpg",
     "frontcover": "covers/the-escapists-the-walking-dead-front.jpg",
     "backcover": "covers/the-escapists-the-walking-dead-back.jpg",
     "backgrounds": [
@@ -9362,7 +9362,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -9399,7 +9399,7 @@
     "totalsize": "3.03 GB",
     "highestfirmware": "5.00",
     "backport": "No",
-    "gamebadge": "badges/the-escapists-2.png",
+    "gamebadge": "badges/the-escapists-2.jpg",
     "frontcover": "covers/the-escapists-2-front.jpg",
     "backcover": "covers/the-escapists-2-back.jpg",
     "backgrounds": [
@@ -9414,23 +9414,23 @@
     "genre3": "Co-op",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
     "onlinecoop": "Yes",
     "localcoop": "Yes",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -9494,7 +9494,7 @@
     "totalsize": "2.61 GB",
     "highestfirmware": "3.50",
     "backport": "No",
-    "gamebadge": "badges/the-flame-in-the-flood.png",
+    "gamebadge": "badges/the-flame-in-the-flood.jpg",
     "frontcover": "covers/the-flame-in-the-flood-front.jpg",
     "backcover": "covers/the-flame-in-the-flood-back.jpg",
     "backgrounds": [
@@ -9517,7 +9517,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -9554,7 +9554,7 @@
     "totalsize": "1.84 GB",
     "highestfirmware": "6.50",
     "backport": "No",
-    "gamebadge": "badges/the-forest.png",
+    "gamebadge": "badges/the-forest.jpg",
     "frontcover": "covers/the-forest-front.jpg",
     "backcover": "covers/the-forest-back.jpg",
     "backgrounds": [
@@ -9569,10 +9569,10 @@
     "genre3": "Open World",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "No",
     "coop": "Yes",
@@ -9582,7 +9582,7 @@
     "splitscreen": "No",
 
     "maxplayers": "8",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -9619,7 +9619,7 @@
     "totalsize": "3.49 GB",
     "highestfirmware": "8.00",
     "backport": "No",
-    "gamebadge": "badges/the-good-life.png",
+    "gamebadge": "badges/the-good-life.jpg",
     "frontcover": "covers/the-good-life-front.jpg",
     "backcover": "covers/the-good-life-back.jpg",
     "backgrounds": [
@@ -9642,7 +9642,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -9679,7 +9679,7 @@
     "totalsize": "3.7 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/the-house-of-the-dead-2-remake.png",
+    "gamebadge": "badges/the-house-of-the-dead-2-remake.jpg",
     "frontcover": "covers/the-house-of-the-dead-2-remake-front.jpg",
     "backcover": "covers/the-house-of-the-dead-2-remake-back.jpg",
     "backgrounds": [
@@ -9694,21 +9694,21 @@
     "genre3": "Horror",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
     "onlinecoop": "No",
     "localcoop": "Yes",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -9734,8 +9734,8 @@
   {
     "id": "SLUS20624",
     "platform": "PS2",
-    "icon1": "icons/ps2white.png",
-    "icon2": "icons/ps2black.png",
+    "icon1": "icons/ps2white.jpg",
+    "icon2": "icons/ps2black.jpg",
     "title": "The Simpsons: Hit & Run",
     "version": "1.00",
     "publisher": "Vivendi Universal Games",
@@ -9745,7 +9745,7 @@
     "totalsize": "0.94 GB",
     "highestfirmware": "PS2 Classics",
     "backport": "No",
-    "gamebadge": "badges/the-simpsons-hit-and-run.png",
+    "gamebadge": "badges/the-simpsons-hit-and-run.jpg",
     "frontcover": "covers/the-simpsons-hit-and-run-front.jpg",
     "backcover": "covers/the-simpsons-hit-and-run-back.jpg",
     "backgrounds": [
@@ -9768,7 +9768,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -9805,7 +9805,7 @@
     "totalsize": "7.32 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/the-smurfs-2-the-prisoner-of-the-green-stone.png",
+    "gamebadge": "badges/the-smurfs-2-the-prisoner-of-the-green-stone.jpg",
     "frontcover": "covers/the-smurfs-2-the-prisoner-of-the-green-stone-front.jpg",
     "backcover": "covers/the-smurfs-2-the-prisoner-of-the-green-stone-back.jpg",
     "backgrounds": [
@@ -9820,21 +9820,21 @@
     "genre3": "Family",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
     "onlinecoop": "No",
     "localcoop": "Yes",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -9871,7 +9871,7 @@
     "totalsize": "1.23 GB",
     "highestfirmware": "8.00",
     "backport": "No",
-    "gamebadge": "badges/the-smurfs-mission-vileaf.png",
+    "gamebadge": "badges/the-smurfs-mission-vileaf.jpg",
     "frontcover": "covers/the-smurfs-mission-vileaf-front.jpg",
     "backcover": "covers/the-smurfs-mission-vileaf-back.jpg",
     "backgrounds": [
@@ -9894,7 +9894,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -9931,7 +9931,7 @@
     "totalsize": "1.44 GB",
     "highestfirmware": "9.00",
     "backport": "Yes",
-    "gamebadge": "badges/the-smurfs-village-party.png",
+    "gamebadge": "badges/the-smurfs-village-party.jpg",
     "frontcover": "covers/the-smurfs-village-party-front.jpg",
     "backcover": "covers/the-smurfs-village-party-back.jpg",
     "backgrounds": [
@@ -9946,21 +9946,21 @@
     "genre3": "Mini-Games",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
     "onlinecoop": "No",
     "localcoop": "Yes",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -9997,7 +9997,7 @@
     "totalsize": "3.65 GB",
     "highestfirmware": "8.00",
     "backport": "No",
-    "gamebadge": "badges/the-stanley-parable-ultra-deluxe.png",
+    "gamebadge": "badges/the-stanley-parable-ultra-deluxe.jpg",
     "frontcover": "covers/the-stanley-parable-ultra-deluxe-front.jpg",
     "backcover": "covers/the-stanley-parable-ultra-deluxe-back.jpg",
     "backgrounds": [
@@ -10020,7 +10020,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -10057,7 +10057,7 @@
     "totalsize": "0.92 GB",
     "highestfirmware": "6.50",
     "backport": "No",
-    "gamebadge": "badges/the-wild-eight.png",
+    "gamebadge": "badges/the-wild-eight.jpg",
     "frontcover": "covers/the-wild-eight-front.jpg",
     "backcover": "covers/the-wild-eight-back.jpg",
     "backgrounds": [
@@ -10072,10 +10072,10 @@
     "genre3": "Co-op",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "No",
     "coop": "Yes",
@@ -10085,7 +10085,7 @@
     "splitscreen": "No",
 
     "maxplayers": "8",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -10122,7 +10122,7 @@
     "totalsize": "0.89 GB",
     "highestfirmware": "7.00",
     "backport": "No",
-    "gamebadge": "badges/theme-park-simulator-rollercoaster-paradise.png",
+    "gamebadge": "badges/theme-park-simulator-rollercoaster-paradise.jpg",
     "frontcover": "covers/theme-park-simulator-rollercoaster-paradise-front.jpg",
     "backcover": "covers/theme-park-simulator-rollercoaster-paradise-back.jpg",
     "backgrounds": [
@@ -10145,7 +10145,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -10182,7 +10182,7 @@
     "totalsize": "2.86 GB",
     "highestfirmware": "7.50",
     "backport": "No",
-    "gamebadge": "badges/thief-simulator.png",
+    "gamebadge": "badges/thief-simulator.jpg",
     "frontcover": "covers/thief-simulator-front.jpg",
     "backcover": "covers/thief-simulator-back.jpg",
     "backgrounds": [
@@ -10205,7 +10205,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -10242,7 +10242,7 @@
     "totalsize": "0.55 GB",
     "highestfirmware": "5.50",
     "backport": "No",
-    "gamebadge": "badges/think-of-the-children.png",
+    "gamebadge": "badges/think-of-the-children.jpg",
     "frontcover": "covers/think-of-the-children-front.jpg",
     "backcover": "covers/think-of-the-children-back.jpg",
     "backgrounds": [
@@ -10257,11 +10257,11 @@
     "genre3": "Co-op",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
     "onlinecoop": "No",
@@ -10270,7 +10270,7 @@
     "splitscreen": "No",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -10296,8 +10296,8 @@
   {
     "id": "SLUS20219",
     "platform": "PS2",
-    "icon1": "icons/ps2white.png",
-    "icon2": "icons/ps2black.png",
+    "icon1": "icons/ps2white.jpg",
+    "icon2": "icons/ps2black.jpg",
     "title": "Time Crisis II",
     "version": "1.00",
     "publisher": "Namco",
@@ -10307,7 +10307,7 @@
     "totalsize": "0.57 GB",
     "highestfirmware": "PS2 Classics",
     "backport": "No",
-    "gamebadge": "badges/time-crisis-2.png",
+    "gamebadge": "badges/time-crisis-2.jpg",
     "frontcover": "covers/time-crisis-2-front.jpg",
     "backcover": "covers/time-crisis-2-back.jpg",
     "backgrounds": [
@@ -10322,21 +10322,21 @@
     "genre3": "Rail Shooter",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
     "onlinecoop": "No",
     "localcoop": "Yes",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -10373,7 +10373,7 @@
     "totalsize": "2.08 GB",
     "highestfirmware": "8.00",
     "backport": "No",
-    "gamebadge": "badges/time-loader.png",
+    "gamebadge": "badges/time-loader.jpg",
     "frontcover": "covers/time-loader-front.jpg",
     "backcover": "covers/time-loader-back.jpg",
     "backgrounds": [
@@ -10396,7 +10396,7 @@
     "splitscreen": "No",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -10433,7 +10433,7 @@
     "totalsize": "5.29 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/tmnt-mutants-unleashed.png",
+    "gamebadge": "badges/tmnt-mutants-unleashed.jpg",
     "frontcover": "covers/tmnt-mutants-unleashed-front.jpg",
     "backcover": "covers/tmnt-mutants-unleashed-back.jpg",
     "backgrounds": [
@@ -10448,21 +10448,21 @@
     "genre3": "Adventure",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
     "onlinecoop": "No",
     "localcoop": "Yes",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -10526,7 +10526,7 @@
     "totalsize": "1.88 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/tmnt-splintered-fate.png",
+    "gamebadge": "badges/tmnt-splintered-fate.jpg",
     "frontcover": "covers/tmnt-splintered-fate-front.jpg",
     "backcover": "covers/tmnt-splintered-fate-back.jpg",
     "backgrounds": [
@@ -10541,10 +10541,10 @@
     "genre3": "Beat 'Em Up",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "No",
 
@@ -10555,7 +10555,7 @@
     "splitscreen": "No",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -10592,7 +10592,7 @@
     "totalsize": "2.19 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/tmnt-arcade-wrath-of-the-mutants.png",
+    "gamebadge": "badges/tmnt-arcade-wrath-of-the-mutants.jpg",
     "frontcover": "covers/tmnt-arcade-wrath-of-the-mutants-front.jpg",
     "backcover": "covers/tmnt-arcade-wrath-of-the-mutants-back.jpg",
     "backgrounds": [
@@ -10607,21 +10607,21 @@
     "genre3": "Action",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
     "onlinecoop": "No",
     "localcoop": "Yes",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -10647,8 +10647,8 @@
   {
     "id": "SLUS21208",
     "platform": "PS2",
-    "icon1": "icons/ps2white.png",
-    "icon2": "icons/ps2black.png",
+    "icon1": "icons/ps2white.jpg",
+    "icon2": "icons/ps2black.jpg",
     "title": "Tony Hawk's American Wasteland",
     "version": "1.00",
     "publisher": "Activision",
@@ -10658,7 +10658,7 @@
     "totalsize": "2.64 GB",
     "highestfirmware": "PS2 Classics",
     "backport": "No",
-    "gamebadge": "badges/tony-hawks-american-wasteland.png",
+    "gamebadge": "badges/tony-hawks-american-wasteland.jpg",
     "frontcover": "covers/tony-hawks-american-wasteland-front.jpg",
     "backcover": "covers/tony-hawks-american-wasteland-back.jpg",
     "backgrounds": [
@@ -10673,21 +10673,21 @@
     "genre3": "Action",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -10713,8 +10713,8 @@
   {
     "id": "SLUS00860",
     "platform": "PS2",
-    "icon1": "icons/ps2white.png",
-    "icon2": "icons/ps2black.png",
+    "icon1": "icons/ps2white.jpg",
+    "icon2": "icons/ps2black.jpg",
     "title": "Tony Hawk's Pro Skater 1",
     "version": "1.00",
     "publisher": "Activision",
@@ -10724,7 +10724,7 @@
     "totalsize": "706.48 MB",
     "highestfirmware": "PS2 Classics",
     "backport": "No",
-    "gamebadge": "badges/tony-hawks-pro-skater.png",
+    "gamebadge": "badges/tony-hawks-pro-skater.jpg",
     "frontcover": "covers/tony-hawks-pro-skater-front.jpg",
     "backcover": "covers/tony-hawks-pro-skater-back.jpg",
     "backgrounds": [
@@ -10739,21 +10739,21 @@
     "genre3": "Arcade",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -10790,7 +10790,7 @@
     "totalsize": "25.52 GB",
     "highestfirmware": "7.50",
     "backport": "No",
-    "gamebadge": "badges/tony-hawks-pro-skater-1-plus-2.png",
+    "gamebadge": "badges/tony-hawks-pro-skater-1-plus-2.jpg",
     "frontcover": "covers/tony-hawks-pro-skater-1-plus-2-front.jpg",
     "backcover": "covers/tony-hawks-pro-skater-1-plus-2-back.jpg",
     "backgrounds": [
@@ -10805,23 +10805,23 @@
     "genre3": "Arcade",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -10847,8 +10847,8 @@
   {
     "id": "SLUS01066",
     "platform": "PS2",
-    "icon1": "icons/ps2white.png",
-    "icon2": "icons/ps2black.png",
+    "icon1": "icons/ps2white.jpg",
+    "icon2": "icons/ps2black.jpg",
     "title": "Tony Hawk's Pro Skater 2",
     "version": "1.01",
     "publisher": "Activision",
@@ -10858,7 +10858,7 @@
     "totalsize": "553.65 MB",
     "highestfirmware": "PS2 Classics",
     "backport": "No",
-    "gamebadge": "badges/tony-hawks-pro-skater-2.png",
+    "gamebadge": "badges/tony-hawks-pro-skater-2.jpg",
     "frontcover": "covers/tony-hawks-pro-skater-2-front.jpg",
     "backcover": "covers/tony-hawks-pro-skater-2-back.jpg",
     "backgrounds": [
@@ -10873,21 +10873,21 @@
     "genre3": "Arcade",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -10913,8 +10913,8 @@
   {
     "id": "SLUS20013",
     "platform": "PS2",
-    "icon1": "icons/ps2white.png",
-    "icon2": "icons/ps2black.png",
+    "icon1": "icons/ps2white.jpg",
+    "icon2": "icons/ps2black.jpg",
     "title": "Tony Hawk's Pro Skater 3",
     "version": "1.00",
     "publisher": "Activision",
@@ -10924,7 +10924,7 @@
     "totalsize": "3.04 GB",
     "highestfirmware": "PS2 Classics",
     "backport": "No",
-    "gamebadge": "badges/tony-hawks-pro-skater-3.png",
+    "gamebadge": "badges/tony-hawks-pro-skater-3.jpg",
     "frontcover": "covers/tony-hawks-pro-skater-3-front.jpg",
     "backcover": "covers/tony-hawks-pro-skater-3-back.jpg",
     "backgrounds": [
@@ -10939,21 +10939,21 @@
     "genre3": "Arcade",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -10990,7 +10990,7 @@
     "totalsize": "36.79 GB",
     "highestfirmware": "7.50",
     "backport": "No",
-    "gamebadge": "badges/tony-hawks-pro-skater-3-plus-4.png",
+    "gamebadge": "badges/tony-hawks-pro-skater-3-plus-4.jpg",
     "frontcover": "covers/tony-hawks-pro-skater-3-plus-4-front.jpg",
     "backcover": "covers/tony-hawks-pro-skater-3-plus-4-back.jpg",
     "backgrounds": [
@@ -11005,23 +11005,23 @@
     "genre3": "Arcade",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -11047,8 +11047,8 @@
   {
     "id": "SLUS20504",
     "platform": "PS2",
-    "icon1": "icons/ps2white.png",
-    "icon2": "icons/ps2black.png",
+    "icon1": "icons/ps2white.jpg",
+    "icon2": "icons/ps2black.jpg",
     "title": "Tony Hawk's Pro Skater 4",
     "version": "1.00",
     "publisher": "Activision",
@@ -11058,7 +11058,7 @@
     "totalsize": "3.43 GB",
     "highestfirmware": "PS2 Classics",
     "backport": "No",
-    "gamebadge": "badges/tony-hawks-pro-skater-4.png",
+    "gamebadge": "badges/tony-hawks-pro-skater-4.jpg",
     "frontcover": "covers/tony-hawks-pro-skater-4-front.jpg",
     "backcover": "covers/tony-hawks-pro-skater-4-back.jpg",
     "backgrounds": [
@@ -11073,21 +11073,21 @@
     "genre3": "Arcade",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -11124,7 +11124,7 @@
     "totalsize": "7.26 GB",
     "highestfirmware": "2.50",
     "backport": "No",
-    "gamebadge": "badges/tony-hawks-pro-skater-5.png",
+    "gamebadge": "badges/tony-hawks-pro-skater-5.jpg",
     "frontcover": "covers/tony-hawks-pro-skater-5-front.jpg",
     "backcover": "covers/tony-hawks-pro-skater-5-back.jpg",
     "backgrounds": [
@@ -11139,23 +11139,23 @@
     "genre3": "Action",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
     "onlinecoop": "Yes",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "20",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -11181,8 +11181,8 @@
   {
     "id": "SLUS21444",
     "platform": "PS2",
-    "icon1": "icons/ps2white.png",
-    "icon2": "icons/ps2black.png",
+    "icon1": "icons/ps2white.jpg",
+    "icon2": "icons/ps2black.jpg",
     "title": "Tony Hawk's Project 8",
     "version": "1.00",
     "publisher": "Activision",
@@ -11192,7 +11192,7 @@
     "totalsize": "3.41 GB",
     "highestfirmware": "PS2 Classics",
     "backport": "No",
-    "gamebadge": "badges/tony-hawks-project-8.png",
+    "gamebadge": "badges/tony-hawks-project-8.jpg",
     "frontcover": "covers/tony-hawks-project-8-front.jpg",
     "backcover": "covers/tony-hawks-project-8-back.jpg",
     "backgrounds": [
@@ -11207,21 +11207,21 @@
     "genre3": "Action",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -11247,8 +11247,8 @@
   {
     "id": "SLUS20731",
     "platform": "PS2",
-    "icon1": "icons/ps2white.png",
-    "icon2": "icons/ps2black.png",
+    "icon1": "icons/ps2white.jpg",
+    "icon2": "icons/ps2black.jpg",
     "title": "Tony Hawk's Underground",
     "version": "1.00",
     "publisher": "Activision",
@@ -11258,7 +11258,7 @@
     "totalsize": "4.69 GB",
     "highestfirmware": "PS2 Classics",
     "backport": "No",
-    "gamebadge": "badges/tony-hawks-underground.png",
+    "gamebadge": "badges/tony-hawks-underground.jpg",
     "frontcover": "covers/tony-hawks-underground-front.jpg",
     "backcover": "covers/tony-hawks-underground-back.jpg",
     "backgrounds": [
@@ -11273,21 +11273,21 @@
     "genre3": "Action",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -11313,8 +11313,8 @@
   {
     "id": "SLUS20965",
     "platform": "PS2",
-    "icon1": "icons/ps2white.png",
-    "icon2": "icons/ps2black.png",
+    "icon1": "icons/ps2white.jpg",
+    "icon2": "icons/ps2black.jpg",
     "title": "Tony Hawk's Underground 2",
     "version": "1.00",
     "publisher": "Activision",
@@ -11324,7 +11324,7 @@
     "totalsize": "2.72 GB",
     "highestfirmware": "PS2 Classics",
     "backport": "No",
-    "gamebadge": "badges/tony-hawks-underground-2.png",
+    "gamebadge": "badges/tony-hawks-underground-2.jpg",
     "frontcover": "covers/tony-hawks-underground-2-front.jpg",
     "backcover": "covers/tony-hawks-underground-2-back.jpg",
     "backgrounds": [
@@ -11339,21 +11339,21 @@
     "genre3": "Action",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -11390,7 +11390,7 @@
     "totalsize": "6.23 GB",
     "highestfirmware": "7.50",
     "backport": "Yes",
-    "gamebadge": "badges/trailmakers.png",
+    "gamebadge": "badges/trailmakers.jpg",
     "frontcover": "covers/trailmakers-front.jpg",
     "backcover": "covers/trailmakers-back.jpg",
     "backgrounds": [
@@ -11405,23 +11405,23 @@
     "genre3": "Adventure",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "No",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
     "onlinecoop": "Yes",
     "localcoop": "No",
 
     "splitscreen": "No",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "8",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -11575,7 +11575,7 @@
     "totalsize": "936.9 MB",
     "highestfirmware": "7.50",
     "backport": "No",
-    "gamebadge": "badges/trash-sailors.png",
+    "gamebadge": "badges/trash-sailors.jpg",
     "frontcover": "covers/trash-sailors-front.jpg",
     "backcover": "covers/trash-sailors-back.jpg",
     "backgrounds": [
@@ -11590,23 +11590,23 @@
     "genre3": "Survival",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
     "onlinecoop": "Yes",
     "localcoop": "Yes",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -11643,7 +11643,7 @@
     "totalsize": "4.53 GB",
     "highestfirmware": "7.50",
     "backport": "No",
-    "gamebadge": "badges/tridents-tale.png",
+    "gamebadge": "badges/tridents-tale.jpg",
     "frontcover": "covers/tridents-tale-front.jpg",
     "backcover": "covers/tridents-tale-back.jpg",
     "backgrounds": [
@@ -11658,23 +11658,23 @@
     "genre3": "Fantasy",
 
     "multiplayer": "No",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "No",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "No",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -11711,7 +11711,7 @@
     "totalsize": "729.68 MB",
     "highestfirmware": "2.50",
     "backport": "No",
-    "gamebadge": "badges/trivial-pursuit-live.png",
+    "gamebadge": "badges/trivial-pursuit-live.jpg",
     "frontcover": "covers/trivial-pursuit-live-front.jpg",
     "backcover": "covers/trivial-pursuit-live-back.jpg",
     "backgrounds": [
@@ -11726,23 +11726,23 @@
     "genre3": "Family",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -11779,7 +11779,7 @@
     "totalsize": "1.24 GB",
     "highestfirmware": "7.50",
     "backport": "No",
-    "gamebadge": "badges/trivial-pursuit-live-2.png",
+    "gamebadge": "badges/trivial-pursuit-live-2.jpg",
     "frontcover": "covers/trivial-pursuit-live-2-front.jpg",
     "backcover": "covers/trivial-pursuit-live-2-back.jpg",
     "backgrounds": [
@@ -11794,23 +11794,23 @@
     "genre3": "Family",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -11847,7 +11847,7 @@
     "totalsize": "11.54 GB",
     "highestfirmware": "7.50",
     "backport": "No",
-    "gamebadge": "badges/tropico-6.png",
+    "gamebadge": "badges/tropico-6.jpg",
     "frontcover": "covers/tropico-6-front.jpg",
     "backcover": "covers/tropico-6-back.jpg",
     "backgrounds": [
@@ -11862,23 +11862,23 @@
     "genre3": "City Builder",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "No",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
     "onlinecoop": "Yes",
     "localcoop": "No",
 
     "splitscreen": "No",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -11996,7 +11996,7 @@
     "totalsize": "122.95 MB",
     "highestfirmware": "5.05",
     "backport": "No",
-    "gamebadge": "badges/ultimate-runner.png",
+    "gamebadge": "badges/ultimate-runner.jpg",
     "frontcover": "covers/ultimate-runner-front.jpg",
     "backcover": "covers/ultimate-runner-back.jpg",
     "backgrounds": [
@@ -12011,23 +12011,23 @@
     "genre3": "Casual",
 
     "multiplayer": "No",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "No",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "No",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -12064,7 +12064,7 @@
     "totalsize": "2.31 GB",
     "highestfirmware": "7.50",
     "backport": "No",
-    "gamebadge": "badges/uno.png",
+    "gamebadge": "badges/uno.jpg",
     "frontcover": "covers/uno-front.jpg",
     "backcover": "covers/uno-back.jpg",
     "backgrounds": [
@@ -12079,23 +12079,23 @@
     "genre3": "Family",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -12204,7 +12204,7 @@
     "totalsize": "457.44 MB",
     "highestfirmware": "7.50",
     "backport": "No",
-    "gamebadge": "badges/untitled-goose-game.png",
+    "gamebadge": "badges/untitled-goose-game.jpg",
     "frontcover": "covers/untitled-goose-game-front.jpg",
     "backcover": "covers/untitled-goose-game-back.jpg",
     "backgrounds": [
@@ -12219,23 +12219,23 @@
     "genre3": "Comedy",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
     "onlinecoop": "No",
     "localcoop": "Yes",
 
     "splitscreen": "No",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -12272,7 +12272,7 @@
     "totalsize": "4.44 GB",
     "highestfirmware": "7.50",
     "backport": "No",
-    "gamebadge": "badges/vr-ping-pong-pro.png",
+    "gamebadge": "badges/vr-ping-pong-pro.jpg",
     "frontcover": "covers/vr-ping-pong-pro-front.jpg",
     "backcover": "covers/vr-ping-pong-pro-back.jpg",
     "backgrounds": [
@@ -12287,23 +12287,23 @@
     "genre3": "VR",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "No",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "No",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "2",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "Yes",
     "psmove": "Yes",
@@ -12340,7 +12340,7 @@
     "totalsize": "163.64 MB",
     "highestfirmware": "4.50",
     "backport": "No",
-    "gamebadge": "badges/vr-ping-pong.png",
+    "gamebadge": "badges/vr-ping-pong.jpg",
     "frontcover": "covers/vr-ping-pong-front.jpg",
     "backcover": "covers/vr-ping-pong-back.jpg",
     "backgrounds": [
@@ -12355,23 +12355,23 @@
     "genre3": "VR",
 
     "multiplayer": "No",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "No",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "No",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "Yes",
     "psmove": "Yes",
@@ -12408,7 +12408,7 @@
     "totalsize": "3.93 GB",
     "highestfirmware": "7.50",
     "backport": "No",
-    "gamebadge": "badges/wheel-of-fortune.png",
+    "gamebadge": "badges/wheel-of-fortune.jpg",
     "frontcover": "covers/wheel-of-fortune-front.jpg",
     "backcover": "covers/wheel-of-fortune-back.jpg",
     "backgrounds": [
@@ -12423,23 +12423,23 @@
     "genre3": "Family",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "3",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -12476,7 +12476,7 @@
     "totalsize": "2.43 GB",
     "highestfirmware": "7.50",
     "backport": "No",
-    "gamebadge": "badges/who-wants-to-be-a-millionaire.png",
+    "gamebadge": "badges/who-wants-to-be-a-millionaire.jpg",
     "frontcover": "covers/who-wants-to-be-a-millionaire-front.jpg",
     "backcover": "covers/who-wants-to-be-a-millionaire-back.jpg",
     "backgrounds": [
@@ -12491,23 +12491,23 @@
     "genre3": "Family",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -12562,7 +12562,7 @@
     "totalsize": "2.47 GB",
     "highestfirmware": "7.50",
     "backport": "No",
-    "gamebadge": "badges/worms-armageddon-anniversary.png",
+    "gamebadge": "badges/worms-armageddon-anniversary.jpg",
     "frontcover": "covers/worms-armageddon-anniversary-front.jpg",
     "backcover": "covers/worms-armageddon-anniversary-back.jpg",
     "backgrounds": [
@@ -12577,23 +12577,23 @@
     "genre3": "Multiplayer",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -12630,7 +12630,7 @@
     "totalsize": "21.75 GB",
     "highestfirmware": "7.50",
     "backport": "No",
-    "gamebadge": "badges/wreckfest.png",
+    "gamebadge": "badges/wreckfest.jpg",
     "frontcover": "covers/wreckfest-front.jpg",
     "backcover": "covers/wreckfest-back.jpg",
     "backgrounds": [
@@ -12645,23 +12645,23 @@
     "genre3": "Simulation",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "16",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -12797,7 +12797,7 @@
     "totalsize": "86.48 GB",
     "highestfirmware": "9.00",
     "backport": "No",
-    "gamebadge": "badges/wwe-2k25.png",
+    "gamebadge": "badges/wwe-2k25.jpg",
     "frontcover": "covers/wwe-2k25-front.jpg",
     "backcover": "covers/wwe-2k25-back.jpg",
     "backgrounds": [
@@ -12812,23 +12812,23 @@
     "genre3": "Simulation",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "Yes",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "Yes",
     "onlinecoop": "Yes",
     "localcoop": "Yes",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "6",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -12865,7 +12865,7 @@
     "totalsize": "402 MB",
     "highestfirmware": "7.50",
     "backport": "No",
-    "gamebadge": "badges/yatzi.png",
+    "gamebadge": "badges/yatzi.jpg",
     "frontcover": "covers/yatzi-front.jpg",
     "backcover": "covers/yatzi-back.jpg",
     "backgrounds": [
@@ -12880,23 +12880,23 @@
     "genre3": "Family",
 
     "multiplayer": "Yes",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "Yes",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "Yes",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "4",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
@@ -12933,7 +12933,7 @@
     "totalsize": "957.02 MB",
     "highestfirmware": "7.50",
     "backport": "No",
-    "gamebadge": "badges/youtubers-life-omg.png",
+    "gamebadge": "badges/youtubers-life-omg.jpg",
     "frontcover": "covers/youtubers-life-omg-front.jpg",
     "backcover": "covers/youtubers-life-omg-back.jpg",
     "backgrounds": [
@@ -12948,23 +12948,23 @@
     "genre3": "Strategy",
 
     "multiplayer": "No",
-    "multiplayericon": "icons/features/multiplayer.png",
+    "multiplayericon": "icons/features/multiplayer.jpg",
 
     "onlinemultiplayer": "No",
-    "onlinemultiplayericon": "icons/features/online-multiplayer.png",
+    "onlinemultiplayericon": "icons/features/online-multiplayer.jpg",
 
     "localmultiplayer": "No",
-    "localmultiplayericon": "icons/features/local-multiplayer.png",
+    "localmultiplayericon": "icons/features/local-multiplayer.jpg",
 
     "coop": "No",
     "onlinecoop": "No",
     "localcoop": "No",
 
     "splitscreen": "No",
-    "splitscreenicon": "icons/features/splitscreen.png",
+    "splitscreenicon": "icons/features/splitscreen.jpg",
 
     "maxplayers": "1",
-    "maxplayersicon": "icons/features/maxplayers.png",
+    "maxplayersicon": "icons/features/maxplayers.jpg",
 
     "psvr": "No",
     "psmove": "No",
