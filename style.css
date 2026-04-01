@@ -240,15 +240,17 @@ body::after {
     letter-spacing: 0.5px;
 }
 
+/* FIXED: Tight spacing between icon + number */
 .dlc-wrapper {
     display: flex;
     align-items: center;
-    gap: 4px;
+    gap: 2px; /* PS4-accurate spacing */
 }
 
+/* FIXED: Correct PS4 icon size */
 .dlc-icon {
-    width: 64px;
-    height: 64px;
+    width: 18px;
+    height: 18px;
     opacity: 0.95;
 }
 
@@ -259,13 +261,13 @@ body::after {
     letter-spacing: 0.3px;
 }
 
-/* DLC badge under the title */
+/* FIXED: Right-aligned under title */
 .dlc-below-title {
     margin-top: 6px;
     display: flex;
     justify-content: flex-end;
     width: 100%;
-    padding-right: 4px; /* PS4-style breathing room */
+    padding-right: 4px;
 }
 
 /* ------------------------------
