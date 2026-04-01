@@ -306,24 +306,30 @@ function renderGameGrid(games) {
         const div = document.createElement("div");
         div.className = "game-card";
 
-        // NEW: Determine if game has REAL DLC entries
+        // Determine REAL DLC entries
         const realDLC = Array.isArray(game.dlc)
             ? game.dlc.filter(d => d.dlcname && d.dlcname.trim().toUpperCase() !== "N/A")
             : [];
 
+        // ------------------------------
+        // PS4-LIBRARY DLC BADGE (Option B)
+        // Right-aligned on ID row
+        // ------------------------------
         div.innerHTML = `
-            <div class="game-id-display">${game.id}</div>
+            <div class="top-info">
+                <div class="game-id-display">${game.id}</div>
+
+                ${realDLC.length > 0 ? `
+                    <div class="dlc-wrapper">
+                        <img src="icons/dlc.png" class="dlc-icon">
+                        <span class="dlc-count">${realDLC.length}</span>
+                    </div>
+                ` : ``}
+            </div>
 
             <img src="${game.gamebadge}" class="game-cover">
 
             <h3>${game.title}</h3>
-
-            ${realDLC.length > 0 ? `
-                <div class="dlc-indicator">
-                    <img src="icons/dlc.png" class="dlc-icon">
-                    <span class="dlc-count">${realDLC.length}</span>
-                </div>
-            ` : ``}
         `;
 
         div.onclick = () => {
