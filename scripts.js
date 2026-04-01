@@ -307,7 +307,7 @@ function renderGameGrid(games) {
 }
 
 // ------------------------------
-// GAME PAGE LOGIC (unchanged)
+// GAME PAGE LOGIC
 // ------------------------------
 async function initGamePage() {
     const container = document.getElementById("gameContainer");
@@ -326,14 +326,31 @@ async function initGamePage() {
     renderGameDetails(game);
 }
 
+// ------------------------------
+// UPDATED GAME DETAILS WITH GENRES
+// ------------------------------
 function renderGameDetails(game) {
     const container = document.getElementById("gameContainer");
+
+    // Normalize genres
+    const genres = [
+        normalizeGenre(game.genre1),
+        normalizeGenre(game.genre2),
+        normalizeGenre(game.genre3)
+    ]
+    .filter(Boolean)
+    .filter((g, i, arr) => arr.indexOf(g) === i);
+
+    const genreLine = genres.length > 0
+        ? `<p><strong>Genres:</strong> ${genres.join(" • ")}</p>`
+        : "";
 
     container.innerHTML = `
         <div class="game-header">
             <img src="${game.gamebadge}" class="game-cover-large">
             <div class="game-info">
                 <h1>${game.title}</h1>
+                ${genreLine}
                 <p>${game.description}</p>
             </div>
         </div>
