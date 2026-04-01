@@ -233,39 +233,40 @@ body::after {
 }
 
 /* ---------------------------------
-   INSERTED: GAME ID + DLC INDICATOR
+   GAME ID + PS4-LIBRARY DLC BADGE
 ---------------------------------- */
+
+.top-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 6px;
+}
 
 .game-id-display {
     font-size: 12px;
     font-weight: 600;
     color: #9aa0a6;
-    text-align: center;
-    margin-bottom: 4px;
     letter-spacing: 0.5px;
 }
 
-.dlc-indicator {
+.dlc-wrapper {
     display: flex;
     align-items: center;
-    justify-content: center;
-    margin-top: 4px;
-    min-height: 18px;
+    gap: 4px;
 }
 
 .dlc-icon {
-    width: 64px;
-    height: 96px;
-    object-fit: contain;
-    image-rendering: auto;
-    margin-right: 4px;
-    filter: brightness(1.2);
+    width: 18px;
+    height: 18px;
+    opacity: 0.95;
 }
 
 .dlc-count {
-    font-size: 12px;
+    color: #ffffff;
+    font-size: 14px;
     font-weight: 600;
-    color: #00a2ff;
+    letter-spacing: 0.3px;
 }
 
 /* ------------------------------
