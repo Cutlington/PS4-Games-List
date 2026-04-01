@@ -55,10 +55,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -121,10 +120,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -187,10 +185,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -253,10 +250,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -319,10 +315,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -388,7 +383,6 @@
                         "dlccover": "dlc/dlccovers/arkanoid-eternal-battle-space-scout-pack.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/space-scout-pack.jpg",
-                        "dlccover":  "dlc/dlccovers/space-scout-pack.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2022,
                         "dlcdescription":  "The Space Scout Pack adds exclusive cosmetic items to customize your paddle and profile in Arkanoid: Eternal Battle."
@@ -454,7 +448,6 @@
                         "dlccover": "dlc/dlccovers/astroneer-athleisure-bundle.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/athleisure-bundle.jpg",
-                        "dlccover":  "dlc/dlccovers/astroneer-athleisure-bundle.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2022,
                         "dlcdescription":  "A cosmetic bundle featuring sporty suit and visor styles."
@@ -464,7 +457,6 @@
                         "dlccover": "dlc/dlccovers/astroneer-essential-bundle.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/essential-bundle.jpg",
-                        "dlccover":  "dlc/dlccovers/astroneer-essential-bundle.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2022,
                         "dlcdescription":  "A collection of essential cosmetic items for your Astroneer."
@@ -474,7 +466,6 @@
                         "dlccover": "dlc/dlccovers/glitchwalker-premium-pack.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/glitchwalker-premium-pack.jpg",
-                        "dlccover":  "dlc/dlccovers/astroneer-glitchwalkers.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2022,
                         "dlcdescription":  "Premium Glitchwalker-themed cosmetics for advanced customization."
@@ -484,7 +475,6 @@
                         "dlccover": "dlc/dlccovers/astroneer-glitchwalkers.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/glitchwalkers.jpg",
-                        "dlccover":  "dlc/dlccovers/astroneer-glitchwalkers.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2022,
                         "dlcdescription":  "A cosmetic pack featuring Glitchwalker suit variations."
@@ -494,7 +484,6 @@
                         "dlccover": "dlc/dlccovers/astroneer-starter-bundle.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/starter-bundle.jpg",
-                        "dlccover":  "dlc/dlccovers/astroneer-starter-bundle.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2022,
                         "dlcdescription":  "A beginner-friendly cosmetic bundle for new explorers."
@@ -504,7 +493,6 @@
                         "dlccover": "dlc/dlccovers/astroneer-suit-bundle.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/suit-bundle.jpg",
-                        "dlccover":  "dlc/dlccovers/astroneer-suit-bundle.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2022,
                         "dlcdescription":  "A set of additional suit styles for character customization."
@@ -570,7 +558,6 @@
                         "dlccover": "dlc/dlccovers/atomfall-basic-supply-bundle.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/basic-supply-bundle.jpg",
-                        "dlccover":  "dlc/dlccovers/basic-supply-bundle.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2024,
                         "dlcdescription":  "A starter pack containing basic resources and cosmetic items."
@@ -580,7 +567,6 @@
                         "dlccover": "dlc/dlccovers/atomfall-deluxe-upgrade.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/deluxe-upgrade.jpg",
-                        "dlccover":  "dlc/dlccovers/deluxe-upgrade.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2024,
                         "dlcdescription":  "Upgrades the game with deluxe cosmetic items and bonuses."
@@ -590,7 +576,6 @@
                         "dlccover": "dlc/dlccovers/atomfall-enhanced-supply-bundle.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/enhanced-supply-bundle.jpg",
-                        "dlccover":  "dlc/dlccovers/enhanced-supply-bundle.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2024,
                         "dlcdescription":  "A larger bundle of supplies and cosmetic enhancements."
@@ -600,7 +585,6 @@
                         "dlccover": "dlc/dlccovers/atomfall-story-expansion-pack-the-red-strain.jpg",
                         "dlcsize":  "2 GB",
                         "dlcicon":  "dlc/dlcicons/the-red-strain.jpg",
-                        "dlccover":  "dlc/dlccovers/the-red-strain.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2024,
                         "dlcdescription":  "A major story expansion introducing new regions, missions, and enemies."
@@ -610,7 +594,6 @@
                         "dlccover": "dlc/dlccovers/atomfall-story-expansion-pack-wicked-isle.jpg",
                         "dlcsize":  "2.78 GB",
                         "dlcicon":  "dlc/dlcicons/wicked-isle.jpg",
-                        "dlccover":  "dlc/dlccovers/wicked-isle.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2024,
                         "dlcdescription":  "A story-driven expansion set on a mysterious and dangerous island."
@@ -673,10 +656,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -739,10 +721,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -805,10 +786,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -871,10 +851,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -937,10 +916,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -1003,10 +981,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -1072,7 +1049,6 @@
                         "dlccover": "dlc/dlccovers/block-cascade-color-dlc.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/color-dlc.jpg",
-                        "dlccover":  "dlc/dlccovers/color-dlc.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2024,
                         "dlcdescription":  "Adds additional color themes and visual variations for blocks."
@@ -1135,10 +1111,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -1201,10 +1176,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -1267,10 +1241,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -1333,10 +1306,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -1399,10 +1371,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -1468,7 +1439,6 @@
                         "dlccover": "N/A",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/alley-adventure-dlc.jpg",
-                        "dlccover":  "dlc/dlccovers/alley-adventure-dlc.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2016,
                         "dlcdescription":  "Adds the Alley Adventure mini-game expansion, featuring new challenges and carnival activities."
@@ -1531,10 +1501,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -1600,7 +1569,6 @@
                         "dlccover": "N/A",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/al-forno-dlc.jpg",
-                        "dlccover":  "dlc/dlccovers/al-forno-dlc.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2023,
                         "dlcdescription":  "Adds new oven-based recipes and Italian-inspired dishes to your restaurant."
@@ -1610,7 +1578,6 @@
                         "dlccover": "N/A",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/bon-appetit-dlc.jpg",
-                        "dlccover":  "dlc/dlccovers/bon-appetit-dlc.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2023,
                         "dlcdescription":  "Introduces new gourmet recipes and premium ingredients for advanced chefs."
@@ -1620,7 +1587,6 @@
                         "dlccover": "N/A",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/cooking-lab-dlc.jpg",
-                        "dlccover":  "dlc/dlccovers/cooking-lab-dlc.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2023,
                         "dlcdescription":  "Adds experimental cooking tools and advanced preparation techniques."
@@ -1683,10 +1649,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -1749,10 +1714,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -1815,10 +1779,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -1881,10 +1844,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -1947,10 +1909,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -2016,7 +1977,6 @@
                         "dlccover": "dlc/dlccovers/dave-the-diver-dredge-content-pack.jpg",
                         "dlcsize":  "25.49 MB",
                         "dlcicon":  "dlc/dlcicons/dredge-content-pack.jpg",
-                        "dlccover":  "dlc/dlccovers/dredge-content-pack.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2023,
                         "dlcdescription":  "Adds crossover content inspired by DREDGE, including new missions and eerie deepâ€‘sea encounters."
@@ -2026,7 +1986,6 @@
                         "dlccover": "dlc/dlccovers/dave-the-diver-godzilla-content-pack.jpg",
                         "dlcsize":  "75.24 MB",
                         "dlcicon":  "dlc/dlcicons/godzilla-content-pack.jpg",
-                        "dlccover":  "dlc/dlccovers/godzilla-content-pack.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2024,
                         "dlcdescription":  "Introduces Godzillaâ€‘themed content, featuring special events, missions, and unique ocean encounters."
@@ -2036,7 +1995,6 @@
                         "dlccover": "dlc/dlccovers/dave-the-diver-ichibans-holiday-content-pack.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/ichibans-holiday-content-pack.jpg",
-                        "dlccover":  "dlc/dlccovers/ichibans-holiday-content-pack.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2023,
                         "dlcdescription":  "Adds festive holidayâ€‘themed items and Ichibanâ€‘inspired cosmetic content."
@@ -2099,10 +2057,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -2165,10 +2122,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -2234,7 +2190,6 @@
                         "dlccover": "N/A",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/rally-pack-dlc.jpg",
-                        "dlccover":  "dlc/dlccovers/rally-pack-dlc.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2023,
                         "dlcdescription":  "Adds new kart customization items and themed racing content."
@@ -2300,7 +2255,6 @@
                         "dlccover": "dlc/dlccovers/dredge-blackstone-key.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/blackstone-key.jpg",
-                        "dlccover":  "dlc/dlccovers/blackstone-key.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2023,
                         "dlcdescription":  "Unlocks the mysterious Blackstone region and grants access to exclusive items."
@@ -2310,7 +2264,6 @@
                         "dlccover": "dlc/dlccovers/dredge-the-iron-rig.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/the-iron-rig.jpg",
-                        "dlccover":  "dlc/dlccovers/the-iron-rig.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2024,
                         "dlcdescription":  "Adds a new storyline centered around industrial expansion and deep-sea dangers."
@@ -2320,7 +2273,6 @@
                         "dlccover": "dlc/dlccovers/dredge-the-pale-reach.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/the-pale-reach.jpg",
-                        "dlccover":  "dlc/dlccovers/the-pale-reach.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2023,
                         "dlcdescription":  "Explore a frozen biome filled with new fish, quests, and chilling mysteries."
@@ -2386,7 +2338,6 @@
                         "dlccover": "N/A",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/doomsday-dlc.jpg",
-                        "dlccover":  "dlc/dlccovers/doomsday-dlc.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2022,
                         "dlcdescription":  "Adds a new storyline featuring doomsday cultists, quests, and unique gear."
@@ -2396,7 +2347,6 @@
                         "dlccover": "N/A",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/pets-and-dungeons-dlc.jpg",
-                        "dlccover":  "dlc/dlccovers/pets-and-dungeons-dlc.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2023,
                         "dlcdescription":  "Introduces pet companions and new dungeon areas filled with challenges."
@@ -2406,7 +2356,6 @@
                         "dlccover": "N/A",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/underworld-dlc.jpg",
-                        "dlccover":  "dlc/dlccovers/underworld-dlc.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2023,
                         "dlcdescription":  "Adds a massive Underworld biome with new enemies, loot, and endgame content."
@@ -2469,10 +2418,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -2535,10 +2483,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -2601,10 +2548,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -2670,7 +2616,6 @@
                         "dlccover": "dlc/dlccovers/ufc-4-100-ufc-points.jpg",
                         "dlcsize":  "1.44 MB",
                         "dlcicon":  "dlc/dlcicons/100-ufc-points.jpg",
-                        "dlccover":  "dlc/dlccovers/100-ufc-points.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2020,
                         "dlcdescription":  "Adds 100 UFC Points for in-game purchases."
@@ -2680,7 +2625,6 @@
                         "dlccover": "dlc/dlccovers/ufc-4-250-ufc-points.jpg",
                         "dlcsize":  "1.44 MB",
                         "dlcicon":  "dlc/dlcicons/250-ufc-points.jpg",
-                        "dlccover":  "dlc/dlccovers/250-ufc-points.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2020,
                         "dlcdescription":  "Adds 250 UFC Points for in-game purchases."
@@ -2690,7 +2634,6 @@
                         "dlccover": "dlc/dlccovers/ufc-4-500-ufc-points.jpg",
                         "dlcsize":  "1.44 MB",
                         "dlcicon":  "dlc/dlcicons/500-ufc-points.jpg",
-                        "dlccover":  "dlc/dlccovers/500-ufc-points.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2020,
                         "dlcdescription":  "Adds 500 UFC Points for in-game purchases."
@@ -2700,7 +2643,6 @@
                         "dlccover": "dlc/dlccovers/ufc-4-750-ufc-points.jpg",
                         "dlcsize":  "1.44 MB",
                         "dlcicon":  "dlc/dlcicons/750-ufc-points.jpg",
-                        "dlccover":  "dlc/dlccovers/750-ufc-points.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2020,
                         "dlcdescription":  "Adds 750 UFC Points for in-game purchases."
@@ -2710,7 +2652,6 @@
                         "dlccover": "dlc/dlccovers/ufc-4-1050-ufc-points.jpg",
                         "dlcsize":  "1.44 MB",
                         "dlcicon":  "dlc/dlcicons/1050-ufc-points.jpg",
-                        "dlccover":  "dlc/dlccovers/1050-ufc-points.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2020,
                         "dlcdescription":  "Adds 1050 UFC Points for in-game purchases."
@@ -2720,7 +2661,6 @@
                         "dlccover": "dlc/dlccovers/ufc-4-1600-ufc-points.jpg",
                         "dlcsize":  "1.44 MB",
                         "dlcicon":  "dlc/dlcicons/1600-ufc-points.jpg",
-                        "dlccover":  "dlc/dlccovers/1600-ufc-points.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2020,
                         "dlcdescription":  "Adds 1600 UFC Points for in-game purchases."
@@ -2730,7 +2670,6 @@
                         "dlccover": "dlc/dlccovers/ufc-4-2200-ufc-points.jpg",
                         "dlcsize":  "1.44 MB",
                         "dlcicon":  "dlc/dlcicons/2200-ufc-points.jpg",
-                        "dlccover":  "dlc/dlccovers/2200-ufc-points.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2020,
                         "dlcdescription":  "Adds 2200 UFC Points for in-game purchases."
@@ -2740,7 +2679,6 @@
                         "dlccover": "dlc/dlccovers/ufc-4-4600-ufc-points.jpg",
                         "dlcsize":  "1.44 MB",
                         "dlcicon":  "dlc/dlcicons/4600-ufc-points.jpg",
-                        "dlccover":  "dlc/dlccovers/4600-ufc-points.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2020,
                         "dlcdescription":  "Adds 4600 UFC Points for in-game purchases."
@@ -2750,7 +2688,6 @@
                         "dlccover": "dlc/dlccovers/ufc-4-12000-ufc-points.jpg",
                         "dlcsize":  "1.44 MB",
                         "dlcicon":  "dlc/dlcicons/12000-ufc-points.jpg",
-                        "dlccover":  "dlc/dlccovers/12000-ufc-points.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2020,
                         "dlcdescription":  "Adds 12000 UFC Points for in-game purchases."
@@ -2760,7 +2697,6 @@
                         "dlccover": "dlc/dlccovers/astroneer-starter-bundle.jpg",
                         "dlcsize":  "1.97 MB",
                         "dlcicon":  "dlc/dlcicons/starter-bundle.jpg",
-                        "dlccover":  "dlc/dlccovers/starter-bundle.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2020,
                         "dlcdescription":  "Includes starter customization items and bonuses."
@@ -2770,7 +2706,6 @@
                         "dlccover": "dlc/dlccovers/ufc-4-premium-starter-bundle.jpg",
                         "dlcsize":  "1.97 MB",
                         "dlcicon":  "dlc/dlcicons/premium-starter-bundle.jpg",
-                        "dlccover":  "dlc/dlccovers/premium-starter-bundle.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2020,
                         "dlcdescription":  "Includes premium customization items and bonuses."
@@ -2780,7 +2715,6 @@
                         "dlccover": "dlc/dlccovers/ufc-4-anthony-joshua.jpg",
                         "dlcsize":  "1.97 MB",
                         "dlcicon":  "dlc/dlcicons/anthony-joshua.jpg",
-                        "dlccover":  "dlc/dlccovers/anthony-joshua.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2020,
                         "dlcdescription":  "Adds Anthony Joshua as a playable fighter."
@@ -2790,7 +2724,6 @@
                         "dlccover": "dlc/dlccovers/ufc-4-tyson-fury.jpg",
                         "dlcsize":  "1.97 MB",
                         "dlcicon":  "dlc/dlcicons/tyson-fury.jpg",
-                        "dlccover":  "dlc/dlccovers/tyson-fury.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2020,
                         "dlcdescription":  "Adds Tyson Fury as a playable fighter."
@@ -2800,7 +2733,6 @@
                         "dlccover": "dlc/dlccovers/ufc-4-bruce-lee-bantamweight.jpg",
                         "dlcsize":  "1.97 MB",
                         "dlcicon":  "dlc/dlcicons/bruce-lee-bantamweight.jpg",
-                        "dlccover":  "dlc/dlccovers/bruce-lee-bantamweight.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2020,
                         "dlcdescription":  "Adds Bruce Lee in the Bantamweight division."
@@ -2810,7 +2742,6 @@
                         "dlccover": "dlc/dlccovers/ufc-4-bruce-lee-featherweight.jpg",
                         "dlcsize":  "1.97 MB",
                         "dlcicon":  "dlc/dlcicons/bruce-lee-featherweight.jpg",
-                        "dlccover":  "dlc/dlccovers/bruce-lee-featherweight.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2020,
                         "dlcdescription":  "Adds Bruce Lee in the Featherweight division."
@@ -2820,7 +2751,6 @@
                         "dlccover": "dlc/dlccovers/ufc-4-bruce-lee-lightweight.jpg",
                         "dlcsize":  "1.97 MB",
                         "dlcicon":  "dlc/dlcicons/bruce-lee-lightweight.jpg",
-                        "dlccover":  "dlc/dlccovers/bruce-lee-lightweight.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2020,
                         "dlcdescription":  "Adds Bruce Lee in the Lightweight division."
@@ -2830,7 +2760,6 @@
                         "dlccover": "dlc/dlccovers/ufc-4-bruce-lee-welterweight.jpg",
                         "dlcsize":  "1.97 MB",
                         "dlcicon":  "dlc/dlcicons/bruce-lee-welterweight.jpg",
-                        "dlccover":  "dlc/dlccovers/bruce-lee-welterweight.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2020,
                         "dlcdescription":  "Adds Bruce Lee in the Welterweight division."
@@ -2840,7 +2769,6 @@
                         "dlccover": "dlc/dlccovers/ufc-4-bruce-lee-bundle.jpg",
                         "dlcsize":  "1.97 MB",
                         "dlcicon":  "dlc/dlcicons/bruce-lee-bundle.jpg",
-                        "dlccover":  "dlc/dlccovers/bruce-lee-bundle.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2020,
                         "dlcdescription":  "Includes all Bruce Lee fighters in one bundle."
@@ -2850,7 +2778,6 @@
                         "dlccover": "dlc/dlccovers/ufc-4-gladiator-vanity-bundle.jpg",
                         "dlcsize":  "1.97 MB",
                         "dlcicon":  "dlc/dlcicons/gladiator-vanity-bundle.jpg",
-                        "dlccover":  "dlc/dlccovers/gladiator-vanity-bundle.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2020,
                         "dlcdescription":  "Adds gladiator-themed vanity items."
@@ -2860,7 +2787,6 @@
                         "dlccover": "dlc/dlccovers/ufc-4-backyard-and-kumite-customization-packs.jpg",
                         "dlcsize":  "1.97 MB",
                         "dlcicon":  "dlc/dlcicons/backyard-kumite-packs.jpg",
-                        "dlccover":  "dlc/dlccovers/backyard-kumite-packs.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2020,
                         "dlcdescription":  "Adds Backyard and Kumite themed customization items."
@@ -2870,7 +2796,6 @@
                         "dlccover": "dlc/dlccovers/ufc-4-rainbows-and-unicorns-vanity-bundle.jpg",
                         "dlcsize":  "1.97 MB",
                         "dlcicon":  "dlc/dlcicons/rainbows-unicorns-bundle.jpg",
-                        "dlccover":  "dlc/dlccovers/rainbows-unicorns-bundle.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2020,
                         "dlcdescription":  "Adds colorful and whimsical vanity items."
@@ -2933,10 +2858,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -2999,10 +2923,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -3068,7 +2991,6 @@
                         "dlccover": "dlc/dlccovers/expeditions-a-mudrunner-game-cotco-canyon.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/cotco-canyon.jpg",
-                        "dlccover":  "dlc/dlccovers/cotco-canyon.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2024,
                         "dlcdescription":  "Adds the Cotco Canyon region with new missions and exploration routes."
@@ -3078,7 +3000,6 @@
                         "dlccover": "dlc/dlccovers/expeditions-a-mudrunner-game-pioneer-pack.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/pioneer-pack.jpg",
-                        "dlccover":  "dlc/dlccovers/pioneer-pack.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2024,
                         "dlcdescription":  "Includes exclusive vehicle cosmetics and early-game equipment."
@@ -3088,7 +3009,6 @@
                         "dlccover": "dlc/dlccovers/expeditions-a-mudrunner-game-the-great-don-71.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/the-great-don-71.jpg",
-                        "dlccover":  "dlc/dlccovers/the-great-don-71.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2024,
                         "dlcdescription":  "Adds the classic Don 71 vehicle variant for off-road expeditions."
@@ -3151,10 +3071,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -3217,10 +3136,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -3283,10 +3201,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -3349,10 +3266,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -3415,10 +3331,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -3481,10 +3396,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -3547,10 +3461,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -3613,10 +3526,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -3679,10 +3591,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -3745,10 +3656,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -3811,10 +3721,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -3880,7 +3789,6 @@
                         "dlccover": "dlc/dlccovers/just-dance-dlc.jpg",
                         "dlcsize":  "16.52 MB",
                         "dlcicon":  "dlc/dlcicons/just-dance-dlc.jpg",
-                        "dlccover":  "dlc/dlccovers/just-dance-dlc.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2016,
                         "dlcdescription":  "Adds Just Dance themed content to the game selection."
@@ -3890,7 +3798,6 @@
                         "dlccover": "dlc/dlccovers/my-little-pony-dlc.jpg",
                         "dlcsize":  "19.6 MB",
                         "dlcicon":  "dlc/dlcicons/my-little-pony-dlc.jpg",
-                        "dlccover":  "dlc/dlccovers/my-little-pony-dlc.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2016,
                         "dlcdescription":  "Adds My Little Pony themed content to the game selection."
@@ -3900,7 +3807,6 @@
                         "dlccover": "dlc/dlccovers/raving-rabbids-dlc.jpg",
                         "dlcsize":  "1.18 MB",
                         "dlcicon":  "dlc/dlcicons/raving-rabbids-dlc.jpg",
-                        "dlccover":  "dlc/dlccovers/raving-rabbids-dlc.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2016,
                         "dlcdescription":  "Adds Raving Rabbids themed content to the game selection."
@@ -3963,10 +3869,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -4029,10 +3934,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -4095,10 +3999,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -4161,10 +4064,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -4227,10 +4129,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -4293,10 +4194,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -4359,10 +4259,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -4425,10 +4324,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -4491,10 +4389,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -4557,10 +4454,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -4623,10 +4519,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -4692,7 +4587,6 @@
                         "dlccover": "dlc/dlccovers/just-cause-3-sky-fortress.jpg",
                         "dlcsize":  "1.51 GB",
                         "dlcicon":  "dlc/dlcicons/sky-fortress.jpg",
-                        "dlccover":  "dlc/dlccovers/sky-fortress.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2016,
                         "dlcdescription":  "Adds the Sky Fortress campaign, jetpack, and new missions."
@@ -4702,7 +4596,6 @@
                         "dlccover": "dlc/dlccovers/just-cause-3-mech-land-assault.jpg",
                         "dlcsize":  "6.78 GB",
                         "dlcicon":  "dlc/dlcicons/mech-land-assault.jpg",
-                        "dlccover":  "dlc/dlccovers/mech-land-assault.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2016,
                         "dlcdescription":  "Introduces mechs, a new island, and a full mission chain."
@@ -4712,7 +4605,6 @@
                         "dlccover": "dlc/dlccovers/bavarium-sea-heist.jpg",
                         "dlcsize":  "4.16 GB",
                         "dlcicon":  "dlc/dlcicons/bavarium-sea-heist.jpg",
-                        "dlccover":  "dlc/dlccovers/bavarium-sea-heist.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2016,
                         "dlcdescription":  "Adds the Sea Heist campaign, new vehicles, and weapons."
@@ -4722,7 +4614,6 @@
                         "dlccover": "N/A",
                         "dlcsize":  "1.57 MB",
                         "dlcicon":  "dlc/dlcicons/flame-wingsuit.jpg",
-                        "dlccover":  "dlc/dlccovers/flame-wingsuit.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2015,
                         "dlcdescription":  "Adds flameâ€‘themed wingsuit and parachute skins."
@@ -4785,10 +4676,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -4851,10 +4741,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -4917,10 +4806,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -4986,7 +4874,6 @@
                         "dlccover": "N/A",
                         "dlcsize":  "219.55 MB",
                         "dlcicon":  "dlc/dlcicons/patch.jpg",
-                        "dlccover":  "dlc/dlccovers/patch.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2024,
                         "dlcdescription":  "Backport compatibility patch for LEGO Party."
@@ -5049,10 +4936,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -5115,10 +5001,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -5181,10 +5066,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -5247,10 +5131,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -5313,10 +5196,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -5382,7 +5264,6 @@
                         "dlccover": "dlc/dlccovers/minecraft-dungeons-creeping-winter.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/creeping-winter.jpg",
-                        "dlccover":  "dlc/dlccovers/creeping-winter.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2020,
                         "dlcdescription":  "Adds snowy biomes, missions, and gear."
@@ -5392,7 +5273,6 @@
                         "dlccover": "dlc/dlccovers/minecraft-dungeons-echoing-void.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/echoing-void.jpg",
-                        "dlccover":  "dlc/dlccovers/echoing-void.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2021,
                         "dlcdescription":  "Introduces the End dimension and new challenges."
@@ -5402,7 +5282,6 @@
                         "dlccover": "dlc/dlccovers/minecraft-dungeons-flames-of-the-nether.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/flames-of-the-nether.jpg",
-                        "dlccover":  "dlc/dlccovers/flames-of-the-nether.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2021,
                         "dlcdescription":  "Adds Nether biomes, missions, and gear."
@@ -5412,7 +5291,6 @@
                         "dlccover": "N/A",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/hero-dlc.jpg",
-                        "dlccover":  "dlc/dlccovers/hero-dlc.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2020,
                         "dlcdescription":  "Includes hero skins and bonus content."
@@ -5422,7 +5300,6 @@
                         "dlccover": "dlc/dlccovers/minecraft-dungeons-hidden-depths.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/hidden-depths.jpg",
-                        "dlccover":  "dlc/dlccovers/hidden-depths.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2021,
                         "dlcdescription":  "Underwater missions and oceanâ€‘themed gear."
@@ -5432,7 +5309,6 @@
                         "dlccover": "dlc/dlccovers/minecraft-dungeons-howling-peaks.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/howling-peaks.jpg",
-                        "dlccover":  "dlc/dlccovers/howling-peaks.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2020,
                         "dlcdescription":  "Mountain biomes, storms, and new enemies."
@@ -5442,7 +5318,6 @@
                         "dlccover": "dlc/dlccovers/minecraft-dungeons-jungle-awakens.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/jungle-awakens.jpg",
-                        "dlccover":  "dlc/dlccovers/jungle-awakens.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2020,
                         "dlcdescription":  "Jungle missions, mobs, and gear."
@@ -5508,7 +5383,6 @@
                         "dlccover": "N/A",
                         "dlcsize":  "1.64 GB",
                         "dlcicon":  "dlc/dlcicons/patch.jpg",
-                        "dlccover":  "dlc/dlccovers/patch.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2023,
                         "dlcdescription":  "Backport compatibility patch for Minecraft Legends."
@@ -5571,10 +5445,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -5637,10 +5510,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -5703,10 +5575,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -5772,7 +5643,6 @@
                         "dlccover": "dlc/dlccovers/just-dance-dlc.jpg",
                         "dlcsize":  "16.52 MB",
                         "dlcicon":  "dlc/dlcicons/just-dance.jpg",
-                        "dlccover":  "dlc/dlccovers/just-dance.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2014,
                         "dlcdescription":  "Adds Just Dance themed content."
@@ -5782,7 +5652,6 @@
                         "dlccover": "dlc/dlccovers/my-little-pony-dlc.jpg",
                         "dlcsize":  "19.6 MB",
                         "dlcicon":  "dlc/dlcicons/my-little-pony.jpg",
-                        "dlccover":  "dlc/dlccovers/my-little-pony.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2014,
                         "dlcdescription":  "Adds My Little Pony themed content."
@@ -5848,7 +5717,6 @@
                         "dlccover": "dlc/dlccovers/just-dance-dlc.jpg",
                         "dlcsize":  "16.52 MB",
                         "dlcicon":  "dlc/dlcicons/just-dance.jpg",
-                        "dlccover":  "dlc/dlccovers/just-dance.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2014,
                         "dlcdescription":  "Adds Just Dance themed content."
@@ -5858,7 +5726,6 @@
                         "dlccover": "dlc/dlccovers/my-little-pony-dlc.jpg",
                         "dlcsize":  "19.6 MB",
                         "dlcicon":  "dlc/dlcicons/my-little-pony.jpg",
-                        "dlccover":  "dlc/dlccovers/my-little-pony.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2014,
                         "dlcdescription":  "Adds My Little Pony themed content."
@@ -5868,7 +5735,6 @@
                         "dlccover": "dlc/dlccovers/raving-rabbids-dlc.jpg",
                         "dlcsize":  "1.18 MB",
                         "dlcicon":  "dlc/dlcicons/raving-rabbids.jpg",
-                        "dlccover":  "dlc/dlccovers/raving-rabbids.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2014,
                         "dlcdescription":  "Adds Raving Rabbids themed content."
@@ -5934,7 +5800,6 @@
                         "dlccover": "dlc/dlccovers/credits-multiplier.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/credits-multiplier.jpg",
-                        "dlccover":  "dlc/dlccovers/credits-multiplier.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2023,
                         "dlcdescription":  "Doubles earned credits."
@@ -5944,7 +5809,6 @@
                         "dlccover": "dlc/dlccovers/monster-energy-supercross-6-customization-pack-pixel-blast.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/pixel-blast.jpg",
-                        "dlccover":  "dlc/dlccovers/pixel-blast.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2023,
                         "dlcdescription":  "Adds Pixel Blast themed customization items."
@@ -5954,7 +5818,6 @@
                         "dlccover": "dlc/dlccovers/monster-energy-supercross-6-customization-pack-thunderstorm.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/thunderstorm.jpg",
-                        "dlccover":  "dlc/dlccovers/thunderstorm.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2023,
                         "dlcdescription":  "Adds Thunderstorm themed customization items."
@@ -6020,7 +5883,6 @@
                         "dlccover": "N/A",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/additional-icon-butt-patches.jpg",
-                        "dlccover":  "dlc/dlccovers/additional-icon-butt-patches.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2018,
                         "dlcdescription":  "Adds new rider icons and butt patch customization."
@@ -6030,7 +5892,6 @@
                         "dlccover": "dlc/dlccovers/bluefire-custom-rider-pack.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/bluefire-pack.jpg",
-                        "dlccover":  "dlc/dlccovers/bluefire-pack.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2018,
                         "dlcdescription":  "Adds Bluefire themed rider customization items."
@@ -6040,7 +5901,6 @@
                         "dlccover": "dlc/dlccovers/compound.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/compound.jpg",
-                        "dlccover":  "dlc/dlccovers/compound.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2018,
                         "dlcdescription":  "Unlocks the Compound freeâ€‘ride training area."
@@ -6050,7 +5910,6 @@
                         "dlccover": "dlc/dlccovers/credits-multiplier.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/credits-multiplier.jpg",
-                        "dlccover":  "dlc/dlccovers/credits-multiplier.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2018,
                         "dlcdescription":  "Doubles earned credits."
@@ -6060,7 +5919,6 @@
                         "dlccover": "dlc/dlccovers/monster-energy-cup.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/monster-energy-cup.jpg",
-                        "dlccover":  "dlc/dlccovers/monster-energy-cup.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2018,
                         "dlcdescription":  "Adds the Monster Energy Cup track."
@@ -6070,7 +5928,6 @@
                         "dlccover": "dlc/dlccovers/redfire-custom-rider-pack.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/redfire-pack.jpg",
-                        "dlccover":  "dlc/dlccovers/redfire-pack.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2018,
                         "dlcdescription":  "Adds Redfire themed rider customization items."
@@ -6080,7 +5937,6 @@
                         "dlccover": "N/A",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/themed-liveries.jpg",
-                        "dlccover":  "dlc/dlccovers/themed-liveries.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2018,
                         "dlcdescription":  "Adds themed bike liveries and a tracksuit."
@@ -6090,7 +5946,6 @@
                         "dlccover": "dlc/dlccovers/yellowfire-custom-rider-pack.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/yellowfire-pack.jpg",
-                        "dlccover":  "dlc/dlccovers/yellowfire-pack.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2018,
                         "dlcdescription":  "Adds Yellowfire themed rider customization items."
@@ -6153,10 +6008,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -6219,10 +6073,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -6285,10 +6138,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -6351,10 +6203,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -6417,10 +6268,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -6483,10 +6333,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -6549,10 +6398,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -6618,7 +6466,6 @@
                         "dlccover": "dlc/dlccovers/nickelodeon-all-star-brawl-2-25-costume-pack.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/25-costume-pack.jpg",
-                        "dlccover":  "dlc/dlccovers/25-costume-pack.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2023,
                         "dlcdescription":  "Adds 25 alternate costumes for various fighters."
@@ -6628,7 +6475,6 @@
                         "dlccover": "dlc/dlccovers/nickelodeon-all-star-brawl-2-iroh-brawl-pack.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/iroh-pack.jpg",
-                        "dlccover":  "dlc/dlccovers/iroh-pack.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2023,
                         "dlcdescription":  "Adds Iroh as a playable fighter with themed content."
@@ -6638,7 +6484,6 @@
                         "dlccover": "N/A",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/mr-krabs-pack.jpg",
-                        "dlccover":  "dlc/dlccovers/mr-krabs-pack.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2023,
                         "dlcdescription":  "Adds Mr. Krabs as a playable fighter with themed content."
@@ -6648,7 +6493,6 @@
                         "dlccover": "dlc/dlccovers/nickelodeon-all-star-brawl-2-rocksteady-brawl-pack.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/rocksteady-pack.jpg",
-                        "dlccover":  "dlc/dlccovers/rocksteady-pack.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2023,
                         "dlcdescription":  "Adds Rocksteady as a playable fighter with themed content."
@@ -6658,7 +6502,6 @@
                         "dlccover": "dlc/dlccovers/nickelodeon-all-star-brawl-2-spongebob-quickster-costume.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/quickster.jpg",
-                        "dlccover":  "dlc/dlccovers/quickster.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2023,
                         "dlcdescription":  "Adds the Quickster costume for SpongeBob."
@@ -6668,7 +6511,6 @@
                         "dlccover": "dlc/dlccovers/nickelodeon-all-star-brawl-2-zuko-brawl-pack.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/zuko-pack.jpg",
-                        "dlccover":  "dlc/dlccovers/zuko-pack.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2023,
                         "dlcdescription":  "Adds Zuko as a playable fighter with themed content."
@@ -6734,7 +6576,6 @@
                         "dlccover": "dlc/dlccovers/nickelodeon-kart-racers-3-slime-speedway-turbo-pack.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/turbo-pack.jpg",
-                        "dlccover":  "dlc/dlccovers/turbo-pack.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2022,
                         "dlcdescription":  "Adds the Turbo Pack with extra kart customization content."
@@ -6800,7 +6641,6 @@
                         "dlccover": "dlc/dlccovers/campfire-cook-off-pack.jpg",
                         "dlcsize":  "1.11 MB",
                         "dlcicon":  "dlc/dlcicons/campfire-cook-off.jpg",
-                        "dlccover":  "dlc/dlccovers/campfire-cook-off.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2019,
                         "dlcdescription":  "Adds campfire-themed levels, chefs, and recipes."
@@ -6810,7 +6650,6 @@
                         "dlccover": "dlc/dlccovers/overcooked-2-carnival-of-chaos-pack.jpg",
                         "dlcsize":  "1.11 MB",
                         "dlcicon":  "dlc/dlcicons/carnival-of-chaos.jpg",
-                        "dlccover":  "dlc/dlccovers/carnival-of-chaos.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2019,
                         "dlcdescription":  "Adds carnival-themed kitchens, recipes, and chefs."
@@ -6820,7 +6659,6 @@
                         "dlccover": "dlc/dlccovers/night-of-the-hangry-horde-pack.jpg",
                         "dlcsize":  "1.11 MB",
                         "dlcicon":  "dlc/dlcicons/hangry-horde.jpg",
-                        "dlccover":  "dlc/dlccovers/hangry-horde.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2019,
                         "dlcdescription":  "Adds horde-style gameplay, spooky levels, and new chefs."
@@ -6830,7 +6668,6 @@
                         "dlccover": "dlc/dlccovers/surf-n-turf-pack.jpg",
                         "dlcsize":  "1.11 MB",
                         "dlcicon":  "dlc/dlcicons/surf-n-turf.jpg",
-                        "dlccover":  "dlc/dlccovers/surf-n-turf.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2018,
                         "dlcdescription":  "Adds beach-themed kitchens, water guns, and new recipes."
@@ -6840,7 +6677,6 @@
                         "dlccover": "dlc/dlccovers/too-many-cooks-pack.jpg",
                         "dlcsize":  "1.11 MB",
                         "dlcicon":  "dlc/dlcicons/too-many-cooks.jpg",
-                        "dlccover":  "dlc/dlccovers/too-many-cooks.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2018,
                         "dlcdescription":  "Adds a pack of new playable chefs."
@@ -6906,7 +6742,6 @@
                         "dlccover": "dlc/dlccovers/swedish-chef.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/swedish-chef.jpg",
-                        "dlccover":  "dlc/dlccovers/swedish-chef.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2020,
                         "dlcdescription":  "Adds the Swedish Chef as a playable character."
@@ -6972,7 +6807,6 @@
                         "dlccover": "dlc/dlccovers/the-festive-seasoning.jpg",
                         "dlcsize":  "1.11 MB",
                         "dlcicon":  "dlc/dlcicons/festive-seasoning.jpg",
-                        "dlccover":  "dlc/dlccovers/festive-seasoning.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2016,
                         "dlcdescription":  "Adds festive-themed kitchens, recipes, and chefs."
@@ -6982,7 +6816,6 @@
                         "dlccover": "dlc/dlccovers/the-lost-morsel.jpg",
                         "dlcsize":  "1.11 MB",
                         "dlcicon":  "dlc/dlcicons/lost-morsel.jpg",
-                        "dlccover":  "dlc/dlccovers/lost-morsel.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2016,
                         "dlcdescription":  "Adds new campaign levels, chefs, and environments."
@@ -7048,7 +6881,6 @@
                         "dlccover": "N/A",
                         "dlcsize":  "6.09 MB",
                         "dlcicon":  "dlc/dlcicons/patch.jpg",
-                        "dlccover":  "dlc/dlccovers/patch.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2024,
                         "dlcdescription":  "Standard update patch."
@@ -7058,7 +6890,6 @@
                         "dlccover": "N/A",
                         "dlcsize":  "168.89 MB",
                         "dlcicon":  "dlc/dlcicons/backport.jpg",
-                        "dlccover":  "dlc/dlccovers/backport.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2024,
                         "dlcdescription":  "Backport enabling lowerâ€‘firmware compatibility."
@@ -7121,10 +6952,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -7187,10 +7017,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -7256,7 +7085,6 @@
                         "dlccover": "dlc/dlccovers/police-simulator-patrol-officers-compact-police-vehicle-dlc.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/compact-police-vehicle.jpg",
-                        "dlccover":  "dlc/dlccovers/compact-police-vehicle.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2022,
                         "dlcdescription":  "Adds a compact patrol vehicle."
@@ -7266,7 +7094,6 @@
                         "dlccover": "dlc/dlccovers/police-simulator-patrol-officers-guardian-vehicle-dlc.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/guardian-vehicle.jpg",
-                        "dlccover":  "dlc/dlccovers/guardian-vehicle.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2022,
                         "dlcdescription":  "Adds the Guardian police vehicle."
@@ -7276,7 +7103,6 @@
                         "dlccover": "dlc/dlccovers/police-simulator-patrol-officers-highway-patrol-expansion.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/highway-patrol.jpg",
-                        "dlccover":  "dlc/dlccovers/highway-patrol.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2022,
                         "dlcdescription":  "Adds highway patrol content and vehicle options."
@@ -7286,7 +7112,6 @@
                         "dlccover": "dlc/dlccovers/police-simulator-patrol-officers-multipurpose-police-vehicle-dlc.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/multipurpose-vehicle.jpg",
-                        "dlccover":  "dlc/dlccovers/multipurpose-vehicle.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2022,
                         "dlcdescription":  "Adds a multipurpose patrol vehicle."
@@ -7296,7 +7121,6 @@
                         "dlccover": "dlc/dlccovers/police-simulator-patrol-officers-surveillance-police-vehicle-dlc.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/surveillance-vehicle.jpg",
-                        "dlccover":  "dlc/dlccovers/surveillance-vehicle.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2022,
                         "dlcdescription":  "Adds a surveillance-focused police vehicle."
@@ -7306,7 +7130,6 @@
                         "dlccover": "dlc/dlccovers/police-simulator-patrol-officers-urban-terrain-vehicle-dlc.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/urban-terrain-vehicle.jpg",
-                        "dlccover":  "dlc/dlccovers/urban-terrain-vehicle.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2022,
                         "dlcdescription":  "Adds an urban terrain patrol vehicle."
@@ -7316,7 +7139,6 @@
                         "dlccover": "dlc/dlccovers/police-simulator-patrol-officers-warden-police-vehicle-dlc.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/warden-vehicle.jpg",
-                        "dlccover":  "dlc/dlccovers/warden-vehicle.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2022,
                         "dlcdescription":  "Adds the Warden police vehicle."
@@ -7379,10 +7201,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -7445,10 +7266,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -7511,10 +7331,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -7577,10 +7396,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -7643,10 +7461,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -7709,10 +7526,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -7775,10 +7591,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -7841,10 +7656,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -7907,10 +7721,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -7973,10 +7786,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -8039,10 +7851,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -8105,10 +7916,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -8167,10 +7977,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -8233,10 +8042,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -8299,10 +8107,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -8365,10 +8172,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -8431,10 +8237,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -8497,10 +8302,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -8563,10 +8367,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -8632,7 +8435,6 @@
                         "dlccover": "dlc/dlccovers/sonic-racing-crossworlds-avatar-legends-pack.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/avatar-legends-pack.jpg",
-                        "dlccover":  "dlc/dlccovers/avatar-legends-pack.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2019",
                         "dlcdescription":  "Adds Avatar Legends-themed customization items."
@@ -8642,7 +8444,6 @@
                         "dlccover": "dlc/dlccovers/sonic-racing-crossworlds-blue-star-extreme-gear.jpg",
                         "dlcsize":  "2.1 MB",
                         "dlcicon":  "dlc/dlcicons/blue-star-extreme-gear.jpg",
-                        "dlccover":  "dlc/dlccovers/blue-star-extreme-gear.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2019",
                         "dlcdescription":  "Adds the Blue Star Extreme Gear customization set."
@@ -8652,7 +8453,6 @@
                         "dlccover": "dlc/dlccovers/sonic-racing-crossworlds-mega-man-pack.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/mega-man-pack.jpg",
-                        "dlccover":  "dlc/dlccovers/mega-man-pack.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2019",
                         "dlcdescription":  "Adds Mega Man-themed customization items."
@@ -8662,7 +8462,6 @@
                         "dlccover": "dlc/dlccovers/sonic-racing-crossworlds-minecraft-pack.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/minecraft-pack.jpg",
-                        "dlccover":  "dlc/dlccovers/minecraft-pack.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2019",
                         "dlcdescription":  "Adds Minecraft-themed customization items."
@@ -8672,7 +8471,6 @@
                         "dlccover": "dlc/dlccovers/sonic-racing-crossworlds-tmnt-mutant-mayhem-pack.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/mutant-mayhem-pack.jpg",
-                        "dlccover":  "dlc/dlccovers/mutant-mayhem-pack.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2019",
                         "dlcdescription":  "Adds Mutant Mayhem-themed customization items."
@@ -8682,7 +8480,6 @@
                         "dlccover": "N/A",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/pac-man-pack.jpg",
-                        "dlccover":  "dlc/dlccovers/pac-man-pack.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2019",
                         "dlcdescription":  "Adds PAC-MAN-themed customization items."
@@ -8692,7 +8489,6 @@
                         "dlccover": "dlc/dlccovers/sonic-racing-crossworlds-season-pass.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/season-pass.jpg",
-                        "dlccover":  "dlc/dlccovers/season-pass.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2019",
                         "dlcdescription":  "Unlocks all additional customization packs."
@@ -8702,7 +8498,6 @@
                         "dlccover": "dlc/dlccovers/sonic-racing-crossworlds-sonic-prime-character-pack.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/sonic-prime-pack.jpg",
-                        "dlccover":  "dlc/dlccovers/sonic-prime-pack.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2019",
                         "dlcdescription":  "Adds Sonic Prime-themed customization items."
@@ -8712,7 +8507,6 @@
                         "dlccover": "dlc/dlccovers/sonic-racing-crossworlds-spongebob-squarepants-pack.jpg",
                         "dlcsize":  "2.1 MB",
                         "dlcicon":  "dlc/dlcicons/spongebob-pack.jpg",
-                        "dlccover":  "dlc/dlccovers/spongebob-pack.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2019",
                         "dlcdescription":  "Adds SpongeBob SquarePants-themed customization items."
@@ -8722,7 +8516,6 @@
                         "dlccover": "dlc/dlccovers/sonic-racing-crossworlds-werehog-preorder-pack.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/werehog-pack.jpg",
-                        "dlccover":  "dlc/dlccovers/werehog-pack.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2019",
                         "dlcdescription":  "Adds Werehog-themed customization items."
@@ -8785,10 +8578,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -8851,10 +8643,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -8917,10 +8708,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -8983,10 +8773,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -9049,10 +8838,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -9115,10 +8903,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -9181,10 +8968,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -9247,10 +9033,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -9313,10 +9098,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -9379,10 +9163,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -9445,10 +9228,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -9514,7 +9296,6 @@
                         "dlccover": "dlc/dlccovers/big-top-breakout.jpg",
                         "dlcsize":  "1.7 MB",
                         "dlcicon":  "dlc/dlcicons/big-top-breakout.jpg",
-                        "dlccover":  "dlc/dlccovers/big-top-breakout.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2018",
                         "dlcdescription":  "Escape from a circus-themed prison filled with performers, animals, and hazards."
@@ -9524,7 +9305,6 @@
                         "dlccover": "dlc/dlccovers/dungeons-and-duct-tape.jpg",
                         "dlcsize":  "1.18 MB",
                         "dlcicon":  "dlc/dlcicons/dungeons-and-duct-tape.jpg",
-                        "dlccover":  "dlc/dlccovers/dungeons-and-duct-tape.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2018",
                         "dlcdescription":  "A medieval-themed escape featuring traps, puzzles, and castle fortifications."
@@ -9534,7 +9314,6 @@
                         "dlccover": "dlc/dlccovers/the-glorious-regime.jpg",
                         "dlcsize":  "1.18 MB",
                         "dlcicon":  "dlc/dlcicons/the-glorious-regime.jpg",
-                        "dlccover":  "dlc/dlccovers/the-glorious-regime.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2018",
                         "dlcdescription":  "Break free from a heavily guarded jungle compound ruled by a strict regime."
@@ -9544,7 +9323,6 @@
                         "dlccover": "dlc/dlccovers/wicked-ward.jpg",
                         "dlcsize":  "1.18 MB",
                         "dlcicon":  "dlc/dlcicons/wicked-ward.jpg",
-                        "dlccover":  "dlc/dlccovers/wicked-ward.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2017",
                         "dlcdescription":  "A spooky, horror-themed escape set inside a haunted medical facility."
@@ -9607,10 +9385,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -9673,10 +9450,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -9742,7 +9518,6 @@
                         "dlccover": "dlc/dlccovers/the-good-life-behind-the-secret-of-rainy-woods.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/behind-the-secret-of-rainy-woods.jpg",
-                        "dlccover":  "dlc/dlccovers/behind-the-secret-of-rainy-woods.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2021",
                         "dlcdescription":  "Additional story content expanding the mysteries of Rainy Woods."
@@ -9805,10 +9580,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -9871,10 +9645,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -9940,7 +9713,6 @@
                         "dlccover": "N/A",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/outfit-dlc.jpg",
-                        "dlccover":  "dlc/dlccovers/outfit-dlc.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2023",
                         "dlcdescription":  "Additional cosmetic outfits for your Smurfs."
@@ -10006,7 +9778,6 @@
                         "dlccover": "dlc/dlccovers/the-smurfs-mission-vileaf-preorder-bonus.jpg",
                         "dlcsize":  "1.57 MB",
                         "dlcicon":  "dlc/dlcicons/preorder-bonus.jpg",
-                        "dlccover":  "dlc/dlccovers/preorder-bonus.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2021",
                         "dlcdescription":  "Exclusive preorder cosmetic items for your Smurfs."
@@ -10069,10 +9840,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -10135,10 +9905,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -10201,10 +9970,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -10267,10 +10035,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -10333,10 +10100,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -10399,10 +10165,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -10465,10 +10230,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -10531,10 +10295,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -10600,7 +10363,6 @@
                         "dlccover": "dlc/dlccovers/1984-comics-skin.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/1984-comics-skin.jpg",
-                        "dlccover":  "dlc/dlccovers/1984-comics-skin.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2023",
                         "dlcdescription":  "Classic 1984 comic-inspired skin for the Turtles."
@@ -10610,7 +10372,6 @@
                         "dlccover": "dlc/dlccovers/1987-animated-series-pack.jpg",
                         "dlcsize":  "1.57 MB",
                         "dlcicon":  "dlc/dlcicons/1987-animated-series-pack.jpg",
-                        "dlccover":  "dlc/dlccovers/1987-animated-series-pack.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2023",
                         "dlcdescription":  "Character skins and cosmetics inspired by the 1987 animated series."
@@ -10620,7 +10381,6 @@
                         "dlccover": "dlc/dlccovers/fresh-meat-mission-pack.jpg",
                         "dlcsize":  "1.57 MB",
                         "dlcicon":  "dlc/dlcicons/fresh-meat-mission-pack.jpg",
-                        "dlccover":  "dlc/dlccovers/fresh-meat-mission-pack.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2023",
                         "dlcdescription":  "Additional missions featuring new enemies and challenges."
@@ -10630,7 +10390,6 @@
                         "dlccover": "dlc/dlccovers/metalhead-skin.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/metalhead-skin.jpg",
-                        "dlccover":  "dlc/dlccovers/metalhead-skin.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2023",
                         "dlcdescription":  "Metalhead-inspired cosmetic skin."
@@ -10693,10 +10452,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -10759,10 +10517,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -10825,10 +10582,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -10891,10 +10647,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -10957,10 +10712,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -11023,10 +10777,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -11089,10 +10842,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -11155,10 +10907,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -11221,10 +10972,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -11287,10 +11037,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -11353,10 +11102,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -11419,10 +11167,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -11485,10 +11232,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -11554,7 +11300,6 @@
                         "dlccover": "dlc/dlccovers/trailmakers-airborne.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/airborne.jpg",
-                        "dlccover":  "dlc/dlccovers/airborne.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "A themed addâ€‘on that introduces aviationâ€‘inspired cosmetic parts, letting players decorate their creations with wings, decals, and flightâ€‘style accessories."
@@ -11564,7 +11309,6 @@
                         "dlccover": "dlc/dlccovers/trailmakers-decal-action-pack.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/decal-action-pack.jpg",
-                        "dlccover":  "dlc/dlccovers/decal-action-pack.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "A collection of bold, highâ€‘contrast decals designed to give vehicles a more aggressive or stylized look, ideal for actionâ€‘focused builds."
@@ -11574,7 +11318,6 @@
                         "dlccover": "dlc/dlccovers/trailmakers-decals-expression-pack.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/decals-expression-pack.jpg",
-                        "dlccover":  "dlc/dlccovers/decals-expression-pack.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "Adds expressive stickers and symbols that let players personalize their vehicles with emotions, icons, and characterâ€‘driven designs."
@@ -11584,7 +11327,6 @@
                         "dlccover": "dlc/dlccovers/trailmakers-frozen-tracks.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/frozen-tracks.jpg",
-                        "dlccover":  "dlc/dlccovers/frozen-tracks.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "A winterâ€‘themed cosmetic pack featuring icy patterns, frosted textures, and coldâ€‘weather style decals for snowâ€‘inspired builds."
@@ -11594,7 +11336,6 @@
                         "dlccover": "dlc/dlccovers/trailmakers-hat-pack.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/hat-pack.jpg",
-                        "dlccover":  "dlc/dlccovers/hat-pack.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "A fun cosmetic pack that adds a variety of hats and headgear players can equip on their characters for extra personality."
@@ -11604,7 +11345,6 @@
                         "dlccover": "dlc/dlccovers/trailmakers-high-seas-expansion.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/high-seas-expansion.jpg",
-                        "dlccover":  "dlc/dlccovers/high-seas-expansion.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "A nauticalâ€‘themed cosmetic set that includes oceanâ€‘inspired decals and styling options, perfect for boats, submarines, and maritime builds."
@@ -11614,7 +11354,6 @@
                         "dlccover": "dlc/dlccovers/trailmakers-motorhead-pack.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/motorhead-pack.jpg",
-                        "dlccover":  "dlc/dlccovers/motorhead-pack.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "A gearheadâ€‘focused cosmetic pack featuring mechanicalâ€‘style decals, metal textures, and industrialâ€‘inspired visual upgrades."
@@ -11624,7 +11363,6 @@
                         "dlccover": "dlc/dlccovers/trailmakers-packing-heat.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/packing-heat.jpg",
-                        "dlccover":  "dlc/dlccovers/packing-heat.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "A themed cosmetic set that adds fiery decals, heatâ€‘themed patterns, and bold visual elements for highâ€‘energy vehicle designs."
@@ -11634,7 +11372,6 @@
                         "dlccover": "dlc/dlccovers/trailmakers-rescue-pack.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/rescue-pack.jpg",
-                        "dlccover":  "dlc/dlccovers/rescue-pack.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "A rescueâ€‘serviceâ€‘inspired cosmetic pack with emergencyâ€‘style decals, hazard markings, and utilityâ€‘focused visual elements."
@@ -11644,7 +11381,6 @@
                         "dlccover": "dlc/dlccovers/trailmakers-skin-pack-2.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/skin-pack-2.jpg",
-                        "dlccover":  "dlc/dlccovers/skin-pack-2.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "A collection of new character skins that let players customize their avatar with fresh outfits and visual styles"
@@ -11654,7 +11390,6 @@
                         "dlccover": "dlc/dlccovers/trailmakers-space-voyager-pack.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/space-voyager-pack.jpg",
-                        "dlccover":  "dlc/dlccovers/space-voyager-pack.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "A sciâ€‘fiâ€‘themed cosmetic pack featuring spaceâ€‘inspired decals, futuristic patterns, and astronautâ€‘style visual elements."
@@ -11664,7 +11399,6 @@
                         "dlccover": "dlc/dlccovers/trailmakers-supply-pack-frontline.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/supply-pack-frontline.jpg",
-                        "dlccover":  "dlc/dlccovers/supply-pack-frontline.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "A militaryâ€‘themed cosmetic set with tactical decals, rugged textures, and frontlineâ€‘style markings for combatâ€‘inspired builds."
@@ -11674,7 +11408,6 @@
                         "dlccover": "dlc/dlccovers/trailmakers-texture-pack-1.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/texture-pack-1.jpg",
-                        "dlccover":  "dlc/dlccovers/texture-pack-1.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "Adds a selection of new surface textures players can apply to their vehicles, expanding creative options for material variety."
@@ -11684,7 +11417,6 @@
                         "dlccover": "dlc/dlccovers/trailmakers-texture-pack-3.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/texture-pack-3.jpg",
-                        "dlccover":  "dlc/dlccovers/texture-pack-3.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "Another textureâ€‘focused addâ€‘on that introduces additional material patterns, allowing for more detailed and visually distinct builds."
@@ -11747,10 +11479,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -11813,10 +11544,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -11879,10 +11609,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -11945,10 +11674,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -12014,7 +11742,6 @@
                         "dlccover": "dlc/dlccovers/tropico-6-caribbean-skies.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/caribbean-skies.jpg",
-                        "dlccover":  "dlc/dlccovers/caribbean-skies.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2021",
                         "dlcdescription":  "A missionâ€‘driven expansion focused on drone technology, disaster relief, and new ways to manage Tropicoâ€™s skies."
@@ -12024,7 +11751,6 @@
                         "dlccover": "dlc/dlccovers/tropico-6-el-prez-pack.jpg",
                         "dlcsize":  "1.57 MB",
                         "dlcicon":  "dlc/dlcicons/el-prez-pack.jpg",
-                        "dlccover":  "dlc/dlccovers/el-prez-pack.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2019",
                         "dlcdescription":  "A cosmetic pack featuring an exclusive palace design, outfit, and accessories to style El Presidente in true luxury."
@@ -12034,7 +11760,6 @@
                         "dlccover": "dlc/dlccovers/tropico-6-festival.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/festival.jpg",
-                        "dlccover":  "dlc/dlccovers/festival.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2021",
                         "dlcdescription":  "Adds festival grounds, themed events, and new mechanics that let you boost happiness and tourism through celebrations."
@@ -12044,7 +11769,6 @@
                         "dlccover": "dlc/dlccovers/tropico-6-going-viral.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/going-viral.jpg",
-                        "dlccover":  "dlc/dlccovers/going-viral.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2022",
                         "dlcdescription":  "Introduces new healthâ€‘focused challenges, viral outbreaks, and tools to manage public safety and population stability."
@@ -12054,7 +11778,6 @@
                         "dlccover": "dlc/dlccovers/tropico-6-lobbyistico.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/lobbyistico.jpg",
-                        "dlccover":  "dlc/dlccovers/lobbyistico.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2020",
                         "dlcdescription":  "A corruptionâ€‘themed expansion adding lobbying mechanics, influence systems, and new ways to manipulate political power."
@@ -12064,7 +11787,6 @@
                         "dlccover": "dlc/dlccovers/tropico-6-new-frontiers.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/new-frontiers.jpg",
-                        "dlccover":  "dlc/dlccovers/new-frontiers.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2022",
                         "dlcdescription":  "A spaceâ€‘focused expansion introducing rocket programs, orbital missions, and new ways to compete in the space race."
@@ -12074,7 +11796,6 @@
                         "dlccover": "dlc/dlccovers/tropico-6-return-to-nature.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/return-to-nature.jpg",
-                        "dlccover":  "dlc/dlccovers/return-to-nature.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2021",
                         "dlcdescription":  "Adds ecoâ€‘focused buildings, natureâ€‘driven policies, and new ways to balance development with environmental preservation."
@@ -12084,7 +11805,6 @@
                         "dlccover": "dlc/dlccovers/tropico-6-spitter.jpg",
                         "dlcsize":  "1.57 MB",
                         "dlcicon":  "dlc/dlcicons/spitter.jpg",
-                        "dlccover":  "dlc/dlccovers/spitter.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2020",
                         "dlcdescription":  "A socialâ€‘mediaâ€‘themed expansion introducing influencer mechanics, celebrity interactions, and reputationâ€‘based gameplay."
@@ -12094,7 +11814,6 @@
                         "dlccover": "dlc/dlccovers/tropico-6-the-llama-of-wallstreet.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/llama-of-wallstreet.jpg",
-                        "dlccover":  "dlc/dlccovers/llama-of-wallstreet.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2019",
                         "dlcdescription":  "A financeâ€‘focused DLC adding market manipulation, economic fluctuations, and new tools to control Tropicoâ€™s economy."
@@ -12104,7 +11823,6 @@
                         "dlccover": "N/A",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/tropical-shores.jpg",
-                        "dlccover":  "dlc/dlccovers/tropical-shores.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2023",
                         "dlcdescription":  "A tourismâ€‘driven expansion featuring new beach attractions, coastal buildings, and ways to boost island vacation appeal."
@@ -12167,10 +11885,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -12236,7 +11953,6 @@
                         "dlccover": "dlc/dlccovers/uno-50th-anniversary-dlc.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/50th-anniversary.jpg",
-                        "dlccover":  "dlc/dlccovers/50th-anniversary.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2021",
                         "dlcdescription":  "A premium black-and-gold themed deck celebrating UNOâ€™s 50th anniversary, featuring elegant visuals and a commemorative coin rule."
@@ -12246,7 +11962,6 @@
                         "dlccover": "N/A",
                         "dlcsize":  "1.57 MB",
                         "dlcicon":  "dlc/dlcicons/fenyxs-quest.jpg",
-                        "dlccover":  "dlc/dlccovers/fenyxs-quest.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2021",
                         "dlcdescription":  "A crossover deck inspired by Immortals Fenyx Rising, adding mythological powers, divine effects, and new ways to shift the flow of the match."
@@ -12256,7 +11971,6 @@
                         "dlccover": "dlc/dlccovers/uno-flip.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/flip.jpg",
-                        "dlccover":  "dlc/dlccovers/flip.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2019",
                         "dlcdescription":  "A twoâ€‘sided deck that flips between light and dark modes, introducing harsher penalties and unpredictable momentum shifts."
@@ -12266,7 +11980,6 @@
                         "dlccover": "dlc/dlccovers/uno-just-dance-theme-dlc.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/just-dance.jpg",
-                        "dlccover":  "dlc/dlccovers/just-dance.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2017",
                         "dlcdescription":  "A colorful, rhythmâ€‘inspired deck based on Just Dance, featuring energetic visuals and special cards that shake up the tempo of the game."
@@ -12276,7 +11989,6 @@
                         "dlccover": "dlc/dlccovers/uno-party-mania.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/party-mania.jpg",
-                        "dlccover":  "dlc/dlccovers/party-mania.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2020",
                         "dlcdescription":  "A festive deck filled with unpredictable partyâ€‘themed effects, adding chaotic twists and highâ€‘energy rule variations."
@@ -12286,7 +11998,6 @@
                         "dlccover": "dlc/dlccovers/uno-rayman-theme-dlc.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/rayman.jpg",
-                        "dlccover":  "dlc/dlccovers/rayman.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2017",
                         "dlcdescription":  "A whimsical deck inspired by Rayman, introducing playful abilities, characterâ€‘driven effects, and unique card interactions."
@@ -12296,7 +12007,6 @@
                         "dlccover": "dlc/dlccovers/uno-the-call-of-yara.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/call-of-yara.jpg",
-                        "dlccover":  "dlc/dlccovers/call-of-yara.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2021",
                         "dlcdescription":  "A Far Cryâ€“themed deck featuring guerrillaâ€‘style twists, factionâ€‘inspired abilities, and new ways to disrupt your opponents."
@@ -12306,7 +12016,6 @@
                         "dlccover": "dlc/dlccovers/uno-valhalla.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/valhalla.jpg",
-                        "dlccover":  "dlc/dlccovers/valhalla.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2020",
                         "dlcdescription":  "A Vikingâ€‘inspired deck based on Assassinâ€™s Creed Valhalla, adding powerful rune effects and battleâ€‘driven card mechanics."
@@ -12316,7 +12025,6 @@
                         "dlccover": "dlc/dlccovers/uno-winter-theme-dlc.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/winter-theme.jpg",
-                        "dlccover":  "dlc/dlccovers/winter-theme.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2017",
                         "dlcdescription":  "A seasonal deck filled with snowy visuals, frosty effects, and chilledâ€‘out twists that give UNO a winter makeover."
@@ -12379,10 +12087,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -12445,10 +12152,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -12511,10 +12217,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -12577,10 +12282,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -12646,7 +12350,6 @@
                         "dlccover": "dlc/dlccovers/wwtbam-hitchcock.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/hitchcock.jpg",
-                        "dlccover":  "dlc/dlccovers/hitchcock.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2021",
                         "dlcdescription":  "A themed question pack inspired by classic suspense cinema, adding new categories and dramatic twists to the quiz experience."
@@ -12656,7 +12359,6 @@
                         "dlccover": "dlc/dlccovers/the-smurfs-mission-vileaf-preorder-bonus.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/smurfs.jpg",
-                        "dlccover":  "dlc/dlccovers/smurfs.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2021",
                         "dlcdescription":  "A familyâ€‘friendly question pack featuring Smurfsâ€‘themed trivia, playful categories, and lighthearted challenges."
@@ -12666,7 +12368,6 @@
                         "dlccover": "dlc/dlccovers/wwtbam-tintin.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/tintin.jpg",
-                        "dlccover":  "dlc/dlccovers/tintin.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2021",
                         "dlcdescription":  "A themed pack inspired by classic Tintin adventures, adding explorationâ€‘focused questions and storyâ€‘driven trivia."
@@ -12729,10 +12430,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -12798,7 +12498,6 @@
                         "dlccover": "N/A",
                         "dlcsize":  "3.8 MB",
                         "dlcicon":  "dlc/dlcicons/american-all-stars.jpg",
-                        "dlccover":  "dlc/dlccovers/american-all-stars.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2019",
                         "dlcdescription":  "A collection of iconic American muscle and classic steel, built for raw power and heavy-hitting collisions."
@@ -12808,7 +12507,6 @@
                         "dlccover": "dlc/dlccovers/wreckfest-backwoods-bangers-car-pack.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/backwoods-bangers.jpg",
-                        "dlccover":  "dlc/dlccovers/backwoods-bangers.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2019",
                         "dlcdescription":  "A rugged set of offbeat vehicles inspired by backwoods engineering and improvised racing culture."
@@ -12818,7 +12516,6 @@
                         "dlccover": "dlc/dlccovers/wreckfest-banger-racing-car-pack.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/banger-racing.jpg",
-                        "dlccover":  "dlc/dlccovers/banger-racing.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2019",
                         "dlcdescription":  "A trio of classic banger racing machines built for high-impact collisions and unpredictable track battles."
@@ -12828,7 +12525,6 @@
                         "dlccover": "dlc/dlccovers/wreckfest-getaway-car-pack.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/getaway.jpg",
-                        "dlccover":  "dlc/dlccovers/getaway.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2020",
                         "dlcdescription":  "A themed pack featuring fast, agile vehicles inspired by cinematic chases and high-speed escapes."
@@ -12838,7 +12534,6 @@
                         "dlccover": "dlc/dlccovers/wreckfest-goofy-roofs-pack.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/goofy-roofs.jpg",
-                        "dlccover":  "dlc/dlccovers/goofy-roofs.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2019",
                         "dlcdescription":  "A cosmetic pack adding humorous rooftop decorations to give your rides a chaotic personality boost."
@@ -12848,7 +12543,6 @@
                         "dlccover": "dlc/dlccovers/wreckfest-modified-monsters-car-pack.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/modified-monsters.jpg",
-                        "dlccover":  "dlc/dlccovers/modified-monsters.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2020",
                         "dlcdescription":  "A set of heavily modified machines built for extreme durability and over-the-top destruction."
@@ -12858,7 +12552,6 @@
                         "dlccover": "N/A",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/off-road.jpg",
-                        "dlccover":  "dlc/dlccovers/off-road.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2020",
                         "dlcdescription":  "A rugged selection of off-road vehicles designed for dirt tracks, jumps, and brutal terrain."
@@ -12868,7 +12561,6 @@
                         "dlccover": "dlc/dlccovers/wreckfest-racing-heroes-car-pack.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/racing-heroes.jpg",
-                        "dlccover":  "dlc/dlccovers/racing-heroes.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2020",
                         "dlcdescription":  "A tribute pack featuring legendary racing icons reimagined for Wreckfestâ€™s destructive arenas."
@@ -12878,7 +12570,6 @@
                         "dlccover": "dlc/dlccovers/wreckfest-reckless-car-pack.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/reckless.jpg",
-                        "dlccover":  "dlc/dlccovers/reckless.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2020",
                         "dlcdescription":  "A set of unpredictable, high-risk vehicles built for chaotic driving and aggressive playstyles."
@@ -12888,7 +12579,6 @@
                         "dlccover": "dlc/dlccovers/wreckfest-retro-rammers-car-pack.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/retro-rammers.jpg",
-                        "dlccover":  "dlc/dlccovers/retro-rammers.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2019",
                         "dlcdescription":  "A nostalgic pack featuring retro-inspired vehicles perfect for smashing, crashing, and ramming opponents."
@@ -12898,7 +12588,6 @@
                         "dlccover": "dlc/dlccovers/wreckfest-rusty-rats-car-pack.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/rusty-rats.jpg",
-                        "dlccover":  "dlc/dlccovers/rusty-rats.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2019",
                         "dlcdescription":  "A gritty collection of rusted, patched-together machines built for scrappy, underdog victories."
@@ -12908,7 +12597,6 @@
                         "dlccover": "dlc/dlccovers/wreckfest-steel-and-wheels-pack.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/steel-and-wheels.jpg",
-                        "dlccover":  "dlc/dlccovers/steel-and-wheels.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "2019",
                         "dlcdescription":  "A cosmetic pack adding new rims, armor pieces, and steel accessories to customize your demolition beasts."
@@ -12971,10 +12659,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -13037,10 +12724,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
@@ -13103,10 +12789,9 @@
         "dlc":  [
                     {
                         "dlcname":  "N/A",
-                        "dlccover": "dlc/dlccovers/additional-icon-&-butt-patches.jpg",
+                        "dlccover": "dlc/dlccovers/N_A.jpg",
                         "dlcsize":  "N/A",
                         "dlcicon":  "dlc/dlcicons/N_A.jpg",
-                        "dlccover":  "dlc/dlccovers/N_A.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  "N/A",
                         "dlcdescription":  "N/A"
