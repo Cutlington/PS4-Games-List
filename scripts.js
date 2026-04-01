@@ -5,6 +5,115 @@ async function loadGames() {
 }
 
 // ------------------------------
+// GENRE NORMALIZATION MAP
+// ------------------------------
+const genreNormalizationMap = {
+    "Action": "Action",
+    "Action RPG": "RPG",
+    "Adventure": "Adventure",
+    "Alchemy": "Simulation",
+    "Arcade": "Arcade",
+    "Artillery": "Strategy",
+    "Asymmetric": "Multiplayer",
+    "Automation": "Simulation",
+    "Basketball": "Sports",
+    "Beat Em Up": "Fighting",
+    "Beat 'Em Up": "Fighting",
+    "Billiards": "Sports",
+    "Board Game": "Strategy",
+    "Building": "Simulation",
+    "Card Game": "Strategy",
+    "Casual": "Casual",
+    "Chaos": "Action",
+    "City Builder": "Simulation",
+    "Classic": "Retro",
+    "Co op": "Co-op",
+    "Co-op": "Co-op",
+    "Cooperative": "Co-op",
+    "Comedy": "Casual",
+    "Compilation": "Compilation",
+    "Cooking": "Simulation",
+    "Crafting": "Simulation",
+    "Destruction": "Action",
+    "Driving": "Racing",
+    "Dungeon Crawler": "RPG",
+    "Emergency Services": "Simulation",
+    "Endless Runner": "Arcade",
+    "Engineering": "Simulation",
+    "Episodic": "Narrative",
+    "Exploration": "Adventure",
+    "Extreme Sports": "Sports",
+    "Family": "Casual",
+    "Fantasy": "RPG",
+    "Farming": "Simulation",
+    "Fighting": "Fighting",
+    "First-Person": "Shooter",
+    "Fishing": "Sports",
+    "Fitness": "Sports",
+    "Hockey": "Sports",
+    "Homebrew": "Indie",
+    "Horror": "Horror",
+    "Hunting": "Sports",
+    "Idle": "Casual",
+    "Indie": "Indie",
+    "Kart": "Racing",
+    "Kids": "Casual",
+    "Life": "Simulation",
+    "Life Simulation": "Simulation",
+    "Management": "Simulation",
+    "Metroidvania": "Action",
+    "Mini Games": "Casual",
+    "Mini-Games": "Casual",
+    "Mixed Martial Arts": "Sports",
+    "Motorbike": "Racing",
+    "Multiplayer": "Multiplayer",
+    "Music": "Music",
+    "Narrative": "Narrative",
+    "Off-Road": "Racing",
+    "Open World": "Adventure",
+    "Party": "Party",
+    "Physics": "Simulation",
+    "Platform Fighter": "Fighting",
+    "Platformer": "Platformer",
+    "Pool": "Sports",
+    "Puzzle": "Puzzle",
+    "Quiz": "Trivia",
+    "Racing": "Racing",
+    "Rail Shooter": "Shooter",
+    "Relaxing": "Casual",
+    "Retro": "Retro",
+    "Roguelike": "RPG",
+    "RPG": "RPG",
+    "Rugby": "Sports",
+    "Sandbox": "Sandbox",
+    "Sci-Fi": "Sci-Fi",
+    "Shooter": "Shooter",
+    "Simulation": "Simulation",
+    "Skateboarding": "Sports",
+    "Soccer": "Sports",
+    "Sports": "Sports",
+    "Stealth": "Action",
+    "Story Driven": "Narrative",
+    "Strategy": "Strategy",
+    "Superhero": "Action",
+    "Survival": "Survival",
+    "Tactical": "Strategy",
+    "Theme Park": "Simulation",
+    "Tower Defense": "Strategy",
+    "Trivia": "Trivia",
+    "Turn-Based": "Strategy",
+    "VR": "VR",
+    "Word": "Puzzle",
+    "Wrestling": "Sports"
+};
+
+// Normalize a raw genre string
+function normalizeGenre(raw) {
+    if (!raw) return null;
+    return genreNormalizationMap[raw] || raw;
+}
+
+// ------------------------------
 // FILTER STATE
 // ------------------------------
 const FilterState = {
@@ -43,22 +152,20 @@ function generateGenreFilters(games) {
     const container = document.getElementById("genreFilters");
     container.innerHTML = "";
 
-    // Collect all genres from genre1, genre2, genre3
     const genres = new Set();
+
     games.forEach(g => {
-        if (g.genre1) genres.add(g.genre1);
-        if (g.genre2) genres.add(g.genre2);
-        if (g.genre3) genres.add(g.genre3);
+        const g1 = normalizeGenre(g.genre1);
+        const g2 = normalizeGenre(g.genre2);
+        const g3 = normalizeGenre(g.genre3);
+
+        if (g1) genres.add(g1);
+        if (g2) genres.add(g2);
+        if (g3) genres.add(g3);
     });
 
-    // Sort genres so the ones used most often as genre1 appear first
-    const sortedGenres = [...genres].sort((a, b) => {
-        const countA = games.filter(g => g.genre1 === a).length;
-        const countB = games.filter(g => g.genre1 === b).length;
-        return countB - countA;
-    });
+    const sortedGenres = [...genres].sort();
 
-    // Build checkboxes
     sortedGenres.forEach(genre => {
         const id = "genre-" + genre.replace(/\s+/g, "-").toLowerCase();
 
@@ -73,7 +180,6 @@ function generateGenreFilters(games) {
         container.appendChild(wrapper);
     });
 
-    // Checkbox listeners
     container.querySelectorAll("input[type='checkbox']").forEach(cb => {
         cb.addEventListener("change", () => {
             if (cb.checked) FilterState.genres.add(cb.value);
@@ -165,18 +271,20 @@ function renderGameGrid(games) {
     gameGrid.innerHTML = "";
 
     const filtered = games.filter(game => {
-        // Search
         const matchesSearch =
             !FilterState.search ||
             game.title.toLowerCase().includes(FilterState.search);
 
-        // Genres (game appears under ALL 3 genres)
-        const gameGenres = [game.genre1, game.genre2, game.genre3].filter(Boolean);
+        const gameGenres = [
+            normalizeGenre(game.genre1),
+            normalizeGenre(game.genre2),
+            normalizeGenre(game.genre3)
+        ].filter(Boolean);
+
         const matchesGenres =
             FilterState.genres.size === 0 ||
             [...FilterState.genres].every(g => gameGenres.includes(g));
 
-        // Platforms
         const matchesPlatforms =
             FilterState.platforms.size === 0 ||
             FilterState.platforms.has(game.platform);
