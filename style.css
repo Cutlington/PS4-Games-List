@@ -262,7 +262,10 @@ body::after {
 /* DLC badge under the title */
 .dlc-below-title {
     margin-top: 6px;
-    justify-content: center;
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    padding-right: 4px; /* slight PS4-style breathing room */
 }
 
 /* ------------------------------
