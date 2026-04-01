@@ -54,26 +54,15 @@ body::after {
 
 /* Smooth UI transitions */
 * {
-    transition: background 0.2s ease, color 0.2s ease, box-shadow 0.25s ease, transform 0.25s ease;
+    transition: background 0.2s ease, color 0.2s ease,
+                box-shadow 0.25s ease, transform 0.25s ease;
 }
 
 /* ------------------------------
    LAYOUT
 ------------------------------ */
-/* --- FIX: Prevent Sidebar Overlap on Index Page --- */
-.index-page .sidebar {
-    width: 250px;        /* You already set this — reinforcing for clarity */
-}
 
-.index-page .main-content {
-    margin-left: 250px;  /* You already set 270px — matching sidebar width is cleaner */
-}
-
-/* NEW: Ensure the game grid itself is pushed right */
-.index-page .game-grid {
-    margin-left: 250px;
-}
-
+/* Sidebar — fixed PS4-style */
 .index-page .sidebar {
     width: 250px;
     background: rgba(0, 10, 40, 0.6);
@@ -83,11 +72,18 @@ body::after {
     bottom: 0;
     overflow-y: auto;
     backdrop-filter: blur(6px);
+    z-index: 10;
 }
 
+/* Main content aligned with sidebar */
 .index-page .main-content {
-    margin-left: 270px;
+    margin-left: 250px;
     padding: 20px;
+}
+
+/* Game grid pushed right */
+.index-page .game-grid {
+    margin-left: 250px;
 }
 
 .game-page .main-content {
@@ -106,7 +102,7 @@ body::after {
 ------------------------------ */
 
 .filter-group {
-    margin-bottom: 20px;
+    margin-bottom: 12px;
 }
 
 .filter-group label {
@@ -115,7 +111,7 @@ body::after {
     font-size: 14px;
 }
 
-/* Search box stays styled */
+/* Search box */
 .filter-group input[type="text"] {
     width: 100%;
     padding: 8px;
@@ -123,18 +119,13 @@ body::after {
     border-radius: 4px;
 }
 
-/* ---------------------------------------
-   COMPACT CHECKBOX LAYOUT (Option A + C)
----------------------------------------- */
-
-/* Two-column layout */
+/* Compact checkbox layout */
 .checkbox-list {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 4px 8px;
 }
 
-/* Smaller checkbox rows */
 .ps4-filter-item {
     display: flex;
     align-items: center;
@@ -149,7 +140,6 @@ body::after {
     background: rgba(80, 120, 255, 0.15);
 }
 
-/* Smaller checkbox */
 .ps4-filter-item input[type="checkbox"] {
     width: 14px;
     height: 14px;
@@ -157,30 +147,26 @@ body::after {
     cursor: pointer;
 }
 
-/* Checkbox Focus Ring (PS4 Style) */
+/* Checkbox focus ring */
 .ps4-checkbox:focus-visible {
     outline: none;
-    box-shadow: 0 0 0 3px #4da3ff, 0 0 12px rgba(0, 140, 255, 0.7);
+    box-shadow: 0 0 0 3px #4da3ff,
+                0 0 12px rgba(0, 140, 255, 0.7);
     border-radius: 4px;
     animation: ps4FocusPulse 0.35s ease-out;
 }
 
 @keyframes ps4FocusPulse {
     0% { box-shadow: 0 0 0 0px #4da3ff; }
-    100% { box-shadow: 0 0 0 3px #4da3ff, 0 0 12px rgba(0, 140, 255, 0.7); }
+    100% { box-shadow: 0 0 0 3px #4da3ff,
+           0 0 12px rgba(0, 140, 255, 0.7); }
 }
 
-/* Smaller text */
 .ps4-filter-text {
     font-size: 12px;
 }
 
-/* Reduce spacing between groups */
-.filter-group {
-    margin-bottom: 12px;
-}
-
-/* Reset Button */
+/* Reset button */
 .reset-btn {
     width: 100%;
     padding: 10px;
@@ -229,11 +215,12 @@ body::after {
 .game-card:focus,
 .game-card:focus-visible {
     outline: none;
-    box-shadow: 0 0 0 3px #4da3ff, 0 0 20px rgba(0, 140, 255, 0.7);
+    box-shadow: 0 0 0 3px #4da3ff,
+                0 0 20px rgba(0, 140, 255, 0.7);
     transform: scale(1.08);
 }
 
-/* PS4 Tile Image Animation */
+/* Tile image animation */
 .game-card img {
     width: 100%;
     border-radius: 6px;
