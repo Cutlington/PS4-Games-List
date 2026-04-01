@@ -11568,11 +11568,11 @@
         "highestfirmware":  "2.50",
         "backport":  "No",
         "gamebadge":  "badges/trivial-pursuit-live!.jpg",
-        "frontcover":  "covers/trivial-pursuit-live-front.jpg",
-        "backcover":  "covers/trivial-pursuit-live-back.jpg",
+        "frontcover":  "covers/trivial-pursuit-live!-front.jpg",
+        "backcover":  "covers/trivial-pursuit-live!-back.jpg",
         "backgrounds":  [
-                            "backgrounds/trivial-pursuit-live!-2-bg1.jpg",
-                            "backgrounds/trivial-pursuit-live!-2-bg2.jpg"
+                            "backgrounds/trivial-pursuit-live!-bg1.jpg",
+                            "backgrounds/trivial-pursuit-live!-bg2.jpg"
                         ],
         "trailer":  "https://www.youtube.com/embed/8pXx0p8p8nE",
         "gamerelyear":  2015,
