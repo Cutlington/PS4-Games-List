@@ -104,7 +104,7 @@ function renderGameDetails(game) {
 
     container.innerHTML = `
         <div class="game-header">
-            <img src="${game.gamebadge}" class="game-cover-large">
+            <img src="${game.gamebadge}" class="gamebadge">
             <div class="game-info">
                 <h1>${game.title}</h1>
                 <p>${game.description}</p>
