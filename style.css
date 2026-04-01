@@ -60,6 +60,19 @@ body::after {
 /* ------------------------------
    LAYOUT
 ------------------------------ */
+/* --- FIX: Prevent Sidebar Overlap on Index Page --- */
+.index-page .sidebar {
+    width: 250px;        /* You already set this — reinforcing for clarity */
+}
+
+.index-page .main-content {
+    margin-left: 250px;  /* You already set 270px — matching sidebar width is cleaner */
+}
+
+/* NEW: Ensure the game grid itself is pushed right */
+.index-page .game-grid {
+    margin-left: 250px;
+}
 
 .index-page .sidebar {
     width: 250px;
