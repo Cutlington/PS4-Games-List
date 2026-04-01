@@ -75,18 +75,13 @@ body::after {
     z-index: 10;
 }
 
-/* Tighter spacing between sidebar and content */
-.index-page .main-content,
-.index-page .game-grid {
-    margin-left: 280px; /* Sidebar width + padding + PS4 gap */
+/* Main content offset from sidebar */
+.index-page .main-content {
+    margin-left: 280px; /* sidebar (250) + padding (20) + small gap (10) */
     padding: 20px;
 }
 
-/* Align "Game Library" heading with game grid */
-.index-page .main-content h1 {
-    margin-left: 10px; /* Small nudge to the right */
-}
-
+/* Game page layout */
 .game-page .main-content {
     padding: 20px;
 }
@@ -193,8 +188,9 @@ body::after {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
     gap: 20px;
-    padding-right: 20px; /* Prevents hover from touching edge */
-    padding-left: 10px;  /* Aligns with heading */
+    padding-right: 20px; /* prevents hover from touching edge */
+    /* no extra margin-left or padding-left here:
+       it aligns with the h1 via .main-content */
 }
 
 /* PS4 Tile Base */
