@@ -6152,7 +6152,7 @@
         "platform":  "PS4",
         "icon1":  "icons/ps4white.png",
         "icon2":  "icons/ps4black.png",
-        "title":  "MXGP 2019 â€“ The Official Motocross Videogame",
+        "title":  "MXGP 2019 - The Official Motocross Videogame",
         "version":  "1.07",
         "publisher":  "Milestone",
         "developer":  "Milestone",
@@ -6531,7 +6531,7 @@
         "totalsize":  "5.80 GB",
         "highestfirmware":  "11.00",
         "backport":  "No",
-        "gamebadge":  "badges/badges/nickelodeon-kart-racers-3-slime-speedway.jpg",
+        "gamebadge":  "badges/nickelodeon-kart-racers-3-slime-speedway.jpg",
         "frontcover":  "covers/nkr3-turbo-front.jpg",
         "backcover":  "covers/nkr3-turbo-back.jpg",
         "backgrounds":  [
@@ -6569,7 +6569,7 @@
         "keyboardsupporticon": "N/A",
         "mousesupport":  "No",
         "mousesupporticon": "N/A",
-        "gamedescription":  "Nickelodeon Kart Racers 3: Slime Speedway â€“ Turbo Edition delivers fast-paced kart racing with a huge Nickelodeon roster, customizable karts, and chaotic local and online multiplayer action.",
+        "gamedescription":  "Nickelodeon Kart Racers 3: Slime Speedway - Turbo Edition delivers fast-paced kart racing with a huge Nickelodeon roster, customizable karts, and chaotic local and online multiplayer action.",
         "dlc":  [
                     {
                         "dlcname":  "Turbo Pack",
