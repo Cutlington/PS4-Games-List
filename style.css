@@ -57,14 +57,6 @@ body::after {
     transition: background 0.2s ease, color 0.2s ease, box-shadow 0.25s ease, transform 0.25s ease;
 }
 
-/* Optional PS4 Font
-@font-face {
-    font-family: "SST";
-    src: url("assets/SST-Medium.ttf");
-}
-body { font-family: "SST", Arial, sans-serif; }
-*/
-
 /* ------------------------------
    LAYOUT
 ------------------------------ */
@@ -110,12 +102,78 @@ body { font-family: "SST", Arial, sans-serif; }
     font-size: 14px;
 }
 
-.filter-group select,
-.filter-group input {
+/* Search box stays styled */
+.filter-group input[type="text"] {
     width: 100%;
     padding: 8px;
     border: none;
     border-radius: 4px;
+}
+
+/* Checkbox List Layout */
+.checkbox-list {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+/* PS4 Checkbox Item */
+.ps4-filter-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+    padding: 6px 4px;
+    border-radius: 6px;
+    transition: background 0.2s ease;
+}
+
+.ps4-filter-item:hover {
+    background: rgba(80, 120, 255, 0.15);
+}
+
+/* Checkbox */
+.ps4-filter-item input[type="checkbox"] {
+    width: 18px;
+    height: 18px;
+    accent-color: #4da3ff;
+    cursor: pointer;
+}
+
+/* Checkbox Focus Ring (PS4 Style) */
+.ps4-checkbox:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 3px #4da3ff, 0 0 12px rgba(0, 140, 255, 0.7);
+    border-radius: 4px;
+    animation: ps4FocusPulse 0.35s ease-out;
+}
+
+@keyframes ps4FocusPulse {
+    0% { box-shadow: 0 0 0 0px #4da3ff; }
+    100% { box-shadow: 0 0 0 3px #4da3ff, 0 0 12px rgba(0, 140, 255, 0.7); }
+}
+
+/* Checkbox Label Text */
+.ps4-filter-text {
+    font-size: 14px;
+}
+
+/* Reset Button */
+.reset-btn {
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    background: #4da3ff;
+    border: none;
+    border-radius: 6px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.2s ease;
+}
+
+.reset-btn:hover {
+    background: #6bb6ff;
 }
 
 /* ------------------------------
@@ -145,7 +203,7 @@ body { font-family: "SST", Arial, sans-serif; }
     box-shadow: 0 0 18px rgba(0, 140, 255, 0.55);
 }
 
-/* PS4 Focus Ring (Blue Highlight Box) */
+/* PS4 Focus Ring */
 .game-card:focus,
 .game-card:focus-visible {
     outline: none;
