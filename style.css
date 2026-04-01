@@ -77,7 +77,7 @@ body::after {
 
 /* Main content offset from sidebar */
 .index-page .main-content {
-    margin-left: 280px; /* sidebar (250) + padding (20) + small gap (10) */
+    margin-left: 280px;
     padding: 20px;
 }
 
@@ -188,12 +188,9 @@ body::after {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
     gap: 20px;
-    padding-right: 20px; /* prevents hover from touching edge */
-    /* no extra margin-left or padding-left here:
-       it aligns with the h1 via .main-content */
+    padding-right: 20px;
 }
 
-/* PS4 Tile Base */
 .game-card {
     background: rgba(10, 20, 60, 0.6);
     padding: 10px;
@@ -233,6 +230,40 @@ body::after {
 .game-card h3 {
     margin-top: 10px;
     font-size: 16px;
+}
+
+/* ---------------------------------
+   INSERTED: GAME ID + DLC INDICATOR
+---------------------------------- */
+
+.game-id-display {
+    font-size: 12px;
+    font-weight: 600;
+    color: #9aa0a6;
+    text-align: center;
+    margin-bottom: 4px;
+    letter-spacing: 0.5px;
+}
+
+.dlc-indicator {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 4px;
+    min-height: 18px;
+}
+
+.dlc-icon {
+    width: 14px;
+    height: 14px;
+    margin-right: 4px;
+    filter: brightness(1.2);
+}
+
+.dlc-count {
+    font-size: 12px;
+    font-weight: 600;
+    color: #00a2ff;
 }
 
 /* ------------------------------
