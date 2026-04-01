@@ -5,6 +5,21 @@ async function loadGames() {
 }
 
 // ------------------------------
+// FILTER STATE
+// ------------------------------
+const FilterState = {
+    search: "",
+    genres: new Set(),
+    platforms: new Set(),
+
+    reset() {
+        this.search = "";
+        this.genres.clear();
+        this.platforms.clear();
+    }
+};
+
+// ------------------------------
 // INDEX PAGE LOGIC
 // ------------------------------
 async function initIndexPage() {
@@ -13,56 +28,150 @@ async function initIndexPage() {
 
     const games = await loadGames();
 
-    populateFilters(games);
-    renderGameGrid(games);
+    generateGenreFilters(games);
+    generatePlatformFilters(games);
+    setupSearchFilter();
+    setupResetButton(games);
 
-    document.getElementById("genreFilter").addEventListener("change", () => renderGameGrid(games));
-    document.getElementById("platformFilter").addEventListener("change", () => renderGameGrid(games));
-    document.getElementById("searchInput").addEventListener("input", () => renderGameGrid(games));
+    renderGameGrid(games);
 }
 
-function populateFilters(games) {
-    const genreFilter = document.getElementById("genreFilter");
-    const platformFilter = document.getElementById("platformFilter");
+// ------------------------------
+// GENERATE GENRE CHECKBOXES
+// ------------------------------
+function generateGenreFilters(games) {
+    const container = document.getElementById("genreFilters");
+    container.innerHTML = "";
 
     const genres = new Set();
-    const platforms = new Set();
-
-    games.forEach(game => {
-        if (game.genre1) genres.add(game.genre1);
-        if (game.genre2) genres.add(game.genre2);
-        if (game.genre3) genres.add(game.genre3);
-        if (game.platform) platforms.add(game.platform);
+    games.forEach(g => {
+        if (g.genre1) genres.add(g.genre1);
+        if (g.genre2) genres.add(g.genre2);
+        if (g.genre3) genres.add(g.genre3);
     });
 
-    genres.forEach(g => {
-        const opt = document.createElement("option");
-        opt.value = g;
-        opt.textContent = g;
-        genreFilter.appendChild(opt);
+    [...genres].sort().forEach(genre => {
+        const id = "genre-" + genre.replace(/\s+/g, "-").toLowerCase();
+
+        const wrapper = document.createElement("label");
+        wrapper.className = "ps4-filter-item";
+
+        wrapper.innerHTML = `
+            <input type="checkbox" class="ps4-checkbox" value="${genre}" id="${id}">
+            <span class="ps4-filter-text">${genre}</span>
+        `;
+
+        container.appendChild(wrapper);
     });
 
-    platforms.forEach(p => {
-        const opt = document.createElement("option");
-        opt.value = p;
-        opt.textContent = p;
-        platformFilter.appendChild(opt);
+    container.querySelectorAll("input[type='checkbox']").forEach(cb => {
+        cb.addEventListener("change", () => {
+            if (cb.checked) FilterState.genres.add(cb.value);
+            else FilterState.genres.delete(cb.value);
+            applyFilters();
+        });
     });
 }
 
+// ------------------------------
+// GENERATE PLATFORM CHECKBOXES
+// ------------------------------
+function generatePlatformFilters(games) {
+    const container = document.getElementById("platformFilters");
+    container.innerHTML = "";
+
+    const platforms = new Set();
+    games.forEach(g => {
+        if (g.platform) platforms.add(g.platform);
+    });
+
+    [...platforms].sort().forEach(platform => {
+        const id = "platform-" + platform.replace(/\s+/g, "-").toLowerCase();
+
+        const wrapper = document.createElement("label");
+        wrapper.className = "ps4-filter-item";
+
+        wrapper.innerHTML = `
+            <input type="checkbox" class="ps4-checkbox" value="${platform}" id="${id}">
+            <span class="ps4-filter-text">${platform}</span>
+        `;
+
+        container.appendChild(wrapper);
+    });
+
+    container.querySelectorAll("input[type='checkbox']").forEach(cb => {
+        cb.addEventListener("change", () => {
+            if (cb.checked) FilterState.platforms.add(cb.value);
+            else FilterState.platforms.delete(cb.value);
+            applyFilters();
+        });
+    });
+}
+
+// ------------------------------
+// SEARCH FILTER
+// ------------------------------
+function setupSearchFilter() {
+    const searchInput = document.getElementById("search");
+
+    searchInput.addEventListener("input", () => {
+        FilterState.search = searchInput.value.toLowerCase();
+        applyFilters();
+    });
+}
+
+// ------------------------------
+// RESET BUTTON
+// ------------------------------
+function setupResetButton(games) {
+    const btn = document.getElementById("resetFilters");
+
+    btn.addEventListener("click", () => {
+        FilterState.reset();
+
+        document.querySelectorAll(".sidebar input[type='checkbox']").forEach(cb => {
+            cb.checked = false;
+        });
+
+        document.getElementById("search").value = "";
+
+        renderGameGrid(games);
+    });
+}
+
+// ------------------------------
+// APPLY FILTERS
+// ------------------------------
+async function applyFilters() {
+    const games = await loadGames();
+    renderGameGrid(games);
+}
+
+// ------------------------------
+// RENDER GAME GRID
+// ------------------------------
 function renderGameGrid(games) {
     const gameGrid = document.getElementById("gameGrid");
     gameGrid.innerHTML = "";
 
-    const genre = document.getElementById("genreFilter").value;
-    const platform = document.getElementById("platformFilter").value;
-    const search = document.getElementById("searchInput").value.toLowerCase();
-
     const filtered = games.filter(game => {
-        const matchesGenre = !genre || game.genre1 === genre || game.genre2 === genre || game.genre3 === genre;
-        const matchesPlatform = !platform || game.platform === platform;
-        const matchesSearch = game.title.toLowerCase().includes(search);
-        return matchesGenre && matchesPlatform && matchesSearch;
+        // Search
+        const matchesSearch =
+            !FilterState.search ||
+            game.title.toLowerCase().includes(FilterState.search);
+
+        // Genres
+        const gameGenres = [game.genre1, game.genre2, game.genre3].filter(Boolean);
+        const matchesGenres =
+            FilterState.genres.size === 0 ||
+            [...FilterState.genres].every(g => gameGenres.includes(g));
+
+        // Platforms
+        const matchesPlatforms =
+            FilterState.platforms.size === 0 ||
+            FilterState.platforms.has(game.platform);
+
+        return matchesSearch && matchesGenres && matchesPlatforms;
     });
 
     filtered.forEach(game => {
@@ -80,7 +189,7 @@ function renderGameGrid(games) {
 }
 
 // ------------------------------
-// GAME PAGE LOGIC
+// GAME PAGE LOGIC (unchanged)
 // ------------------------------
 async function initGamePage() {
     const container = document.getElementById("gameContainer");
