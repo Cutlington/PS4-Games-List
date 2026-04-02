@@ -249,7 +249,7 @@ body::after {
 
 /* FIXED: Correct PS4 icon size */
 .dlc-icon {
-    width: 16px;
+    width: auto;
     height: 16px;          /* prevents stretching/warping */
     opacity: 0.95;
     display: inline-block;
