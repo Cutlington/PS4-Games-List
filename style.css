@@ -252,13 +252,16 @@ body::after {
     width: 18px;
     height: auto;
     opacity: 0.95;
+    display: inline-block;
+    vertical-align: middle;
 }
 
 .dlc-count {
-    color: #ffffff;
+    color: var(--id-color); /* matches the ID color at the top */
     font-size: 14px;
     font-weight: 600;
     letter-spacing: 0.3px;
+    margin-left: 2px;   /* PS4-accurate gap */
 }
 
 /* FIXED: Right-aligned under title */
