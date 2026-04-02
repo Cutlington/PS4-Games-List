@@ -243,14 +243,14 @@ body::after {
 /* FIXED: Tight spacing between icon + number */
 .dlc-wrapper {
     display: flex;
-    align-items: center;
+    align-items: right;
     gap: 2px; /* PS4-accurate spacing */
 }
 
 /* FIXED: Correct PS4 icon size */
 .dlc-icon {
     width: 4px;
-    height: 18px;
+    height: 8px;
     opacity: 0.95;
 }
 
