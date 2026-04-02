@@ -243,19 +243,20 @@ body::after {
 /* FIXED: Tight spacing between icon + number */
 .dlc-wrapper {
     display: flex;
-    align-items: right;
+    align-items: center;
     gap: 2px; /* PS4-accurate spacing */
 }
 
 /* FIXED: Correct PS4 icon size */
 .dlc-icon {
     width: 18px;
-    height: auto;
+    height: auto;          /* prevents stretching/warping */
     opacity: 0.95;
     display: inline-block;
     vertical-align: middle;
 }
 
+/* DLC count styling */
 .dlc-count {
     color: var(--id-color); /* matches the ID color at the top */
     font-size: 14px;
