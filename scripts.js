@@ -4,9 +4,9 @@ async function loadGames() {
     return await response.json();
 }
 
-// ------------------------------
-// GENRE NORMALIZATION MAP
-// ------------------------------
+/* ------------------------------
+   GENRE NORMALIZATION MAP
+------------------------------ */
 const genreNormalizationMap = {
     "Action": "Action",
     "Action RPG": "RPG",
@@ -107,15 +107,14 @@ const genreNormalizationMap = {
     "Wrestling": "Sports"
 };
 
-// Normalize a raw genre string
 function normalizeGenre(raw) {
     if (!raw) return null;
     return genreNormalizationMap[raw] || raw;
 }
 
-// ------------------------------
-// FILTER STATE
-// ------------------------------
+/* ------------------------------
+   FILTER STATE
+------------------------------ */
 const FilterState = {
     search: "",
     genres: new Set(),
@@ -128,9 +127,9 @@ const FilterState = {
     }
 };
 
-// ------------------------------
-// INDEX PAGE LOGIC
-// ------------------------------
+/* ------------------------------
+   INDEX PAGE LOGIC
+------------------------------ */
 async function initIndexPage() {
     const gameGrid = document.getElementById("gameGrid");
     if (!gameGrid) return;
@@ -145,9 +144,9 @@ async function initIndexPage() {
     renderGameGrid(games);
 }
 
-// ------------------------------
-// GENERATE GENRE CHECKBOXES
-// ------------------------------
+/* ------------------------------
+   GENRE FILTERS
+------------------------------ */
 function generateGenreFilters(games) {
     const container = document.getElementById("genreFilters");
     container.innerHTML = "";
@@ -189,9 +188,9 @@ function generateGenreFilters(games) {
     });
 }
 
-// ------------------------------
-// GENERATE PLATFORM CHECKBOXES
-// ------------------------------
+/* ------------------------------
+   PLATFORM FILTERS
+------------------------------ */
 function generatePlatformFilters(games) {
     const container = document.getElementById("platformFilters");
     container.innerHTML = "";
@@ -224,9 +223,9 @@ function generatePlatformFilters(games) {
     });
 }
 
-// ------------------------------
-// SEARCH FILTER
-// ------------------------------
+/* ------------------------------
+   SEARCH FILTER
+------------------------------ */
 function setupSearchFilter() {
     const searchInput = document.getElementById("search");
 
@@ -236,9 +235,9 @@ function setupSearchFilter() {
     });
 }
 
-// ------------------------------
-// RESET BUTTON
-// ------------------------------
+/* ------------------------------
+   RESET BUTTON
+------------------------------ */
 function setupResetButton(games) {
     const btn = document.getElementById("resetFilters");
 
@@ -255,17 +254,17 @@ function setupResetButton(games) {
     });
 }
 
-// ------------------------------
-// APPLY FILTERS
-// ------------------------------
+/* ------------------------------
+   APPLY FILTERS
+------------------------------ */
 async function applyFilters() {
     const games = await loadGames();
     renderGameGrid(games);
 }
 
-// ------------------------------
-// RENDER GAME GRID
-// ------------------------------
+/* ------------------------------
+   RENDER GAME GRID
+------------------------------ */
 function renderGameGrid(games) {
     const gameGrid = document.getElementById("gameGrid");
     gameGrid.innerHTML = "";
@@ -306,14 +305,10 @@ function renderGameGrid(games) {
         const div = document.createElement("div");
         div.className = "game-card";
 
-        // Determine REAL DLC entries
         const realDLC = Array.isArray(game.dlc)
             ? game.dlc.filter(d => d.dlcname && d.dlcname.trim().toUpperCase() !== "N/A")
             : [];
 
-        // ------------------------------
-        // NEW LAYOUT: DLC UNDER TITLE
-        // ------------------------------
         div.innerHTML = `
             <div class="top-info">
                 <div class="game-id-display">${game.id}</div>
@@ -339,9 +334,9 @@ function renderGameGrid(games) {
     });
 }
 
-// ------------------------------
-// GAME PAGE LOGIC
-// ------------------------------
+/* ------------------------------
+   GAME PAGE LOGIC
+------------------------------ */
 async function initGamePage() {
     const container = document.getElementById("gameContainer");
     if (!container) return;
@@ -356,40 +351,116 @@ async function initGamePage() {
         return;
     }
 
-    renderGameDetails(game);
+    renderFullGameDetails(game);
 }
 
-// ------------------------------
-// UPDATED GAME DETAILS WITH GENRES
-// ------------------------------
-function renderGameDetails(game) {
+/* ------------------------------
+   FULL PS4-STYLE GAME DETAILS
+------------------------------ */
+function renderFullGameDetails(game) {
     const container = document.getElementById("gameContainer");
 
     const genres = [
         normalizeGenre(game.genre1),
         normalizeGenre(game.genre2),
         normalizeGenre(game.genre3)
-    ]
-    .filter(Boolean)
-    .filter((g, i, arr) => arr.indexOf(g) === i);
+    ].filter(Boolean);
 
-    const genreLine = genres.length > 0
-        ? `<p><strong>Genres:</strong> ${genres.join(" • ")}</p>`
-        : "";
+    const heroBG = game.backgrounds?.[0] || "";
 
     container.innerHTML = `
-        <div class="game-header">
-            <img src="${game.gamebadge}" class="game-cover-large">
-            <div class="game-info">
-                <h1>${game.title}</h1>
-                ${genreLine}
-                <p>${game.description}</p>
+        <div class="hero-header" style="background-image: url('${heroBG}');">
+            <div class="hero-overlay"></div>
+
+            <div class="hero-content">
+                <img src="${game.frontcover}" class="hero-cover">
+
+                <div class="hero-info">
+                    <h1>${game.title}</h1>
+
+                    <div class="hero-meta">
+                        <p><strong>ID:</strong> ${game.id}</p>
+                        <p><strong>Version:</strong> ${game.version}</p>
+                        <p><strong>Platform:</strong> ${game.platform}</p>
+                        <p><strong>Release Year:</strong> ${game.gamerelyear}</p>
+                        <p><strong>Genres:</strong> ${genres.join(" • ")}</p>
+                    </div>
+
+                    <div class="hero-icons">
+                        <img src="${game.icon1}">
+                        <img src="${game.icon2}">
+                    </div>
+                </div>
             </div>
         </div>
 
-        <h2>DLC</h2>
-        <div class="dlc-list">
-            ${renderDLCList(game.dlc)}
+        <div class="section">
+            <h2>Game Description</h2>
+            <p>${game.gamedescription}</p>
+        </div>
+
+        <div class="section">
+            <h2>File Details</h2>
+            <p><strong>Game Size:</strong> ${game.gamesize}</p>
+            <p><strong>DLC Size:</strong> ${game.dlcsize}</p>
+            <p><strong>Total Size:</strong> ${game.totalsize}</p>
+            <p><strong>Highest Firmware:</strong> ${game.highestfirmware}</p>
+            <p><strong>Backport:</strong> ${game.backport}</p>
+        </div>
+
+        <div class="section">
+            <h2>Features</h2>
+            <div class="feature-grid">
+                ${renderFeature("Multiplayer", game.multiplayer, game.multiplayericon)}
+                ${renderFeature("Online Multiplayer", game.onlinemultiplayer, game.onlinemultiplayericon)}
+                ${renderFeature("Local Multiplayer", game.localmultiplayer, game.localmultiplayericon)}
+                ${renderFeature("Co-op", game.coop, game.coopicon)}
+                ${renderFeature("Online Co-op", game.onlinecoop, game.onlinecoopicon)}
+                ${renderFeature("Local Co-op", game.localcoop, game.localcoopicon)}
+                ${renderFeature("Split Screen", game.splitscreen, game.splitscreenicon)}
+                ${renderFeature("Max Players", game.maxplayers, game.maxplayersicon)}
+                ${renderFeature("PSVR", game.psvr, game.psvricon)}
+                ${renderFeature("PS Move", game.psmove, game.psmoveicon)}
+                ${renderFeature("PS Camera", game.pscamera, game.pscameraicon)}
+                ${renderFeature("Keyboard Support", game.keyboardsupport, game.keyboardsupporticon)}
+                ${renderFeature("Mouse Support", game.mousesupport, game.mousesupporticon)}
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Back Cover</h2>
+            <img src="${game.backcover}" class="backcover-img">
+        </div>
+
+        <div class="section">
+            <h2>Backgrounds</h2>
+            <div class="background-gallery">
+                ${game.backgrounds.map(bg => `<img src="${bg}" class="bg-thumb">`).join("")}
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Trailer</h2>
+            <div class="trailer-container">
+                <iframe src="${game.trailer}" frameborder="0" allowfullscreen></iframe>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>DLC</h2>
+            <div class="dlc-list">
+                ${renderDLCList(game.dlc)}
+            </div>
+        </div>
+    `;
+}
+
+function renderFeature(label, value, icon) {
+    if (!value || value === "N/A") return "";
+    return `
+        <div class="feature-item">
+            <img src="${icon}" class="feature-icon">
+            <span>${label}: ${value}</span>
         </div>
     `;
 }
@@ -410,9 +481,9 @@ function renderDLCList(dlcArray) {
     `).join("");
 }
 
-// ------------------------------
-// PAGE INITIALIZATION
-// ------------------------------
+/* ------------------------------
+   PAGE INITIALIZATION
+------------------------------ */
 document.addEventListener("DOMContentLoaded", () => {
     initIndexPage();
     initGamePage();
