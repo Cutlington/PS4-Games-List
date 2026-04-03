@@ -416,113 +416,94 @@ body::after {
 ============================================================ */
 
 /* ------------------------------
-   HERO HEADER
+   HERO SECTION (UPDATED FOR H2)
 ------------------------------ */
 
 .hero-header {
     position: relative;
-    /* Allows the overlay + content to be positioned inside this container */
-
     width: 100%;
-    /* Makes the hero banner span the full width of the page */
-
     background-size: cover;
-    /* Ensures the background image fills the entire hero area.
-       Change to "contain" if you want the whole image visible. */
-
     background-position: center;
-    /* Centers the background image.
-       Change to "top" or "bottom" to shift focus. */
-
+    padding: 40px 30px;
     border-radius: 12px;
-    /* Rounds the corners of the hero banner.
-       Increase for more rounded edges. */
-
     overflow: hidden;
-    /* Ensures the rounded corners clip the background + overlay. */
-
-    margin-bottom: 30px;
-    /* Space below the hero before the next section.
-       Increase for more spacing. */
-
-    padding-bottom: 20px;
-    /* Adds bottom padding inside the hero content area. */
 }
 
 .hero-overlay {
     position: absolute;
     inset: 0;
-    /* Makes the overlay fill the entire hero header */
-
-    background: rgba(0, 0, 40, 0.55);
-    /* Dark blue transparent overlay.
-       Increase opacity for darker overlay.
-       Decrease for brighter background. */
-
-    backdrop-filter: blur(6px);
-    /* Adds a blur effect behind the overlay (PS4 UI style).
-       Increase for stronger blur. */
+    background: rgba(0, 0, 0, 0.55);
+    backdrop-filter: blur(3px);
 }
 
 .hero-content {
     position: relative;
-    z-index: 2;
-    /* Ensures content appears ABOVE the overlay */
-
     display: flex;
-    /* Places cover on the left and info on the right */
-
-    gap: 25px;
-    /* Space between the cover and the info column.
-       Increase for more separation. */
-
-    padding: 30px;
-    /* Inner spacing around the hero content.
-       Increase for a taller hero banner. */
-
+    flex-direction: row;
     align-items: flex-start;
-    /* Aligns cover + info at the top.
-       Change to "center" to vertically center them. */
+    gap: 25px;
+    z-index: 2;
 }
 
 .hero-cover {
-    width: 240px;
-    /* Size of the game cover.
-       Increase for a bigger cover.
-       Decrease for a more compact hero. */
-
+    width: 260px;
+    height: auto;
     border-radius: 10px;
-    /* Rounds the cover image corners. */
-
     box-shadow: 0 0 18px rgba(0, 0, 0, 0.6);
-    /* Adds a soft shadow behind the cover.
-       Increase blur or opacity for stronger shadow. */
+}
+
+.hero-info {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    color: white;
+    max-width: 900px;
 }
 
 .hero-info h1 {
     margin: 0;
-    /* Removes default spacing above the title */
-
-    font-size: 32px;
-    /* Title size.
-       Increase for a more dramatic hero title. */
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 1.2;
 }
 
-.hero-meta p {
-    margin: 6px 0;
-    /* Space between metadata lines (ID, version, platform, etc.) */
+.hero-meta p,
+.hero-file-details p {
+    margin: 3px 0;
+    font-size: 16px;
+    line-height: 1.3;
+}
 
-    font-size: 15px;
-    /* Metadata text size. */
+.hero-icons {
+    display: flex;
+    gap: 10px;
 }
 
 .hero-icons img {
-    width: 42px;
-    /* Size of the platform/feature icons.
-       Increase for larger icons. */
+    width: 48px;
+    height: 48px;
+}
 
-    margin-right: 10px;
-    /* Space between icons. */
+.hero-features h2 {
+    margin: 0 0 8px 0;
+    font-size: 22px;
+}
+
+.feature-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+    gap: 10px 15px;
+}
+
+.feature-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.feature-icon {
+    width: 28px;
+    height: 28px;
 }
 
 /* ------------------------------
@@ -560,7 +541,6 @@ body::after {
     font-size: 18px;
     /* Size of the "Features" heading. */
 }
-
 
 /* ------------------------------
    SECTIONS
