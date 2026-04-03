@@ -303,56 +303,112 @@ body::after {
 ------------------------------ */
 
 .dlc-grid {
-    display: grid;
+    display: grid; 
+    /* Turns the DLC section into a grid layout */
+
     grid-template-columns: repeat(3, max-content);
+    /* Creates 3 columns.
+       Each column is only as wide as the widest DLC card.
+       Change "3" to 2 or 4 if you want more/less columns.
+       Change "max-content" to "1fr" if you want full-width stretched cards. */
+
     gap: 18px;
+    /* Space between each DLC card.
+       Increase for more spacing, decrease for tighter layout. */
+
     justify-content: space-between;
+    /* Spreads the 3 columns evenly across the row.
+       Change to "start" if you want them left-aligned. */
 }
 
 .dlc-item {
     background: rgba(10, 20, 60, 0.6);
+    /* Blue PS4-style background. 
+       Increase opacity for a stronger blue, decrease for more transparency. */
+
     border-radius: 10px;
+    /* Rounds the corners of the DLC card.
+       Increase for more rounded corners. */
+
     padding: 12px;
+    /* Space inside the card around the content. */
+
     display: flex;
     flex-direction: row;
+    /* Makes the cover sit on the LEFT and text on the RIGHT. */
+
     gap: 14px;
+    /* Space between the cover and the text. */
+
     align-items: flex-start;
-    width: max-content;      /* 🔥 auto-size to content */
-    max-width: 320px;        /* 🔥 prevents overly wide cards */
+    /* Aligns the cover and text at the top. */
+
+    width: max-content;
+    /* Makes the card only as wide as its content.
+       This is what prevents the card from stretching too wide. */
+
+    max-width: 360px;
+    /* Hard limit so the card never becomes too wide.
+       Increase to allow longer descriptions.
+       Decrease to make cards more compact. */
+
     box-sizing: border-box;
+    /* Ensures padding is included in width calculations. */
+
     backdrop-filter: blur(4px);
+    /* Adds a subtle blur behind the card (PS4 UI effect). */
+
     transition: transform 0.25s ease, box-shadow 0.25s ease;
+    /* Smooth hover animation. */
 }
 
 .dlc-item:hover {
     transform: scale(1.03);
+    /* Slight zoom on hover.
+       Increase to 1.05 for stronger zoom, or remove if you want no zoom. */
+
     box-shadow: 0 0 16px rgba(0, 120, 255, 0.45);
+    /* Blue glow on hover.
+       Increase blur or opacity for stronger glow. */
 }
 
 .dlc-cover {
     width: 110px;
+    /* Size of the DLC cover image.
+       Increase for bigger covers, decrease for smaller ones. */
+
     height: auto;
     border-radius: 6px;
+    /* Rounds the cover image corners. */
+
     flex-shrink: 0;
+    /* Prevents the cover from shrinking when text is long. */
 }
 
 .dlc-info {
     text-align: left;
-    max-width: 180px;   /* 🔥 prevents text from being squeezed */
+    /* Keeps text aligned left. */
+
+    max-width: 180px;
+    /* Controls how wide the text area can grow.
+       Increase to allow longer lines.
+       Decrease to make the card narrower. */
 }
 
 .dlc-info h3 {
     margin: 0 0 6px;
+    /* Space under the DLC title. */
+
     font-size: 16px;
+    /* Title size. */
 }
 
 .dlc-info p {
     margin: 3px 0;
+    /* Space between description lines. */
+
     font-size: 14px;
-    display: -webkit-box;
-    -webkit-line-clamp: 2;   /* 🔥 limits to 2 lines */
-    -webkit-box-orient: vertical;
-    overflow: hidden;
+    /* Description text size. */
 }
 
 /* ============================================================
@@ -365,50 +421,108 @@ body::after {
 
 .hero-header {
     position: relative;
+    /* Allows the overlay + content to be positioned inside this container */
+
     width: 100%;
+    /* Makes the hero banner span the full width of the page */
+
     background-size: cover;
+    /* Ensures the background image fills the entire hero area.
+       Change to "contain" if you want the whole image visible. */
+
     background-position: center;
+    /* Centers the background image.
+       Change to "top" or "bottom" to shift focus. */
+
     border-radius: 12px;
+    /* Rounds the corners of the hero banner.
+       Increase for more rounded edges. */
+
     overflow: hidden;
+    /* Ensures the rounded corners clip the background + overlay. */
+
     margin-bottom: 30px;
+    /* Space below the hero before the next section.
+       Increase for more spacing. */
+
     padding-bottom: 20px;
+    /* Adds bottom padding inside the hero content area. */
 }
 
 .hero-overlay {
     position: absolute;
     inset: 0;
+    /* Makes the overlay fill the entire hero header */
+
     background: rgba(0, 0, 40, 0.55);
+    /* Dark blue transparent overlay.
+       Increase opacity for darker overlay.
+       Decrease for brighter background. */
+
     backdrop-filter: blur(6px);
+    /* Adds a blur effect behind the overlay (PS4 UI style).
+       Increase for stronger blur. */
 }
 
 .hero-content {
     position: relative;
     z-index: 2;
+    /* Ensures content appears ABOVE the overlay */
+
     display: flex;
+    /* Places cover on the left and info on the right */
+
     gap: 25px;
+    /* Space between the cover and the info column.
+       Increase for more separation. */
+
     padding: 30px;
+    /* Inner spacing around the hero content.
+       Increase for a taller hero banner. */
+
     align-items: flex-start;
+    /* Aligns cover + info at the top.
+       Change to "center" to vertically center them. */
 }
 
 .hero-cover {
     width: 240px;
+    /* Size of the game cover.
+       Increase for a bigger cover.
+       Decrease for a more compact hero. */
+
     border-radius: 10px;
+    /* Rounds the cover image corners. */
+
     box-shadow: 0 0 18px rgba(0, 0, 0, 0.6);
+    /* Adds a soft shadow behind the cover.
+       Increase blur or opacity for stronger shadow. */
 }
 
 .hero-info h1 {
     margin: 0;
+    /* Removes default spacing above the title */
+
     font-size: 32px;
+    /* Title size.
+       Increase for a more dramatic hero title. */
 }
 
 .hero-meta p {
     margin: 6px 0;
+    /* Space between metadata lines (ID, version, platform, etc.) */
+
     font-size: 15px;
+    /* Metadata text size. */
 }
 
 .hero-icons img {
     width: 42px;
+    /* Size of the platform/feature icons.
+       Increase for larger icons. */
+
     margin-right: 10px;
+    /* Space between icons. */
 }
 
 /* ------------------------------
@@ -417,22 +531,36 @@ body::after {
 
 .hero-file-details {
     margin-top: 14px;
+    /* Space above the File Details block.
+       Increase to push it further down. */
+
     text-align: right;
+    /* Aligns all text to the right side of the hero info column.
+       Change to "left" if you want left-aligned metadata. */
+
     font-size: 14px;
+    /* Size of the File Details text. */
 }
 
 .hero-file-details p {
     margin: 2px 0;
+    /* Vertical spacing between each detail line. */
 }
 
 .hero-features {
     margin-top: 18px;
+    /* Space above the Features block.
+       Increase to separate it more from File Details. */
 }
 
 .hero-features h2 {
     margin: 0 0 8px;
+    /* Removes top margin and adds spacing below the heading. */
+
     font-size: 18px;
+    /* Size of the "Features" heading. */
 }
+
 
 /* ------------------------------
    SECTIONS
@@ -440,16 +568,31 @@ body::after {
 
 .section {
     background: rgba(10, 20, 60, 0.55);
+    /* PS4-style translucent blue background.
+       Increase opacity for a stronger panel look. */
+
     padding: 20px;
+    /* Inner spacing for each section block. */
+
     border-radius: 12px;
+    /* Rounds the corners of each section panel. */
+
     margin-bottom: 30px;
+    /* Space between each section on the page. */
+
     backdrop-filter: blur(6px);
+    /* Adds a soft blur behind the panel (PS4 UI effect). */
+
     box-shadow: 0 0 16px rgba(0, 80, 255, 0.25);
+    /* Soft blue glow around each section.
+       Increase opacity or blur for a stronger glow. */
 }
 
 .section h2 {
     margin-top: 0;
+    /* Removes default top margin so headings align cleanly. */
 }
+
 
 /* ------------------------------
    FEATURE GRID
@@ -457,23 +600,46 @@ body::after {
 
 .feature-grid {
     display: grid;
+    /* Turns the features list into a responsive grid. */
+
     grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    /* Automatically fills the row with as many feature items as fit.
+       "220px" = minimum width of each feature card.
+       Increase for wider cards, decrease for more compact ones. */
+
     gap: 12px;
+    /* Space between each feature card. */
 }
 
 .feature-item {
     display: flex;
+    /* Places icon on the left and text on the right. */
+
     align-items: center;
+    /* Vertically centers icon + text. */
+
     gap: 10px;
+    /* Space between icon and text. */
+
     background: rgba(0, 10, 40, 0.45);
+    /* Dark translucent background for each feature card.
+       Increase opacity for a stronger panel. */
+
     padding: 10px;
+    /* Inner spacing inside each feature card. */
+
     border-radius: 8px;
+    /* Rounds the corners of each feature card. */
 }
 
 .feature-icon {
     width: 32px;
     height: 32px;
+    /* Size of the feature icons.
+       Increase for larger icons, decrease for smaller ones. */
+
     border-radius: 4px;
+    /* Rounds the icon corners. */
 }
 
 /* ------------------------------
@@ -482,10 +648,21 @@ body::after {
 
 .backcover-img {
     width: 100%;
+    /* Makes the back cover scale to the width of its container.
+       Keeps it responsive on all screen sizes. */
+
     max-width: 600px;
+    /* Hard limit so the back cover never becomes too large.
+       Increase for a bigger back cover, decrease for a smaller one. */
+
     border-radius: 10px;
+    /* Rounds the corners of the back cover image.
+       Increase for more rounded corners. */
+
     display: block;
+    /* Removes inline spacing and ensures proper centering. */
 }
+
 
 /* ------------------------------
    BACKGROUND GALLERY
@@ -493,20 +670,38 @@ body::after {
 
 .background-gallery {
     display: flex;
+    /* Places all background thumbnails in a row. */
+
     gap: 12px;
+    /* Space between each background thumbnail.
+       Increase for more spacing, decrease for tighter layout. */
+
     flex-wrap: wrap;
+    /* Allows thumbnails to wrap onto new lines if the row is full.
+       Remove if you want them to stay on one line (not recommended). */
 }
 
 .bg-thumb {
     width: 240px;
+    /* Size of each background thumbnail.
+       Increase for larger previews, decrease for smaller ones. */
+
     border-radius: 8px;
+    /* Rounds the corners of each thumbnail. */
+
     cursor: pointer;
+    /* Makes the cursor change to a pointer on hover (clickable feel). */
+
     transition: transform 0.25s ease;
+    /* Smooth animation when hovering. */
 }
 
 .bg-thumb:hover {
     transform: scale(1.05);
+    /* Slight zoom on hover.
+       Increase to 1.08 for stronger zoom, or reduce to 1.02 for subtle. */
 }
+
 
 /* ------------------------------
    TRAILER
@@ -514,11 +709,21 @@ body::after {
 
 .trailer-container {
     width: 100%;
+    /* Makes the trailer responsive to container width. */
+
     max-width: 720px;
+    /* Hard limit so the trailer doesn't become too wide.
+       Increase for a larger trailer, decrease for a smaller one. */
 }
 
 .trailer-container iframe {
     width: 100%;
+    /* Ensures the YouTube iframe fills the container width. */
+
     height: 405px;
+    /* Standard 16:9 height for a 720px width.
+       Change to 360px for a shorter trailer, or 480px for taller. */
+
     border-radius: 10px;
+    /* Rounds the corners of the trailer frame. */
 }
