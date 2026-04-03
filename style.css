@@ -311,35 +311,40 @@ body::after {
 .dlc-item {
     background: rgba(10, 20, 60, 0.6);
     border-radius: 10px;
-    padding: 15px;
+    padding: 12px;
     display: flex;
-    flex-direction: column;
-    gap: 12px;
-    align-items: center;
-    text-align: center;
+    flex-direction: row;
+    gap: 14px;
+    align-items: flex-start;
     backdrop-filter: blur(4px);
     box-shadow: 0 0 0 rgba(0, 120, 255, 0);
     transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
 
 .dlc-item:hover {
-    transform: scale(1.04);
+    transform: scale(1.03);
     box-shadow: 0 0 16px rgba(0, 120, 255, 0.45);
 }
 
 .dlc-cover {
-    width: 160px;
+    width: 110px;
     height: auto;
     border-radius: 6px;
-    align-self: center;
+    flex-shrink: 0;
+}
+
+.dlc-info {
+    text-align: left;
 }
 
 .dlc-info h3 {
-    margin-bottom: 6px;
+    margin: 0 0 6px;
+    font-size: 16px;
 }
 
 .dlc-info p {
     margin: 3px 0;
+    font-size: 14px;
 }
 
 /* ============================================================
