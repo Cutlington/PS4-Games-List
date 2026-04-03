@@ -428,7 +428,7 @@ function renderFullGameDetails(game) {
 
         <div class="section">
             <h2>DLC</h2>
-            <div class="dlc-list">
+            <div class="dlc-grid">
                 ${renderDLCList(game.dlc)}
             </div>
         </div>
