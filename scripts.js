@@ -390,6 +390,33 @@ function renderFullGameDetails(game) {
                         <img src="${game.icon1}">
                         <img src="${game.icon2}">
                     </div>
+
+                    <div class="hero-file-details">
+                        <p><strong>Game Size:</strong> ${game.gamesize}</p>
+                        <p><strong>DLC Size:</strong> ${game.dlcsize}</p>
+                        <p><strong>Total Size:</strong> ${game.totalsize}</p>
+                        <p><strong>Highest Firmware:</strong> ${game.highestfirmware}</p>
+                        <p><strong>Backport:</strong> ${game.backport}</p>
+                    </div>
+
+                    <div class="hero-features">
+                        <h2>Features</h2>
+                        <div class="feature-grid">
+                            ${renderFeature("Multiplayer", game.multiplayer, game.multiplayericon)}
+                            ${renderFeature("Online Multiplayer", game.onlinemultiplayer, game.onlinemultiplayericon)}
+                            ${renderFeature("Local Multiplayer", game.localmultiplayer, game.localmultiplayericon)}
+                            ${renderFeature("Co-op", game.coop, game.coopicon)}
+                            ${renderFeature("Online Co-op", game.onlinecoop, game.onlinecoopicon)}
+                            ${renderFeature("Local Co-op", game.localcoop, game.localcoopicon)}
+                            ${renderFeature("Split Screen", game.splitscreen, game.splitscreenicon)}
+                            ${renderFeature("Max Players", game.maxplayers, game.maxplayersicon)}
+                            ${renderFeature("PSVR", game.psvr, game.psvricon)}
+                            ${renderFeature("PS Move", game.psmove, game.psmoveicon)}
+                            ${renderFeature("PS Camera", game.pscamera, game.pscameraicon)}
+                            ${renderFeature("Keyboard Support", game.keyboardsupport, game.keyboardsupporticon)}
+                            ${renderFeature("Mouse Support", game.mousesupport, game.mousesupporticon)}
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -400,42 +427,9 @@ function renderFullGameDetails(game) {
         </div>
 
         <div class="section">
-            <h2>File Details</h2>
-            <p><strong>Game Size:</strong> ${game.gamesize}</p>
-            <p><strong>DLC Size:</strong> ${game.dlcsize}</p>
-            <p><strong>Total Size:</strong> ${game.totalsize}</p>
-            <p><strong>Highest Firmware:</strong> ${game.highestfirmware}</p>
-            <p><strong>Backport:</strong> ${game.backport}</p>
-        </div>
-
-        <div class="section">
-            <h2>Features</h2>
-            <div class="feature-grid">
-                ${renderFeature("Multiplayer", game.multiplayer, game.multiplayericon)}
-                ${renderFeature("Online Multiplayer", game.onlinemultiplayer, game.onlinemultiplayericon)}
-                ${renderFeature("Local Multiplayer", game.localmultiplayer, game.localmultiplayericon)}
-                ${renderFeature("Co-op", game.coop, game.coopicon)}
-                ${renderFeature("Online Co-op", game.onlinecoop, game.onlinecoopicon)}
-                ${renderFeature("Local Co-op", game.localcoop, game.localcoopicon)}
-                ${renderFeature("Split Screen", game.splitscreen, game.splitscreenicon)}
-                ${renderFeature("Max Players", game.maxplayers, game.maxplayersicon)}
-                ${renderFeature("PSVR", game.psvr, game.psvricon)}
-                ${renderFeature("PS Move", game.psmove, game.psmoveicon)}
-                ${renderFeature("PS Camera", game.pscamera, game.pscameraicon)}
-                ${renderFeature("Keyboard Support", game.keyboardsupport, game.keyboardsupporticon)}
-                ${renderFeature("Mouse Support", game.mousesupport, game.mousesupporticon)}
-            </div>
-        </div>
-
-        <div class="section">
-            <h2>Back Cover</h2>
-            <img src="${game.backcover}" class="backcover-img">
-        </div>
-
-        <div class="section">
-            <h2>Backgrounds</h2>
-            <div class="background-gallery">
-                ${game.backgrounds.map(bg => `<img src="${bg}" class="bg-thumb">`).join("")}
+            <h2>DLC</h2>
+            <div class="dlc-list">
+                ${renderDLCList(game.dlc)}
             </div>
         </div>
 
@@ -447,10 +441,15 @@ function renderFullGameDetails(game) {
         </div>
 
         <div class="section">
-            <h2>DLC</h2>
-            <div class="dlc-list">
-                ${renderDLCList(game.dlc)}
+            <h2>Backgrounds</h2>
+            <div class="background-gallery">
+                ${game.backgrounds.map(bg => `<img src="${bg}" class="bg-thumb">`).join("")}
             </div>
+        </div>
+
+        <div class="section">
+            <h2>Back Cover</h2>
+            <img src="${game.backcover}" class="backcover-img">
         </div>
     `;
 }
