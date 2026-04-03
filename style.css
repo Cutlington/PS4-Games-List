@@ -240,35 +240,27 @@ body::after {
     letter-spacing: 0.5px;
 }
 
-/* FIXED: Tight spacing between icon + number */
 .dlc-wrapper {
     display: flex;
     align-items: center;
-    gap: 2px; /* PS4-accurate spacing */
+    gap: 2px;
 }
 
-/* FIXED: Correct PS4 icon size */
 .dlc-icon {
     width: 18px !important;
     height: 18px !important;
     max-width: 18px;
     max-height: 18px;
-    box-sizing: content-box;
     image-rendering: pixelated;
-    display: inline-block;
-    vertical-align: middle;
 }
 
-/* DLC count styling */
 .dlc-count {
-    color: var(--id-color); /* matches the ID color at the top */
+    color: var(--id-color);
     font-size: 14px;
     font-weight: 600;
-    letter-spacing: 0.3px;
-    margin-left: 2px;   /* PS4-accurate gap */
+    margin-left: 2px;
 }
 
-/* FIXED: Right-aligned under title */
 .dlc-below-title {
     margin-top: 6px;
     display: flex;
@@ -278,7 +270,7 @@ body::after {
 }
 
 /* ------------------------------
-   GAME PAGE HEADER
+   GAME PAGE HEADER (OLD)
 ------------------------------ */
 
 .game-header {
@@ -334,7 +326,6 @@ body::after {
 
 .dlc-cover {
     width: 120px;
-    height: auto;
     border-radius: 6px;
 }
 
@@ -344,4 +335,150 @@ body::after {
 
 .dlc-info p {
     margin: 4px 0;
+}
+
+/* ============================================================
+   NEW — PS4 AUTHENTIC GAME DETAILS PAGE
+   (Hero Header, Feature Grid, Background Gallery, Trailer)
+============================================================ */
+
+/* ------------------------------
+   HERO HEADER
+------------------------------ */
+
+.hero-header {
+    position: relative;
+    width: 100%;
+    height: 360px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 12px;
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+
+.hero-overlay {
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 40, 0.55);
+    backdrop-filter: blur(6px);
+}
+
+.hero-content {
+    position: relative;
+    z-index: 2;
+    display: flex;
+    gap: 25px;
+    padding: 30px;
+    align-items: center;
+}
+
+.hero-cover {
+    width: 240px;
+    border-radius: 10px;
+    box-shadow: 0 0 18px rgba(0, 0, 0, 0.6);
+}
+
+.hero-info h1 {
+    margin: 0;
+    font-size: 32px;
+}
+
+.hero-meta p {
+    margin: 6px 0;
+    font-size: 15px;
+}
+
+.hero-icons img {
+    width: 42px;
+    margin-right: 10px;
+}
+
+/* ------------------------------
+   SECTIONS
+------------------------------ */
+
+.section {
+    background: rgba(10, 20, 60, 0.55);
+    padding: 20px;
+    border-radius: 12px;
+    margin-bottom: 30px;
+    backdrop-filter: blur(6px);
+    box-shadow: 0 0 16px rgba(0, 80, 255, 0.25);
+}
+
+.section h2 {
+    margin-top: 0;
+}
+
+/* ------------------------------
+   FEATURE GRID
+------------------------------ */
+
+.feature-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 12px;
+}
+
+.feature-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: rgba(0, 10, 40, 0.45);
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.feature-icon {
+    width: 32px;
+    height: 32px;
+    border-radius: 4px;
+}
+
+/* ------------------------------
+   BACK COVER
+------------------------------ */
+
+.backcover-img {
+    width: 100%;
+    max-width: 600px;
+    border-radius: 10px;
+    display: block;
+}
+
+/* ------------------------------
+   BACKGROUND GALLERY
+------------------------------ */
+
+.background-gallery {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+
+.bg-thumb {
+    width: 240px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: transform 0.25s ease;
+}
+
+.bg-thumb:hover {
+    transform: scale(1.05);
+}
+
+/* ------------------------------
+   TRAILER
+------------------------------ */
+
+.trailer-container {
+    width: 100%;
+    max-width: 720px;
+}
+
+.trailer-container iframe {
+    width: 100%;
+    height: 405px;
+    border-radius: 10px;
 }
