@@ -376,6 +376,7 @@ function renderFullGameDetails(game) {
                 <img src="${game.frontcover}" class="hero-cover">
 
                 <div class="hero-info">
+
                     <h1>${game.title}</h1>
 
                     <div class="hero-meta">
@@ -387,8 +388,8 @@ function renderFullGameDetails(game) {
                     </div>
 
                     <div class="hero-icons">
-                        <img src="${game.icon1}">
-                        <img src="${game.icon2}">
+                        ${game.icon1 ? `<img src="${game.icon1}">` : ""}
+                        ${game.icon2 ? `<img src="${game.icon2}">` : ""}
                     </div>
 
                     <div class="hero-file-details">
@@ -417,6 +418,7 @@ function renderFullGameDetails(game) {
                             ${renderFeature("Mouse Support", game.mousesupport, game.mousesupporticon)}
                         </div>
                     </div>
+
                 </div>
             </div>
         </div>
