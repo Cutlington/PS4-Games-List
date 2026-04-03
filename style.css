@@ -349,6 +349,10 @@ body::after {
 .dlc-info p {
     margin: 3px 0;
     font-size: 14px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;   /* 🔥 limits to 2 lines */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
 }
 
 /* ============================================================
