@@ -20,7 +20,7 @@
                             "backgrounds/3d-mini-golf-bg1.jpg",
                             "backgrounds/3d-mini-golf-bg2.jpg"
                         ],
-        "trailer":  "https://www.youtube.com/embed/0bqSxOykG5A",
+        "trailer":  "https://www.youtube.com/embed/90sP-caf0xs?si=df6rNJYnxxWQeuV2",
         "gamerelyear":  2017,
         "genre1":  "Sports",
         "genre2":  "Casual",
@@ -79,13 +79,13 @@
         "highestfirmware":  "9.00",
         "backport":  "No",
         "gamebadge":  "badges/adventure-capitalist.jpg",
-        "frontcover":  "covers/adventure-capitalist-front.jpg",
+        "frontcover":  "badges/adventure-capitalist.jpg",
         "backcover":  "covers/adventure-capitalist-back.jpg",
         "backgrounds":  [
                             "backgrounds/adventure-capitalist-bg1.jpg",
                             "backgrounds/adventure-capitalist-bg2.jpg"
                         ],
-        "trailer":  "https://www.youtube.com/embed/0P7nCmln7PM",
+        "trailer":  "https://www.youtube.com/embed/6p2XRx0mhf8?si=IJSIeAluhhdQl8wD",
         "gamerelyear":  2016,
         "genre1":  "Simulation",
         "genre2":  "Idle",
@@ -150,7 +150,7 @@
                             "backgrounds/american-ninja-warrior-challenge-bg1.jpg",
                             "backgrounds/american-ninja-warrior-challenge-bg2.jpg"
                         ],
-        "trailer":  "https://www.youtube.com/embed/3pA4R5EKeos",
+        "trailer":  "https://www.youtube.com/embed/QlWSsOLmdro?si=5Jro4A7DlTGZycNH",
         "gamerelyear":  2019,
         "genre1":  "Sports",
         "genre2":  "Action",
@@ -209,13 +209,13 @@
         "highestfirmware":  "7.50",
         "backport":  "No",
         "gamebadge":  "badges/angry-alligator.jpg",
-        "frontcover":  "covers/angry-alligator-front.jpg",
+        "frontcover":  "badges/angry-alligator.jpg",
         "backcover":  "covers/angry-alligator-back.jpg",
         "backgrounds":  [
                             "backgrounds/angry-alligator-bg1.jpg",
                             "backgrounds/angry-alligator-bg2.jpg"
                         ],
-        "trailer":  "https://www.youtube.com/embed/3xqjG2Vq6xA",
+        "trailer":  "https://www.youtube.com/embed/PQdy_aDqDfQ?si=492ilzHvJeEqEzvQ",
         "gamerelyear":  2021,
         "genre1":  "Adventure",
         "genre2":  "Sandbox",
@@ -280,7 +280,7 @@
                             "backgrounds/arcade-paradise-bg1.jpg",
                             "backgrounds/arcade-paradise-bg2.jpg"
                         ],
-        "trailer":  "https://www.youtube.com/embed/2VYLRh3SezE",
+        "trailer":  "https://www.youtube.com/embed/B1aISY6oPyA?si=h2ifWgxBQDhcl7Af",
         "gamerelyear":  2022,
         "genre1":  "Simulation",
         "genre2":  "Management",
@@ -342,10 +342,10 @@
         "frontcover":  "covers/arkanoid-eternal-battle-front.jpg",
         "backcover":  "covers/arkanoid-eternal-battle-back.jpg",
         "backgrounds":  [
-                            "backgrounds/a",
+                            "backgrounds/arkanoid-eternal-battle-bg1.jpg",
                             "N/A"
                         ],
-        "trailer":  "https://www.youtube.com/embed/2p7xJzq9a0c",
+        "trailer":  "https://www.youtube.com/embed/8nvHCg4EqFw?si=SrpArABQsHDkNdL-",
         "gamerelyear":  2022,
         "genre1":  "Arcade",
         "genre2":  "Action",
@@ -407,10 +407,10 @@
         "frontcover":  "covers/astroneer-front.jpg",
         "backcover":  "covers/astroneer-back.jpg",
         "backgrounds":  [
-                            "backgrounds/a",
+                            "backgrounds/astroneer-bg1.jpg",
                             "N/A"
                         ],
-        "trailer":  "https://www.youtube.com/embed/3H2P5Eo0n9E",
+        "trailer":  "https://www.youtube.com/embed/Wjyz0k_8_D0?si=WwgUa8LL85iyIZBz",
         "gamerelyear":  2019,
         "genre1":  "Adventure",
         "genre2":  "Survival",
@@ -475,7 +475,7 @@
                         "dlccover": "dlc/dlccovers/astroneer-glitchwalkers.jpg",
                         "dlcsize":  "1.05 MB",
                         "dlcicon":  "dlc/dlcicons/glitchwalkers.jpg",
-                        "dlctrailer":  "N/A",
+                        "dlctrailer":  "https://www.youtube.com/embed/p_7wFyJX3Ds?si=P717_W5k8d5t4H19",
                         "dlcrelyear":  2022,
                         "dlcdescription":  "A cosmetic pack featuring Glitchwalker suit variations."
                     },
@@ -585,7 +585,7 @@
                         "dlccover": "dlc/dlccovers/atomfall-story-expansion-pack-the-red-strain.jpg",
                         "dlcsize":  "2 GB",
                         "dlcicon":  "dlc/dlcicons/the-red-strain.jpg",
-                        "dlctrailer":  "N/A",
+                        "dlctrailer":  "https://www.youtube.com/embed/LKFjNQw2KP0?si=3Kvb8RfDejCdqoSO",
                         "dlcrelyear":  2024,
                         "dlcdescription":  "A major story expansion introducing new regions, missions, and enemies."
                     },
@@ -594,7 +594,7 @@
                         "dlccover": "dlc/dlccovers/atomfall-story-expansion-pack-wicked-isle.jpg",
                         "dlcsize":  "2.78 GB",
                         "dlcicon":  "dlc/dlcicons/wicked-isle.jpg",
-                        "dlctrailer":  "N/A",
+                        "dlctrailer":  "https://www.youtube.com/embed/aC9NZuci6tg?si=cJO6cARh8ePAtysz",
                         "dlcrelyear":  2024,
                         "dlcdescription":  "A story-driven expansion set on a mysterious and dangerous island."
                     }
@@ -615,13 +615,13 @@
         "highestfirmware":  "9.00",
         "backport":  "No",
         "gamebadge":  "badges/atv-drift-and-tricks-definitive-edition.jpg",
-        "frontcover":  "covers/atv-drift-and-tricks-front.jpg",
+        "frontcover":  "badges/atv-drift-and-tricks-definitive-edition.jpg",
         "backcover":  "covers/atv-drift-and-tricks-back.jpg",
         "backgrounds":  [
                             "backgrounds/atv-drift-and-tricks-definitive-edition-bg1.jpg",
                             "backgrounds/atv-drift-and-tricks-definitive-edition-bg2.jpg"
                         ],
-        "trailer":  "https://www.youtube.com/embed/JkQ0YOq6T6o",
+        "trailer":  "https://www.youtube.com/embed/PGzYfE95I3U?si=WZI-m_SK5naQuQ10",
         "gamerelyear":  2017,
         "genre1":  "Racing",
         "genre2":  "Arcade",
@@ -686,7 +686,7 @@
                             "backgrounds/autobahn-police-simulator-3-bg1.jpg",
                             "backgrounds/autobahn-police-simulator-3-bg2.jpg"
                         ],
-        "trailer":  "https://www.youtube.com/embed/5eC0BpvyEuk",
+        "trailer":  "https://www.youtube.com/embed/b4BEShPwqH8?si=EeTi9IxfoYMHbUlp",
         "gamerelyear":  2022,
         "genre1":  "Simulation",
         "genre2":  "Driving",
@@ -751,7 +751,7 @@
                             "backgrounds/autonauts-bg1.jpg",
                             "backgrounds/autonauts-bg2.jpg"
                         ],
-        "trailer":  "https://www.youtube.com/embed/ZQFQGRAQ2jA",
+        "trailer":  "https://www.youtube.com/embed/utGOhGCYk8U?si=8tnd59T-TzQC1a3b",
         "gamerelyear":  2022,
         "genre1":  "Simulation",
         "genre2":  "Automation",
@@ -2578,7 +2578,7 @@
                             "backgrounds/ea-sports-ufc-4-bg1.jpg",
                             "backgrounds/ea-sports-ufc-4-bg2.jpg"
                         ],
-        "trailer":  "https://www.youtube.com/embed/5fknkS7gqfE",
+        "trailer":  "https://www.youtube.com/embed/-Pq2ENj4Ekw?si=rc1bBQECNVtk-gbN",
         "gamerelyear":  2020,
         "genre1":  "Sports",
         "genre2":  "Fighting",
@@ -2694,18 +2694,18 @@
                     },
                     {
                         "dlcname":  "Starter Bundle",
-                        "dlccover": "dlc/dlccovers/astroneer-starter-bundle.jpg",
+                        "dlccover": "dlc/dlccovers/ufc-4-starter-bundle.jpg",
                         "dlcsize":  "1.97 MB",
-                        "dlcicon":  "dlc/dlcicons/starter-bundle.jpg",
+                        "dlcicon":  "dlc/dlcicons/ufc-4-starter-bundle.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2020,
                         "dlcdescription":  "Includes starter customization items and bonuses."
                     },
                     {
                         "dlcname":  "Premium Starter Bundle",
-                        "dlccover": "dlc/dlccovers/ufc-4-premium-starter-bundle.jpg",
+                        "dlccover": "dlc/dlccovers/ufc-4-premium-start-bundle.jpg",
                         "dlcsize":  "1.97 MB",
-                        "dlcicon":  "dlc/dlcicons/premium-starter-bundle.jpg",
+                        "dlcicon":  "dlc/dlcicons/ufc-4-premium-start-bundle.jpg",
                         "dlctrailer":  "N/A",
                         "dlcrelyear":  2020,
                         "dlcdescription":  "Includes premium customization items and bonuses."
